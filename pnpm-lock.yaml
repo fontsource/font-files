@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@fontsource-utils/cli': 0.2.0-beta.3
+  '@fontsource-utils/cli': 0.2.0-beta.4
   '@fontsource-utils/publish': ^0.1.0
   '@types/node': ^18.14.2
   json-stringify-pretty-compact: ^4.0.0
@@ -9,7 +9,7 @@ specifiers:
   tsx: ^3.12.3
 
 dependencies:
-  '@fontsource-utils/cli': 0.2.0-beta.3
+  '@fontsource-utils/cli': 0.2.0-beta.4
   '@fontsource-utils/publish': 0.1.0
   '@types/node': 18.14.2
   json-stringify-pretty-compact: 4.0.0
@@ -275,12 +275,12 @@ packages:
     dev: false
     optional: true
 
-  /@fontsource-utils/cli/0.2.0-beta.3:
-    resolution: {integrity: sha512-7qn7u4wd/GDDZWMAVM7fGS/MKz7n0HxS8KsRDmnpcoq9zmIotyT1XehQ+ZdDnTAIi3jftrobuSsbqdD7yoCZag==}
+  /@fontsource-utils/cli/0.2.0-beta.4:
+    resolution: {integrity: sha512-bv/iIdLswqfrNlESyzQj/KLpkQ9ujJ8Vhpv8/EEWZJeLUzHAZtIoaE9f6CeCxxJ5wq1kaYhMZepEKgZT6HVZxQ==}
     hasBin: true
     dependencies:
       '@clack/prompts': 0.6.1
-      '@fontsource-utils/generate': 0.1.0
+      '@fontsource-utils/generate': 0.1.1
       cac: 6.7.14
       consola: 2.15.3
       dotenv: 16.0.3
@@ -300,8 +300,8 @@ packages:
       - utf-8-validate
     dev: false
 
-  /@fontsource-utils/generate/0.1.0:
-    resolution: {integrity: sha512-fNtDhZg44p/lwJQu5fNYXVzFBxb87gSWKyM2lmM91kJ3mr4UTadSdCK+GvIEWW1k4bZMIl1q85B5brRbp9Ggsw==}
+  /@fontsource-utils/generate/0.1.1:
+    resolution: {integrity: sha512-z/+DSJrTROeOzTWMP42WlZpxA5XnVrACSOHcYjPBFjWpVGA3SmMGCOLNeD2+gVhuqrXFdjhLUC6JFpGcfIIokg==}
     dev: false
 
   /@fontsource-utils/publish/0.1.0:
