@@ -1,0 +1,19 @@
+{
+  "id": "uchen",
+  "family": "Uchen",
+  "subsets": ["latin", "tibetan"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v7",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Font designed by Christopher J. Fynn. Copyright © 2010 by Dzongkha Development Commission."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

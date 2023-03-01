@@ -1,0 +1,19 @@
+{
+  "id": "tajawal",
+  "family": "Tajawal",
+  "subsets": ["arabic", "latin"],
+  "weights": [200, 300, 400, 500, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v9",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "(c) 2017 by Boutros International. All rights reserved."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

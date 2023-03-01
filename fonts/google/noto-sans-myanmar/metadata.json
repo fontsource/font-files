@@ -1,0 +1,19 @@
+{
+  "id": "noto-sans-myanmar",
+  "family": "Noto Sans Myanmar",
+  "subsets": ["myanmar"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "myanmar",
+  "variable": false,
+  "lastModified": "2022-09-28",
+  "version": "v20",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2015 Google Inc. All Rights Reserved."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

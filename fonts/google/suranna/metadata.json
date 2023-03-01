@@ -1,0 +1,19 @@
+{
+  "id": "suranna",
+  "family": "Suranna",
+  "subsets": ["latin", "telugu"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-04-27",
+  "version": "v13",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2012 Andhrapradesh Society for Knowledge Networks (fonts.siliconandhra.org). Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name 'Prata'"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

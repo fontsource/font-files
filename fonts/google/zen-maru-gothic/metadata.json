@@ -1,0 +1,19 @@
+{
+  "id": "zen-maru-gothic",
+  "family": "Zen Maru Gothic",
+  "subsets": ["cyrillic", "greek", "japanese", "latin", "latin-ext"],
+  "weights": [300, 400, 500, 700, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-01-06",
+  "version": "v12",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2021 The Zen Maru Gothic Authors (https://github.com/googlefonts/zen-marugothic)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

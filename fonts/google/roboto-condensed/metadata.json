@@ -1,0 +1,27 @@
+{
+  "id": "roboto-condensed",
+  "family": "Roboto Condensed",
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "weights": [300, 400, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v25",
+  "category": "sans-serif",
+  "license": {
+    "type": "Apache-2.0",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0.html",
+    "attribution": "Copyright 2011 Google Inc. All Rights Reserved."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

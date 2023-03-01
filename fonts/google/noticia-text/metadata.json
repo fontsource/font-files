@@ -1,0 +1,19 @@
+{
+  "id": "noticia-text",
+  "family": "Noticia Text",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v15",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2011 JM Sole (info@jmsole.cl), with Reserved Font Name \"Noticia Text\"."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

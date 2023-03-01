@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/racing-sans-one",
+  "version": "4.5.0",
+  "description": "Self-host the Racing Sans One font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "racing-sans-one",
+    "Racing Sans One",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/racing-sans-one",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/racing-sans-one"
+  }
+}

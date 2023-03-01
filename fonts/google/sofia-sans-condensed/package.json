@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/sofia-sans-condensed",
+  "version": "4.5.0",
+  "description": "Self-host the Sofia Sans Condensed font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "sofia-sans-condensed",
+    "Sofia Sans Condensed",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/sofia-sans-condensed",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/sofia-sans-condensed"
+  }
+}

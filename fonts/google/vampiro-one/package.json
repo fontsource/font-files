@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/vampiro-one",
+  "version": "4.5.0",
+  "description": "Self-host the Vampiro One font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "vampiro-one",
+    "Vampiro One",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/vampiro-one",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/vampiro-one"
+  }
+}

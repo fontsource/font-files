@@ -1,0 +1,19 @@
+{
+  "id": "noto-sans-yi",
+  "family": "Noto Sans Yi",
+  "subsets": ["latin", "latin-ext", "yi"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-11-09",
+  "version": "v18",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/yi)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "unna",
+  "family": "Unna",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v21",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2016 The Unna Project Authors (omnibus.type@gmail.com)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

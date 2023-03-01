@@ -1,0 +1,19 @@
+{
+  "id": "mynerve",
+  "family": "Mynerve",
+  "subsets": ["greek", "latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-02-16",
+  "version": "v1",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2022 The Mynerve Project Authors (https://github.com/carolinashort/MyNerve)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

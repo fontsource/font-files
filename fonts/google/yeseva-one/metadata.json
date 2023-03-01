@@ -1,0 +1,19 @@
+{
+  "id": "yeseva-one",
+  "family": "Yeseva One",
+  "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v20",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2012 The Yeseva One Project Authors (lemonad@jovanny.ru), with Reserved Font Name \"Yeseva\"."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

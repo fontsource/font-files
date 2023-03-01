@@ -1,0 +1,19 @@
+{
+  "id": "titan-one",
+  "family": "Titan One",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v13",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2011 Rodrigo Fuenzalida (hello@rfuenzalida.com), with Reserved Font Name \"Titan One\""
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

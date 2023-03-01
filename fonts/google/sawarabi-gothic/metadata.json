@@ -1,0 +1,19 @@
+{
+  "id": "sawarabi-gothic",
+  "family": "Sawarabi Gothic",
+  "subsets": ["cyrillic", "japanese", "latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-27",
+  "version": "v12",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2016 The Sawarabi Gothic Project Authors."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

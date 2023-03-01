@@ -1,0 +1,19 @@
+{
+  "id": "nunito-sans",
+  "family": "Nunito Sans",
+  "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+  "weights": [200, 300, 400, 600, 700, 800, 900],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v12",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2016 The Nunito Sans Project Authors (https://github.com/Fonthausen/NunitoSans)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

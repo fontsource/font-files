@@ -1,0 +1,29 @@
+{
+  "id": "stix-two-text",
+  "family": "STIX Two Text",
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "weights": [400, 500, 600, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": {
+    "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
+    "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
+  },
+  "lastModified": "2022-09-22",
+  "version": "v10",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2001-2021 The STIX Fonts Project Authors (https://github.com/stipub/stixfonts)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

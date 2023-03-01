@@ -1,0 +1,19 @@
+{
+  "id": "yomogi",
+  "family": "Yomogi",
+  "subsets": ["cyrillic", "japanese", "latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-27",
+  "version": "v8",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2020 The Yomogi Project Authors (https://github.com/satsuyako/YomogiFont), all rights reserved."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

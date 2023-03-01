@@ -1,0 +1,19 @@
+{
+  "id": "news-cycle",
+  "family": "News Cycle",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v22",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2010-2011, Nathan Willis (nwillis@glyphography.com), with Reserved Font Name \"News Cycle.\""
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

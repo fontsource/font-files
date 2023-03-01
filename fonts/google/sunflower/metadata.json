@@ -1,0 +1,19 @@
+{
+  "id": "sunflower",
+  "family": "Sunflower",
+  "subsets": ["korean", "latin"],
+  "weights": [300, 500, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v14",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2008 The Sunflower Project Authors"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

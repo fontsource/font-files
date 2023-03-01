@@ -1,0 +1,19 @@
+{
+  "id": "zcool-qingke-huangyou",
+  "family": "ZCOOL QingKe HuangYou",
+  "subsets": ["chinese-simplified", "latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-11-09",
+  "version": "v15",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2018 The ZCOOL QingKe HuangYou Project Authors (https://www.github.com/googlefonts/zcool-qingke-huangyou)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

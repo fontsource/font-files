@@ -1,0 +1,19 @@
+{
+  "id": "pangolin",
+  "family": "Pangolin",
+  "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v11",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2016 The Pangolin Project Authors (https://github.com/googlefonts/pangolin)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

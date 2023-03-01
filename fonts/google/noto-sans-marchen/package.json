@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/noto-sans-marchen",
+  "version": "4.5.0",
+  "description": "Self-host the Noto Sans Marchen font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "noto-sans-marchen",
+    "Noto Sans Marchen",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/noto-sans-marchen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/noto-sans-marchen"
+  }
+}

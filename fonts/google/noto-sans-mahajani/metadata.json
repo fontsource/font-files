@@ -1,0 +1,19 @@
+{
+  "id": "noto-sans-mahajani",
+  "family": "Noto Sans Mahajani",
+  "subsets": ["mahajani"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "mahajani",
+  "variable": false,
+  "lastModified": "2022-05-10",
+  "version": "v15",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2018 Google Inc. All Rights Reserved."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

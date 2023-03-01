@@ -1,0 +1,19 @@
+{
+  "id": "syne-tactile",
+  "family": "Syne Tactile",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v15",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2019 The Syne Project Authors (https://gitlab.com/bonjour-monde/fonderie/syne-typeface)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

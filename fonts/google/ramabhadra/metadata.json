@@ -1,0 +1,19 @@
+{
+  "id": "ramabhadra",
+  "family": "Ramabhadra",
+  "subsets": ["latin", "telugu"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-04-27",
+  "version": "v15",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2012 Andhra Pradesh Society for Knowledge Networks (fonts.siliconandhra.org). Digitized data copyright (c) 2010-2012 Google Corporation."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

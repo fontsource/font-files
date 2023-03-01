@@ -1,0 +1,19 @@
+{
+  "id": "underdog",
+  "family": "Underdog",
+  "subsets": ["cyrillic", "latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v22",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2012, Sergey Steblina (sergey@steblina.com), Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name 'Underdog'"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

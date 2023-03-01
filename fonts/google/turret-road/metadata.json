@@ -1,0 +1,19 @@
+{
+  "id": "turret-road",
+  "family": "Turret Road",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [200, 300, 400, 500, 700, 800],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v7",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2018 The Turret Road Project Authors (https://github.com/noponies/turret-road)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

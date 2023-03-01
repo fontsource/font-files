@@ -1,0 +1,19 @@
+{
+  "id": "mukta-malar",
+  "family": "Mukta Malar",
+  "subsets": ["latin", "latin-ext", "tamil"],
+  "weights": [200, 300, 400, 500, 600, 700, 800],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v12",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2016, Ek Type. All rights reserved."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

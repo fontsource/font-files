@@ -1,0 +1,19 @@
+{
+  "id": "ruluko",
+  "family": "Ruluko",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-04-27",
+  "version": "v21",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2011, Ana Sanfelippo, Angelica Diaz y Meme Hernandez (anasanfe@gmail.com - angiecina@gmail.com), with Reserved Font Name \"Ruluko\""
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

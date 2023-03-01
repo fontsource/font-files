@@ -1,0 +1,19 @@
+{
+  "id": "playfair-display-sc",
+  "family": "Playfair Display SC",
+  "subsets": ["cyrillic", "latin", "latin-ext", "vietnamese"],
+  "weights": [400, 700, 900],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v15",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2017 The Playfair Display Project Authors (https://github.com/clauseggers/Playfair-Display), with Reserved Font Name \"Playfair Display\"."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

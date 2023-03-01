@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/permanent-marker",
+  "version": "4.5.0",
+  "description": "Self-host the Permanent Marker font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "permanent-marker",
+    "Permanent Marker",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "Apache-2.0",
+  "homepage": "https://fontsource.org/fonts/permanent-marker",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/permanent-marker"
+  }
+}

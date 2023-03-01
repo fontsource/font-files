@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/rubik-spray-paint",
+  "version": "4.5.0",
+  "description": "Self-host the Rubik Spray Paint font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "rubik-spray-paint",
+    "Rubik Spray Paint",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/rubik-spray-paint",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/rubik-spray-paint"
+  }
+}

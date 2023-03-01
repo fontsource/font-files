@@ -1,0 +1,19 @@
+{
+  "id": "notable",
+  "family": "Notable",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v14",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2018 The Notable Project Authors (https://github.com/googlefonts/notable)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

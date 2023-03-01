@@ -1,0 +1,21 @@
+{
+  "id": "reem-kufi",
+  "family": "Reem Kufi",
+  "subsets": ["arabic", "latin", "latin-ext", "vietnamese"],
+  "weights": [400, 500, 600, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
+  },
+  "lastModified": "2022-12-08",
+  "version": "v20",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2015-2022 The Reem Kufi Project Authors (https://github.com/aliftype/reem-kufi)."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

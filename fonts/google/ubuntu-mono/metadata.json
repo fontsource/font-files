@@ -1,0 +1,26 @@
+{
+  "id": "ubuntu-mono",
+  "family": "Ubuntu Mono",
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext"
+  ],
+  "weights": [400, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v15",
+  "category": "monospace",
+  "license": {
+    "type": "UFL-1.0",
+    "url": "http://font.ubuntu.com/ufl/",
+    "attribution": "Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

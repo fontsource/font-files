@@ -1,0 +1,19 @@
+{
+  "id": "noto-sans-tc",
+  "family": "Noto Sans TC",
+  "subsets": ["chinese-traditional", "latin"],
+  "weights": [100, 300, 400, 500, 700, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-27",
+  "version": "v26",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright  2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/)."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

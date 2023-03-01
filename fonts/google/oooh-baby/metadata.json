@@ -1,0 +1,19 @@
+{
+  "id": "oooh-baby",
+  "family": "Oooh Baby",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v3",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2004-2021 The Oooh Baby Project Authors (https://github.com/googlefonts/oooh-baby)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

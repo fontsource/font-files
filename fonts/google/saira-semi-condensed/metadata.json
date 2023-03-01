@@ -1,0 +1,19 @@
+{
+  "id": "saira-semi-condensed",
+  "family": "Saira Semi Condensed",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v11",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2016 The Saira Project Authors (omnibus.type@gmail.com), with reserved font name \"Saira\"."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

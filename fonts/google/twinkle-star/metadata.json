@@ -1,0 +1,19 @@
+{
+  "id": "twinkle-star",
+  "family": "Twinkle Star",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v3",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2003 The Twinkle Star Project Authors (https://github.com/googlefonts/twinkle-star)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

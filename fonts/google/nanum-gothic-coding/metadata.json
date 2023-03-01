@@ -1,0 +1,19 @@
+{
+  "id": "nanum-gothic-coding",
+  "family": "Nanum Gothic Coding",
+  "subsets": ["korean", "latin"],
+  "weights": [400, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-27",
+  "version": "v19",
+  "category": "monospace",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright  2009 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

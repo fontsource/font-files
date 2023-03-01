@@ -1,0 +1,19 @@
+{
+  "id": "yusei-magic",
+  "family": "Yusei Magic",
+  "subsets": ["japanese", "latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-27",
+  "version": "v11",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2020 The Yusei Magic Project Authors (https://github.com/tanukifont/YuseiMagic)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

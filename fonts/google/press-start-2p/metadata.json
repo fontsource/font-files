@@ -1,0 +1,19 @@
+{
+  "id": "press-start-2p",
+  "family": "Press Start 2P",
+  "subsets": ["cyrillic", "cyrillic-ext", "greek", "latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v14",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2012 The Press Start 2P Project Authors (cody@zone38.net), with Reserved Font Name \"Press Start 2P\""
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

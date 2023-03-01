@@ -1,0 +1,19 @@
+{
+  "id": "trade-winds",
+  "family": "Trade Winds",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v17",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2011 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reserved Font Name \"Trade Winds\""
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

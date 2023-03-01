@@ -1,0 +1,19 @@
+{
+  "id": "vt323",
+  "family": "VT323",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v17",
+  "category": "monospace",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2011, The VT323 Project Authors (peter.hull@oikoi.com)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

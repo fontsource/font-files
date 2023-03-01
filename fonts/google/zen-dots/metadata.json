@@ -1,0 +1,19 @@
+{
+  "id": "zen-dots",
+  "family": "Zen Dots",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-01-06",
+  "version": "v10",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2021 The Dots Project Authors (https://github.com/googlefonts/zen-dots)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

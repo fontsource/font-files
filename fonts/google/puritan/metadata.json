@@ -1,0 +1,19 @@
+{
+  "id": "puritan",
+  "family": "Puritan",
+  "subsets": ["latin"],
+  "weights": [400, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v24",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 1999-2010 Ben Weiner (ben@readingtype.org.uk). Licensed under the Open Font License v1.1 (http://scripts.sil.org/OFL)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

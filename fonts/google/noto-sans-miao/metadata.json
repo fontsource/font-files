@@ -1,0 +1,19 @@
+{
+  "id": "noto-sans-miao",
+  "family": "Noto Sans Miao",
+  "subsets": ["latin", "latin-ext", "miao"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-28",
+  "version": "v17",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/miao)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

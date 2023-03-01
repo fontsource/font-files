@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/sedgwick-ave",
+  "version": "4.5.0",
+  "description": "Self-host the Sedgwick Ave font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "sedgwick-ave",
+    "Sedgwick Ave",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/sedgwick-ave",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/sedgwick-ave"
+  }
+}

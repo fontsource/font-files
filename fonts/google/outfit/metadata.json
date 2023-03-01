@@ -1,0 +1,21 @@
+{
+  "id": "outfit",
+  "family": "Outfit",
+  "subsets": ["latin"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
+  },
+  "lastModified": "2022-09-22",
+  "version": "v6",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2021 The Outfit Project Authors (https://github.com/Outfitio/Outfit-Fonts)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

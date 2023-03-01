@@ -1,0 +1,19 @@
+{
+  "id": "noto-sans-meroitic",
+  "family": "Noto Sans Meroitic",
+  "subsets": ["meroitic"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "meroitic",
+  "variable": false,
+  "lastModified": "2022-05-10",
+  "version": "v16",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2017 Google Inc. All Rights Reserved."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

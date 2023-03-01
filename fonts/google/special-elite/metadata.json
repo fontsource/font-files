@@ -1,0 +1,19 @@
+{
+  "id": "special-elite",
+  "family": "Special Elite",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v18",
+  "category": "display",
+  "license": {
+    "type": "Apache-2.0",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0.html",
+    "attribution": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence. http://www.apache.org/licenses/LICENSE-2.0.html"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

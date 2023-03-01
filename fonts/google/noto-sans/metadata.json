@@ -1,0 +1,28 @@
+{
+  "id": "noto-sans",
+  "family": "Noto Sans",
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "devanagari",
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-05-10",
+  "version": "v27",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2015-2021 Google LLC. All Rights Reserved."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "splash",
+  "family": "Splash",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v1",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2017-2021 The Splash Project Authors (https://github.com/googlefonts/splash)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

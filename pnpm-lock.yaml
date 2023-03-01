@@ -1,10 +1,10 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@fontsource-utils/cli': 0.2.0-beta.2
+  '@fontsource-utils/cli': 0.2.0-beta.3
 
 dependencies:
-  '@fontsource-utils/cli': 0.2.0-beta.2
+  '@fontsource-utils/cli': 0.2.0-beta.3
 
 packages:
 
@@ -46,8 +46,8 @@ packages:
     bundledDependencies:
       - is-unicode-supported
 
-  /@fontsource-utils/cli/0.2.0-beta.2:
-    resolution: {integrity: sha512-DQ3fAHy8B18J8Nm8pjfyYlKPhEVw63GZ/jI1StM4BIZUgjgrfDcVxodBu4iAOCtvm5Ekh1FwQTr1YUoUDcGHUA==}
+  /@fontsource-utils/cli/0.2.0-beta.3:
+    resolution: {integrity: sha512-7qn7u4wd/GDDZWMAVM7fGS/MKz7n0HxS8KsRDmnpcoq9zmIotyT1XehQ+ZdDnTAIi3jftrobuSsbqdD7yoCZag==}
     hasBin: true
     dependencies:
       '@clack/prompts': 0.6.1

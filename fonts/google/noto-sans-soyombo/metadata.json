@@ -1,0 +1,19 @@
+{
+  "id": "noto-sans-soyombo",
+  "family": "Noto Sans Soyombo",
+  "subsets": ["soyombo"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "soyombo",
+  "variable": false,
+  "lastModified": "2022-05-10",
+  "version": "v15",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2019 Google LLC. All Rights Reserved."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "unica-one",
+  "family": "Unica One",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-02-16",
+  "version": "v14",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2012 The Unica One Project Authors (https://github.com/etunni/unica)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

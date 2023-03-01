@@ -1,0 +1,19 @@
+{
+  "id": "new-tegomin",
+  "family": "New Tegomin",
+  "subsets": ["japanese", "latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-27",
+  "version": "v10",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2020 The New Tegomin Project Authors (https://github.com/nagamaki008/NewTegomin)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

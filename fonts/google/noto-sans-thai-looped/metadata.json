@@ -1,0 +1,19 @@
+{
+  "id": "noto-sans-thai-looped",
+  "family": "Noto Sans Thai Looped",
+  "subsets": ["thai"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "thai",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v12",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2020 Google LLC. All rights reserved"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

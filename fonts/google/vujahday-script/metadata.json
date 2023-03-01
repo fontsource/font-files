@@ -1,0 +1,19 @@
+{
+  "id": "vujahday-script",
+  "family": "Vujahday Script",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v3",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2003 The Vujahday Script Project Authors (https://github.com/googlefonts/vujahday)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

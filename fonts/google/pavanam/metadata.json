@@ -1,0 +1,19 @@
+{
+  "id": "pavanam",
+  "family": "Pavanam",
+  "subsets": ["latin", "latin-ext", "tamil"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v11",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2015, Tharique Azeez (http://thariqueazeez.com | zeezat@gmail.com). Copyright (c) 2012, vernon adams (vern@newtypography.co.uk)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

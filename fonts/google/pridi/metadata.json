@@ -1,0 +1,19 @@
+{
+  "id": "pridi",
+  "family": "Pridi",
+  "subsets": ["latin", "latin-ext", "thai", "vietnamese"],
+  "weights": [200, 300, 400, 500, 600, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v11",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "noto-sans-modi",
+  "family": "Noto Sans Modi",
+  "subsets": ["latin", "latin-ext", "modi"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-11-09",
+  "version": "v20",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/modi)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

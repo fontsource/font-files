@@ -1,0 +1,19 @@
+{
+  "id": "varela-round",
+  "family": "Varela Round",
+  "subsets": ["hebrew", "latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-02-16",
+  "version": "v20",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2023 The Varela Round Project Authors (https://github.com/alefalefalef/Varela-Round-Hebrew/), with Reserved Font Names Varela and Varela Round."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}
