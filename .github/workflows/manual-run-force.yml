@@ -34,6 +34,9 @@ jobs:
       - name: Build fonts # Build all updated Google Fonts in repository
         run: npx fontsource build --force
 
+      - name: Generate fontlist
+        run: pnpm run fontlist
+
       - name: Stage, commit and push files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
