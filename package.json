@@ -1,0 +1,14 @@
+{
+  "name": "font-files",
+  "version": "1.0.0",
+  "description": "1000+ open-source fonts bundled into neat packages.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayuhito <hello@ayuhito.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@fontsource-utils/cli": "^0.1.1"
+  }
+}
