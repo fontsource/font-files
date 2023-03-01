@@ -2,16 +2,12 @@ import stringify from 'json-stringify-pretty-compact';
 import path from 'pathe';
 import fs from 'node:fs'
 
+import { getDirectories } from './utils';
+
 /**
  * Google may sometimes push a new font that already exists in the custom folder
  * This checks if there are any duplicates between the two font folders and purges the duplicate from generic
  */
-
-const getDirectories = (type: string) =>
-	fs
-		.readdirSync(`./fonts/${type}`, { withFileTypes: true })
-		.filter(dirent => dirent.isDirectory())
-		.map(dirent => dirent.name);
 
 // Check if package exists in a non-google directory and deletes it
 const checkDirectory = (dirPath: string) => {

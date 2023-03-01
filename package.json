@@ -2,9 +2,10 @@
   "name": "font-files",
   "version": "5.0.0",
   "description": "1000+ open-source fonts bundled into neat packages.",
+  "packageManager": "pnpm@7.28.0",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "fontlist": "tsx scripts/fontlist.ts"
   },
   "author": "Ayuhito <hello@ayuhito.com>",
   "license": "MIT",
@@ -13,6 +14,12 @@
     "@fontsource-utils/publish": "^0.1.0",
     "@types/node": "^18.14.2",
     "json-stringify-pretty-compact": "^4.0.0",
-    "pathe": "^1.1.0"
+    "pathe": "^1.1.0",
+    "tsx": "^3.12.3"
+  },
+  "homepage": "https://fontsource.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git"
   }
 }
