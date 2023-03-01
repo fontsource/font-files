@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/didact-gothic",
+  "version": "4.5.0",
+  "description": "Self-host the Didact Gothic font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "didact-gothic",
+    "Didact Gothic",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/didact-gothic",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/didact-gothic"
+  }
+}

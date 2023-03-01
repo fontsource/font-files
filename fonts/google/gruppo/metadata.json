@@ -1,0 +1,19 @@
+{
+  "id": "gruppo",
+  "family": "Gruppo",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v16",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2010 Vernon Adams (vern@newtypography.co.uk). Available under the terms of the SIL OFL v1.1 from http://scripts.sil.org/OFL"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

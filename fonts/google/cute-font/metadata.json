@@ -1,0 +1,19 @@
+{
+  "id": "cute-font",
+  "family": "Cute Font",
+  "subsets": ["korean", "latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v20",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "COPYRIGHT  2004-2017 by TypoDesign Lab. Inc. All rights reserved. Font designed by TypoDesign Lab. Inc."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

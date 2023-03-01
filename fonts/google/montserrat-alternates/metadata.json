@@ -1,0 +1,19 @@
+{
+  "id": "montserrat-alternates",
+  "family": "Montserrat Alternates",
+  "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v17",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2011 The Montserrat Project Authors (https://github.com/JulietaUla/Montserrat)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "karantina",
+  "family": "Karantina",
+  "subsets": ["hebrew", "latin", "latin-ext"],
+  "weights": [300, 400, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v11",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2020 The Karantina Project Authors (https://github.com/ronykoch/Karantina)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

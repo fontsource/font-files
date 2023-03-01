@@ -1,0 +1,19 @@
+{
+  "id": "darker-grotesque",
+  "family": "Darker Grotesque",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v7",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2019 The Darkergrotesque Project Authors (https://github.com/bettergui/DarkerGrotesque)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

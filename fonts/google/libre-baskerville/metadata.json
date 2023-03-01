@@ -1,0 +1,19 @@
+{
+  "id": "libre-baskerville",
+  "family": "Libre Baskerville",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v14",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com), with Reserved Font Name Libre Baskerville."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

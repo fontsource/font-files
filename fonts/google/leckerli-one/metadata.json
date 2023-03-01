@@ -1,0 +1,19 @@
+{
+  "id": "leckerli-one",
+  "family": "Leckerli One",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v16",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2011 Gesine Todt (www.gesine-todt.de), with Reserved Font Names \"Leckerli\""
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

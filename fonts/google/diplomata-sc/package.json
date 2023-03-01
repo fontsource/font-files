@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/diplomata-sc",
+  "version": "4.5.0",
+  "description": "Self-host the Diplomata SC font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "diplomata-sc",
+    "Diplomata SC",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/diplomata-sc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/diplomata-sc"
+  }
+}

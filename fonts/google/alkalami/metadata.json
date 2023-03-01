@@ -1,0 +1,19 @@
+{
+  "id": "alkalami",
+  "family": "Alkalami",
+  "subsets": ["arabic", "latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-11-09",
+  "version": "v3",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) SIL International, 2015-2022"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

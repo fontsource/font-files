@@ -1,0 +1,19 @@
+{
+  "id": "gfs-neohellenic",
+  "family": "GFS Neohellenic",
+  "subsets": ["greek"],
+  "weights": [400, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "greek",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v25",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) Takis Katsoulidis and George D. Matthiopoulos, 1993-2001. All rights reserved."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

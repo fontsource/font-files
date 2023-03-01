@@ -1,0 +1,19 @@
+{
+  "id": "andika",
+  "family": "Andika",
+  "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+  "weights": [400, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v22",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2004-2022 SIL International"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

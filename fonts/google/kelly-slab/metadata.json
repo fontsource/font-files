@@ -1,0 +1,19 @@
+{
+  "id": "kelly-slab",
+  "family": "Kelly Slab",
+  "subsets": ["cyrillic", "latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v15",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2011, Denis Masharov <denis.masharov@gmail.com>, with Reserved Font Names \"Kelly\", \"Kelly Slab\"."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

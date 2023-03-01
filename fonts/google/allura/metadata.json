@@ -1,0 +1,19 @@
+{
+  "id": "allura",
+  "family": "Allura",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-01-18",
+  "version": "v19",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2010 The Allura Project Authors (https://github.com/googlefonts/allura)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

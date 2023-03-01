@@ -1,0 +1,19 @@
+{
+  "id": "bungee-spice",
+  "family": "Bungee Spice",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-14",
+  "version": "v8",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2021 Roderick Sheeter"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

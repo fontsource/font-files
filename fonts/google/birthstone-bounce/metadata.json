@@ -1,0 +1,19 @@
+{
+  "id": "birthstone-bounce",
+  "family": "Birthstone Bounce",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400, 500],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v9",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2019 The Birthstone Bounce Project Authors (https://github.com/googlefonts/birthstone-bounce)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

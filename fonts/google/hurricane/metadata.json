@@ -1,0 +1,19 @@
+{
+  "id": "hurricane",
+  "family": "Hurricane",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v5",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2016-2021 The Hurricane Project Authors (https://github.com/googlefonts/hurricane)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

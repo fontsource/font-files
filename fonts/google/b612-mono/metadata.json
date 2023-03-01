@@ -1,0 +1,19 @@
+{
+  "id": "b612-mono",
+  "family": "B612 Mono",
+  "subsets": ["latin"],
+  "weights": [400, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v12",
+  "category": "monospace",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2012 The B612 Project Authors (https://github.com/polarsys/b612)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

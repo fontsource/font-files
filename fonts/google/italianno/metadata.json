@@ -1,0 +1,19 @@
+{
+  "id": "italianno",
+  "family": "Italianno",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v16",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2009 The Italianno Project Authors (https://github.com/googlefonts/italianno)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

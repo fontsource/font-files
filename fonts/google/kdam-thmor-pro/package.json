@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/kdam-thmor-pro",
+  "version": "4.5.0",
+  "description": "Self-host the Kdam Thmor Pro font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "kdam-thmor-pro",
+    "Kdam Thmor Pro",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/kdam-thmor-pro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/kdam-thmor-pro"
+  }
+}

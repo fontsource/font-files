@@ -1,0 +1,19 @@
+{
+  "id": "henny-penny",
+  "family": "Henny Penny",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-04-26",
+  "version": "v17",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2012, Brownfox (gayaneh.b@gmail.com), with Reserved Font Name \"Henny Penny\""
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

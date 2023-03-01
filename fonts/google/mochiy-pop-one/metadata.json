@@ -1,0 +1,19 @@
+{
+  "id": "mochiy-pop-one",
+  "family": "Mochiy Pop One",
+  "subsets": ["japanese", "latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-27",
+  "version": "v7",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2020 The MochiyPop Project Authors (https://github.com/fontdasu/Mochiypop)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

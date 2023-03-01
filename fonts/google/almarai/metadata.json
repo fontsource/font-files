@@ -1,0 +1,19 @@
+{
+  "id": "almarai",
+  "family": "Almarai",
+  "subsets": ["arabic"],
+  "weights": [300, 400, 700, 800],
+  "styles": ["normal"],
+  "defSubset": "arabic",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v12",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2019 by Almarai. All rights reserved."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

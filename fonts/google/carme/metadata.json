@@ -1,0 +1,19 @@
+{
+  "id": "carme",
+  "family": "Carme",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v16",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2010-2011, Ruben Prol (ipanemagrafica@gmail.com|www.ipanemagrafica.com), with Reserved Font Name Carme."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

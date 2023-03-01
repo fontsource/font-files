@@ -1,0 +1,19 @@
+{
+  "id": "fontdiner-swanky",
+  "family": "Fontdiner Swanky",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v19",
+  "category": "display",
+  "license": {
+    "type": "Apache-2.0",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0.html",
+    "attribution": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

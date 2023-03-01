@@ -1,0 +1,19 @@
+{
+  "id": "gupter",
+  "family": "Gupter",
+  "subsets": ["latin"],
+  "weights": [400, 500, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v14",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2019 The Gupter Project Authors (https://github.com/octaviopardo/GUPTER)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

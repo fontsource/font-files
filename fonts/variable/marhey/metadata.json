@@ -1,0 +1,21 @@
+{
+  "id": "marhey",
+  "family": "Marhey",
+  "subsets": ["arabic", "latin", "latin-ext"],
+  "weights": [300, 400, 500, 600, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "wght": {"default": "400", "min": "300", "max": "700", "step": "1"}
+  },
+  "lastModified": "2022-11-09",
+  "version": "v3",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2022 The Marhey Project Authors (https://github.com/namelatype/Marhey)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

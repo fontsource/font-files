@@ -1,0 +1,19 @@
+{
+  "id": "gowun-dodum",
+  "family": "Gowun Dodum",
+  "subsets": ["korean", "latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-27",
+  "version": "v7",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2021 The Gowun Dodum Project Authors (https://github.com/yangheeryu/Gowun-Dodum)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

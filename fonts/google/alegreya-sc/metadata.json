@@ -1,0 +1,27 @@
+{
+  "id": "alegreya-sc",
+  "family": "Alegreya SC",
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "weights": [400, 500, 700, 800, 900],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-12-08",
+  "version": "v25",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2011 The Alegreya Project Authors (https://github.com/huertatipografica/Alegreya)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

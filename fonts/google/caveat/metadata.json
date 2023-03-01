@@ -1,0 +1,21 @@
+{
+  "id": "caveat",
+  "family": "Caveat",
+  "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext"],
+  "weights": [400, 500, 600, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
+  },
+  "lastModified": "2022-09-22",
+  "version": "v17",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2014 The Caveat Project Authors (https://github.com/googlefonts/caveat)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

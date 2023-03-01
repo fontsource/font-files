@@ -1,0 +1,19 @@
+{
+  "id": "ibm-plex-sans-thai-looped",
+  "family": "IBM Plex Sans Thai Looped",
+  "subsets": ["cyrillic-ext", "latin", "latin-ext", "thai"],
+  "weights": [100, 200, 300, 400, 500, 600, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-11-09",
+  "version": "v9",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2019 IBM Corp. All rights reserved."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

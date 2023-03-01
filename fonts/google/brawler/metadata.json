@@ -1,0 +1,19 @@
+{
+  "id": "brawler",
+  "family": "Brawler",
+  "subsets": ["latin"],
+  "weights": [400, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v19",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2011 The Brawler Project Authors (https://github.com/cyrealtype/Brawler)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

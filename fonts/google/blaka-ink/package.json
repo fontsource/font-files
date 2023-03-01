@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/blaka-ink",
+  "version": "4.5.0",
+  "description": "Self-host the Blaka Ink font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "blaka-ink",
+    "Blaka Ink",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/blaka-ink",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/blaka-ink"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "cousine",
+  "family": "Cousine",
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "hebrew",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "weights": [400, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v25",
+  "category": "monospace",
+  "license": {
+    "type": "Apache-2.0",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0.html",
+    "attribution": "Digitized data copyright (c) 2010-2012 Google Corporation."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

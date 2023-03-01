@@ -1,0 +1,19 @@
+{
+  "id": "dangrek",
+  "family": "Dangrek",
+  "subsets": ["khmer", "latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-04-21",
+  "version": "v26",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2020 The Dangrek Project Authors (https://github.com/danhhong/Dangrek)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

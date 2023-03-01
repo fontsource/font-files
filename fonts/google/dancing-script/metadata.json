@@ -1,0 +1,21 @@
+{
+  "id": "dancing-script",
+  "family": "Dancing Script",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400, 500, 600, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
+  },
+  "lastModified": "2022-09-22",
+  "version": "v24",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2016 The Dancing Script Project Authors (https://github.com/googlefonts/DancingScript), with Reserved Font Name 'Dancing Script'."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

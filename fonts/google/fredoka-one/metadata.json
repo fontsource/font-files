@@ -1,0 +1,19 @@
+{
+  "id": "fredoka-one",
+  "family": "Fredoka One",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v13",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2011 Milena B Brandao (milenabbrandao@gmail.com), with Reserved Font Name \"Fredoka\""
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

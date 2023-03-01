@@ -1,0 +1,19 @@
+{
+  "id": "bubblegum-sans",
+  "family": "Bubblegum Sans",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v16",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2011 Angel Koziupa (sudtipos@sudtipos.com), Copyright (c) 2011 Alejandro Paul (sudtipos@sudtipos.com), with Reserved Font Name \"Bubblegum Sans\""
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

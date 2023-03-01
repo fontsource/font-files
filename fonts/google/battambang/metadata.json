@@ -1,0 +1,19 @@
+{
+  "id": "battambang",
+  "family": "Battambang",
+  "subsets": ["khmer", "latin"],
+  "weights": [100, 300, 400, 700, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-04-20",
+  "version": "v24",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2019 The Battambang Khmer Project Authors (https://github.com/danhhong/Battambang)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

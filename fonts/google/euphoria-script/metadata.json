@@ -1,0 +1,19 @@
+{
+  "id": "euphoria-script",
+  "family": "Euphoria Script",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v16",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved Font Name \"Euphoria Script\""
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

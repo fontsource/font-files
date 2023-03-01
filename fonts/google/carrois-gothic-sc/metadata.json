@@ -1,0 +1,19 @@
+{
+  "id": "carrois-gothic-sc",
+  "family": "Carrois Gothic SC",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v15",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2011 by Ralph du Carrois, with Reserved Font Name 'Carrois'"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/irish-grover",
+  "version": "4.5.0",
+  "description": "Self-host the Irish Grover font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "irish-grover",
+    "Irish Grover",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "Apache-2.0",
+  "homepage": "https://fontsource.org/fonts/irish-grover",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/irish-grover"
+  }
+}

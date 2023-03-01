@@ -1,0 +1,19 @@
+{
+  "id": "chilanka",
+  "family": "Chilanka",
+  "subsets": ["latin", "malayalam"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v18",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2019 The Chilanka Project Authors (https://gitlab.com/smc/fonts/chilanka)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

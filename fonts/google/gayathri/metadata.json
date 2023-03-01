@@ -1,0 +1,19 @@
+{
+  "id": "gayathri",
+  "family": "Gayathri",
+  "subsets": ["latin", "malayalam"],
+  "weights": [100, 400, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v15",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2019 The Gayathri Project Authors (https://gitlab.com/smc/fonts/gayathri)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

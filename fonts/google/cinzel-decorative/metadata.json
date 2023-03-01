@@ -1,0 +1,19 @@
+{
+  "id": "cinzel-decorative",
+  "family": "Cinzel Decorative",
+  "subsets": ["latin"],
+  "weights": [400, 700, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v14",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright  2012 Natanael Gama (info@ndiscovered.com), with Reserved Font Name 'Cinzel'"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

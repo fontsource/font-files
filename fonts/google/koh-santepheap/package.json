@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/koh-santepheap",
+  "version": "4.5.0",
+  "description": "Self-host the Koh Santepheap font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "koh-santepheap",
+    "Koh Santepheap",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/koh-santepheap",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/koh-santepheap"
+  }
+}

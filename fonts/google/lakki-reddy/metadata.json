@@ -1,0 +1,19 @@
+{
+  "id": "lakki-reddy",
+  "family": "Lakki Reddy",
+  "subsets": ["latin", "telugu"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v19",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2011 Silicon Andhra (fonts.siliconandhra.org). Copyright (c) 2010 by Font Diner, Inc DBA Sideshow."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

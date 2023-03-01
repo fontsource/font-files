@@ -1,0 +1,19 @@
+{
+  "id": "moo-lah-lah",
+  "family": "Moo Lah Lah",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v3",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2003-2021 The Moo Lah Lah Project Authors (https://github.com/googlefonts/moolahlah)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

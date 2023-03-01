@@ -1,0 +1,21 @@
+{
+  "id": "markazi-text",
+  "family": "Markazi Text",
+  "subsets": ["arabic", "latin", "latin-ext", "vietnamese"],
+  "weights": [400, 500, 600, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
+  },
+  "lastModified": "2022-09-22",
+  "version": "v22",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2017 The Markazi Text Project Authors (https://github.com/BornaIz/markazitext)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

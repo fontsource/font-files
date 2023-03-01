@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource-variable/azeret-mono",
+  "version": "4.5.0",
+  "description": "Self-host the Azeret Mono font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "azeret-mono",
+    "Azeret Mono",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/azeret-mono",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/variable/azeret-mono"
+  }
+}

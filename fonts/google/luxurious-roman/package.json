@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/luxurious-roman",
+  "version": "4.5.0",
+  "description": "Self-host the Luxurious Roman font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "luxurious-roman",
+    "Luxurious Roman",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/luxurious-roman",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/luxurious-roman"
+  }
+}

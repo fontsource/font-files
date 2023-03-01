@@ -1,0 +1,19 @@
+{
+  "id": "bhutuka-expanded-one",
+  "family": "BhuTuka Expanded One",
+  "subsets": ["gurmukhi", "latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v2",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2017 The BhuTuka Expanded One Project Authors (https://github.com/erinmclaughlin/BhuTuka-Extended-One)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

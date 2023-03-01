@@ -1,0 +1,21 @@
+{
+  "id": "ballet",
+  "family": "Ballet",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "opsz": {"default": "16", "min": "16", "max": "72", "step": "0.1"}
+  },
+  "lastModified": "2022-09-22",
+  "version": "v21",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2020 The Ballet Project Authors (https://github.com/Omnibus-Type/Ballet)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

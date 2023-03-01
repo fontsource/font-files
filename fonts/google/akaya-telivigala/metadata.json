@@ -1,0 +1,19 @@
+{
+  "id": "akaya-telivigala",
+  "family": "Akaya Telivigala",
+  "subsets": ["latin", "latin-ext", "telugu"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v22",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2015 The Akaya Telivigala Project Authors (https://github.com/vaishnavimurthy/Akaya-Telivigala)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

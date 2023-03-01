@@ -1,0 +1,19 @@
+{
+  "id": "judson",
+  "family": "Judson",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v18",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2010, 2011 by Daniel Johnson (il.basso.buffo@gmail.com). Released under the terms of the SIL Open Font License v1.1."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

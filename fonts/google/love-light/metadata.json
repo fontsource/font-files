@@ -1,0 +1,19 @@
+{
+  "id": "love-light",
+  "family": "Love Light",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v3",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2003 The Love Light Project Authors (https://github.com/googlefonts/love-light)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

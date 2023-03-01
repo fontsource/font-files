@@ -1,0 +1,19 @@
+{
+  "id": "livvic",
+  "family": "Livvic",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 900],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v13",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2019 The Livvic Project Authors (https://github.com/Fonthausen/Livvic)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

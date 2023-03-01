@@ -1,0 +1,21 @@
+{
+  "id": "climate-crisis",
+  "family": "Climate Crisis",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "YEAR": {"default": "1979", "min": "1979", "max": "2050", "step": "1"}
+  },
+  "lastModified": "2023-02-23",
+  "version": "v3",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2020 The Climate Crisis Project Authors (https://github.com/dancoull/ClimateCrisis)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

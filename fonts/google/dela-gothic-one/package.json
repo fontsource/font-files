@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/dela-gothic-one",
+  "version": "4.5.0",
+  "description": "Self-host the Dela Gothic One font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "dela-gothic-one",
+    "Dela Gothic One",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/dela-gothic-one",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/dela-gothic-one"
+  }
+}

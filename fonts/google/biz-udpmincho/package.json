@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/biz-udpmincho",
+  "version": "4.5.0",
+  "description": "Self-host the BIZ UDPMincho font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "biz-udpmincho",
+    "BIZ UDPMincho",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/biz-udpmincho",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/biz-udpmincho"
+  }
+}

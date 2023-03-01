@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/kirang-haerang",
+  "version": "4.5.0",
+  "description": "Self-host the Kirang Haerang font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "kirang-haerang",
+    "Kirang Haerang",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/kirang-haerang",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/kirang-haerang"
+  }
+}

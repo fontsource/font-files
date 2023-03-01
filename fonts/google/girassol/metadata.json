@@ -1,0 +1,19 @@
+{
+  "id": "girassol",
+  "family": "Girassol",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v16",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2019 The Girassol Project Authors (https://github.com/liamspradlin/Girassol-Display)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

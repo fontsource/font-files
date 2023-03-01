@@ -1,0 +1,19 @@
+{
+  "id": "khmer",
+  "family": "Khmer",
+  "subsets": ["khmer"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "khmer",
+  "variable": false,
+  "lastModified": "2022-04-26",
+  "version": "v25",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2010, Danh Hong (khmertype.blogspot.com danhhong@gmail.com), with Reserved Font Name Khmer OS. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

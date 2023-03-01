@@ -1,0 +1,19 @@
+{
+  "id": "lateef",
+  "family": "Lateef",
+  "subsets": ["arabic", "latin", "latin-ext"],
+  "weights": [200, 300, 400, 500, 600, 700, 800],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-11-09",
+  "version": "v27",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 1994-2022 SIL International."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

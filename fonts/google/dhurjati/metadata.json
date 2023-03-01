@@ -1,0 +1,19 @@
+{
+  "id": "dhurjati",
+  "family": "Dhurjati",
+  "subsets": ["latin", "telugu"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-04-21",
+  "version": "v20",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2012 Andhrapradesh Society for Knowledge Networks (fonts.siliconandhra.org). Copyright (c) 2014 Google, Inc."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

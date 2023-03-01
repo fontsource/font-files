@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/ma-shan-zheng",
+  "version": "4.5.0",
+  "description": "Self-host the Ma Shan Zheng font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "ma-shan-zheng",
+    "Ma Shan Zheng",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/ma-shan-zheng",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/ma-shan-zheng"
+  }
+}

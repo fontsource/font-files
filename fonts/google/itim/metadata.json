@@ -1,0 +1,19 @@
+{
+  "id": "itim",
+  "family": "Itim",
+  "subsets": ["latin", "latin-ext", "thai", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v10",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com), Copyright (c) 2014, Pablo Impallari (www.impallari.com|impallari@gmail.com)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mali",
+  "family": "Mali",
+  "subsets": ["latin", "latin-ext", "thai", "vietnamese"],
+  "weights": [200, 300, 400, 500, 600, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v9",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

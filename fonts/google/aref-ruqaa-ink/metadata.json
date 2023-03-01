@@ -1,0 +1,19 @@
+{
+  "id": "aref-ruqaa-ink",
+  "family": "Aref Ruqaa Ink",
+  "subsets": ["arabic", "latin", "latin-ext"],
+  "weights": [400, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-14",
+  "version": "v5",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2015-2022 The Aref Ruqaa Project Authors (https://github.com/aliftype/aref-ruqaa), with Reserved Font Name EURM10."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

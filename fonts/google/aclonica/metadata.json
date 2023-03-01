@@ -1,0 +1,19 @@
+{
+  "id": "aclonica",
+  "family": "Aclonica",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v18",
+  "category": "sans-serif",
+  "license": {
+    "type": "Apache-2.0",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0.html",
+    "attribution": "Copyright (c) 2010 Brian J. Bonislawsky (astigma@astigmatic.com)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

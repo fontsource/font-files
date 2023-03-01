@@ -1,0 +1,19 @@
+{
+  "id": "arizonia",
+  "family": "Arizonia",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v19",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2007-2021 The Arizonia Project Authors (https://github.com/googlefonts/arizonia)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

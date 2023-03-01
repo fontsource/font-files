@@ -1,0 +1,19 @@
+{
+  "id": "kumar-one-outline",
+  "family": "Kumar One Outline",
+  "subsets": ["gujarati", "latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v17",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2016 Indian Type Foundry (info@indiantypefoundry.com)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ibm-plex-sans",
+  "family": "IBM Plex Sans",
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "weights": [100, 200, 300, 400, 500, 600, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v14",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2018 IBM Corp. All rights reserved."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

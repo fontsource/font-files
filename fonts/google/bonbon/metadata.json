@@ -1,0 +1,19 @@
+{
+  "id": "bonbon",
+  "family": "Bonbon",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-04-21",
+  "version": "v26",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Bonbon\".  This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

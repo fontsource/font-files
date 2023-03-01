@@ -1,0 +1,19 @@
+{
+  "id": "fragment-mono",
+  "family": "Fragment Mono",
+  "subsets": ["cyrillic-ext", "latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-11-09",
+  "version": "v1",
+  "category": "monospace",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2022 The Fragment-Mono Project Authors (https://github.com/weiweihuanghuang/fragment-mono)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

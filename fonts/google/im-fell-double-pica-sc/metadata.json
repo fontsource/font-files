@@ -1,0 +1,19 @@
+{
+  "id": "im-fell-double-pica-sc",
+  "family": "IM Fell Double Pica SC",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v21",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "© 2007 Igino Marini (www.iginomarini.com) With Reserved Font Name IM FELL Double Pica SC"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

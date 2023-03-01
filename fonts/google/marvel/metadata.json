@@ -1,0 +1,19 @@
+{
+  "id": "marvel",
+  "family": "Marvel",
+  "subsets": ["latin"],
+  "weights": [400, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v14",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2011, Carolina Trebol <ca@fromzero.org>, with Reserved Font Name \"Marvel\"."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/lavishly-yours",
+  "version": "4.5.0",
+  "description": "Self-host the Lavishly Yours font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "lavishly-yours",
+    "Lavishly Yours",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/lavishly-yours",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/lavishly-yours"
+  }
+}

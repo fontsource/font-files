@@ -1,0 +1,19 @@
+{
+  "id": "biz-udmincho",
+  "family": "BIZ UDMincho",
+  "subsets": ["cyrillic", "greek-ext", "japanese", "latin", "latin-ext"],
+  "weights": [400, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-01-18",
+  "version": "v9",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2022 The BIZ UDMincho Project Authors (https://github.com/googlefonts/morisawa-biz-ud-mincho)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

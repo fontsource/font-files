@@ -1,0 +1,19 @@
+{
+  "id": "alike-angular",
+  "family": "Alike Angular",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-04-20",
+  "version": "v20",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Alike\" and \"Alike Angular\"."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

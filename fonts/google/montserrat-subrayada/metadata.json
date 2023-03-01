@@ -1,0 +1,19 @@
+{
+  "id": "montserrat-subrayada",
+  "family": "Montserrat Subrayada",
+  "subsets": ["latin"],
+  "weights": [400, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-09-22",
+  "version": "v17",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com), with Reserved Font Names 'Montserrat'"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}
