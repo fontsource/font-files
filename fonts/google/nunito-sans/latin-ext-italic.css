@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'Nunito Sans';
   font-style: italic;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 200;
   src: url(./files/nunito-sans-latin-ext-200-italic.woff2) format('woff2'), url(./files/nunito-sans-latin-ext-200-italic.woff) format('woff');
 }
@@ -11,7 +11,7 @@
 @font-face {
   font-family: 'Nunito Sans';
   font-style: italic;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 300;
   src: url(./files/nunito-sans-latin-ext-300-italic.woff2) format('woff2'), url(./files/nunito-sans-latin-ext-300-italic.woff) format('woff');
 }
@@ -20,7 +20,7 @@
 @font-face {
   font-family: 'Nunito Sans';
   font-style: italic;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 400;
   src: url(./files/nunito-sans-latin-ext-400-italic.woff2) format('woff2'), url(./files/nunito-sans-latin-ext-400-italic.woff) format('woff');
 }
@@ -29,7 +29,7 @@
 @font-face {
   font-family: 'Nunito Sans';
   font-style: italic;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 600;
   src: url(./files/nunito-sans-latin-ext-600-italic.woff2) format('woff2'), url(./files/nunito-sans-latin-ext-600-italic.woff) format('woff');
 }
@@ -38,7 +38,7 @@
 @font-face {
   font-family: 'Nunito Sans';
   font-style: italic;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 700;
   src: url(./files/nunito-sans-latin-ext-700-italic.woff2) format('woff2'), url(./files/nunito-sans-latin-ext-700-italic.woff) format('woff');
 }
@@ -47,7 +47,7 @@
 @font-face {
   font-family: 'Nunito Sans';
   font-style: italic;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 800;
   src: url(./files/nunito-sans-latin-ext-800-italic.woff2) format('woff2'), url(./files/nunito-sans-latin-ext-800-italic.woff) format('woff');
 }
@@ -56,7 +56,7 @@
 @font-face {
   font-family: 'Nunito Sans';
   font-style: italic;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 900;
   src: url(./files/nunito-sans-latin-ext-900-italic.woff2) format('woff2'), url(./files/nunito-sans-latin-ext-900-italic.woff) format('woff');
 }

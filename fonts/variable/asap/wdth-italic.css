@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'Asap';
   font-style: italic;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
   font-stretch: 75% 125%;
   src: url(./files/asap-vietnamese-wdth-italic.woff2) format('woff2');
@@ -13,7 +13,7 @@
 @font-face {
   font-family: 'Asap';
   font-style: italic;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
   font-stretch: 75% 125%;
   src: url(./files/asap-latin-ext-wdth-italic.woff2) format('woff2');
@@ -24,7 +24,7 @@
 @font-face {
   font-family: 'Asap';
   font-style: italic;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
   font-stretch: 75% 125%;
   src: url(./files/asap-latin-wdth-italic.woff2) format('woff2');

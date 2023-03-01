@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'Georama';
   font-style: normal;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
   font-stretch: 62.5% 150%;
   src: url(./files/georama-vietnamese-standard-normal.woff2) format('woff2');
@@ -13,7 +13,7 @@
 @font-face {
   font-family: 'Georama';
   font-style: normal;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
   font-stretch: 62.5% 150%;
   src: url(./files/georama-latin-ext-standard-normal.woff2) format('woff2');
@@ -24,7 +24,7 @@
 @font-face {
   font-family: 'Georama';
   font-style: normal;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
   font-stretch: 62.5% 150%;
   src: url(./files/georama-latin-standard-normal.woff2) format('woff2');

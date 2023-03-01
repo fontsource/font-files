@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'Anybody';
   font-style: italic;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
   font-stretch: 50% 150%;
   src: url(./files/anybody-vietnamese-standard-italic.woff2) format('woff2');
@@ -13,7 +13,7 @@
 @font-face {
   font-family: 'Anybody';
   font-style: italic;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
   font-stretch: 50% 150%;
   src: url(./files/anybody-latin-ext-standard-italic.woff2) format('woff2');
@@ -24,7 +24,7 @@
 @font-face {
   font-family: 'Anybody';
   font-style: italic;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
   font-stretch: 50% 150%;
   src: url(./files/anybody-latin-standard-italic.woff2) format('woff2');

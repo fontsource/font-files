@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'Anek Devanagari';
   font-style: normal;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 800;
   font-stretch: 75% 125%;
   src: url(./files/anek-devanagari-devanagari-standard-normal.woff2) format('woff2');
@@ -13,7 +13,7 @@
 @font-face {
   font-family: 'Anek Devanagari';
   font-style: normal;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 800;
   font-stretch: 75% 125%;
   src: url(./files/anek-devanagari-latin-ext-standard-normal.woff2) format('woff2');
@@ -24,7 +24,7 @@
 @font-face {
   font-family: 'Anek Devanagari';
   font-style: normal;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 800;
   font-stretch: 75% 125%;
   src: url(./files/anek-devanagari-latin-standard-normal.woff2) format('woff2');

@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'Noto Sans Lao Looped';
   font-style: normal;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
   font-stretch: 62.5% 100%;
   src: url(./files/noto-sans-lao-looped-lao-wdth-normal.woff2) format('woff2');
@@ -13,7 +13,7 @@
 @font-face {
   font-family: 'Noto Sans Lao Looped';
   font-style: normal;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
   font-stretch: 62.5% 100%;
   src: url(./files/noto-sans-lao-looped-latin-ext-wdth-normal.woff2) format('woff2');
@@ -24,7 +24,7 @@
 @font-face {
   font-family: 'Noto Sans Lao Looped';
   font-style: normal;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
   font-stretch: 62.5% 100%;
   src: url(./files/noto-sans-lao-looped-latin-wdth-normal.woff2) format('woff2');

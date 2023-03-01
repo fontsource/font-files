@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'Noto Serif Display';
   font-style: normal;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
   font-stretch: 62.5% 100%;
   src: url(./files/noto-serif-display-cyrillic-ext-wdth-normal.woff2) format('woff2');
@@ -13,7 +13,7 @@
 @font-face {
   font-family: 'Noto Serif Display';
   font-style: normal;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
   font-stretch: 62.5% 100%;
   src: url(./files/noto-serif-display-cyrillic-wdth-normal.woff2) format('woff2');
@@ -24,7 +24,7 @@
 @font-face {
   font-family: 'Noto Serif Display';
   font-style: normal;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
   font-stretch: 62.5% 100%;
   src: url(./files/noto-serif-display-greek-ext-wdth-normal.woff2) format('woff2');
@@ -35,7 +35,7 @@
 @font-face {
   font-family: 'Noto Serif Display';
   font-style: normal;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
   font-stretch: 62.5% 100%;
   src: url(./files/noto-serif-display-greek-wdth-normal.woff2) format('woff2');
@@ -46,7 +46,7 @@
 @font-face {
   font-family: 'Noto Serif Display';
   font-style: normal;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
   font-stretch: 62.5% 100%;
   src: url(./files/noto-serif-display-vietnamese-wdth-normal.woff2) format('woff2');
@@ -57,7 +57,7 @@
 @font-face {
   font-family: 'Noto Serif Display';
   font-style: normal;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
   font-stretch: 62.5% 100%;
   src: url(./files/noto-serif-display-latin-ext-wdth-normal.woff2) format('woff2');
@@ -68,7 +68,7 @@
 @font-face {
   font-family: 'Noto Serif Display';
   font-style: normal;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
   font-stretch: 62.5% 100%;
   src: url(./files/noto-serif-display-latin-wdth-normal.woff2) format('woff2');

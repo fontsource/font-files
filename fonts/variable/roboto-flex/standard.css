@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'Roboto Flex';
   font-style: oblique 0deg 10deg;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 1000;
   font-stretch: 25% 151%;
   src: url(./files/roboto-flex-cyrillic-ext-standard-normal.woff2) format('woff2');
@@ -13,7 +13,7 @@
 @font-face {
   font-family: 'Roboto Flex';
   font-style: oblique 0deg 10deg;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 1000;
   font-stretch: 25% 151%;
   src: url(./files/roboto-flex-cyrillic-standard-normal.woff2) format('woff2');
@@ -24,7 +24,7 @@
 @font-face {
   font-family: 'Roboto Flex';
   font-style: oblique 0deg 10deg;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 1000;
   font-stretch: 25% 151%;
   src: url(./files/roboto-flex-greek-standard-normal.woff2) format('woff2');
@@ -35,7 +35,7 @@
 @font-face {
   font-family: 'Roboto Flex';
   font-style: oblique 0deg 10deg;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 1000;
   font-stretch: 25% 151%;
   src: url(./files/roboto-flex-vietnamese-standard-normal.woff2) format('woff2');
@@ -46,7 +46,7 @@
 @font-face {
   font-family: 'Roboto Flex';
   font-style: oblique 0deg 10deg;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 1000;
   font-stretch: 25% 151%;
   src: url(./files/roboto-flex-latin-ext-standard-normal.woff2) format('woff2');
@@ -57,7 +57,7 @@
 @font-face {
   font-family: 'Roboto Flex';
   font-style: oblique 0deg 10deg;
-  font-display: swap;
+  font-display: var(--fontsource-display, swap);
   font-weight: 100 1000;
   font-stretch: 25% 151%;
   src: url(./files/roboto-flex-latin-standard-normal.woff2) format('woff2');
