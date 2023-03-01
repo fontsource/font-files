@@ -1,6 +1,6 @@
 {
   "name": "font-files",
-  "version": "1.0.0",
+  "version": "5.0.0",
   "description": "1000+ open-source fonts bundled into neat packages.",
   "private": true,
   "scripts": {
@@ -9,6 +9,10 @@
   "author": "Ayuhito <hello@ayuhito.com>",
   "license": "MIT",
   "dependencies": {
-    "@fontsource-utils/cli": "0.2.0-beta.3"
+    "@fontsource-utils/cli": "0.2.0-beta.3",
+    "@fontsource-utils/publish": "^0.1.0",
+    "@types/node": "^18.14.2",
+    "json-stringify-pretty-compact": "^4.0.0",
+    "pathe": "^1.1.0"
   }
 }
