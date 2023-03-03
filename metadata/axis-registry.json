@@ -1,0 +1,298 @@
+[
+  {
+    "name": "Bounce",
+    "tag": "BNCE",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "precision": 0
+  },
+  {
+    "name": "Casual",
+    "tag": "CASL",
+    "min": 0,
+    "max": 1,
+    "default": 0,
+    "precision": -2
+  },
+  {
+    "name": "On",
+    "tag": "CRSV",
+    "min": 0,
+    "max": 1,
+    "default": 0.5,
+    "precision": -1
+  },
+  {
+    "name": "Edge Highlight",
+    "tag": "EHLT",
+    "min": 0,
+    "max": 1000,
+    "default": null,
+    "precision": 0
+  },
+  {
+    "name": "Element Grid",
+    "tag": "ELGR",
+    "min": 1,
+    "max": 2,
+    "default": 1,
+    "precision": -1
+  },
+  {
+    "name": "Element Shape",
+    "tag": "ELSH",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "precision": -1
+  },
+  {
+    "name": "Extrusion Depth",
+    "tag": "EDPT",
+    "min": 0,
+    "max": 1000,
+    "default": null,
+    "precision": 0
+  },
+  {
+    "name": "Fill",
+    "tag": "FILL",
+    "min": 0,
+    "max": 1,
+    "default": 0,
+    "precision": -2
+  },
+  {
+    "name": "Flare",
+    "tag": "FLAR",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "precision": 0
+  },
+  {
+    "name": "Grade",
+    "tag": "GRAD",
+    "min": -1000,
+    "max": 1000,
+    "default": 0,
+    "precision": 0
+  },
+  {
+    "name": "Hyper Expansion",
+    "tag": "HEXP",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "precision": -1
+  },
+  {
+    "name": "Informality",
+    "tag": "INFM",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "precision": 0
+  },
+  {
+    "name": "Italic",
+    "tag": "ital",
+    "min": 0,
+    "max": 1,
+    "default": 0,
+    "precision": 0
+  },
+  {
+    "name": "Monospace",
+    "tag": "MONO",
+    "min": 0,
+    "max": 1,
+    "default": 0,
+    "precision": -2
+  },
+  {
+    "name": "Morph",
+    "tag": "MORF",
+    "min": 0,
+    "max": 60,
+    "default": 0,
+    "precision": 0
+  },
+  {
+    "name": "Mutation",
+    "tag": "MUTA",
+    "min": 0,
+    "max": 60,
+    "default": 0,
+    "precision": 0
+  },
+  {
+    "name": "Optical Size",
+    "tag": "opsz",
+    "min": 5,
+    "max": 1200,
+    "default": 14,
+    "precision": -1
+  },
+  {
+    "name": "Roundness",
+    "tag": "ROND",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "precision": 0
+  },
+  {
+    "name": "Slant",
+    "tag": "slnt",
+    "min": -90,
+    "max": 90,
+    "default": 0,
+    "precision": 0
+  },
+  {
+    "name": "Softness",
+    "tag": "SOFT",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "precision": -1
+  },
+  {
+    "name": "Spacing",
+    "tag": "SPAC",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "precision": -1
+  },
+  {
+    "name": "Volume",
+    "tag": "VOLM",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "precision": 0
+  },
+  {
+    "name": "Weight",
+    "tag": "wght",
+    "min": 1,
+    "max": 1000,
+    "default": 400,
+    "precision": 0
+  },
+  {
+    "name": "Width",
+    "tag": "wdth",
+    "min": 25,
+    "max": 200,
+    "default": 100,
+    "precision": -1
+  },
+  {
+    "name": "Wonky",
+    "tag": "WONK",
+    "min": 0,
+    "max": 1,
+    "default": 0,
+    "precision": 0
+  },
+  {
+    "name": "Thick Stroke",
+    "tag": "XOPQ",
+    "min": -1000,
+    "max": 2000,
+    "default": 88,
+    "precision": 0
+  },
+  {
+    "name": "Rotation in X",
+    "tag": "XROT",
+    "min": -180,
+    "max": 180,
+    "default": 0,
+    "precision": 0
+  },
+  {
+    "name": "Counter Width",
+    "tag": "XTRA",
+    "min": -1000,
+    "max": 2000,
+    "default": 400,
+    "precision": 0
+  },
+  {
+    "name": "X transparent figures",
+    "tag": "XTFI",
+    "min": -1000,
+    "max": 2000,
+    "default": 400,
+    "precision": 0
+  },
+  {
+    "name": "Thin Stroke",
+    "tag": "YOPQ",
+    "min": -1000,
+    "max": 2000,
+    "default": 116,
+    "precision": 0
+  },
+  {
+    "name": "Rotation in Y",
+    "tag": "YROT",
+    "min": -180,
+    "max": 180,
+    "default": 0,
+    "precision": 0
+  },
+  {
+    "name": "Ascender Height",
+    "tag": "YTAS",
+    "min": 0,
+    "max": 1000,
+    "default": 750,
+    "precision": 0
+  },
+  {
+    "name": "Descender Depth",
+    "tag": "YTDE",
+    "min": -1000,
+    "max": 0,
+    "default": -250,
+    "precision": 0
+  },
+  {
+    "name": "Figure Height",
+    "tag": "YTFI",
+    "min": -1000,
+    "max": 2000,
+    "default": null,
+    "precision": 0
+  },
+  {
+    "name": "Lowercase Height",
+    "tag": "YTLC",
+    "min": 0,
+    "max": 1000,
+    "default": 500,
+    "precision": 0
+  },
+  {
+    "name": "Uppercase Height",
+    "tag": "YTUC",
+    "min": 0,
+    "max": 1000,
+    "default": 725,
+    "precision": 0
+  },
+  {
+    "name": "Year",
+    "tag": "YEAR",
+    "min": -4000,
+    "max": 4000,
+    "default": 2000,
+    "precision": 0
+  }
+]
