@@ -1,17 +1,17 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@fontsource-utils/cli': 0.2.0-beta.6
+  '@fontsource-utils/cli': 0.2.0-beta.7
   '@fontsource-utils/publish': ^0.1.0
-  '@types/node': ^18.14.4
+  '@types/node': ^18.14.6
   json-stringify-pretty-compact: ^4.0.0
   pathe: ^1.1.0
   tsx: ^3.12.3
 
 dependencies:
-  '@fontsource-utils/cli': 0.2.0-beta.6
+  '@fontsource-utils/cli': 0.2.0-beta.7
   '@fontsource-utils/publish': 0.1.0
-  '@types/node': 18.14.4
+  '@types/node': 18.14.6
   json-stringify-pretty-compact: 4.0.0
   pathe: 1.1.0
   tsx: 3.12.3
@@ -275,19 +275,19 @@ packages:
     dev: false
     optional: true
 
-  /@fontsource-utils/cli/0.2.0-beta.6:
-    resolution: {integrity: sha512-Btz567D83od77ucwIoj2MxFBkh68fUAxGVHfu40Yb4sqbdX6Kx2koJwP+0oVmPp0oGic/tCMo6GSbl7TtD8Lnw==}
+  /@fontsource-utils/cli/0.2.0-beta.7:
+    resolution: {integrity: sha512-uloOd988XZkkpIgsQDqyhX5aa2vWL+7fOZKJiBdrWbEje3ynLpoAZwDrnHn0VJgnwDuICrX8+PwmVAJ4cf95rw==}
     hasBin: true
     dependencies:
       '@clack/prompts': 0.6.1
-      '@fontsource-utils/generate': 0.1.1
+      '@fontsource-utils/generate': 0.1.3
       cac: 6.7.14
       consola: 2.15.3
       dotenv: 16.0.3
       flat: 5.0.2
       fs-extra: 11.1.0
-      google-font-metadata: 5.0.0
-      got: 12.5.3
+      google-font-metadata: 5.0.1
+      got: 12.6.0
       json-stringify-pretty-compact: 4.0.0
       p-queue: 7.3.4
       pathe: 1.1.0
@@ -300,8 +300,8 @@ packages:
       - utf-8-validate
     dev: false
 
-  /@fontsource-utils/generate/0.1.1:
-    resolution: {integrity: sha512-z/+DSJrTROeOzTWMP42WlZpxA5XnVrACSOHcYjPBFjWpVGA3SmMGCOLNeD2+gVhuqrXFdjhLUC6JFpGcfIIokg==}
+  /@fontsource-utils/generate/0.1.3:
+    resolution: {integrity: sha512-/sBIVQeL4jffInsPom3P/XQz3aAVoR6+szZ4LHVv3qR1iNdUYmb0uR3v4gJnpaFEax4sW4L7eJwOpGIPIMspgw==}
     dev: false
 
   /@fontsource-utils/publish/0.1.0:
@@ -512,15 +512,15 @@ packages:
     resolution: {integrity: sha512-SZs7ekbP8CN0txVG2xVRH6EgKmEm31BOxA07vkFaETzZz1xh+cbt8BcI0slpymvwhx5dlFnQG2rTlPVQn+iRPQ==}
     dev: false
 
-  /@types/node/18.14.4:
-    resolution: {integrity: sha512-VhCw7I7qO2X49+jaKcAUwi3rR+hbxT5VcYF493+Z5kMLI0DL568b7JI4IDJaxWFH0D/xwmGJNoXisyX+w7GH/g==}
+  /@types/node/18.14.6:
+    resolution: {integrity: sha512-93+VvleD3mXwlLI/xASjw0FzKcwzl3OdTCzm1LaRfqgS21gfFtK3zDXM5Op9TeeMsJVOaJ2VRDpT9q4Y3d0AvA==}
     dev: false
 
   /@types/yauzl/2.10.0:
     resolution: {integrity: sha512-Cn6WYCm0tXv8p6k+A8PvbDG763EDpBoTzHdA+Q/MF6H3sapGjCm9NzoaJncJS9tUKSuCoDs9XHxYYsQDgxR6kw==}
     requiresBuild: true
     dependencies:
-      '@types/node': 18.14.4
+      '@types/node': 18.14.6
     dev: false
     optional: true
 
@@ -1229,8 +1229,8 @@ packages:
       path-is-absolute: 1.0.1
     dev: false
 
-  /google-font-metadata/5.0.0:
-    resolution: {integrity: sha512-clXnm2+ceccJuUs9Ai2TqoTs+F7qrsWUMZTiaPmtHDgqAOmHso5VVa6PntsmetC66W7+yTCTzzciX++fU2a/LQ==}
+  /google-font-metadata/5.0.1:
+    resolution: {integrity: sha512-rzc4WiIIZIscDnHbFmg4IIA9KcF4wdeZFZq1DuzFARic7sQ+HgSMI1drH2g5io0fvapExUHJ9keIwyt3OSrPWg==}
     hasBin: true
     dependencies:
       '@octokit/core': 4.2.0
@@ -1239,7 +1239,7 @@ packages:
       deepmerge: 4.3.0
       dotenv: 16.0.3
       execa: 6.1.0
-      got: 12.5.3
+      got: 12.6.0
       json-stringify-pretty-compact: 4.0.0
       linkedom: 0.14.22
       p-queue: 7.3.4
@@ -1247,7 +1247,7 @@ packages:
       picocolors: 1.0.0
       puppeteer: 19.7.2
       stylis: 4.1.3
-      zod: 3.20.6
+      zod: 3.21.0
     transitivePeerDependencies:
       - bufferutil
       - encoding
@@ -1258,6 +1258,23 @@ packages:
 
   /got/12.5.3:
     resolution: {integrity: sha512-8wKnb9MGU8IPGRIo+/ukTy9XLJBwDiCpIf5TVzQ9Cpol50eMTpBq2GAuDsuDIz7hTYmZgMgC1e9ydr6kSDWs3w==}
+    engines: {node: '>=14.16'}
+    dependencies:
+      '@sindresorhus/is': 5.3.0
+      '@szmarczak/http-timer': 5.0.1
+      cacheable-lookup: 7.0.0
+      cacheable-request: 10.2.8
+      decompress-response: 6.0.0
+      form-data-encoder: 2.1.4
+      get-stream: 6.0.1
+      http2-wrapper: 2.2.0
+      lowercase-keys: 3.0.0
+      p-cancelable: 3.0.0
+      responselike: 3.0.0
+    dev: false
+
+  /got/12.6.0:
+    resolution: {integrity: sha512-WTcaQ963xV97MN3x0/CbAriXFZcXCfgxVp91I+Ze6pawQOa7SgzwSx2zIJJsX+kTajMnVs0xcFD1TxZKFqhdnQ==}
     engines: {node: '>=14.16'}
     dependencies:
       '@sindresorhus/is': 5.3.0
@@ -2655,6 +2672,6 @@ packages:
       fd-slicer: 1.1.0
     dev: false
 
-  /zod/3.20.6:
-    resolution: {integrity: sha512-oyu0m54SGCtzh6EClBVqDDlAYRz4jrVtKwQ7ZnsEmMI9HnzuZFj8QFwAY1M5uniIYACdGvv0PBWPF2kO0aNofA==}
+  /zod/3.21.0:
+    resolution: {integrity: sha512-UYdykTcVxB6lfdyLzAqLyyYAlOcpoluECvjsdoaqfQmz9p+3LRaIqYcNiL/J2kFYp66fBM8wwBvIGVEjq7KtZw==}
     dev: false
