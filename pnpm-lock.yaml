@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@fontsource-utils/cli': 0.2.0-beta.7
+  '@fontsource-utils/cli': 0.2.0-beta.8
   '@fontsource-utils/publish': ^0.1.0
   '@types/node': ^18.14.6
   json-stringify-pretty-compact: ^4.0.0
@@ -9,7 +9,7 @@ specifiers:
   tsx: ^3.12.3
 
 dependencies:
-  '@fontsource-utils/cli': 0.2.0-beta.7
+  '@fontsource-utils/cli': 0.2.0-beta.8
   '@fontsource-utils/publish': 0.1.0
   '@types/node': 18.14.6
   json-stringify-pretty-compact: 4.0.0
@@ -46,10 +46,27 @@ packages:
       sisteransi: 1.0.5
     dev: false
 
+  /@clack/core/0.3.1:
+    resolution: {integrity: sha512-65uDOMtUZ2N+h3DLGY5cB9MnPh4aZUFpfwPi3/GkNBbH/C2WUTV2Mjp9/ofNvC7PFoqT9KAbjsYJXNYGplOnQA==}
+    dependencies:
+      picocolors: 1.0.0
+      sisteransi: 1.0.5
+    dev: false
+
   /@clack/prompts/0.6.1:
     resolution: {integrity: sha512-7KuMST/5zB7KpvfR00kcnbOaXmfN6tkJmkLpAyV2Iv2SJ7oxFbhNFvR5OQJynSKDhU8oOp/eFMK6Q0k/DXsq8A==}
     dependencies:
       '@clack/core': 0.3.0
+      picocolors: 1.0.0
+      sisteransi: 1.0.5
+    dev: false
+    bundledDependencies:
+      - is-unicode-supported
+
+  /@clack/prompts/0.6.2:
+    resolution: {integrity: sha512-T6Ze995z9ok7A8aDfBuqWtQZUBffK5bDbsQcgSrMH1wxcf9amSmfUF026SwpcXAuVb6PTtySy4BdcAEU3PYNLg==}
+    dependencies:
+      '@clack/core': 0.3.1
       picocolors: 1.0.0
       sisteransi: 1.0.5
     dev: false
@@ -275,11 +292,11 @@ packages:
     dev: false
     optional: true
 
-  /@fontsource-utils/cli/0.2.0-beta.7:
-    resolution: {integrity: sha512-uloOd988XZkkpIgsQDqyhX5aa2vWL+7fOZKJiBdrWbEje3ynLpoAZwDrnHn0VJgnwDuICrX8+PwmVAJ4cf95rw==}
+  /@fontsource-utils/cli/0.2.0-beta.8:
+    resolution: {integrity: sha512-/x1XUp0UPMoJdNfDwAnUNH/24xBnEUqpVlPHiTVNdcUNsKSZ9DUdSh3DNkRKxnVyR7gREYNXUNA0F7JrgsRKUQ==}
     hasBin: true
     dependencies:
-      '@clack/prompts': 0.6.1
+      '@clack/prompts': 0.6.2
       '@fontsource-utils/generate': 0.1.3
       cac: 6.7.14
       consola: 2.15.3
