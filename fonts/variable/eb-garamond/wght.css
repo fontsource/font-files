@@ -1,6 +1,6 @@
 /* eb-garamond-cyrillic-ext-wght-normal */
 @font-face {
-  font-family: 'EB Garamond';
+  font-family: 'EB Garamond Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;
@@ -10,7 +10,7 @@
 
 /* eb-garamond-cyrillic-wght-normal */
 @font-face {
-  font-family: 'EB Garamond';
+  font-family: 'EB Garamond Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;
@@ -20,7 +20,7 @@
 
 /* eb-garamond-greek-ext-wght-normal */
 @font-face {
-  font-family: 'EB Garamond';
+  font-family: 'EB Garamond Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;
@@ -30,7 +30,7 @@
 
 /* eb-garamond-greek-wght-normal */
 @font-face {
-  font-family: 'EB Garamond';
+  font-family: 'EB Garamond Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;
@@ -40,7 +40,7 @@
 
 /* eb-garamond-vietnamese-wght-normal */
 @font-face {
-  font-family: 'EB Garamond';
+  font-family: 'EB Garamond Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;
@@ -50,7 +50,7 @@
 
 /* eb-garamond-latin-ext-wght-normal */
 @font-face {
-  font-family: 'EB Garamond';
+  font-family: 'EB Garamond Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;
@@ -60,7 +60,7 @@
 
 /* eb-garamond-latin-wght-normal */
 @font-face {
-  font-family: 'EB Garamond';
+  font-family: 'EB Garamond Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;

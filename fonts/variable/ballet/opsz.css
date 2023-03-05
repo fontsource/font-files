@@ -1,6 +1,6 @@
 /* ballet-vietnamese-opsz-normal */
 @font-face {
-  font-family: 'Ballet';
+  font-family: 'Ballet Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400;
@@ -10,7 +10,7 @@
 
 /* ballet-latin-ext-opsz-normal */
 @font-face {
-  font-family: 'Ballet';
+  font-family: 'Ballet Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400;
@@ -20,7 +20,7 @@
 
 /* ballet-latin-opsz-normal */
 @font-face {
-  font-family: 'Ballet';
+  font-family: 'Ballet Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400;

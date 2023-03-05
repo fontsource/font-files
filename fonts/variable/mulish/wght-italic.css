@@ -1,6 +1,6 @@
 /* mulish-cyrillic-ext-wght-italic */
 @font-face {
-  font-family: 'Mulish';
+  font-family: 'Mulish Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 1000;
@@ -10,7 +10,7 @@
 
 /* mulish-cyrillic-wght-italic */
 @font-face {
-  font-family: 'Mulish';
+  font-family: 'Mulish Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 1000;
@@ -20,7 +20,7 @@
 
 /* mulish-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Mulish';
+  font-family: 'Mulish Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 1000;
@@ -30,7 +30,7 @@
 
 /* mulish-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Mulish';
+  font-family: 'Mulish Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 1000;
@@ -40,7 +40,7 @@
 
 /* mulish-latin-wght-italic */
 @font-face {
-  font-family: 'Mulish';
+  font-family: 'Mulish Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 1000;

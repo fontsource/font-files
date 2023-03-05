@@ -1,6 +1,6 @@
 /* anek-gujarati-gujarati-wdth-normal */
 @font-face {
-  font-family: 'Anek Gujarati';
+  font-family: 'Anek Gujarati Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 800;
@@ -11,7 +11,7 @@
 
 /* anek-gujarati-latin-ext-wdth-normal */
 @font-face {
-  font-family: 'Anek Gujarati';
+  font-family: 'Anek Gujarati Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 800;
@@ -22,7 +22,7 @@
 
 /* anek-gujarati-latin-wdth-normal */
 @font-face {
-  font-family: 'Anek Gujarati';
+  font-family: 'Anek Gujarati Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 800;

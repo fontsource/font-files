@@ -1,6 +1,6 @@
 /* andada-pro-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Andada Pro';
+  font-family: 'Andada Pro Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 840;
@@ -10,7 +10,7 @@
 
 /* andada-pro-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Andada Pro';
+  font-family: 'Andada Pro Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 840;
@@ -20,7 +20,7 @@
 
 /* andada-pro-latin-wght-italic */
 @font-face {
-  font-family: 'Andada Pro';
+  font-family: 'Andada Pro Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 840;

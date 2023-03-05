@@ -1,6 +1,6 @@
 /* noto-serif-thai-thai-wght-normal */
 @font-face {
-  font-family: 'Noto Serif Thai';
+  font-family: 'Noto Serif Thai Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* noto-serif-thai-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Noto Serif Thai';
+  font-family: 'Noto Serif Thai Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* noto-serif-thai-latin-wght-normal */
 @font-face {
-  font-family: 'Noto Serif Thai';
+  font-family: 'Noto Serif Thai Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

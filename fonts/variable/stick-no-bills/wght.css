@@ -1,6 +1,6 @@
 /* stick-no-bills-sinhala-wght-normal */
 @font-face {
-  font-family: 'Stick No Bills';
+  font-family: 'Stick No Bills Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 800;
@@ -10,7 +10,7 @@
 
 /* stick-no-bills-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Stick No Bills';
+  font-family: 'Stick No Bills Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 800;
@@ -20,7 +20,7 @@
 
 /* stick-no-bills-latin-wght-normal */
 @font-face {
-  font-family: 'Stick No Bills';
+  font-family: 'Stick No Bills Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 800;

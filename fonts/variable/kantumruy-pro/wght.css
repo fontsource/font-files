@@ -1,6 +1,6 @@
 /* kantumruy-pro-khmer-wght-normal */
 @font-face {
-  font-family: 'Kantumruy Pro';
+  font-family: 'Kantumruy Pro Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 700;
@@ -10,7 +10,7 @@
 
 /* kantumruy-pro-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Kantumruy Pro';
+  font-family: 'Kantumruy Pro Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 700;
@@ -20,7 +20,7 @@
 
 /* kantumruy-pro-latin-wght-normal */
 @font-face {
-  font-family: 'Kantumruy Pro';
+  font-family: 'Kantumruy Pro Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 700;

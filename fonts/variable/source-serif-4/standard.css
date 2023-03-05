@@ -1,6 +1,6 @@
 /* source-serif-4-cyrillic-ext-standard-normal */
 @font-face {
-  font-family: 'Source Serif 4';
+  font-family: 'Source Serif 4 Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;
@@ -10,7 +10,7 @@
 
 /* source-serif-4-cyrillic-standard-normal */
 @font-face {
-  font-family: 'Source Serif 4';
+  font-family: 'Source Serif 4 Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;
@@ -20,7 +20,7 @@
 
 /* source-serif-4-greek-standard-normal */
 @font-face {
-  font-family: 'Source Serif 4';
+  font-family: 'Source Serif 4 Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;
@@ -30,7 +30,7 @@
 
 /* source-serif-4-vietnamese-standard-normal */
 @font-face {
-  font-family: 'Source Serif 4';
+  font-family: 'Source Serif 4 Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;
@@ -40,7 +40,7 @@
 
 /* source-serif-4-latin-ext-standard-normal */
 @font-face {
-  font-family: 'Source Serif 4';
+  font-family: 'Source Serif 4 Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;
@@ -50,7 +50,7 @@
 
 /* source-serif-4-latin-standard-normal */
 @font-face {
-  font-family: 'Source Serif 4';
+  font-family: 'Source Serif 4 Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;

@@ -1,6 +1,6 @@
 /* rokkitt-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Rokkitt';
+  font-family: 'Rokkitt Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* rokkitt-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Rokkitt';
+  font-family: 'Rokkitt Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* rokkitt-latin-wght-italic */
 @font-face {
-  font-family: 'Rokkitt';
+  font-family: 'Rokkitt Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

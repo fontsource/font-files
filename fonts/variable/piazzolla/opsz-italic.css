@@ -1,6 +1,6 @@
 /* piazzolla-cyrillic-ext-opsz-italic */
 @font-face {
-  font-family: 'Piazzolla';
+  font-family: 'Piazzolla Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* piazzolla-cyrillic-opsz-italic */
 @font-face {
-  font-family: 'Piazzolla';
+  font-family: 'Piazzolla Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* piazzolla-greek-ext-opsz-italic */
 @font-face {
-  font-family: 'Piazzolla';
+  font-family: 'Piazzolla Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -30,7 +30,7 @@
 
 /* piazzolla-greek-opsz-italic */
 @font-face {
-  font-family: 'Piazzolla';
+  font-family: 'Piazzolla Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -40,7 +40,7 @@
 
 /* piazzolla-vietnamese-opsz-italic */
 @font-face {
-  font-family: 'Piazzolla';
+  font-family: 'Piazzolla Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -50,7 +50,7 @@
 
 /* piazzolla-latin-ext-opsz-italic */
 @font-face {
-  font-family: 'Piazzolla';
+  font-family: 'Piazzolla Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -60,7 +60,7 @@
 
 /* piazzolla-latin-opsz-italic */
 @font-face {
-  font-family: 'Piazzolla';
+  font-family: 'Piazzolla Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

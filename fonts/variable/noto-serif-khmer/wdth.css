@@ -1,6 +1,6 @@
 /* noto-serif-khmer-khmer-wdth-normal */
 @font-face {
-  font-family: 'Noto Serif Khmer';
+  font-family: 'Noto Serif Khmer Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -11,7 +11,7 @@
 
 /* noto-serif-khmer-latin-ext-wdth-normal */
 @font-face {
-  font-family: 'Noto Serif Khmer';
+  font-family: 'Noto Serif Khmer Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -22,7 +22,7 @@
 
 /* noto-serif-khmer-latin-wdth-normal */
 @font-face {
-  font-family: 'Noto Serif Khmer';
+  font-family: 'Noto Serif Khmer Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

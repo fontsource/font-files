@@ -1,6 +1,6 @@
 /* archivo-narrow-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Archivo Narrow';
+  font-family: 'Archivo Narrow Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -10,7 +10,7 @@
 
 /* archivo-narrow-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Archivo Narrow';
+  font-family: 'Archivo Narrow Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -20,7 +20,7 @@
 
 /* archivo-narrow-latin-wght-italic */
 @font-face {
-  font-family: 'Archivo Narrow';
+  font-family: 'Archivo Narrow Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;

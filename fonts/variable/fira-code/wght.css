@@ -1,6 +1,6 @@
 /* fira-code-cyrillic-ext-wght-normal */
 @font-face {
-  font-family: 'Fira Code';
+  font-family: 'Fira Code Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;
@@ -10,7 +10,7 @@
 
 /* fira-code-cyrillic-wght-normal */
 @font-face {
-  font-family: 'Fira Code';
+  font-family: 'Fira Code Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;
@@ -20,7 +20,7 @@
 
 /* fira-code-greek-ext-wght-normal */
 @font-face {
-  font-family: 'Fira Code';
+  font-family: 'Fira Code Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;
@@ -30,7 +30,7 @@
 
 /* fira-code-greek-wght-normal */
 @font-face {
-  font-family: 'Fira Code';
+  font-family: 'Fira Code Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;
@@ -40,7 +40,7 @@
 
 /* fira-code-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Fira Code';
+  font-family: 'Fira Code Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;
@@ -50,7 +50,7 @@
 
 /* fira-code-latin-wght-normal */
 @font-face {
-  font-family: 'Fira Code';
+  font-family: 'Fira Code Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;

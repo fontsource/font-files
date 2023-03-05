@@ -1,6 +1,6 @@
 /* truculenta-vietnamese-wght-normal */
 @font-face {
-  font-family: 'Truculenta';
+  font-family: 'Truculenta Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* truculenta-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Truculenta';
+  font-family: 'Truculenta Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* truculenta-latin-wght-normal */
 @font-face {
-  font-family: 'Truculenta';
+  font-family: 'Truculenta Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

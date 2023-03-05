@@ -1,6 +1,6 @@
 /* anek-odia-oriya-wght-normal */
 @font-face {
-  font-family: 'Anek Odia';
+  font-family: 'Anek Odia Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 800;
@@ -10,7 +10,7 @@
 
 /* anek-odia-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Anek Odia';
+  font-family: 'Anek Odia Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 800;
@@ -20,7 +20,7 @@
 
 /* anek-odia-latin-wght-normal */
 @font-face {
-  font-family: 'Anek Odia';
+  font-family: 'Anek Odia Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 800;

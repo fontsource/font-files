@@ -1,6 +1,6 @@
 /* open-sans-cyrillic-ext-standard-normal */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Open Sans Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 800;
@@ -11,7 +11,7 @@
 
 /* open-sans-cyrillic-standard-normal */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Open Sans Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 800;
@@ -22,7 +22,7 @@
 
 /* open-sans-greek-ext-standard-normal */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Open Sans Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 800;
@@ -33,7 +33,7 @@
 
 /* open-sans-greek-standard-normal */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Open Sans Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 800;
@@ -44,7 +44,7 @@
 
 /* open-sans-hebrew-standard-normal */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Open Sans Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 800;
@@ -55,7 +55,7 @@
 
 /* open-sans-vietnamese-standard-normal */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Open Sans Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 800;
@@ -66,7 +66,7 @@
 
 /* open-sans-latin-ext-standard-normal */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Open Sans Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 800;
@@ -77,7 +77,7 @@
 
 /* open-sans-latin-standard-normal */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Open Sans Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 800;

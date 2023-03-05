@@ -1,6 +1,6 @@
 /* stix-two-text-cyrillic-ext-wght-italic */
 @font-face {
-  font-family: 'STIX Two Text';
+  font-family: 'STIX Two Text Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -10,7 +10,7 @@
 
 /* stix-two-text-cyrillic-wght-italic */
 @font-face {
-  font-family: 'STIX Two Text';
+  font-family: 'STIX Two Text Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -20,7 +20,7 @@
 
 /* stix-two-text-greek-wght-italic */
 @font-face {
-  font-family: 'STIX Two Text';
+  font-family: 'STIX Two Text Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -30,7 +30,7 @@
 
 /* stix-two-text-vietnamese-wght-italic */
 @font-face {
-  font-family: 'STIX Two Text';
+  font-family: 'STIX Two Text Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -40,7 +40,7 @@
 
 /* stix-two-text-latin-ext-wght-italic */
 @font-face {
-  font-family: 'STIX Two Text';
+  font-family: 'STIX Two Text Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -50,7 +50,7 @@
 
 /* stix-two-text-latin-wght-italic */
 @font-face {
-  font-family: 'STIX Two Text';
+  font-family: 'STIX Two Text Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;

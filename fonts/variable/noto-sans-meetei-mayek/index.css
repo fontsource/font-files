@@ -1,6 +1,6 @@
 /* noto-sans-meetei-mayek-meetei-mayek-wght-normal */
 @font-face {
-  font-family: 'Noto Sans Meetei Mayek';
+  font-family: 'Noto Sans Meetei Mayek Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* noto-sans-meetei-mayek-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Noto Sans Meetei Mayek';
+  font-family: 'Noto Sans Meetei Mayek Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* noto-sans-meetei-mayek-latin-wght-normal */
 @font-face {
-  font-family: 'Noto Sans Meetei Mayek';
+  font-family: 'Noto Sans Meetei Mayek Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

@@ -1,6 +1,6 @@
 /* noto-sans-sinhala-sinhala-standard-normal */
 @font-face {
-  font-family: 'Noto Sans Sinhala';
+  font-family: 'Noto Sans Sinhala Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -11,7 +11,7 @@
 
 /* noto-sans-sinhala-latin-ext-standard-normal */
 @font-face {
-  font-family: 'Noto Sans Sinhala';
+  font-family: 'Noto Sans Sinhala Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -22,7 +22,7 @@
 
 /* noto-sans-sinhala-latin-standard-normal */
 @font-face {
-  font-family: 'Noto Sans Sinhala';
+  font-family: 'Noto Sans Sinhala Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

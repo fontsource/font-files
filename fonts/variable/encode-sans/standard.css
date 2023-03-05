@@ -1,6 +1,6 @@
 /* encode-sans-vietnamese-standard-normal */
 @font-face {
-  font-family: 'Encode Sans';
+  font-family: 'Encode Sans Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -11,7 +11,7 @@
 
 /* encode-sans-latin-ext-standard-normal */
 @font-face {
-  font-family: 'Encode Sans';
+  font-family: 'Encode Sans Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -22,7 +22,7 @@
 
 /* encode-sans-latin-standard-normal */
 @font-face {
-  font-family: 'Encode Sans';
+  font-family: 'Encode Sans Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

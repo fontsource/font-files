@@ -1,6 +1,6 @@
 /* noto-serif-malayalam-malayalam-wght-normal */
 @font-face {
-  font-family: 'Noto Serif Malayalam';
+  font-family: 'Noto Serif Malayalam Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* noto-serif-malayalam-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Noto Serif Malayalam';
+  font-family: 'Noto Serif Malayalam Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* noto-serif-malayalam-latin-wght-normal */
 @font-face {
-  font-family: 'Noto Serif Malayalam';
+  font-family: 'Noto Serif Malayalam Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

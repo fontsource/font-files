@@ -1,6 +1,6 @@
 /* karla-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Karla';
+  font-family: 'Karla Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 800;
@@ -10,7 +10,7 @@
 
 /* karla-latin-wght-italic */
 @font-face {
-  font-family: 'Karla';
+  font-family: 'Karla Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 800;

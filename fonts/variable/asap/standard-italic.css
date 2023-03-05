@@ -1,6 +1,6 @@
 /* asap-vietnamese-standard-italic */
 @font-face {
-  font-family: 'Asap';
+  font-family: 'Asap Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -11,7 +11,7 @@
 
 /* asap-latin-ext-standard-italic */
 @font-face {
-  font-family: 'Asap';
+  font-family: 'Asap Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -22,7 +22,7 @@
 
 /* asap-latin-standard-italic */
 @font-face {
-  font-family: 'Asap';
+  font-family: 'Asap Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

@@ -1,6 +1,6 @@
 /* ruda-cyrillic-wght-normal */
 @font-face {
-  font-family: 'Ruda';
+  font-family: 'Ruda Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;
@@ -10,7 +10,7 @@
 
 /* ruda-vietnamese-wght-normal */
 @font-face {
-  font-family: 'Ruda';
+  font-family: 'Ruda Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;
@@ -20,7 +20,7 @@
 
 /* ruda-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Ruda';
+  font-family: 'Ruda Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;
@@ -30,7 +30,7 @@
 
 /* ruda-latin-wght-normal */
 @font-face {
-  font-family: 'Ruda';
+  font-family: 'Ruda Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;

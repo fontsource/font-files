@@ -1,6 +1,6 @@
 /* catamaran-tamil-wght-normal */
 @font-face {
-  font-family: 'Catamaran';
+  font-family: 'Catamaran Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* catamaran-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Catamaran';
+  font-family: 'Catamaran Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* catamaran-latin-wght-normal */
 @font-face {
-  font-family: 'Catamaran';
+  font-family: 'Catamaran Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

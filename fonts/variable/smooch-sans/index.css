@@ -1,6 +1,6 @@
 /* smooch-sans-vietnamese-wght-normal */
 @font-face {
-  font-family: 'Smooch Sans';
+  font-family: 'Smooch Sans Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* smooch-sans-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Smooch Sans';
+  font-family: 'Smooch Sans Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* smooch-sans-latin-wght-normal */
 @font-face {
-  font-family: 'Smooch Sans';
+  font-family: 'Smooch Sans Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

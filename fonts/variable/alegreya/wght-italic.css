@@ -1,6 +1,6 @@
 /* alegreya-cyrillic-ext-wght-italic */
 @font-face {
-  font-family: 'Alegreya';
+  font-family: 'Alegreya Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;
@@ -10,7 +10,7 @@
 
 /* alegreya-cyrillic-wght-italic */
 @font-face {
-  font-family: 'Alegreya';
+  font-family: 'Alegreya Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;
@@ -20,7 +20,7 @@
 
 /* alegreya-greek-ext-wght-italic */
 @font-face {
-  font-family: 'Alegreya';
+  font-family: 'Alegreya Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;
@@ -30,7 +30,7 @@
 
 /* alegreya-greek-wght-italic */
 @font-face {
-  font-family: 'Alegreya';
+  font-family: 'Alegreya Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;
@@ -40,7 +40,7 @@
 
 /* alegreya-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Alegreya';
+  font-family: 'Alegreya Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;
@@ -50,7 +50,7 @@
 
 /* alegreya-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Alegreya';
+  font-family: 'Alegreya Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;
@@ -60,7 +60,7 @@
 
 /* alegreya-latin-wght-italic */
 @font-face {
-  font-family: 'Alegreya';
+  font-family: 'Alegreya Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;

@@ -1,6 +1,6 @@
 /* gantari-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Gantari';
+  font-family: 'Gantari Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* gantari-latin-wght-normal */
 @font-face {
-  font-family: 'Gantari';
+  font-family: 'Gantari Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

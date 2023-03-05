@@ -1,6 +1,6 @@
 /* nabla-cyrillic-ext-full-normal */
 @font-face {
-  font-family: 'Nabla';
+  font-family: 'Nabla Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400;
@@ -10,7 +10,7 @@
 
 /* nabla-math-full-normal */
 @font-face {
-  font-family: 'Nabla';
+  font-family: 'Nabla Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400;
@@ -20,7 +20,7 @@
 
 /* nabla-vietnamese-full-normal */
 @font-face {
-  font-family: 'Nabla';
+  font-family: 'Nabla Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400;
@@ -30,7 +30,7 @@
 
 /* nabla-latin-ext-full-normal */
 @font-face {
-  font-family: 'Nabla';
+  font-family: 'Nabla Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400;
@@ -40,7 +40,7 @@
 
 /* nabla-latin-full-normal */
 @font-face {
-  font-family: 'Nabla';
+  font-family: 'Nabla Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400;

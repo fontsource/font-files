@@ -1,6 +1,6 @@
 /* anek-devanagari-devanagari-wght-normal */
 @font-face {
-  font-family: 'Anek Devanagari';
+  font-family: 'Anek Devanagari Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 800;
@@ -10,7 +10,7 @@
 
 /* anek-devanagari-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Anek Devanagari';
+  font-family: 'Anek Devanagari Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 800;
@@ -20,7 +20,7 @@
 
 /* anek-devanagari-latin-wght-normal */
 @font-face {
-  font-family: 'Anek Devanagari';
+  font-family: 'Anek Devanagari Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 800;

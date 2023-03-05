@@ -1,6 +1,6 @@
 /* literata-cyrillic-ext-wght-italic */
 @font-face {
-  font-family: 'Literata';
+  font-family: 'Literata Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;
@@ -10,7 +10,7 @@
 
 /* literata-cyrillic-wght-italic */
 @font-face {
-  font-family: 'Literata';
+  font-family: 'Literata Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;
@@ -20,7 +20,7 @@
 
 /* literata-greek-ext-wght-italic */
 @font-face {
-  font-family: 'Literata';
+  font-family: 'Literata Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;
@@ -30,7 +30,7 @@
 
 /* literata-greek-wght-italic */
 @font-face {
-  font-family: 'Literata';
+  font-family: 'Literata Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;
@@ -40,7 +40,7 @@
 
 /* literata-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Literata';
+  font-family: 'Literata Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;
@@ -50,7 +50,7 @@
 
 /* literata-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Literata';
+  font-family: 'Literata Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;
@@ -60,7 +60,7 @@
 
 /* literata-latin-wght-italic */
 @font-face {
-  font-family: 'Literata';
+  font-family: 'Literata Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;

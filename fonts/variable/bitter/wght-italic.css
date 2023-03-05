@@ -1,6 +1,6 @@
 /* bitter-cyrillic-ext-wght-italic */
 @font-face {
-  font-family: 'Bitter';
+  font-family: 'Bitter Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* bitter-cyrillic-wght-italic */
 @font-face {
-  font-family: 'Bitter';
+  font-family: 'Bitter Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* bitter-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Bitter';
+  font-family: 'Bitter Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -30,7 +30,7 @@
 
 /* bitter-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Bitter';
+  font-family: 'Bitter Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -40,7 +40,7 @@
 
 /* bitter-latin-wght-italic */
 @font-face {
-  font-family: 'Bitter';
+  font-family: 'Bitter Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

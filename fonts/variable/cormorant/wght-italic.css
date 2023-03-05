@@ -1,6 +1,6 @@
 /* cormorant-cyrillic-ext-wght-italic */
 @font-face {
-  font-family: 'Cormorant';
+  font-family: 'Cormorant Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;
@@ -10,7 +10,7 @@
 
 /* cormorant-cyrillic-wght-italic */
 @font-face {
-  font-family: 'Cormorant';
+  font-family: 'Cormorant Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;
@@ -20,7 +20,7 @@
 
 /* cormorant-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Cormorant';
+  font-family: 'Cormorant Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;
@@ -30,7 +30,7 @@
 
 /* cormorant-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Cormorant';
+  font-family: 'Cormorant Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;
@@ -40,7 +40,7 @@
 
 /* cormorant-latin-wght-italic */
 @font-face {
-  font-family: 'Cormorant';
+  font-family: 'Cormorant Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;

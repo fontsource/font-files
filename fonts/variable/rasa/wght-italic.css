@@ -1,6 +1,6 @@
 /* rasa-gujarati-wght-italic */
 @font-face {
-  font-family: 'Rasa';
+  font-family: 'Rasa Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;
@@ -10,7 +10,7 @@
 
 /* rasa-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Rasa';
+  font-family: 'Rasa Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;
@@ -20,7 +20,7 @@
 
 /* rasa-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Rasa';
+  font-family: 'Rasa Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;
@@ -30,7 +30,7 @@
 
 /* rasa-latin-wght-italic */
 @font-face {
-  font-family: 'Rasa';
+  font-family: 'Rasa Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;

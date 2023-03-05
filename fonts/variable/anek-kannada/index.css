@@ -1,6 +1,6 @@
 /* anek-kannada-kannada-wght-normal */
 @font-face {
-  font-family: 'Anek Kannada';
+  font-family: 'Anek Kannada Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 800;
@@ -10,7 +10,7 @@
 
 /* anek-kannada-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Anek Kannada';
+  font-family: 'Anek Kannada Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 800;
@@ -20,7 +20,7 @@
 
 /* anek-kannada-latin-wght-normal */
 @font-face {
-  font-family: 'Anek Kannada';
+  font-family: 'Anek Kannada Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 800;

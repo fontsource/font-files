@@ -1,6 +1,6 @@
 /* oswald-cyrillic-ext-wght-normal */
 @font-face {
-  font-family: 'Oswald';
+  font-family: 'Oswald Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 700;
@@ -10,7 +10,7 @@
 
 /* oswald-cyrillic-wght-normal */
 @font-face {
-  font-family: 'Oswald';
+  font-family: 'Oswald Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 700;
@@ -20,7 +20,7 @@
 
 /* oswald-vietnamese-wght-normal */
 @font-face {
-  font-family: 'Oswald';
+  font-family: 'Oswald Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 700;
@@ -30,7 +30,7 @@
 
 /* oswald-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Oswald';
+  font-family: 'Oswald Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 700;
@@ -40,7 +40,7 @@
 
 /* oswald-latin-wght-normal */
 @font-face {
-  font-family: 'Oswald';
+  font-family: 'Oswald Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 700;

@@ -1,6 +1,6 @@
 /* noto-sans-hanifi-rohingya-hanifi-rohingya-wght-normal */
 @font-face {
-  font-family: 'Noto Sans Hanifi Rohingya';
+  font-family: 'Noto Sans Hanifi Rohingya Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -10,7 +10,7 @@
 
 /* noto-sans-hanifi-rohingya-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Noto Sans Hanifi Rohingya';
+  font-family: 'Noto Sans Hanifi Rohingya Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -20,7 +20,7 @@
 
 /* noto-sans-hanifi-rohingya-latin-wght-normal */
 @font-face {
-  font-family: 'Noto Sans Hanifi Rohingya';
+  font-family: 'Noto Sans Hanifi Rohingya Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;

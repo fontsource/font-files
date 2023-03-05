@@ -1,6 +1,6 @@
 /* cabin-vietnamese-wdth-italic */
 @font-face {
-  font-family: 'Cabin';
+  font-family: 'Cabin Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -11,7 +11,7 @@
 
 /* cabin-latin-ext-wdth-italic */
 @font-face {
-  font-family: 'Cabin';
+  font-family: 'Cabin Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -22,7 +22,7 @@
 
 /* cabin-latin-wdth-italic */
 @font-face {
-  font-family: 'Cabin';
+  font-family: 'Cabin Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;

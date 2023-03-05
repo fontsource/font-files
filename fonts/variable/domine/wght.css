@@ -1,6 +1,6 @@
 /* domine-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Domine';
+  font-family: 'Domine Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -10,7 +10,7 @@
 
 /* domine-latin-wght-normal */
 @font-face {
-  font-family: 'Domine';
+  font-family: 'Domine Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;

@@ -1,6 +1,6 @@
 /* noto-sans-symbols-symbols-wght-normal */
 @font-face {
-  font-family: 'Noto Sans Symbols';
+  font-family: 'Noto Sans Symbols Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* noto-sans-symbols-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Noto Sans Symbols';
+  font-family: 'Noto Sans Symbols Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* noto-sans-symbols-latin-wght-normal */
 @font-face {
-  font-family: 'Noto Sans Symbols';
+  font-family: 'Noto Sans Symbols Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

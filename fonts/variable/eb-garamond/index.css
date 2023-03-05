@@ -1,6 +1,6 @@
 /* eb-garamond-cyrillic-ext-wght-italic */
 @font-face {
-  font-family: 'EB Garamond';
+  font-family: 'EB Garamond Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;
@@ -10,7 +10,7 @@
 
 /* eb-garamond-cyrillic-wght-italic */
 @font-face {
-  font-family: 'EB Garamond';
+  font-family: 'EB Garamond Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;
@@ -20,7 +20,7 @@
 
 /* eb-garamond-greek-ext-wght-italic */
 @font-face {
-  font-family: 'EB Garamond';
+  font-family: 'EB Garamond Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;
@@ -30,7 +30,7 @@
 
 /* eb-garamond-greek-wght-italic */
 @font-face {
-  font-family: 'EB Garamond';
+  font-family: 'EB Garamond Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;
@@ -40,7 +40,7 @@
 
 /* eb-garamond-vietnamese-wght-italic */
 @font-face {
-  font-family: 'EB Garamond';
+  font-family: 'EB Garamond Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;
@@ -50,7 +50,7 @@
 
 /* eb-garamond-latin-ext-wght-italic */
 @font-face {
-  font-family: 'EB Garamond';
+  font-family: 'EB Garamond Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;
@@ -60,7 +60,7 @@
 
 /* eb-garamond-latin-wght-italic */
 @font-face {
-  font-family: 'EB Garamond';
+  font-family: 'EB Garamond Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;

@@ -1,6 +1,6 @@
 /* el-messiri-arabic-wght-normal */
 @font-face {
-  font-family: 'El Messiri';
+  font-family: 'El Messiri Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -10,7 +10,7 @@
 
 /* el-messiri-cyrillic-wght-normal */
 @font-face {
-  font-family: 'El Messiri';
+  font-family: 'El Messiri Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -20,7 +20,7 @@
 
 /* el-messiri-latin-ext-wght-normal */
 @font-face {
-  font-family: 'El Messiri';
+  font-family: 'El Messiri Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -30,7 +30,7 @@
 
 /* el-messiri-latin-wght-normal */
 @font-face {
-  font-family: 'El Messiri';
+  font-family: 'El Messiri Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;

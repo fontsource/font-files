@@ -1,6 +1,6 @@
 /* encode-sans-sc-vietnamese-wght-normal */
 @font-face {
-  font-family: 'Encode Sans SC';
+  font-family: 'Encode Sans SC Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* encode-sans-sc-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Encode Sans SC';
+  font-family: 'Encode Sans SC Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* encode-sans-sc-latin-wght-normal */
 @font-face {
-  font-family: 'Encode Sans SC';
+  font-family: 'Encode Sans SC Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

@@ -1,6 +1,6 @@
 /* dynapuff-cyrillic-ext-wght-normal */
 @font-face {
-  font-family: 'DynaPuff';
+  font-family: 'DynaPuff Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -10,7 +10,7 @@
 
 /* dynapuff-latin-ext-wght-normal */
 @font-face {
-  font-family: 'DynaPuff';
+  font-family: 'DynaPuff Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -20,7 +20,7 @@
 
 /* dynapuff-latin-wght-normal */
 @font-face {
-  font-family: 'DynaPuff';
+  font-family: 'DynaPuff Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;

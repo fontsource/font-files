@@ -1,6 +1,6 @@
 /* cairo-play-arabic-standard-normal */
 @font-face {
-  font-family: 'Cairo Play';
+  font-family: 'Cairo Play Variable';
   font-style: oblique -11deg 11deg;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 1000;
@@ -10,7 +10,7 @@
 
 /* cairo-play-latin-ext-standard-normal */
 @font-face {
-  font-family: 'Cairo Play';
+  font-family: 'Cairo Play Variable';
   font-style: oblique -11deg 11deg;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 1000;
@@ -20,7 +20,7 @@
 
 /* cairo-play-latin-standard-normal */
 @font-face {
-  font-family: 'Cairo Play';
+  font-family: 'Cairo Play Variable';
   font-style: oblique -11deg 11deg;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 1000;

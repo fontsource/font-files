@@ -1,6 +1,6 @@
 /* roboto-slab-cyrillic-ext-wght-normal */
 @font-face {
-  font-family: 'Roboto Slab';
+  font-family: 'Roboto Slab Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* roboto-slab-cyrillic-wght-normal */
 @font-face {
-  font-family: 'Roboto Slab';
+  font-family: 'Roboto Slab Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* roboto-slab-greek-ext-wght-normal */
 @font-face {
-  font-family: 'Roboto Slab';
+  font-family: 'Roboto Slab Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -30,7 +30,7 @@
 
 /* roboto-slab-greek-wght-normal */
 @font-face {
-  font-family: 'Roboto Slab';
+  font-family: 'Roboto Slab Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -40,7 +40,7 @@
 
 /* roboto-slab-vietnamese-wght-normal */
 @font-face {
-  font-family: 'Roboto Slab';
+  font-family: 'Roboto Slab Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -50,7 +50,7 @@
 
 /* roboto-slab-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Roboto Slab';
+  font-family: 'Roboto Slab Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -60,7 +60,7 @@
 
 /* roboto-slab-latin-wght-normal */
 @font-face {
-  font-family: 'Roboto Slab';
+  font-family: 'Roboto Slab Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

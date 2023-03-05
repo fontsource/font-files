@@ -1,6 +1,6 @@
 /* cinzel-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Cinzel';
+  font-family: 'Cinzel Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;
@@ -10,7 +10,7 @@
 
 /* cinzel-latin-wght-normal */
 @font-face {
-  font-family: 'Cinzel';
+  font-family: 'Cinzel Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;

@@ -1,6 +1,6 @@
 /* playfair-display-cyrillic-wght-italic */
 @font-face {
-  font-family: 'Playfair Display';
+  font-family: 'Playfair Display Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;
@@ -10,7 +10,7 @@
 
 /* playfair-display-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Playfair Display';
+  font-family: 'Playfair Display Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;
@@ -20,7 +20,7 @@
 
 /* playfair-display-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Playfair Display';
+  font-family: 'Playfair Display Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;
@@ -30,7 +30,7 @@
 
 /* playfair-display-latin-wght-italic */
 @font-face {
-  font-family: 'Playfair Display';
+  font-family: 'Playfair Display Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;

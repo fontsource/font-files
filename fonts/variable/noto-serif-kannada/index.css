@@ -1,6 +1,6 @@
 /* noto-serif-kannada-kannada-wght-normal */
 @font-face {
-  font-family: 'Noto Serif Kannada';
+  font-family: 'Noto Serif Kannada Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* noto-serif-kannada-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Noto Serif Kannada';
+  font-family: 'Noto Serif Kannada Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* noto-serif-kannada-latin-wght-normal */
 @font-face {
-  font-family: 'Noto Serif Kannada';
+  font-family: 'Noto Serif Kannada Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

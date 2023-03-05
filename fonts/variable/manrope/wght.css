@@ -1,6 +1,6 @@
 /* manrope-cyrillic-ext-wght-normal */
 @font-face {
-  font-family: 'Manrope';
+  font-family: 'Manrope Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 800;
@@ -10,7 +10,7 @@
 
 /* manrope-cyrillic-wght-normal */
 @font-face {
-  font-family: 'Manrope';
+  font-family: 'Manrope Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 800;
@@ -20,7 +20,7 @@
 
 /* manrope-greek-wght-normal */
 @font-face {
-  font-family: 'Manrope';
+  font-family: 'Manrope Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 800;
@@ -30,7 +30,7 @@
 
 /* manrope-vietnamese-wght-normal */
 @font-face {
-  font-family: 'Manrope';
+  font-family: 'Manrope Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 800;
@@ -40,7 +40,7 @@
 
 /* manrope-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Manrope';
+  font-family: 'Manrope Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 800;
@@ -50,7 +50,7 @@
 
 /* manrope-latin-wght-normal */
 @font-face {
-  font-family: 'Manrope';
+  font-family: 'Manrope Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 800;

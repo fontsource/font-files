@@ -1,6 +1,6 @@
 /* phudu-cyrillic-ext-wght-normal */
 @font-face {
-  font-family: 'Phudu';
+  font-family: 'Phudu Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 900;
@@ -10,7 +10,7 @@
 
 /* phudu-vietnamese-wght-normal */
 @font-face {
-  font-family: 'Phudu';
+  font-family: 'Phudu Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 900;
@@ -20,7 +20,7 @@
 
 /* phudu-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Phudu';
+  font-family: 'Phudu Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 900;
@@ -30,7 +30,7 @@
 
 /* phudu-latin-wght-normal */
 @font-face {
-  font-family: 'Phudu';
+  font-family: 'Phudu Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 900;

@@ -1,6 +1,6 @@
 /* kumbh-sans-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Kumbh Sans';
+  font-family: 'Kumbh Sans Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* kumbh-sans-latin-wght-normal */
 @font-face {
-  font-family: 'Kumbh Sans';
+  font-family: 'Kumbh Sans Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

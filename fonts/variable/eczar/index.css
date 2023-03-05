@@ -1,6 +1,6 @@
 /* eczar-devanagari-wght-normal */
 @font-face {
-  font-family: 'Eczar';
+  font-family: 'Eczar Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;
@@ -10,7 +10,7 @@
 
 /* eczar-greek-ext-wght-normal */
 @font-face {
-  font-family: 'Eczar';
+  font-family: 'Eczar Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;
@@ -20,7 +20,7 @@
 
 /* eczar-greek-wght-normal */
 @font-face {
-  font-family: 'Eczar';
+  font-family: 'Eczar Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;
@@ -30,7 +30,7 @@
 
 /* eczar-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Eczar';
+  font-family: 'Eczar Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;
@@ -40,7 +40,7 @@
 
 /* eczar-latin-wght-normal */
 @font-face {
-  font-family: 'Eczar';
+  font-family: 'Eczar Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;

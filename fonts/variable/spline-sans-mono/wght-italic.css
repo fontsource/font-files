@@ -1,6 +1,6 @@
 /* spline-sans-mono-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Spline Sans Mono';
+  font-family: 'Spline Sans Mono Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;
@@ -10,7 +10,7 @@
 
 /* spline-sans-mono-latin-wght-italic */
 @font-face {
-  font-family: 'Spline Sans Mono';
+  font-family: 'Spline Sans Mono Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;

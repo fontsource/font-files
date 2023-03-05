@@ -1,6 +1,6 @@
 /* gemunu-libre-sinhala-wght-normal */
 @font-face {
-  font-family: 'Gemunu Libre';
+  font-family: 'Gemunu Libre Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 800;
@@ -10,7 +10,7 @@
 
 /* gemunu-libre-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Gemunu Libre';
+  font-family: 'Gemunu Libre Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 800;
@@ -20,7 +20,7 @@
 
 /* gemunu-libre-latin-wght-normal */
 @font-face {
-  font-family: 'Gemunu Libre';
+  font-family: 'Gemunu Libre Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 800;

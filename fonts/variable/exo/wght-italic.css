@@ -1,6 +1,6 @@
 /* exo-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Exo';
+  font-family: 'Exo Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* exo-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Exo';
+  font-family: 'Exo Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* exo-latin-wght-italic */
 @font-face {
-  font-family: 'Exo';
+  font-family: 'Exo Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

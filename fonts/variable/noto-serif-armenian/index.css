@@ -1,6 +1,6 @@
 /* noto-serif-armenian-armenian-wght-normal */
 @font-face {
-  font-family: 'Noto Serif Armenian';
+  font-family: 'Noto Serif Armenian Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* noto-serif-armenian-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Noto Serif Armenian';
+  font-family: 'Noto Serif Armenian Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* noto-serif-armenian-latin-wght-normal */
 @font-face {
-  font-family: 'Noto Serif Armenian';
+  font-family: 'Noto Serif Armenian Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

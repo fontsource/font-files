@@ -1,6 +1,6 @@
 /* finlandica-cyrillic-ext-wght-italic */
 @font-face {
-  font-family: 'Finlandica';
+  font-family: 'Finlandica Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -10,7 +10,7 @@
 
 /* finlandica-cyrillic-wght-italic */
 @font-face {
-  font-family: 'Finlandica';
+  font-family: 'Finlandica Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -20,7 +20,7 @@
 
 /* finlandica-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Finlandica';
+  font-family: 'Finlandica Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -30,7 +30,7 @@
 
 /* finlandica-latin-wght-italic */
 @font-face {
-  font-family: 'Finlandica';
+  font-family: 'Finlandica Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;

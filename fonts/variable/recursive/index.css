@@ -1,6 +1,6 @@
 /* recursive-cyrillic-ext-wght-normal */
 @font-face {
-  font-family: 'Recursive';
+  font-family: 'Recursive Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 1000;
@@ -10,7 +10,7 @@
 
 /* recursive-vietnamese-wght-normal */
 @font-face {
-  font-family: 'Recursive';
+  font-family: 'Recursive Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 1000;
@@ -20,7 +20,7 @@
 
 /* recursive-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Recursive';
+  font-family: 'Recursive Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 1000;
@@ -30,7 +30,7 @@
 
 /* recursive-latin-wght-normal */
 @font-face {
-  font-family: 'Recursive';
+  font-family: 'Recursive Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 1000;

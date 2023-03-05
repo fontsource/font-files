@@ -1,6 +1,6 @@
 /* noto-sans-bengali-bengali-standard-normal */
 @font-face {
-  font-family: 'Noto Sans Bengali';
+  font-family: 'Noto Sans Bengali Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -11,7 +11,7 @@
 
 /* noto-sans-bengali-latin-ext-standard-normal */
 @font-face {
-  font-family: 'Noto Sans Bengali';
+  font-family: 'Noto Sans Bengali Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -22,7 +22,7 @@
 
 /* noto-sans-bengali-latin-standard-normal */
 @font-face {
-  font-family: 'Noto Sans Bengali';
+  font-family: 'Noto Sans Bengali Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

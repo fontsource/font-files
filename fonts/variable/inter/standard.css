@@ -1,6 +1,6 @@
 /* inter-cyrillic-ext-standard-normal */
 @font-face {
-  font-family: 'Inter';
+  font-family: 'Inter Variable';
   font-style: oblique 0deg 10deg;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* inter-cyrillic-standard-normal */
 @font-face {
-  font-family: 'Inter';
+  font-family: 'Inter Variable';
   font-style: oblique 0deg 10deg;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* inter-greek-ext-standard-normal */
 @font-face {
-  font-family: 'Inter';
+  font-family: 'Inter Variable';
   font-style: oblique 0deg 10deg;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -30,7 +30,7 @@
 
 /* inter-greek-standard-normal */
 @font-face {
-  font-family: 'Inter';
+  font-family: 'Inter Variable';
   font-style: oblique 0deg 10deg;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -40,7 +40,7 @@
 
 /* inter-vietnamese-standard-normal */
 @font-face {
-  font-family: 'Inter';
+  font-family: 'Inter Variable';
   font-style: oblique 0deg 10deg;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -50,7 +50,7 @@
 
 /* inter-latin-ext-standard-normal */
 @font-face {
-  font-family: 'Inter';
+  font-family: 'Inter Variable';
   font-style: oblique 0deg 10deg;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -60,7 +60,7 @@
 
 /* inter-latin-standard-normal */
 @font-face {
-  font-family: 'Inter';
+  font-family: 'Inter Variable';
   font-style: oblique 0deg 10deg;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

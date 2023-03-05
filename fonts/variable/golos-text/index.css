@@ -1,6 +1,6 @@
 /* golos-text-cyrillic-ext-wght-normal */
 @font-face {
-  font-family: 'Golos Text';
+  font-family: 'Golos Text Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;
@@ -10,7 +10,7 @@
 
 /* golos-text-cyrillic-wght-normal */
 @font-face {
-  font-family: 'Golos Text';
+  font-family: 'Golos Text Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;
@@ -20,7 +20,7 @@
 
 /* golos-text-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Golos Text';
+  font-family: 'Golos Text Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;
@@ -30,7 +30,7 @@
 
 /* golos-text-latin-wght-normal */
 @font-face {
-  font-family: 'Golos Text';
+  font-family: 'Golos Text Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;

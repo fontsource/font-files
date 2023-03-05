@@ -1,6 +1,6 @@
 /* changa-arabic-wght-normal */
 @font-face {
-  font-family: 'Changa';
+  font-family: 'Changa Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 800;
@@ -10,7 +10,7 @@
 
 /* changa-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Changa';
+  font-family: 'Changa Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 800;
@@ -20,7 +20,7 @@
 
 /* changa-latin-wght-normal */
 @font-face {
-  font-family: 'Changa';
+  font-family: 'Changa Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 800;

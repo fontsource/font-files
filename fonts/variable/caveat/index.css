@@ -1,6 +1,6 @@
 /* caveat-cyrillic-ext-wght-normal */
 @font-face {
-  font-family: 'Caveat';
+  font-family: 'Caveat Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -10,7 +10,7 @@
 
 /* caveat-cyrillic-wght-normal */
 @font-face {
-  font-family: 'Caveat';
+  font-family: 'Caveat Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -20,7 +20,7 @@
 
 /* caveat-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Caveat';
+  font-family: 'Caveat Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -30,7 +30,7 @@
 
 /* caveat-latin-wght-normal */
 @font-face {
-  font-family: 'Caveat';
+  font-family: 'Caveat Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;

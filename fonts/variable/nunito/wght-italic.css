@@ -1,6 +1,6 @@
 /* nunito-cyrillic-ext-wght-italic */
 @font-face {
-  font-family: 'Nunito';
+  font-family: 'Nunito Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 1000;
@@ -10,7 +10,7 @@
 
 /* nunito-cyrillic-wght-italic */
 @font-face {
-  font-family: 'Nunito';
+  font-family: 'Nunito Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 1000;
@@ -20,7 +20,7 @@
 
 /* nunito-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Nunito';
+  font-family: 'Nunito Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 1000;
@@ -30,7 +30,7 @@
 
 /* nunito-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Nunito';
+  font-family: 'Nunito Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 1000;
@@ -40,7 +40,7 @@
 
 /* nunito-latin-wght-italic */
 @font-face {
-  font-family: 'Nunito';
+  font-family: 'Nunito Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 1000;

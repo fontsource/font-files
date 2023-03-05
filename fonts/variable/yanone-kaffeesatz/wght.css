@@ -1,6 +1,6 @@
 /* yanone-kaffeesatz-cyrillic-wght-normal */
 @font-face {
-  font-family: 'Yanone Kaffeesatz';
+  font-family: 'Yanone Kaffeesatz Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 700;
@@ -10,7 +10,7 @@
 
 /* yanone-kaffeesatz-vietnamese-wght-normal */
 @font-face {
-  font-family: 'Yanone Kaffeesatz';
+  font-family: 'Yanone Kaffeesatz Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 700;
@@ -20,7 +20,7 @@
 
 /* yanone-kaffeesatz-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Yanone Kaffeesatz';
+  font-family: 'Yanone Kaffeesatz Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 700;
@@ -30,7 +30,7 @@
 
 /* yanone-kaffeesatz-latin-wght-normal */
 @font-face {
-  font-family: 'Yanone Kaffeesatz';
+  font-family: 'Yanone Kaffeesatz Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 700;

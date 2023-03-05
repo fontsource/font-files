@@ -1,6 +1,6 @@
 /* noto-nastaliq-urdu-arabic-wght-normal */
 @font-face {
-  font-family: 'Noto Nastaliq Urdu';
+  font-family: 'Noto Nastaliq Urdu Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -10,7 +10,7 @@
 
 /* noto-nastaliq-urdu-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Noto Nastaliq Urdu';
+  font-family: 'Noto Nastaliq Urdu Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -20,7 +20,7 @@
 
 /* noto-nastaliq-urdu-latin-wght-normal */
 @font-face {
-  font-family: 'Noto Nastaliq Urdu';
+  font-family: 'Noto Nastaliq Urdu Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;

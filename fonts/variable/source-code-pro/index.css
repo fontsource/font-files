@@ -1,6 +1,6 @@
 /* source-code-pro-cyrillic-ext-wght-italic */
 @font-face {
-  font-family: 'Source Code Pro';
+  font-family: 'Source Code Pro Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;
@@ -10,7 +10,7 @@
 
 /* source-code-pro-cyrillic-wght-italic */
 @font-face {
-  font-family: 'Source Code Pro';
+  font-family: 'Source Code Pro Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;
@@ -20,7 +20,7 @@
 
 /* source-code-pro-greek-ext-wght-italic */
 @font-face {
-  font-family: 'Source Code Pro';
+  font-family: 'Source Code Pro Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;
@@ -30,7 +30,7 @@
 
 /* source-code-pro-greek-wght-italic */
 @font-face {
-  font-family: 'Source Code Pro';
+  font-family: 'Source Code Pro Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;
@@ -40,7 +40,7 @@
 
 /* source-code-pro-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Source Code Pro';
+  font-family: 'Source Code Pro Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;
@@ -50,7 +50,7 @@
 
 /* source-code-pro-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Source Code Pro';
+  font-family: 'Source Code Pro Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;
@@ -60,7 +60,7 @@
 
 /* source-code-pro-latin-wght-italic */
 @font-face {
-  font-family: 'Source Code Pro';
+  font-family: 'Source Code Pro Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 200 900;

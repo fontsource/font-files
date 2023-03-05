@@ -1,6 +1,6 @@
 /* ibarra-real-nova-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Ibarra Real Nova';
+  font-family: 'Ibarra Real Nova Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -10,7 +10,7 @@
 
 /* ibarra-real-nova-latin-wght-normal */
 @font-face {
-  font-family: 'Ibarra Real Nova';
+  font-family: 'Ibarra Real Nova Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;

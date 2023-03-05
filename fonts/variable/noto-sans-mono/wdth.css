@@ -1,6 +1,6 @@
 /* noto-sans-mono-cyrillic-ext-wdth-normal */
 @font-face {
-  font-family: 'Noto Sans Mono';
+  font-family: 'Noto Sans Mono Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -11,7 +11,7 @@
 
 /* noto-sans-mono-cyrillic-wdth-normal */
 @font-face {
-  font-family: 'Noto Sans Mono';
+  font-family: 'Noto Sans Mono Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -22,7 +22,7 @@
 
 /* noto-sans-mono-greek-ext-wdth-normal */
 @font-face {
-  font-family: 'Noto Sans Mono';
+  font-family: 'Noto Sans Mono Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -33,7 +33,7 @@
 
 /* noto-sans-mono-greek-wdth-normal */
 @font-face {
-  font-family: 'Noto Sans Mono';
+  font-family: 'Noto Sans Mono Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -44,7 +44,7 @@
 
 /* noto-sans-mono-vietnamese-wdth-normal */
 @font-face {
-  font-family: 'Noto Sans Mono';
+  font-family: 'Noto Sans Mono Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -55,7 +55,7 @@
 
 /* noto-sans-mono-latin-ext-wdth-normal */
 @font-face {
-  font-family: 'Noto Sans Mono';
+  font-family: 'Noto Sans Mono Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -66,7 +66,7 @@
 
 /* noto-sans-mono-latin-wdth-normal */
 @font-face {
-  font-family: 'Noto Sans Mono';
+  font-family: 'Noto Sans Mono Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

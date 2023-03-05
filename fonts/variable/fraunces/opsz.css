@@ -1,6 +1,6 @@
 /* fraunces-vietnamese-opsz-normal */
 @font-face {
-  font-family: 'Fraunces';
+  font-family: 'Fraunces Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* fraunces-latin-ext-opsz-normal */
 @font-face {
-  font-family: 'Fraunces';
+  font-family: 'Fraunces Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* fraunces-latin-opsz-normal */
 @font-face {
-  font-family: 'Fraunces';
+  font-family: 'Fraunces Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

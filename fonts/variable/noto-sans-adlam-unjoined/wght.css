@@ -1,6 +1,6 @@
 /* noto-sans-adlam-unjoined-adlam-wght-normal */
 @font-face {
-  font-family: 'Noto Sans Adlam Unjoined';
+  font-family: 'Noto Sans Adlam Unjoined Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -10,7 +10,7 @@
 
 /* noto-sans-adlam-unjoined-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Noto Sans Adlam Unjoined';
+  font-family: 'Noto Sans Adlam Unjoined Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -20,7 +20,7 @@
 
 /* noto-sans-adlam-unjoined-latin-wght-normal */
 @font-face {
-  font-family: 'Noto Sans Adlam Unjoined';
+  font-family: 'Noto Sans Adlam Unjoined Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;

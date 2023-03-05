@@ -1,6 +1,6 @@
 /* markazi-text-arabic-wght-normal */
 @font-face {
-  font-family: 'Markazi Text';
+  font-family: 'Markazi Text Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -10,7 +10,7 @@
 
 /* markazi-text-vietnamese-wght-normal */
 @font-face {
-  font-family: 'Markazi Text';
+  font-family: 'Markazi Text Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -20,7 +20,7 @@
 
 /* markazi-text-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Markazi Text';
+  font-family: 'Markazi Text Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -30,7 +30,7 @@
 
 /* markazi-text-latin-wght-normal */
 @font-face {
-  font-family: 'Markazi Text';
+  font-family: 'Markazi Text Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;

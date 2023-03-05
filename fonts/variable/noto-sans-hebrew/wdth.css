@@ -1,6 +1,6 @@
 /* noto-sans-hebrew-hebrew-wdth-normal */
 @font-face {
-  font-family: 'Noto Sans Hebrew';
+  font-family: 'Noto Sans Hebrew Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -11,7 +11,7 @@
 
 /* noto-sans-hebrew-latin-ext-wdth-normal */
 @font-face {
-  font-family: 'Noto Sans Hebrew';
+  font-family: 'Noto Sans Hebrew Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -22,7 +22,7 @@
 
 /* noto-sans-hebrew-latin-wdth-normal */
 @font-face {
-  font-family: 'Noto Sans Hebrew';
+  font-family: 'Noto Sans Hebrew Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

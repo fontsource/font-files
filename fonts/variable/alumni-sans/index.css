@@ -1,6 +1,6 @@
 /* alumni-sans-cyrillic-ext-wght-italic */
 @font-face {
-  font-family: 'Alumni Sans';
+  font-family: 'Alumni Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* alumni-sans-cyrillic-wght-italic */
 @font-face {
-  font-family: 'Alumni Sans';
+  font-family: 'Alumni Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* alumni-sans-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Alumni Sans';
+  font-family: 'Alumni Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -30,7 +30,7 @@
 
 /* alumni-sans-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Alumni Sans';
+  font-family: 'Alumni Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -40,7 +40,7 @@
 
 /* alumni-sans-latin-wght-italic */
 @font-face {
-  font-family: 'Alumni Sans';
+  font-family: 'Alumni Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

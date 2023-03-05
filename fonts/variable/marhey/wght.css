@@ -1,6 +1,6 @@
 /* marhey-arabic-wght-normal */
 @font-face {
-  font-family: 'Marhey';
+  font-family: 'Marhey Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;
@@ -10,7 +10,7 @@
 
 /* marhey-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Marhey';
+  font-family: 'Marhey Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;
@@ -20,7 +20,7 @@
 
 /* marhey-latin-wght-normal */
 @font-face {
-  font-family: 'Marhey';
+  font-family: 'Marhey Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;

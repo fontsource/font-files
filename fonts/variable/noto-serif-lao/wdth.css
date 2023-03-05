@@ -1,6 +1,6 @@
 /* noto-serif-lao-lao-wdth-normal */
 @font-face {
-  font-family: 'Noto Serif Lao';
+  font-family: 'Noto Serif Lao Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -11,7 +11,7 @@
 
 /* noto-serif-lao-latin-ext-wdth-normal */
 @font-face {
-  font-family: 'Noto Serif Lao';
+  font-family: 'Noto Serif Lao Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -22,7 +22,7 @@
 
 /* noto-serif-lao-latin-wdth-normal */
 @font-face {
-  font-family: 'Noto Serif Lao';
+  font-family: 'Noto Serif Lao Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

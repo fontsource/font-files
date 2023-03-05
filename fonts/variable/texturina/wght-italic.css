@@ -1,6 +1,6 @@
 /* texturina-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Texturina';
+  font-family: 'Texturina Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* texturina-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Texturina';
+  font-family: 'Texturina Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* texturina-latin-wght-italic */
 @font-face {
-  font-family: 'Texturina';
+  font-family: 'Texturina Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

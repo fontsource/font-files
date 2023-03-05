@@ -1,6 +1,6 @@
 /* arimo-cyrillic-ext-wght-italic */
 @font-face {
-  font-family: 'Arimo';
+  font-family: 'Arimo Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -10,7 +10,7 @@
 
 /* arimo-cyrillic-wght-italic */
 @font-face {
-  font-family: 'Arimo';
+  font-family: 'Arimo Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -20,7 +20,7 @@
 
 /* arimo-greek-ext-wght-italic */
 @font-face {
-  font-family: 'Arimo';
+  font-family: 'Arimo Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -30,7 +30,7 @@
 
 /* arimo-greek-wght-italic */
 @font-face {
-  font-family: 'Arimo';
+  font-family: 'Arimo Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -40,7 +40,7 @@
 
 /* arimo-hebrew-wght-italic */
 @font-face {
-  font-family: 'Arimo';
+  font-family: 'Arimo Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -50,7 +50,7 @@
 
 /* arimo-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Arimo';
+  font-family: 'Arimo Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -60,7 +60,7 @@
 
 /* arimo-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Arimo';
+  font-family: 'Arimo Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -70,7 +70,7 @@
 
 /* arimo-latin-wght-italic */
 @font-face {
-  font-family: 'Arimo';
+  font-family: 'Arimo Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;

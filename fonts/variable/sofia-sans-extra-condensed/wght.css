@@ -1,6 +1,6 @@
 /* sofia-sans-extra-condensed-cyrillic-ext-wght-normal */
 @font-face {
-  font-family: 'Sofia Sans Extra Condensed';
+  font-family: 'Sofia Sans Extra Condensed Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 1 1000;
@@ -10,7 +10,7 @@
 
 /* sofia-sans-extra-condensed-cyrillic-wght-normal */
 @font-face {
-  font-family: 'Sofia Sans Extra Condensed';
+  font-family: 'Sofia Sans Extra Condensed Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 1 1000;
@@ -20,7 +20,7 @@
 
 /* sofia-sans-extra-condensed-greek-wght-normal */
 @font-face {
-  font-family: 'Sofia Sans Extra Condensed';
+  font-family: 'Sofia Sans Extra Condensed Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 1 1000;
@@ -30,7 +30,7 @@
 
 /* sofia-sans-extra-condensed-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Sofia Sans Extra Condensed';
+  font-family: 'Sofia Sans Extra Condensed Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 1 1000;
@@ -40,7 +40,7 @@
 
 /* sofia-sans-extra-condensed-latin-wght-normal */
 @font-face {
-  font-family: 'Sofia Sans Extra Condensed';
+  font-family: 'Sofia Sans Extra Condensed Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 1 1000;

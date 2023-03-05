@@ -1,6 +1,6 @@
 /* hepta-slab-vietnamese-wght-normal */
 @font-face {
-  font-family: 'Hepta Slab';
+  font-family: 'Hepta Slab Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 1 900;
@@ -10,7 +10,7 @@
 
 /* hepta-slab-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Hepta Slab';
+  font-family: 'Hepta Slab Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 1 900;
@@ -20,7 +20,7 @@
 
 /* hepta-slab-latin-wght-normal */
 @font-face {
-  font-family: 'Hepta Slab';
+  font-family: 'Hepta Slab Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 1 900;

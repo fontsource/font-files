@@ -1,6 +1,6 @@
 /* mohave-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Mohave';
+  font-family: 'Mohave Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;
@@ -10,7 +10,7 @@
 
 /* mohave-latin-wght-normal */
 @font-face {
-  font-family: 'Mohave';
+  font-family: 'Mohave Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;

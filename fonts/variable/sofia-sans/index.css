@@ -1,6 +1,6 @@
 /* sofia-sans-cyrillic-ext-wght-italic */
 @font-face {
-  font-family: 'Sofia Sans';
+  font-family: 'Sofia Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 1 1000;
@@ -10,7 +10,7 @@
 
 /* sofia-sans-cyrillic-wght-italic */
 @font-face {
-  font-family: 'Sofia Sans';
+  font-family: 'Sofia Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 1 1000;
@@ -20,7 +20,7 @@
 
 /* sofia-sans-greek-wght-italic */
 @font-face {
-  font-family: 'Sofia Sans';
+  font-family: 'Sofia Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 1 1000;
@@ -30,7 +30,7 @@
 
 /* sofia-sans-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Sofia Sans';
+  font-family: 'Sofia Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 1 1000;
@@ -40,7 +40,7 @@
 
 /* sofia-sans-latin-wght-italic */
 @font-face {
-  font-family: 'Sofia Sans';
+  font-family: 'Sofia Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 1 1000;

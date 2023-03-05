@@ -1,6 +1,6 @@
 /* shantell-sans-cyrillic-ext-wght-italic */
 @font-face {
-  font-family: 'Shantell Sans';
+  font-family: 'Shantell Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 800;
@@ -10,7 +10,7 @@
 
 /* shantell-sans-cyrillic-wght-italic */
 @font-face {
-  font-family: 'Shantell Sans';
+  font-family: 'Shantell Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 800;
@@ -20,7 +20,7 @@
 
 /* shantell-sans-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Shantell Sans';
+  font-family: 'Shantell Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 800;
@@ -30,7 +30,7 @@
 
 /* shantell-sans-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Shantell Sans';
+  font-family: 'Shantell Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 800;
@@ -40,7 +40,7 @@
 
 /* shantell-sans-latin-wght-italic */
 @font-face {
-  font-family: 'Shantell Sans';
+  font-family: 'Shantell Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 800;

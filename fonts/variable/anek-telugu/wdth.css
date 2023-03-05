@@ -1,6 +1,6 @@
 /* anek-telugu-telugu-wdth-normal */
 @font-face {
-  font-family: 'Anek Telugu';
+  font-family: 'Anek Telugu Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 800;
@@ -11,7 +11,7 @@
 
 /* anek-telugu-latin-ext-wdth-normal */
 @font-face {
-  font-family: 'Anek Telugu';
+  font-family: 'Anek Telugu Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 800;
@@ -22,7 +22,7 @@
 
 /* anek-telugu-latin-wdth-normal */
 @font-face {
-  font-family: 'Anek Telugu';
+  font-family: 'Anek Telugu Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 800;

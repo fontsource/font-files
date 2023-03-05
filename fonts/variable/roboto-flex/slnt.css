@@ -1,6 +1,6 @@
 /* roboto-flex-cyrillic-ext-slnt-normal */
 @font-face {
-  font-family: 'Roboto Flex';
+  font-family: 'Roboto Flex Variable';
   font-style: oblique 0deg 10deg;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 1000;
@@ -10,7 +10,7 @@
 
 /* roboto-flex-cyrillic-slnt-normal */
 @font-face {
-  font-family: 'Roboto Flex';
+  font-family: 'Roboto Flex Variable';
   font-style: oblique 0deg 10deg;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 1000;
@@ -20,7 +20,7 @@
 
 /* roboto-flex-greek-slnt-normal */
 @font-face {
-  font-family: 'Roboto Flex';
+  font-family: 'Roboto Flex Variable';
   font-style: oblique 0deg 10deg;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 1000;
@@ -30,7 +30,7 @@
 
 /* roboto-flex-vietnamese-slnt-normal */
 @font-face {
-  font-family: 'Roboto Flex';
+  font-family: 'Roboto Flex Variable';
   font-style: oblique 0deg 10deg;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 1000;
@@ -40,7 +40,7 @@
 
 /* roboto-flex-latin-ext-slnt-normal */
 @font-face {
-  font-family: 'Roboto Flex';
+  font-family: 'Roboto Flex Variable';
   font-style: oblique 0deg 10deg;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 1000;
@@ -50,7 +50,7 @@
 
 /* roboto-flex-latin-slnt-normal */
 @font-face {
-  font-family: 'Roboto Flex';
+  font-family: 'Roboto Flex Variable';
   font-style: oblique 0deg 10deg;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 1000;

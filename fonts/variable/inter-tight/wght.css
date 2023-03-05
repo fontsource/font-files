@@ -1,6 +1,6 @@
 /* inter-tight-cyrillic-ext-wght-normal */
 @font-face {
-  font-family: 'Inter Tight';
+  font-family: 'Inter Tight Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* inter-tight-cyrillic-wght-normal */
 @font-face {
-  font-family: 'Inter Tight';
+  font-family: 'Inter Tight Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* inter-tight-greek-ext-wght-normal */
 @font-face {
-  font-family: 'Inter Tight';
+  font-family: 'Inter Tight Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -30,7 +30,7 @@
 
 /* inter-tight-greek-wght-normal */
 @font-face {
-  font-family: 'Inter Tight';
+  font-family: 'Inter Tight Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -40,7 +40,7 @@
 
 /* inter-tight-vietnamese-wght-normal */
 @font-face {
-  font-family: 'Inter Tight';
+  font-family: 'Inter Tight Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -50,7 +50,7 @@
 
 /* inter-tight-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Inter Tight';
+  font-family: 'Inter Tight Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -60,7 +60,7 @@
 
 /* inter-tight-latin-wght-normal */
 @font-face {
-  font-family: 'Inter Tight';
+  font-family: 'Inter Tight Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

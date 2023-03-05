@@ -1,6 +1,6 @@
 /* figtree-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Figtree';
+  font-family: 'Figtree Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 900;
@@ -10,7 +10,7 @@
 
 /* figtree-latin-wght-italic */
 @font-face {
-  font-family: 'Figtree';
+  font-family: 'Figtree Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 900;

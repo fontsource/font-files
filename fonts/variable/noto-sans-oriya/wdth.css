@@ -1,6 +1,6 @@
 /* noto-sans-oriya-oriya-wdth-normal */
 @font-face {
-  font-family: 'Noto Sans Oriya';
+  font-family: 'Noto Sans Oriya Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -11,7 +11,7 @@
 
 /* noto-sans-oriya-latin-ext-wdth-normal */
 @font-face {
-  font-family: 'Noto Sans Oriya';
+  font-family: 'Noto Sans Oriya Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -22,7 +22,7 @@
 
 /* noto-sans-oriya-latin-wdth-normal */
 @font-face {
-  font-family: 'Noto Sans Oriya';
+  font-family: 'Noto Sans Oriya Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

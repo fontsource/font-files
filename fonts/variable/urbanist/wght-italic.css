@@ -1,6 +1,6 @@
 /* urbanist-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Urbanist';
+  font-family: 'Urbanist Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* urbanist-latin-wght-italic */
 @font-face {
-  font-family: 'Urbanist';
+  font-family: 'Urbanist Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

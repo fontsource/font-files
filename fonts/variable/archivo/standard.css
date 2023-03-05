@@ -1,6 +1,6 @@
 /* archivo-vietnamese-standard-normal */
 @font-face {
-  font-family: 'Archivo';
+  font-family: 'Archivo Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -11,7 +11,7 @@
 
 /* archivo-latin-ext-standard-normal */
 @font-face {
-  font-family: 'Archivo';
+  font-family: 'Archivo Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -22,7 +22,7 @@
 
 /* archivo-latin-standard-normal */
 @font-face {
-  font-family: 'Archivo';
+  font-family: 'Archivo Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

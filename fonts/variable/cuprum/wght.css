@@ -1,6 +1,6 @@
 /* cuprum-cyrillic-ext-wght-normal */
 @font-face {
-  font-family: 'Cuprum';
+  font-family: 'Cuprum Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -10,7 +10,7 @@
 
 /* cuprum-cyrillic-wght-normal */
 @font-face {
-  font-family: 'Cuprum';
+  font-family: 'Cuprum Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -20,7 +20,7 @@
 
 /* cuprum-vietnamese-wght-normal */
 @font-face {
-  font-family: 'Cuprum';
+  font-family: 'Cuprum Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -30,7 +30,7 @@
 
 /* cuprum-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Cuprum';
+  font-family: 'Cuprum Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -40,7 +40,7 @@
 
 /* cuprum-latin-wght-normal */
 @font-face {
-  font-family: 'Cuprum';
+  font-family: 'Cuprum Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;

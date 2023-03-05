@@ -1,6 +1,6 @@
 /* red-hat-mono-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Red Hat Mono';
+  font-family: 'Red Hat Mono Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;
@@ -10,7 +10,7 @@
 
 /* red-hat-mono-latin-wght-italic */
 @font-face {
-  font-family: 'Red Hat Mono';
+  font-family: 'Red Hat Mono Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;

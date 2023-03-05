@@ -1,6 +1,6 @@
 /* league-gothic-vietnamese-wdth-normal */
 @font-face {
-  font-family: 'League Gothic';
+  font-family: 'League Gothic Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400;
@@ -11,7 +11,7 @@
 
 /* league-gothic-latin-ext-wdth-normal */
 @font-face {
-  font-family: 'League Gothic';
+  font-family: 'League Gothic Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400;
@@ -22,7 +22,7 @@
 
 /* league-gothic-latin-wdth-normal */
 @font-face {
-  font-family: 'League Gothic';
+  font-family: 'League Gothic Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400;

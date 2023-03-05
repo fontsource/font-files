@@ -1,6 +1,6 @@
 /* noto-sans-telugu-telugu-standard-normal */
 @font-face {
-  font-family: 'Noto Sans Telugu';
+  font-family: 'Noto Sans Telugu Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -11,7 +11,7 @@
 
 /* noto-sans-telugu-latin-ext-standard-normal */
 @font-face {
-  font-family: 'Noto Sans Telugu';
+  font-family: 'Noto Sans Telugu Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -22,7 +22,7 @@
 
 /* noto-sans-telugu-latin-standard-normal */
 @font-face {
-  font-family: 'Noto Sans Telugu';
+  font-family: 'Noto Sans Telugu Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

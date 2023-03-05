@@ -1,6 +1,6 @@
 /* noto-sans-tamil-tamil-wdth-normal */
 @font-face {
-  font-family: 'Noto Sans Tamil';
+  font-family: 'Noto Sans Tamil Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -11,7 +11,7 @@
 
 /* noto-sans-tamil-latin-ext-wdth-normal */
 @font-face {
-  font-family: 'Noto Sans Tamil';
+  font-family: 'Noto Sans Tamil Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -22,7 +22,7 @@
 
 /* noto-sans-tamil-latin-wdth-normal */
 @font-face {
-  font-family: 'Noto Sans Tamil';
+  font-family: 'Noto Sans Tamil Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

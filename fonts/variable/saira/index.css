@@ -1,6 +1,6 @@
 /* saira-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Saira';
+  font-family: 'Saira Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* saira-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Saira';
+  font-family: 'Saira Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* saira-latin-wght-italic */
 @font-face {
-  font-family: 'Saira';
+  font-family: 'Saira Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

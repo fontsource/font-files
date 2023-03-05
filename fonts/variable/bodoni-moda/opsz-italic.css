@@ -1,6 +1,6 @@
 /* bodoni-moda-latin-ext-opsz-italic */
 @font-face {
-  font-family: 'Bodoni Moda';
+  font-family: 'Bodoni Moda Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;
@@ -10,7 +10,7 @@
 
 /* bodoni-moda-latin-opsz-italic */
 @font-face {
-  font-family: 'Bodoni Moda';
+  font-family: 'Bodoni Moda Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 900;

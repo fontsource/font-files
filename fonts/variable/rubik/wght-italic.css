@@ -1,6 +1,6 @@
 /* rubik-cyrillic-ext-wght-italic */
 @font-face {
-  font-family: 'Rubik';
+  font-family: 'Rubik Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 900;
@@ -10,7 +10,7 @@
 
 /* rubik-cyrillic-wght-italic */
 @font-face {
-  font-family: 'Rubik';
+  font-family: 'Rubik Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 900;
@@ -20,7 +20,7 @@
 
 /* rubik-hebrew-wght-italic */
 @font-face {
-  font-family: 'Rubik';
+  font-family: 'Rubik Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 900;
@@ -30,7 +30,7 @@
 
 /* rubik-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Rubik';
+  font-family: 'Rubik Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 900;
@@ -40,7 +40,7 @@
 
 /* rubik-latin-wght-italic */
 @font-face {
-  font-family: 'Rubik';
+  font-family: 'Rubik Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 900;

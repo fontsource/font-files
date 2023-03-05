@@ -1,6 +1,6 @@
 /* rosario-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Rosario';
+  font-family: 'Rosario Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;
@@ -10,7 +10,7 @@
 
 /* rosario-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Rosario';
+  font-family: 'Rosario Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;
@@ -20,7 +20,7 @@
 
 /* rosario-latin-wght-italic */
 @font-face {
-  font-family: 'Rosario';
+  font-family: 'Rosario Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 300 700;

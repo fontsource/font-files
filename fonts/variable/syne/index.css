@@ -1,6 +1,6 @@
 /* syne-greek-wght-normal */
 @font-face {
-  font-family: 'Syne';
+  font-family: 'Syne Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;
@@ -10,7 +10,7 @@
 
 /* syne-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Syne';
+  font-family: 'Syne Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;
@@ -20,7 +20,7 @@
 
 /* syne-latin-wght-normal */
 @font-face {
-  font-family: 'Syne';
+  font-family: 'Syne Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 800;

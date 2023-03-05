@@ -1,6 +1,6 @@
 /* big-shoulders-display-vietnamese-wght-normal */
 @font-face {
-  font-family: 'Big Shoulders Display';
+  font-family: 'Big Shoulders Display Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* big-shoulders-display-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Big Shoulders Display';
+  font-family: 'Big Shoulders Display Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* big-shoulders-display-latin-wght-normal */
 @font-face {
-  font-family: 'Big Shoulders Display';
+  font-family: 'Big Shoulders Display Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

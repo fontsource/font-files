@@ -1,6 +1,6 @@
 /* familjen-grotesk-vietnamese-wght-normal */
 @font-face {
-  font-family: 'Familjen Grotesk';
+  font-family: 'Familjen Grotesk Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -10,7 +10,7 @@
 
 /* familjen-grotesk-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Familjen Grotesk';
+  font-family: 'Familjen Grotesk Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;
@@ -20,7 +20,7 @@
 
 /* familjen-grotesk-latin-wght-normal */
 @font-face {
-  font-family: 'Familjen Grotesk';
+  font-family: 'Familjen Grotesk Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 400 700;

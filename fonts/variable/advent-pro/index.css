@@ -1,6 +1,6 @@
 /* advent-pro-cyrillic-ext-wght-italic */
 @font-face {
-  font-family: 'Advent Pro';
+  font-family: 'Advent Pro Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* advent-pro-cyrillic-wght-italic */
 @font-face {
-  font-family: 'Advent Pro';
+  font-family: 'Advent Pro Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* advent-pro-greek-wght-italic */
 @font-face {
-  font-family: 'Advent Pro';
+  font-family: 'Advent Pro Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -30,7 +30,7 @@
 
 /* advent-pro-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Advent Pro';
+  font-family: 'Advent Pro Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -40,7 +40,7 @@
 
 /* advent-pro-latin-wght-italic */
 @font-face {
-  font-family: 'Advent Pro';
+  font-family: 'Advent Pro Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

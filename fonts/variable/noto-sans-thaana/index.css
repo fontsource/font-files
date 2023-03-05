@@ -1,6 +1,6 @@
 /* noto-sans-thaana-thaana-wght-normal */
 @font-face {
-  font-family: 'Noto Sans Thaana';
+  font-family: 'Noto Sans Thaana Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* noto-sans-thaana-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Noto Sans Thaana';
+  font-family: 'Noto Sans Thaana Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* noto-sans-thaana-latin-wght-normal */
 @font-face {
-  font-family: 'Noto Sans Thaana';
+  font-family: 'Noto Sans Thaana Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

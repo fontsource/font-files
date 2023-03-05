@@ -1,6 +1,6 @@
 /* work-sans-vietnamese-wght-italic */
 @font-face {
-  font-family: 'Work Sans';
+  font-family: 'Work Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* work-sans-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Work Sans';
+  font-family: 'Work Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* work-sans-latin-wght-italic */
 @font-face {
-  font-family: 'Work Sans';
+  font-family: 'Work Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

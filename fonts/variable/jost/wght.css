@@ -1,6 +1,6 @@
 /* jost-cyrillic-wght-normal */
 @font-face {
-  font-family: 'Jost';
+  font-family: 'Jost Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* jost-latin-ext-wght-normal */
 @font-face {
-  font-family: 'Jost';
+  font-family: 'Jost Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* jost-latin-wght-normal */
 @font-face {
-  font-family: 'Jost';
+  font-family: 'Jost Variable';
   font-style: normal;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

@@ -1,6 +1,6 @@
 /* albert-sans-latin-ext-wght-italic */
 @font-face {
-  font-family: 'Albert Sans';
+  font-family: 'Albert Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* albert-sans-latin-wght-italic */
 @font-face {
-  font-family: 'Albert Sans';
+  font-family: 'Albert Sans Variable';
   font-style: italic;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;

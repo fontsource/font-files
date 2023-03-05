@@ -1,6 +1,6 @@
 /* gluten-vietnamese-slnt-normal */
 @font-face {
-  font-family: 'Gluten';
+  font-family: 'Gluten Variable';
   font-style: oblique -13deg 13deg;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -10,7 +10,7 @@
 
 /* gluten-latin-ext-slnt-normal */
 @font-face {
-  font-family: 'Gluten';
+  font-family: 'Gluten Variable';
   font-style: oblique -13deg 13deg;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
@@ -20,7 +20,7 @@
 
 /* gluten-latin-slnt-normal */
 @font-face {
-  font-family: 'Gluten';
+  font-family: 'Gluten Variable';
   font-style: oblique -13deg 13deg;
   font-display: var(--fontsource-display, swap);
   font-weight: 100 900;
