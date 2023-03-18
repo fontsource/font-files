@@ -8705,6 +8705,83 @@
     },
     "original": "Copyright (c) 2011, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name \"Mate\""
   },
+  "material-icons": {
+    "id": "material-icons",
+    "authors": {
+      "copyright": "Copyright 2014 Google, Inc. All Rights Reserved."
+    },
+    "license": {
+      "type": "Apache License, version 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    },
+    "original": "Copyright 2014 Google, Inc. All Rights Reserved."
+  },
+  "material-icons-outlined": {
+    "id": "material-icons-outlined",
+    "authors": {
+      "copyright": "Copyright 2019 Google, Inc. All Rights Reserved."
+    },
+    "license": {
+      "type": "Apache License, version 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    },
+    "original": "Copyright 2019 Google, Inc. All Rights Reserved."
+  },
+  "material-icons-sharp": {
+    "id": "material-icons-sharp",
+    "authors": {
+      "copyright": "Copyright 2019 Google, Inc. All Rights Reserved."
+    },
+    "license": {
+      "type": "Apache License, version 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    },
+    "original": "Copyright 2019 Google, Inc. All Rights Reserved."
+  },
+  "material-icons-two-tone": {
+    "id": "material-icons-two-tone",
+    "authors": {
+      "copyright": "Copyright 2019 Google, Inc. All Rights Reserved."
+    },
+    "license": {
+      "type": "Apache License, version 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    },
+    "original": "Copyright 2019 Google, Inc. All Rights Reserved."
+  },
+  "material-symbols-outlined": {
+    "id": "material-symbols-outlined",
+    "authors": {
+      "copyright": "Copyright 2022, 2022 Google LLC. All Rights Reserved."
+    },
+    "license": {
+      "type": "Apache License, version 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    },
+    "original": "Copyright 2022, 2022 Google LLC.  All Rights Reserved."
+  },
+  "material-symbols-rounded": {
+    "id": "material-symbols-rounded",
+    "authors": {
+      "copyright": "Copyright 2022, 2022 Google LLC. All Rights Reserved."
+    },
+    "license": {
+      "type": "Apache License, version 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    },
+    "original": "Copyright 2022, 2022 Google LLC.  All Rights Reserved."
+  },
+  "material-symbols-sharp": {
+    "id": "material-symbols-sharp",
+    "authors": {
+      "copyright": "Copyright 2022, 2022 Google LLC. All Rights Reserved."
+    },
+    "license": {
+      "type": "Apache License, version 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    },
+    "original": "Copyright 2022, 2022 Google LLC.  All Rights Reserved."
+  },
   "maven-pro": {
     "id": "maven-pro",
     "authors": {
