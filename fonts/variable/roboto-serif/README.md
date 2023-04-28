@@ -24,7 +24,7 @@ import "@fontsource-variable/roboto-serif/wght-italic.css"; // Specify axis and 
 Supported variables:
 - Weights: `[100,200,300,400,500,600,700,800,900]`
 - Styles: `[italic,normal]`
-- Subsets: `[cyrillic-ext,latin,latin-ext,vietnamese]`
+- Subsets: `[cyrillic,cyrillic-ext,latin,latin-ext,vietnamese]`
 - Axes: `[opsz,wdth,wght,GRAD]`
 
 Finally, you can reference the font name in a CSS stylesheet, CSS Module, or CSS-in-JS.
@@ -48,5 +48,5 @@ Copyright 2020 The Roboto Serif Project Authors (https://github.com/googlefonts/
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v8`.
+Font version (provided by source): `v13`.
 Feel free to star and contribute new ideas to this repository that aim to improve the performance of font loading, as well as expanding the existing library we already have. Any suggestions or ideas can be voiced via an [issue](https://github.com/fontsource/fontsource/issues).

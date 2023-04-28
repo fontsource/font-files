@@ -1,18 +1,18 @@
 {
   "id": "unlock",
   "family": "Unlock",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-09-22",
-  "version": "v22",
+  "lastModified": "2023-03-21",
+  "version": "v24",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2011, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name \"Unlock\""
+    "attribution": "Copyright 2011 The Unlock Project Authors (https://github.com/etunni/unlock), with Reserved Font Name 'Unlock'"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

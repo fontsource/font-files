@@ -42,5 +42,5 @@ Lepcha glyph design copyright (c) 2001, GlavyFonts and copyright (c) 2006 Athink
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v2`.
+Font version (provided by source): `v5`.
 Feel free to star and contribute new ideas to this repository that aim to improve the performance of font loading, as well as expanding the existing library we already have. Any suggestions or ideas can be voiced via an [issue](https://github.com/fontsource/fontsource/issues).

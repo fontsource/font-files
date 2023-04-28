@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-11-09",
-  "version": "v3",
+  "lastModified": "2023-04-27",
+  "version": "v5",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) SIL International, 2015-2022"
+    "attribution": "Copyright (c) SIL International, 2015-2023"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

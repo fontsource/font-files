@@ -38,9 +38,9 @@ body {
 It is important to always read the license for every font that you use.
 Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Limelight. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+Copyright (c) 2010 by Sorkin Type Co (eben@eyebytes.com) with Reserved Font Name Limelight. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v16`.
+Font version (provided by source): `v17`.
 Feel free to star and contribute new ideas to this repository that aim to improve the performance of font loading, as well as expanding the existing library we already have. Any suggestions or ideas can be voiced via an [issue](https://github.com/fontsource/fontsource/issues).

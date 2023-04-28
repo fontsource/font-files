@@ -1,0 +1,19 @@
+{
+  "id": "bruno-ace-sc",
+  "family": "Bruno Ace SC",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-04-20",
+  "version": "v1",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2023 The Bruno Ace Project Authors (https://github.com/googlefonts/Bruno-ace)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

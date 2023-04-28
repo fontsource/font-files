@@ -1,18 +1,18 @@
 {
   "id": "julee",
   "family": "Julee",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-09-22",
-  "version": "v22",
+  "lastModified": "2023-04-27",
+  "version": "v25",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2011, Julian Tunni (jotadejulian@hotmail.com), with Reserved Font Name \"Julee\""
+    "attribution": "Copyright 2011 The Julee Project Authors (https://github.com/etunni/julee) with Reserved Font Name is \"Julee\""
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

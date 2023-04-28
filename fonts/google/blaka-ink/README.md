@@ -42,5 +42,5 @@ Copyright 2019 The Blaka Project Authors (https://github.com/Gue3bara/Blaka)
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v5`.
+Font version (provided by source): `v6`.
 Feel free to star and contribute new ideas to this repository that aim to improve the performance of font loading, as well as expanding the existing library we already have. Any suggestions or ideas can be voiced via an [issue](https://github.com/fontsource/fontsource/issues).

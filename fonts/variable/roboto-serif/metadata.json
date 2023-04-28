@@ -1,7 +1,7 @@
 {
   "id": "roboto-serif",
   "family": "Roboto Serif",
-  "subsets": ["cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+  "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
   "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
   "styles": ["italic", "normal"],
   "defSubset": "latin",
@@ -12,8 +12,8 @@
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"},
     "GRAD": {"default": "0", "min": "-50", "max": "100", "step": "1"}
   },
-  "lastModified": "2023-01-06",
-  "version": "v8",
+  "lastModified": "2023-04-04",
+  "version": "v13",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",

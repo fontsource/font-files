@@ -47,5 +47,5 @@ Copyright 2021 The Azeret Project Authors (https://github.com/displaay/azeret)
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v11`.
+Font version (provided by source): `v16`.
 Feel free to star and contribute new ideas to this repository that aim to improve the performance of font loading, as well as expanding the existing library we already have. Any suggestions or ideas can be voiced via an [issue](https://github.com/fontsource/fontsource/issues).

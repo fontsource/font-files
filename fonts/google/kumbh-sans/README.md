@@ -24,7 +24,7 @@ import "@fontsource/kumbh-sans/400-italic.css"; // Specify weight and style
 Supported variables:
 - Weights: `[100,200,300,400,500,600,700,800,900]`
 - Styles: `[normal]`
-- Subsets: `[latin,latin-ext]`
+- Subsets: `[latin,latin-ext,math]`
 
 Finally, you can reference the font name in a CSS stylesheet, CSS Module, or CSS-in-JS.
 
@@ -47,5 +47,5 @@ Copyright 2020 The KumbhSans Project Authors (https://github.com/xconsau/KumbhSa
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v12`.
+Font version (provided by source): `v20`.
 Feel free to star and contribute new ideas to this repository that aim to improve the performance of font loading, as well as expanding the existing library we already have. Any suggestions or ideas can be voiced via an [issue](https://github.com/fontsource/fontsource/issues).

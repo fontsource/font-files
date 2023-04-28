@@ -1,18 +1,18 @@
 {
   "id": "faster-one",
   "family": "Faster One",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-09-22",
-  "version": "v17",
+  "lastModified": "2023-03-21",
+  "version": "v19",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar edu@tipo.net.ar), with Reserved Font Name 'Faster'"
+    "attribution": "Copyright 2012 The Faster Project Authors (https://github.com/etunni/faster), with Reserved Font Name 'Faster'"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

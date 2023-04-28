@@ -4,19 +4,12 @@ $category: sans-serif !default;
 $subsets: (emoji) !default;
 $weights: (300, 400, 500, 600, 700) !default;
 $styles: (normal) !default;
-$axes: (
-  wght: (
-    default: 400,
-    min: 300,
-    max: 700,
-    step: 1,
-  ),
-) !default;
+$axes: null !default;
 $defaults: (
   subset: emoji,
   weight: 400,
   style: normal,
-  axis: wght,
+  axis: null,
 ) !default;
 $unicode: (
   0: (U+1f1e6-1f1ff),

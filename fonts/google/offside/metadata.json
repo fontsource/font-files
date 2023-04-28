@@ -1,18 +1,18 @@
 {
   "id": "offside",
   "family": "Offside",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-09-22",
-  "version": "v20",
+  "lastModified": "2023-03-21",
+  "version": "v22",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Offside'"
+    "attribution": "Copyright 2012 The Offside Project Authors (https://github.com/etunni/offside) with Reserved Font Name 'Offside'"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

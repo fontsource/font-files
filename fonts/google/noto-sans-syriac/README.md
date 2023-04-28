@@ -22,9 +22,9 @@ import "@fontsource/noto-sans-syriac/400-italic.css"; // Specify weight and styl
 ```
 
 Supported variables:
-- Weights: `[100,400,900]`
+- Weights: `[100,200,300,400,500,600,700,800,900]`
 - Styles: `[normal]`
-- Subsets: `[syriac]`
+- Subsets: `[latin,latin-ext,syriac]`
 
 Finally, you can reference the font name in a CSS stylesheet, CSS Module, or CSS-in-JS.
 
@@ -34,13 +34,18 @@ body {
 }
 ```
 
+## Variable Fonts
+
+This particular typeface supports [variable fonts](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide).
+Variable documentation can be found [here](https://fontsource.org/docs/variable-fonts).
+
 ## Licensing
 It is important to always read the license for every font that you use.
 Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright 2018 Google Inc. All Rights Reserved.
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/syriac)
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v15`.
+Font version (provided by source): `v16`.
 Feel free to star and contribute new ideas to this repository that aim to improve the performance of font loading, as well as expanding the existing library we already have. Any suggestions or ideas can be voiced via an [issue](https://github.com/fontsource/fontsource/issues).

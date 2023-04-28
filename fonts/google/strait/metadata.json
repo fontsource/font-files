@@ -1,18 +1,18 @@
 {
   "id": "strait",
   "family": "Strait",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-09-22",
-  "version": "v13",
+  "lastModified": "2023-03-21",
+  "version": "v15",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Strait'"
+    "attribution": "Copyright 2012 The Strait Project Authors (https://github.com/etunni/strait), with Reserved Font Name 'Strait'"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

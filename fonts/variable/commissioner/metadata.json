@@ -13,15 +13,18 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": {
-    "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
+    "slnt": {"default": "0", "min": "-12", "max": "0", "step": "1"},
+    "wght": {"default": "400", "min": "100", "max": "900", "step": "1"},
+    "FLAR": {"default": "0", "min": "0", "max": "100", "step": "0.1"},
+    "VOLM": {"default": "0", "min": "0", "max": "100", "step": "1"}
   },
-  "lastModified": "2022-09-22",
-  "version": "v13",
+  "lastModified": "2023-04-05",
+  "version": "v19",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2019 The Commissioner Project Authors (https://github.com/kosbarts/Commissioner)"
+    "attribution": "Copyright 2019 The Commissioner Project Authors (github.com/kosbarts/Commissioner)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

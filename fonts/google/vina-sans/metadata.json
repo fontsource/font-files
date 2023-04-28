@@ -1,0 +1,19 @@
+{
+  "id": "vina-sans",
+  "family": "Vina Sans",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-04-20",
+  "version": "v2",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2023 The Vina Sans Project Authors (https://github.com/nguyentype/vinasans)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

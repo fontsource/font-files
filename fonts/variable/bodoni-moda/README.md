@@ -48,5 +48,5 @@ Copyright 2020 The Bodoni Moda Project Authors (https://github.com/indestructibl
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v19`.
+Font version (provided by source): `v23`.
 Feel free to star and contribute new ideas to this repository that aim to improve the performance of font loading, as well as expanding the existing library we already have. Any suggestions or ideas can be voiced via an [issue](https://github.com/fontsource/fontsource/issues).
