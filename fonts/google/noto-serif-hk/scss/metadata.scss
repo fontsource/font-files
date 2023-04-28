@@ -4,19 +4,12 @@ $category: serif !default;
 $subsets: (chinese-hongkong, cyrillic, latin, latin-ext, vietnamese) !default;
 $weights: (200, 300, 400, 500, 600, 700, 800, 900) !default;
 $styles: (normal) !default;
-$axes: (
-  wght: (
-    default: 400,
-    min: 200,
-    max: 900,
-    step: 1,
-  ),
-) !default;
+$axes: null !default;
 $defaults: (
   subset: latin,
   weight: 400,
   style: normal,
-  axis: wght,
+  axis: null,
 ) !default;
 $unicode: (
   0: (U+28eb2-28eb3,U+28ed9,U+28ee7,U+28fc5,U+29079,U+29088,U+2908b,U+29093,U+290af-290b1,U+290c0,U+290e4-290e5,U+290ec-290ed,U+2910d,U+29110,U+2913c,U+2914d,U+2915b,U+2915e,U+29170,U+2919c,U+291a8,U+291d5,U+291eb,U+2941d,U+29420,U+29433,U+2943f,U+29448,U+294d0,U+294d9-294da,U+294e5,U+294e7,U+2959e,U+295b0,U+295b8,U+295d7,U+295e9,U+295f4,U+29720,U+29732,U+297d4,U+29810,U+29857,U+298a4,U+298d1,U+298ea,U+298f1,U+298fa,U+29903,U+29905,U+2992f,U+29945,U+29947-29949,U+2995d,U+2996a,U+2999d,U+299c3,U+299c9,U+29a28,U+29a4d,U+29b05,U+29b0e,U+29bd5,U+29c73,U+29cad,U+29d3e,U+29d5a,U+29d7c,U+29d98,U+29d9b,U+29df6,U+29e06,U+29e2d,U+29e68,U+29eac,U+29eb0,U+29ec3,U+29ef8,U+29f23,U+29f30,U+29fb7,U+29fde,U+2a014,U+2a087,U+2a0b9,U+2a0e1,U+2a0ed,U+2a0f3,U+2a0f8,U+2a0fe,U+2a107,U+2a123,U+2a133-2a134,U+2a150,U+2a192-2a193,U+2a1ab,U+2a1b4-2a1b5,U+2a1df,U+2a1f5,U+2a220,U+2a233,U+2a293,U+2a29f,U+2a2b2,U+2a2b4,U+2a2b6,U+2a2ba,U+2a2bd,U+2a2df,U+2a2ff,U+2a351,U+2a3a9,U+2a3ed,U+2a434,U+2a45b,U+2a5c6,U+2a5cb,U+2a601,U+2a632,U+2a64a,U+2a65b,U+2a6a9,U+2adff,U+2f825,U+2f83b,U+2f840,U+2f878,U+2f894,U+2f8a6,U+2f8cd,U+2f994,U+2f9b2,U+2f9bc,U+2f9d4,U+f0001-f0005,U+f0019,U+f009b,U+f0101-f0104,U+f012b,U+f01ba,U+f01d6,U+f0209,U+f0217,U+f0223-f0224,U+fc355,U+fe327,U+fe517,U+feb97,U+fffb4),
