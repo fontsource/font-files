@@ -1,6 +1,8 @@
-name: Build and Release [Manual]
+name: Build and Release [Weekly]
 
-on: [workflow_dispatch]
+on:
+  schedule:
+    - cron: "0 0 * * 0"
 
 jobs:
   build:
@@ -43,6 +45,6 @@ jobs:
           commit_user_name: "fontsource-bot"
           commit_user_email: "83556432+fontsource-bot@users.noreply.github.com"
           commit_author: "fontsource-bot <83556432+fontsource-bot@users.noreply.github.com>"
-          commit_message: "chore(build): update packages [Manual]"
+          commit_message: "chore(build): update packages [Weekly]"
         continue-on-error: true
 

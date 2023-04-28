@@ -6,8 +6,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    if: github.actor == 'ayuhito'
-
     steps:
       - name: checkout
         uses: actions/checkout@v3
@@ -17,11 +15,10 @@ jobs:
       - name: Enable PNPM
         uses: pnpm/action-setup@v2
 
-      - name: Set node version to 16
+      - name: Set node version to 18
         uses: actions/setup-node@v3
         with:
-          node-version: "16"
-          cache: "pnpm"
+          node-version: "18"
 
       - name: Install
         run: pnpm install --frozen-lockfile
