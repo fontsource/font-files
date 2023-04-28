@@ -2,7 +2,7 @@
   "name": "font-files",
   "version": "5.0.0",
   "description": "1000+ open-source fonts bundled into neat packages.",
-  "packageManager": "pnpm@7.28.0",
+  "packageManager": "pnpm@8.3.1",
   "private": true,
   "scripts": {
     "fontlist": "tsx scripts/fontlist.ts",
