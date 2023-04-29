@@ -1,26 +1,27 @@
 {
-  "name": "font-files",
-  "version": "5.0.0",
-  "description": "1000+ open-source fonts bundled into neat packages.",
-  "packageManager": "pnpm@8.3.1",
-  "private": true,
-  "scripts": {
-    "fontlist": "tsx scripts/fontlist.ts",
-    "metadata": "tsx scripts/metadata.ts"
-  },
-  "author": "Ayuhito <hello@ayuhito.com>",
-  "license": "MIT",
-  "dependencies": {
-    "@fontsource-utils/cli": "0.2.0-beta.16",
-    "@fontsource-utils/publish": "^0.1.0",
-    "@types/node": "^18.16.3",
-    "json-stringify-pretty-compact": "^4.0.0",
-    "pathe": "^1.1.0",
-    "tsx": "^3.12.6"
-  },
-  "homepage": "https://fontsource.org",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fontsource/font-files.git"
-  }
+	"name": "font-files",
+	"version": "5.0.0",
+	"description": "1000+ open-source fonts bundled into neat packages.",
+	"packageManager": "pnpm@8.3.1",
+	"private": true,
+	"scripts": {
+		"fontlist": "tsx scripts/fontlist.ts",
+		"gfm-metadata": "tsx scripts/gfm-metadata.ts",
+		"metadata": "tsx scripts/metadata.ts"
+	},
+	"author": "Ayuhito <hello@ayuhito.com>",
+	"license": "MIT",
+	"dependencies": {
+		"@fontsource-utils/cli": "0.2.0-beta.16",
+		"@fontsource-utils/publish": "^0.1.0",
+		"@types/node": "^18.16.3",
+		"json-stringify-pretty-compact": "^4.0.0",
+		"pathe": "^1.1.0",
+		"tsx": "^3.12.6"
+	},
+	"homepage": "https://fontsource.org",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fontsource/font-files.git"
+	}
 }

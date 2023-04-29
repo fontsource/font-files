@@ -1,17 +1,75 @@
-import { APIv1, APIv2, APIVariable, APILicense, APIRegistry, APIIconStatic, APIIconVariable } from '@fontsource-utils/cli'
-import stringify from 'json-stringify-pretty-compact'
-import fs from 'node:fs'
+import * as fs from 'fs';
+import stringify from 'json-stringify-pretty-compact';
+import { FontsourceTypes, getDirectories } from './utils';
 
-try {
-	fs.mkdirSync('metadata')
-} catch {
-	// continue regardless of error
+interface AxesData {
+	[axis: string]: {
+		min: string;
+		max: string;
+		default: string;
+		step: string;
+	};
 }
 
-fs.writeFileSync('metadata/google-fonts-v1.json', stringify(APIv1));
-fs.writeFileSync('metadata/google-fonts-v2.json', stringify(APIv2));
-fs.writeFileSync('metadata/variable.json', stringify(APIVariable));
-fs.writeFileSync('metadata/icons-static.json', stringify(APIIconStatic));
-fs.writeFileSync('metadata/icons-variable.json', stringify(APIIconVariable));
-fs.writeFileSync('metadata/licenses.json', stringify(APILicense));
-fs.writeFileSync('metadata/axis-registry.json', stringify(APIRegistry));
+interface LicenseData {
+	type: string;
+	url: string;
+	attribution: string;
+}
+interface FontsourceMetadata {
+	id: string;
+	family: string;
+	subsets: string[];
+	weights: number[];
+	styles: string[];
+	defSubset: string;
+	variable: false | AxesData;
+	lastModified: string;
+	version: string;
+	category: string;
+	license: LicenseData;
+	source: string;
+	type: 'google' | 'other';
+
+	npmVersion: string;
+	unicodeRange: {
+		[subset: string]: string;
+	};
+}
+
+const fontsourceMetadata: Record<string, FontsourceMetadata> = {};
+
+// We want to iterate over all fonts and read their metadata and write it to an object
+const createMetadata = (type: FontsourceTypes) => {
+	const directories = getDirectories(type);
+
+	for (const directory of directories) {
+		const fontDir = `./fonts/${type}/${directory}`;
+
+		const metadata = JSON.parse(
+			fs.readFileSync(`${fontDir}/metadata.json`, 'utf8')
+		) as Omit<FontsourceMetadata, 'npmVersion' | 'unicodeRange'>;
+
+		const unicodeRange = JSON.parse(
+			fs.readFileSync(`${fontDir}/unicode.json`, 'utf8')
+		) as FontsourceMetadata['unicodeRange'];
+
+		const npmVersion = JSON.parse(
+			fs.readFileSync(`${fontDir}/package.json`, 'utf8')
+		).version as string;
+
+		fontsourceMetadata[metadata.id] = {
+			...metadata,
+			npmVersion,
+			unicodeRange,
+		};
+	}
+};
+
+createMetadata('google');
+createMetadata('icons');
+createMetadata('variable');
+createMetadata('variable-icons');
+// createMetadata("other");
+
+fs.writeFileSync('metadata/fontsource.json', stringify(fontsourceMetadata));

@@ -8,7 +8,6 @@ interface FontList {
 }
 
 const fontlist: FontList[] = [];
-const league: string[] = [];
 const icons: string[] = [];
 const other: string[] = [];
 
@@ -16,6 +15,7 @@ interface Metadata {
 	family: string;
 	id: string;
 	type: string;
+	lastModified: string;
 }
 
 // Iterate through directories and push to relevant arrays
@@ -31,14 +31,10 @@ const pushFonts = (type: string) => {
 			));
 				
 			// JSON file
-			const object = { [metadata.id]: metadata.type };
+			const object = { [metadata.id]: metadata.lastModified };
 			fontlist.push(object);
 
 			switch (metadata.type) {
-				case "league": {
-				league.push(metadata.family);
-				break;
-				}
 				case "icons": {
 				icons.push(metadata.family);
 				break;
@@ -70,14 +66,11 @@ pushFonts("google");
 fs.writeFileSync("FONTLIST.json", stringify(Object.assign({}, ...fontlist)));
 
 // Write MD file
-const fontlistMarkdown = (league, icons, other) => `# Supported Font List
+const fontlistMarkdown = (icons, other) => `# Supported Font List
 
 ## [Google Fonts](https://fonts.google.com/)
 All Google Fonts are supported and updated bi-weekly. Find the whole list [here](https://fonts.google.com/).
 Variable fonts from Google are included. Supported list [here](https://fonts.google.com/variablefonts).
-
-## [The League Of Moveable Type](https://www.theleagueofmoveabletype.com/)
-${league.forEach(font => `- ${font}\n`)}
 
 ## Icons
 ${icons.forEach(font => `- ${font}\n`)}
@@ -85,6 +78,6 @@ ${icons.forEach(font => `- ${font}\n`)}
 ## Other
 ${other.forEach(font => `- ${font}\n`)}`
 
-const fontlistWrite = fontlistMarkdown(league, icons, other);
+const fontlistWrite = fontlistMarkdown(icons, other);
 
 fs.writeFileSync(`FONTLIST.md`, fontlistWrite);

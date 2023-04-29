@@ -1,6 +1,6 @@
 import stringify from 'json-stringify-pretty-compact';
 import path from 'pathe';
-import fs from 'node:fs'
+import fs from 'node:fs';
 
 import { getDirectories } from './utils';
 
@@ -13,7 +13,9 @@ import { getDirectories } from './utils';
 const checkDirectory = (dirPath: string) => {
 	try {
 		fs.accessSync(dirPath);
-		const packageJson = JSON.parse(fs.readFileSync(path.join(dirPath, 'package.json'), 'utf8'));
+		const packageJson = JSON.parse(
+			fs.readFileSync(path.join(dirPath, 'package.json'), 'utf8')
+		);
 		fs.rmSync(dirPath, { recursive: true });
 		return packageJson;
 	} catch {
@@ -24,8 +26,7 @@ const checkDirectory = (dirPath: string) => {
 const purgeDuplicates = () => {
 	const directories = [
 		...getDirectories('google'),
-		...getDirectories('league'),
-		...getDirectories('icons'),
+		// ...getDirectories('icons'),
 		...getDirectories('other'),
 	];
 
@@ -34,9 +35,9 @@ const purgeDuplicates = () => {
 		(item, index) => directories.indexOf(item) !== index
 	);
 
-	// Delete packages from league, icons and other directory
+	// Delete packages from other directory
 	for (const dir of duplicates) {
-		for (const type of ['league', 'icons', 'other']) {
+		for (const type of ['other']) {
 			const dirPath = path.join('fonts', type, dir);
 			const packageJson = checkDirectory(dirPath);
 
@@ -44,9 +45,12 @@ const purgeDuplicates = () => {
 			// This is to prevent publish errors as the newly formed Google package
 			// will have an older version number
 			if (packageJson) {
-				const packageJsonGoogle = JSON.parse(fs.readFileSync(
-					path.join('fonts', 'google', dir, 'package.json'), 'utf8'
-				));
+				const packageJsonGoogle = JSON.parse(
+					fs.readFileSync(
+						path.join('fonts', 'google', dir, 'package.json'),
+						'utf8'
+					)
+				);
 				packageJsonGoogle.version = packageJson.version;
 				fs.writeFileSync(
 					path.join('fonts', 'google', dir, 'package.json'),

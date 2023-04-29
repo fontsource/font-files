@@ -34,7 +34,10 @@ jobs:
       - name: Generate fontlist
         run: pnpm run fontlist
 
-      - name: Save metadata
+      - name: Save GFM metadata
+        run: pnpm run gfm-metadata
+
+      - name: Save Fontsource metadata
         run: pnpm run metadata
 
       - name: Stage, commit and push files
