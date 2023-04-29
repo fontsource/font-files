@@ -2,8 +2,8 @@ lockfileVersion: '6.0'
 
 dependencies:
   '@fontsource-utils/cli':
-    specifier: 0.2.0-beta.15
-    version: 0.2.0-beta.15
+    specifier: 0.2.0-beta.16
+    version: 0.2.0-beta.16
   '@fontsource-utils/publish':
     specifier: ^0.1.0
     version: 0.1.0
@@ -296,8 +296,8 @@ packages:
     dev: false
     optional: true
 
-  /@fontsource-utils/cli@0.2.0-beta.15:
-    resolution: {integrity: sha512-hwg0l/fEC8p7lUZlWiQvqP7puGhWhcd5+MHNI0vJopxEA7LGpDaVMQiGNR1SlswZi7jnpee4ib136W91gALDKw==}
+  /@fontsource-utils/cli@0.2.0-beta.16:
+    resolution: {integrity: sha512-+/z8jBtfjZgmKFywOZuWpX3F8eAufFgXI540N2t4An0/azgYNYIBRkIqZuxQH/u5ydYaWyJ+DVsaRDMBM1ynwg==}
     hasBin: true
     dependencies:
       '@clack/prompts': 0.6.3
@@ -307,7 +307,7 @@ packages:
       dotenv: 16.0.3
       flat: 5.0.2
       fs-extra: 11.1.1
-      google-font-metadata: 5.1.5
+      google-font-metadata: 5.2.0
       got: 12.6.0
       json-stringify-pretty-compact: 4.0.0
       p-queue: 7.3.4
@@ -1348,8 +1348,8 @@ packages:
       path-is-absolute: 1.0.1
     dev: false
 
-  /google-font-metadata@5.1.5:
-    resolution: {integrity: sha512-18MtbyD9BLdy5sqU/9V6cWGcYHVzXVrox96EBC0qosR0Cz7yP49/vvMVX5Sl7XiTfd3VhezzKatqDze64jEFYQ==}
+  /google-font-metadata@5.2.0:
+    resolution: {integrity: sha512-JXg49zDVpmZecYYt0yAkiQIrraFfjkE3oSjFQD+ZFLkwpNdacDy9yWk+J06/sSmosnQJHNSy9AR2udOWrZ+W6g==}
     hasBin: true
     dependencies:
       '@octokit/core': 4.2.0
