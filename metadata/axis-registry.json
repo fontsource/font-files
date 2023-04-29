@@ -28,7 +28,7 @@
     "tag": "EHLT",
     "min": 0,
     "max": 1000,
-    "default": null,
+    "default": 12,
     "precision": 0
   },
   {
@@ -52,7 +52,7 @@
     "tag": "EDPT",
     "min": 0,
     "max": 1000,
-    "default": null,
+    "default": 100,
     "precision": 0
   },
   {
@@ -268,7 +268,7 @@
     "tag": "YTFI",
     "min": -1000,
     "max": 2000,
-    "default": null,
+    "default": 600,
     "precision": 0
   },
   {
