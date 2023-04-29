@@ -2,6 +2,7 @@
   {
     "name": "Bounce",
     "tag": "BNCE",
+    "description": "Shift glyphs up and down in the Y dimension, resulting in an uneven, bouncy baseline.",
     "min": -100,
     "max": 100,
     "default": 0,
@@ -10,6 +11,7 @@
   {
     "name": "Casual",
     "tag": "CASL",
+    "description": "Adjust stroke curvature, contrast, and terminals from a sturdy, rational Linear style to a friendly, energetic Casual style.",
     "min": 0,
     "max": 1,
     "default": 0,
@@ -18,6 +20,7 @@
   {
     "name": "On",
     "tag": "CRSV",
+    "description": "Control the substitution of cursive forms along the Slant axis. 'Off' (0) maintains Roman letterforms such as a double-storey a and g, 'Auto' (0.5) allows for Cursive substitution, and 'On' (1) asserts cursive forms even in upright text with a Slant of 0.",
     "min": 0,
     "max": 1,
     "default": 0.5,
@@ -26,6 +29,7 @@
   {
     "name": "Edge Highlight",
     "tag": "EHLT",
+    "description": "Controls thickness of edge highlight details.",
     "min": 0,
     "max": 1000,
     "default": 12,
@@ -34,6 +38,7 @@
   {
     "name": "Element Grid",
     "tag": "ELGR",
+    "description": "In modular fonts, where glyphs are composed using multiple copies of the same element, this axis controls how many elements are used per one grid unit.",
     "min": 1,
     "max": 2,
     "default": 1,
@@ -42,6 +47,7 @@
   {
     "name": "Element Shape",
     "tag": "ELSH",
+    "description": "In modular fonts, where glyphs are composed using multiple copies of the same element, this axis controls the shape of the element",
     "min": 0,
     "max": 100,
     "default": 0,
@@ -50,6 +56,7 @@
   {
     "name": "Extrusion Depth",
     "tag": "EDPT",
+    "description": "Controls the 3D depth on contours.",
     "min": 0,
     "max": 1000,
     "default": 100,
@@ -58,6 +65,7 @@
   {
     "name": "Fill",
     "tag": "FILL",
+    "description": "Fill in transparent forms with opaque ones. Sometimes interior opaque forms become transparent, to maintain contrasting shapes. This can be useful in animation or interaction to convey a state transition. Ranges from 0 (no treatment) to 1 (completely filled).",
     "min": 0,
     "max": 1,
     "default": 0,
@@ -66,6 +74,7 @@
   {
     "name": "Flare",
     "tag": "FLAR",
+    "description": "As the flare axis grows, the stem terminals go from straight (0%) to develop a swelling (100%).",
     "min": 0,
     "max": 100,
     "default": 0,
@@ -74,6 +83,7 @@
   {
     "name": "Grade",
     "tag": "GRAD",
+    "description": "Finesse the style from lighter to bolder in typographic color, without any changes overall width, line breaks or page layout. Negative grade makes the style lighter, while positive grade makes it bolder. The units are the same as in the Weight axis.",
     "min": -1000,
     "max": 1000,
     "default": 0,
@@ -82,6 +92,7 @@
   {
     "name": "Hyper Expansion",
     "tag": "HEXP",
+    "description": "Expansion of inner and outer space of glyphs.",
     "min": 0,
     "max": 100,
     "default": 0,
@@ -90,6 +101,7 @@
   {
     "name": "Informality",
     "tag": "INFM",
+    "description": "Adjusts overall design from formal and traditional (0%) to informal and unconventional (up to 100%).",
     "min": 0,
     "max": 100,
     "default": 0,
@@ -98,6 +110,7 @@
   {
     "name": "Italic",
     "tag": "ital",
+    "description": "Adjust the style from roman to italic. This can be provided as a continuous range within a single font file, like most axes, or as a toggle between two roman and italic files that form a family as a pair.",
     "min": 0,
     "max": 1,
     "default": 0,
@@ -106,6 +119,7 @@
   {
     "name": "Monospace",
     "tag": "MONO",
+    "description": "Adjust the style from Proportional (natural widths, default) to Monospace (fixed width). With proportional spacing, each glyph takes up a unique amount of space on a line, while monospace is when all glyphs have the same total character width.",
     "min": 0,
     "max": 1,
     "default": 0,
@@ -114,6 +128,7 @@
   {
     "name": "Morph",
     "tag": "MORF",
+    "description": "Letterforms morph: Changing in unconventional ways, that don't alter other attributes, like width or weight. The range from 0 to 60 can be understood as seconds.",
     "min": 0,
     "max": 60,
     "default": 0,
@@ -122,6 +137,7 @@
   {
     "name": "Optical Size",
     "tag": "opsz",
+    "description": "Adapt the style to specific text sizes. At smaller sizes, letters typically become optimized for more legibility. At larger sizes, optimized for headlines, with more extreme weights and widths. In CSS this axis is activated automatically when it is available.",
     "min": 5,
     "max": 1200,
     "default": 14,
@@ -130,6 +146,7 @@
   {
     "name": "Roundness",
     "tag": "ROND",
+    "description": "Adjust shapes from angular defaults (0%) to become increasingly rounded (up to 100%).",
     "min": 0,
     "max": 100,
     "default": 0,
@@ -138,6 +155,7 @@
   {
     "name": "Sharpness",
     "tag": "SHRP",
+    "description": "Adjust shapes from angular or blunt default shapes (0%) to become increasingly sharped forms (up to 100%).",
     "min": 0,
     "max": 100,
     "default": 0,
@@ -146,6 +164,7 @@
   {
     "name": "Slant",
     "tag": "slnt",
+    "description": "Adjust the style from upright to slanted, also known to typographers as an 'oblique' style. Rarely, slant can work in the other direction, called a 'backslanted' or 'reverse oblique' style.",
     "min": -90,
     "max": 90,
     "default": 0,
@@ -154,6 +173,7 @@
   {
     "name": "Softness",
     "tag": "SOFT",
+    "description": "Adjust letterforms to become more and more soft and rounded.",
     "min": 0,
     "max": 100,
     "default": 0,
@@ -162,6 +182,7 @@
   {
     "name": "Spacing",
     "tag": "SPAC",
+    "description": "Adjusts the overall letter spacing of a font. The range is a relative percentage change from the family’s default spacing, so the default value is 0.",
     "min": -100,
     "max": 100,
     "default": 0,
@@ -170,6 +191,7 @@
   {
     "name": "Volume",
     "tag": "VOLM",
+    "description": "Expands and exaggerates details of a typeface to emphasize the personality. Understood in a percentage amount, it goes from a neutral state (0%) to a maximum level (100%).",
     "min": 0,
     "max": 100,
     "default": 0,
@@ -178,6 +200,7 @@
   {
     "name": "Weight",
     "tag": "wght",
+    "description": "Adjust the style from lighter to bolder in typographic color, by varying stroke weights, spacing and kerning, and other aspects of the type. This typically changes overall width, and so may be used in conjunction with Width and Grade axes.",
     "min": 1,
     "max": 1000,
     "default": 400,
@@ -186,6 +209,7 @@
   {
     "name": "Width",
     "tag": "wdth",
+    "description": "Adjust the style from narrower to wider, by varying the proportions of counters, strokes, spacing and kerning, and other aspects of the type. This typically changes the typographic color in a subtle way, and so may be used in conjunction with Weight and Grade axes.",
     "min": 25,
     "max": 200,
     "default": 100,
@@ -194,6 +218,7 @@
   {
     "name": "Wonky",
     "tag": "WONK",
+    "description": "Toggle the substitution of wonky forms. 'Off' (0) maintains more conventional letterforms, while 'On' (1) maintains wonky letterforms, such as leaning stems in roman, or flagged ascenders in italic. These forms are also controlled by Optical Size.",
     "min": 0,
     "max": 1,
     "default": 0,
@@ -202,6 +227,7 @@
   {
     "name": "Thick Stroke",
     "tag": "XOPQ",
+    "description": "A parametric axis for varying thick stroke weights, such as stems.",
     "min": -1000,
     "max": 2000,
     "default": 88,
@@ -210,6 +236,7 @@
   {
     "name": "Rotation in X",
     "tag": "XROT",
+    "description": "Glyphs rotate left and right, negative values to the left and positive values to the right, in the X dimension.",
     "min": -180,
     "max": 180,
     "default": 0,
@@ -218,6 +245,7 @@
   {
     "name": "Counter Width",
     "tag": "XTRA",
+    "description": "A parametric axis for varying counter widths in the X dimension.",
     "min": -1000,
     "max": 2000,
     "default": 400,
@@ -226,6 +254,7 @@
   {
     "name": "X transparent figures",
     "tag": "XTFI",
+    "description": "Assigns a 'white' per mille value to each instance of the design space.",
     "min": -1000,
     "max": 2000,
     "default": 400,
@@ -234,6 +263,7 @@
   {
     "name": "Thin Stroke",
     "tag": "YOPQ",
+    "description": "A parametric axis for varying thin stroke weights, such as bars and hairlines.",
     "min": -1000,
     "max": 2000,
     "default": 116,
@@ -242,6 +272,7 @@
   {
     "name": "Rotation in Y",
     "tag": "YROT",
+    "description": "Glyphs rotate up and down, negative values tilt down and positive values tilt up, in the Y dimension.",
     "min": -180,
     "max": 180,
     "default": 0,
@@ -250,6 +281,7 @@
   {
     "name": "Ascender Height",
     "tag": "YTAS",
+    "description": "A parametric axis for varying the height of lowercase ascenders.",
     "min": 0,
     "max": 1000,
     "default": 750,
@@ -258,6 +290,7 @@
   {
     "name": "Descender Depth",
     "tag": "YTDE",
+    "description": "A parametric axis for varying the depth of lowercase descenders.",
     "min": -1000,
     "max": 0,
     "default": -250,
@@ -266,6 +299,7 @@
   {
     "name": "Figure Height",
     "tag": "YTFI",
+    "description": "A parametric axis for varying the height of figures.",
     "min": -1000,
     "max": 2000,
     "default": 600,
@@ -274,6 +308,7 @@
   {
     "name": "Lowercase Height",
     "tag": "YTLC",
+    "description": "A parametric axis for varying the height of the lowercase.",
     "min": 0,
     "max": 1000,
     "default": 500,
@@ -282,6 +317,7 @@
   {
     "name": "Uppercase Height",
     "tag": "YTUC",
+    "description": "A parametric axis for varying the heights of uppercase letterforms.",
     "min": 0,
     "max": 1000,
     "default": 725,
@@ -290,6 +326,7 @@
   {
     "name": "Year",
     "tag": "YEAR",
+    "description": "Axis that shows in a metaphoric way the effect of time on a chosen topic.",
     "min": -4000,
     "max": 4000,
     "default": 2000,
