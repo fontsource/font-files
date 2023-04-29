@@ -2,14 +2,14 @@ lockfileVersion: '6.0'
 
 dependencies:
   '@fontsource-utils/cli':
-    specifier: 0.2.0-beta.14
-    version: 0.2.0-beta.14
+    specifier: 0.2.0-beta.15
+    version: 0.2.0-beta.15
   '@fontsource-utils/publish':
     specifier: ^0.1.0
     version: 0.1.0
   '@types/node':
-    specifier: ^18.16.2
-    version: 18.16.2
+    specifier: ^18.16.3
+    version: 18.16.3
   json-stringify-pretty-compact:
     specifier: ^4.0.0
     version: 4.0.0
@@ -296,8 +296,8 @@ packages:
     dev: false
     optional: true
 
-  /@fontsource-utils/cli@0.2.0-beta.14:
-    resolution: {integrity: sha512-DDoRJz+qzsw0Kfu8jxr+Gscs8pnbwZpwEPQ86lUZy9ilPhwMu0/NCmJdT3NvVaoHmmaWnfof7JBI50JPzdMcew==}
+  /@fontsource-utils/cli@0.2.0-beta.15:
+    resolution: {integrity: sha512-hwg0l/fEC8p7lUZlWiQvqP7puGhWhcd5+MHNI0vJopxEA7LGpDaVMQiGNR1SlswZi7jnpee4ib136W91gALDKw==}
     hasBin: true
     dependencies:
       '@clack/prompts': 0.6.3
@@ -307,7 +307,7 @@ packages:
       dotenv: 16.0.3
       flat: 5.0.2
       fs-extra: 11.1.1
-      google-font-metadata: 5.1.4
+      google-font-metadata: 5.1.5
       got: 12.6.0
       json-stringify-pretty-compact: 4.0.0
       p-queue: 7.3.4
@@ -555,8 +555,8 @@ packages:
     resolution: {integrity: sha512-SZs7ekbP8CN0txVG2xVRH6EgKmEm31BOxA07vkFaETzZz1xh+cbt8BcI0slpymvwhx5dlFnQG2rTlPVQn+iRPQ==}
     dev: false
 
-  /@types/node@18.16.2:
-    resolution: {integrity: sha512-GQW/JL/5Fz/0I8RpeBG9lKp0+aNcXEaVL71c0D2Q0QHDTFvlYKT7an0onCUXj85anv7b4/WesqdfchLc0jtsCg==}
+  /@types/node@18.16.3:
+    resolution: {integrity: sha512-OPs5WnnT1xkCBiuQrZA4+YAV4HEJejmHneyraIaxsbev5yCEr6KMwINNFP9wQeFIw8FWcoTqF3vQsa5CDaI+8Q==}
     dev: false
 
   /@types/stylis@4.0.2:
@@ -567,7 +567,7 @@ packages:
     resolution: {integrity: sha512-Cn6WYCm0tXv8p6k+A8PvbDG763EDpBoTzHdA+Q/MF6H3sapGjCm9NzoaJncJS9tUKSuCoDs9XHxYYsQDgxR6kw==}
     requiresBuild: true
     dependencies:
-      '@types/node': 18.16.2
+      '@types/node': 18.16.3
     dev: false
     optional: true
 
@@ -945,7 +945,7 @@ packages:
       boolbase: 1.0.0
       css-what: 6.1.0
       domhandler: 5.0.3
-      domutils: 3.0.1
+      domutils: 3.1.0
       nth-check: 2.1.1
     dev: false
 
@@ -1044,8 +1044,8 @@ packages:
       domelementtype: 2.3.0
     dev: false
 
-  /domutils@3.0.1:
-    resolution: {integrity: sha512-z08c1l761iKhDFtfXO04C7kTdPBLi41zwOZl00WS8b5eiaebNpY00HKbztwBq+e3vyqWNwWF3mP9YLUeqIrF+Q==}
+  /domutils@3.1.0:
+    resolution: {integrity: sha512-H78uMmQtI2AhgDJjWeQmHwJJ2bLPD3GMmO7Zja/ZZh84wkm+4ut+IUnUdRa8uCGX88DiVx1j6FRe1XfxEgjEZA==}
     dependencies:
       dom-serializer: 2.0.0
       domelementtype: 2.3.0
@@ -1348,8 +1348,8 @@ packages:
       path-is-absolute: 1.0.1
     dev: false
 
-  /google-font-metadata@5.1.4:
-    resolution: {integrity: sha512-tUwefEgUkRHh/692ZnbFZiVePz0Gua935fPzHX91+d3TJ86UY2mEWM9uqjSJK/kzBdJFDUM6RYil8vjys7uQwQ==}
+  /google-font-metadata@5.1.5:
+    resolution: {integrity: sha512-18MtbyD9BLdy5sqU/9V6cWGcYHVzXVrox96EBC0qosR0Cz7yP49/vvMVX5Sl7XiTfd3VhezzKatqDze64jEFYQ==}
     hasBin: true
     dependencies:
       '@octokit/core': 4.2.0
@@ -1361,7 +1361,7 @@ packages:
       execa: 7.1.1
       got: 12.6.0
       json-stringify-pretty-compact: 4.0.0
-      linkedom: 0.14.25
+      linkedom: 0.14.26
       p-queue: 7.3.4
       pathe: 1.1.0
       picocolors: 1.0.0
@@ -1464,7 +1464,7 @@ packages:
     dependencies:
       domelementtype: 2.3.0
       domhandler: 5.0.3
-      domutils: 3.0.1
+      domutils: 3.1.0
       entities: 4.5.0
     dev: false
 
@@ -1735,8 +1735,8 @@ packages:
     resolution: {integrity: sha512-7ylylesZQ/PV29jhEDl3Ufjo6ZX7gCqJr5F7PKrqc93v7fzSymt1BpwEU8nAUXs8qzzvqhbjhK5QZg6Mt/HkBg==}
     dev: false
 
-  /linkedom@0.14.25:
-    resolution: {integrity: sha512-Q5BvQVFzMveMxHvZ9L3E60duxSVPIWQRzY2HJKpCV4pRzY3jS/r/a1upLeo/Nup9mDRJ5MS0FX2hRR+wRo+Hiw==}
+  /linkedom@0.14.26:
+    resolution: {integrity: sha512-mK6TrydfFA7phrnp+1j57ycBwFI5bGSW6YXlw9acHoqF+mP/y+FooEYYyniOt5Ot57FSKB3iwmnuQ1UUyNLm5A==}
     dependencies:
       css-select: 5.1.0
       cssom: 0.5.0
