@@ -6663,6 +6663,18 @@
     },
     "original": "Copyright 2004 The Inspiration Project Authors (https://github.com/googlefonts/inspiration)"
   },
+  "instrument-sans": {
+    "id": "instrument-sans",
+    "authors": {
+      "copyright": "Copyright 2022 The Instrument Sans Project Authors",
+      "website": "https://github.com/Instrument/instrument-sans"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Instrument Sans Project Authors (https://github.com/Instrument/instrument-sans)"
+  },
   "instrument-serif": {
     "id": "instrument-serif",
     "authors": {
@@ -11031,6 +11043,30 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2018 Google LLC. All Rights Reserved."
+  },
+  "noto-sans-nag-mundari": {
+    "id": "noto-sans-nag-mundari",
+    "authors": {
+      "copyright": "Copyright 2023 The Noto Project Authors",
+      "website": "https://github.com/notofonts/nag-mundari"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Noto Project Authors (https://github.com/notofonts/nag-mundari)"
+  },
+  "noto-sans-nandinagari": {
+    "id": "noto-sans-nandinagari",
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/nandinagari"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/nandinagari)"
   },
   "noto-sans-new-tai-lue": {
     "id": "noto-sans-new-tai-lue",
@@ -17220,6 +17256,30 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2011 The Wire One Project Authors (https://github.com/cyrealtype/Wire-One)"
+  },
+  "wix-madefor-display": {
+    "id": "wix-madefor-display",
+    "authors": {
+      "copyright": "Copyright 2021 The Wix Madefor Project Authors",
+      "website": "https://github.com/wix/wixmadefor/"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2021 The Wix Madefor Project Authors (https://github.com/wix/wixmadefor/)"
+  },
+  "wix-madefor-text": {
+    "id": "wix-madefor-text",
+    "authors": {
+      "copyright": "Copyright 2021 The Wix Madefor Project Authors",
+      "website": "https://github.com/wix/wixmadefor/"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2021 The Wix Madefor Project Authors (https://github.com/wix/wixmadefor/)"
   },
   "work-sans": {
     "id": "work-sans",
