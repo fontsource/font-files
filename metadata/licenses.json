@@ -16338,6 +16338,42 @@
     },
     "original": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)"
   },
+  "tilt-neon": {
+    "id": "tilt-neon",
+    "authors": {
+      "copyright": "Copyright 2019 The Tilt Project Authors",
+      "website": "https://github.com/googlefonts/Tilt-Fonts"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2019 The Tilt Project Authors (https://github.com/googlefonts/Tilt-Fonts)"
+  },
+  "tilt-prism": {
+    "id": "tilt-prism",
+    "authors": {
+      "copyright": "Copyright 2019 The Tilt Project Authors",
+      "website": "https://github.com/googlefonts/Tilt-Fonts"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2019 The Tilt Project Authors (https://github.com/googlefonts/Tilt-Fonts)"
+  },
+  "tilt-warp": {
+    "id": "tilt-warp",
+    "authors": {
+      "copyright": "Copyright 2019 The Tilt Project Authors",
+      "website": "https://github.com/googlefonts/Tilt-Fonts"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2019 The Tilt Project Authors (https://github.com/googlefonts/Tilt-Fonts)"
+  },
   "timmana": {
     "id": "timmana",
     "authors": {
