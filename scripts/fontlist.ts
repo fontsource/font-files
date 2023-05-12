@@ -36,22 +36,19 @@ const pushFonts = (type: string) => {
 		fontlist.push(object);
 
 		switch (type) {
-			case 'google' || 'variable': {
+			case 'google':
+			case 'variable':
 				google.add(metadata.family);
-
 				break;
-			}
-			case 'icons' || 'variable-icons': {
+			case 'icons':
+			case 'variable-icons':
 				icons.add(metadata.family);
 				break;
-			}
-			case 'other': {
+			case 'other':
 				other.push(metadata.family);
 				break;
-			}
-			default: {
+			default:
 				throw new Error(`${metadata.family} has unknown type ${type}.`);
-			}
 		}
 	}
 };
