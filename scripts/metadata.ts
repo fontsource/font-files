@@ -70,6 +70,14 @@ createMetadata('google');
 createMetadata('icons');
 createMetadata('variable');
 createMetadata('variable-icons');
-// createMetadata("other");
+createMetadata('other');
 
-fs.writeFileSync('metadata/fontsource.json', stringify(fontsourceMetadata));
+// Sort keys alphabetically
+const orderedMetadata: Record<string, FontsourceMetadata> = {};
+const orderedKeys = Object.keys(fontsourceMetadata).sort();
+
+for (const key of orderedKeys) {
+	orderedMetadata[key] = fontsourceMetadata[key];
+}
+
+fs.writeFileSync('metadata/fontsource.json', stringify(orderedMetadata));
