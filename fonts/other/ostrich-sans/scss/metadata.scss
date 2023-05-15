@@ -1,0 +1,14 @@
+$id: 'ostrich-sans' !default;
+$family: 'Ostrich Sans' !default;
+$category: sans-serif !default;
+$subsets: (latin) !default;
+$weights: (300, 400, 700, 900) !default;
+$styles: (normal) !default;
+$axes: null !default;
+$defaults: (
+  subset: latin,
+  weight: 400,
+  style: normal,
+  axis: null,
+) !default;
+$unicode: null !default;
