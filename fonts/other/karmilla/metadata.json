@@ -1,0 +1,19 @@
+{
+  "id": "karmilla",
+  "family": "Karmilla",
+  "subsets": ["latin"],
+  "weights": [400, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v0.15b",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/ms-studio/karmilla/blob/master/OFL.txt",
+    "attribution": "The Karmilla Project Authors (https://github.com/ms-studio/karmilla)"
+  },
+  "source": "https://github.com/ms-studio/karmilla",
+  "type": "other"
+}
