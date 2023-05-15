@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/hauora-sans",
+  "version": "5.0.0",
+  "description": "Self-host the Hauora Sans font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "hauora-sans",
+    "Hauora Sans",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "WCYS & Co. (https://wcys.co)",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/hauora-sans",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/other/hauora-sans"
+  }
+}
