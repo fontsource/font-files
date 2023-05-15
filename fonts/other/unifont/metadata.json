@@ -1,0 +1,19 @@
+{
+  "id": "unifont",
+  "family": "Unifont",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v13.0.06",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://unifoundry.com/OFL-1.1.txt",
+    "attribution": "GNU Unifont Authors (https://unifoundry.com/unifont/index.html)"
+  },
+  "source": "https://unifoundry.com/unifont/index.html",
+  "type": "other"
+}
