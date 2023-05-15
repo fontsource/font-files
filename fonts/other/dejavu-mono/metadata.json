@@ -1,0 +1,19 @@
+{
+  "id": "dejavu-mono",
+  "family": "DejaVu Mono",
+  "subsets": ["latin"],
+  "weights": [400, 700],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v2.37",
+  "category": "monospace",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/dejavu-fonts/dejavu-fonts/blob/master/LICENSE",
+    "attribution": "Bitstream, Inc."
+  },
+  "source": "https://github.com/dejavu-fonts/dejavu-fonts",
+  "type": "other"
+}

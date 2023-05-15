@@ -1,0 +1,19 @@
+{
+  "id": "dejavu-math",
+  "family": "DejaVu Math",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v2.37",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/dejavu-fonts/dejavu-fonts/blob/master/LICENSE",
+    "attribution": "Bitstream, Inc."
+  },
+  "source": "https://github.com/dejavu-fonts/dejavu-fonts",
+  "type": "other"
+}
