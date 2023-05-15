@@ -1,0 +1,19 @@
+{
+  "id": "blackout-midnight",
+  "family": "Blackout Midnight",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v1",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/theleagueof/blackout/blob/master/Open%20Font%20License.markdown",
+    "attribution": "Tyler Finck <hello@sursly.com>"
+  },
+  "source": "https://github.com/theleagueof/blackout",
+  "type": "other"
+}
