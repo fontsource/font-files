@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/junction",
+  "version": "5.0.0",
+  "description": "Self-host the Junction font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "junction",
+    "Junction",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Caroline Hadilaksono <caroline@hadilaksono.com>",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/junction",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/other/junction"
+  }
+}
