@@ -1,0 +1,19 @@
+{
+  "id": "young-serif",
+  "family": "Young Serif",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v1",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/noirblancrouge/YoungSerif/blob/master/OFL.txt",
+    "attribution": "Young Serif Project Authors (https://github.com//noirblancrouge)"
+  },
+  "source": "https://github.com/noirblancrouge/YoungSerif",
+  "type": "other"
+}
