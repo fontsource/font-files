@@ -1,0 +1,19 @@
+{
+  "id": "firago",
+  "family": "FiraGO",
+  "subsets": ["latin"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v1.001",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/bBoxType/FiraGO/blob/master/OFL.txt",
+    "attribution": "Carrois Corporate GbR and HERE Europe B.V."
+  },
+  "source": "https://github.com/bBoxType/FiraGO",
+  "type": "other"
+}
