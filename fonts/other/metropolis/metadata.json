@@ -1,0 +1,19 @@
+{
+	"id": "metropolis",
+	"family": "Metropolis",
+	"subsets": ["latin"],
+	"weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+	"styles": ["normal", "italic"],
+	"defSubset": "latin",
+	"variable": false,
+	"lastModified": "2023-05-15",
+	"version": "v11.0.0",
+	"category": "sans-serif",
+	"license": {
+		"type": "Unlicense",
+		"url": "https://github.com/dw5/Metropolis/blob/master/UNLICENSE",
+		"attribution": "Chris Simpson"
+	},
+	"source": "https://github.com/dw5/Metropolis",
+	"type": "other"
+}
