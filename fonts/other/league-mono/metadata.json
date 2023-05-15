@@ -1,0 +1,19 @@
+{
+  "id": "league-mono",
+  "family": "League Mono",
+  "subsets": ["latin"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v2.2",
+  "category": "monospace",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/theleagueof/league-mono/blob/master/OFL.md",
+    "attribution": "Tyler Finck <hi@tylerfinck.com>"
+  },
+  "source": "https://github.com/theleagueof/league-mono",
+  "type": "other"
+}
