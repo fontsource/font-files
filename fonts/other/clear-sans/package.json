@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/clear-sans",
+  "version": "5.0.0",
+  "description": "Self-host the Clear Sans font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "clear-sans",
+    "Clear Sans",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Intel",
+  "license": "Apache-2.0",
+  "homepage": "https://fontsource.org/fonts/clear-sans",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/other/clear-sans"
+  }
+}

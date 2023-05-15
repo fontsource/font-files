@@ -1,0 +1,19 @@
+{
+  "id": "clear-sans",
+  "family": "Clear Sans",
+  "subsets": ["latin"],
+  "weights": [100, 300, 400, 500, 700],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v1.00",
+  "category": "sans-serif",
+  "license": {
+    "type": "Apache-2.0",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "attribution": "Intel"
+  },
+  "source": "https://github.com/intel/clear-sans",
+  "type": "other"
+}
