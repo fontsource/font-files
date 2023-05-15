@@ -1,0 +1,19 @@
+{
+  "id": "comic-mono",
+  "family": "Comic Mono",
+  "subsets": ["latin"],
+  "weights": [400, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v1.0",
+  "category": "monospace",
+  "license": {
+    "type": "mit",
+    "url": "https://github.com/dtinth/comic-mono-font/blob/master/LICENSE",
+    "attribution": "Shannon Miwa, dtinth"
+  },
+  "source": "https://github.com/dtinth/comic-mono-font",
+  "type": "other"
+}

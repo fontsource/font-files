@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/comic-mono",
+  "version": "5.0.0",
+  "description": "Self-host the Comic Mono font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "comic-mono",
+    "Comic Mono",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Shannon Miwa, dtinth",
+  "license": "mit",
+  "homepage": "https://fontsource.org/fonts/comic-mono",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/other/comic-mono"
+  }
+}
