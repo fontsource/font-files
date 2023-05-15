@@ -1,0 +1,19 @@
+{
+  "id": "dseg7-classic-mini",
+  "family": "DSEG7 Classic Mini",
+  "subsets": ["latin"],
+  "weights": [300, 400, 700],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v0.46",
+  "category": "other",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/keshikan/DSEG/blob/master/DSEG-LICENSE.txt",
+    "attribution": "keshikan (https://www.keshikan.net)"
+  },
+  "source": "https://github.com/keshikan/DSEG",
+  "type": "other"
+}

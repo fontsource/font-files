@@ -1,0 +1,14 @@
+$id: 'dseg7-classic-mini' !default;
+$family: 'DSEG7 Classic Mini' !default;
+$category: other !default;
+$subsets: (latin) !default;
+$weights: (300, 400, 700) !default;
+$styles: (normal, italic) !default;
+$axes: null !default;
+$defaults: (
+  subset: latin,
+  weight: 400,
+  style: normal,
+  axis: null,
+) !default;
+$unicode: null !default;
