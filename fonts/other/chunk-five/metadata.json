@@ -1,0 +1,19 @@
+{
+  "id": "chunk-five",
+  "family": "Chunk Five",
+  "subsets": ["latin"],
+  "weights": [800],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v5",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/theleagueof/chunk/blob/master/Open%20Font%20License.markdown",
+    "attribution": "Meredith Mandel <meredith@meredithmandel.com>"
+  },
+  "source": "https://github.com/theleagueof/chunk",
+  "type": "other"
+}
