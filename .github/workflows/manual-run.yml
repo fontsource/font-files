@@ -47,3 +47,12 @@ jobs:
           commit_author: "fontsource-bot <83556432+fontsource-bot@users.noreply.github.com>"
           commit_message: "chore(build): update packages [Manual]"
         continue-on-error: true
+
+      - name: Trigger DB updates
+        uses: fjogeleit/http-request-action@v1
+        with:
+          url: "https://beta.fontsource.org/actions/update"
+          method: "POST"
+          bearerToken: ${{ secrets.WEBSITE_UPDATE_TOKEN }}
+          data: '{"fonts": true, "algolia": true, "download": true, "axisRegistry": true, "docs": true}'
+          preventFailureOnNoResponse: true
