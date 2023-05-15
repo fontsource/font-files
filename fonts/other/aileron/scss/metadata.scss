@@ -1,0 +1,14 @@
+$id: 'aileron' !default;
+$family: 'Aileron' !default;
+$category: sans-serif !default;
+$subsets: (latin) !default;
+$weights: (100, 300, 400, 600, 700, 800) !default;
+$styles: (normal, italic) !default;
+$axes: null !default;
+$defaults: (
+  subset: latin,
+  weight: 400,
+  style: normal,
+  axis: null,
+) !default;
+$unicode: null !default;

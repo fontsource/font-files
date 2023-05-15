@@ -1,0 +1,19 @@
+{
+  "id": "aileron",
+  "family": "Aileron",
+  "subsets": ["latin"],
+  "weights": [100, 300, 400, 600, 700, 800],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v0.102",
+  "category": "sans-serif",
+  "license": {
+    "type": "CC0-1.0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Sora Sagano"
+  },
+  "source": "http://dotcolon.net/font/aileron/",
+  "type": "other"
+}
