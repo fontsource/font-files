@@ -1,0 +1,19 @@
+{
+  "id": "yakuhanmp",
+  "family": "YakuHanMP",
+  "subsets": ["latin"],
+  "weights": [100, 200, 300, 400, 500, 700, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v3.3.1",
+  "category": "other",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/qrac/yakuhanjp",
+    "attribution": "QRANOKO (https://qranoko.jp/)"
+  },
+  "source": "https://github.com/qrac/yakuhanjp",
+  "type": "other"
+}
