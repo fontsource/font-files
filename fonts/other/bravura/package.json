@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/bravura",
+  "version": "5.0.0",
+  "description": "Self-host the Bravura font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "bravura",
+    "Bravura",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Steinberg Media Technologies GmbH (http://www.steinberg.net/)",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/bravura",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/other/bravura"
+  }
+}

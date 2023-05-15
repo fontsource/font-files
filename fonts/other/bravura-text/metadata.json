@@ -1,0 +1,19 @@
+{
+  "id": "bravura-text",
+  "family": "Bravura Text",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v1.38",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/steinbergmedia/bravura/blob/bravura-1.380/LICENSE.txt",
+    "attribution": "Steinberg Media Technologies GmbH (http://www.steinberg.net/)"
+  },
+  "source": "https://github.com/steinbergmedia/bravura",
+  "type": "other"
+}
