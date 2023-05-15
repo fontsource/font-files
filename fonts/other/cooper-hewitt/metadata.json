@@ -1,0 +1,19 @@
+{
+  "id": "cooper-hewitt",
+  "family": "Cooper Hewitt",
+  "subsets": ["latin"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/cooperhewitt/cooperhewitt-typeface/blob/master/files/-CooperHewitt-OFL-201406.txt",
+    "attribution": "Cooper Hewitt Smithsonian Design Museum (cooperhewitt.org)"
+  },
+  "source": "https://github.com/cooperhewitt/cooperhewitt-typeface",
+  "type": "other"
+}

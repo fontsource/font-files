@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/cooper-hewitt",
+  "version": "5.0.0",
+  "description": "Self-host the Cooper Hewitt font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "cooper-hewitt",
+    "Cooper Hewitt",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Cooper Hewitt Smithsonian Design Museum (cooperhewitt.org)",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/cooper-hewitt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/other/cooper-hewitt"
+  }
+}
