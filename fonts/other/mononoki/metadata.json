@@ -1,0 +1,19 @@
+{
+  "id": "mononoki",
+  "family": "Mononoki",
+  "subsets": ["latin"],
+  "weights": [400, 700],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v1.3",
+  "category": "monospace",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/madmalik/mononoki/blob/main/LICENSE",
+    "attribution": "Matthias Tellen matthias.tellen@googlemail.com"
+  },
+  "source": "https://github.com/madmalik/mononoki",
+  "type": "other"
+}
