@@ -1,0 +1,19 @@
+{
+  "id": "argentum-sans",
+  "family": "Argentum Sans",
+  "subsets": ["latin"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/cssobral2013/Argentum-Sans/blob/master/OFL.txt",
+    "attribution": "The Argentum Sans Project Authors (cssobral2013@gmail.com - https://github.com/cssobral2013/Argentum-Sans)"
+  },
+  "source": "https://github.com/cssobral2013/Argentum-Sans",
+  "type": "other"
+}
