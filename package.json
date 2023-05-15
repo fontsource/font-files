@@ -7,14 +7,16 @@
 	"scripts": {
 		"fontlist": "tsx scripts/fontlist.ts",
 		"gfm-metadata": "tsx scripts/gfm-metadata.ts",
-		"metadata": "tsx scripts/metadata.ts"
+		"metadata": "tsx scripts/metadata.ts",
+		"test": "tsx scripts/test.ts"
 	},
 	"author": "Ayuhito <hello@ayuhito.com>",
 	"license": "MIT",
 	"dependencies": {
-		"@fontsource-utils/cli": "0.2.0-beta.23",
+		"@fontsource-utils/cli": "0.2.0-beta.26",
 		"@fontsource-utils/publish": "^0.1.0",
 		"@types/node": "^20.1.4",
+		"consola": "^3.1.0",
 		"json-stringify-pretty-compact": "^4.0.0",
 		"pathe": "^1.1.0",
 		"tsx": "^3.12.7"

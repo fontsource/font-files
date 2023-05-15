@@ -2,14 +2,17 @@ lockfileVersion: '6.0'
 
 dependencies:
   '@fontsource-utils/cli':
-    specifier: 0.2.0-beta.23
-    version: 0.2.0-beta.23
+    specifier: 0.2.0-beta.26
+    version: 0.2.0-beta.26
   '@fontsource-utils/publish':
     specifier: ^0.1.0
     version: 0.1.0
   '@types/node':
     specifier: ^20.1.4
     version: 20.1.4
+  consola:
+    specifier: ^3.1.0
+    version: 3.1.0
   json-stringify-pretty-compact:
     specifier: ^4.0.0
     version: 4.0.0
@@ -296,8 +299,8 @@ packages:
     dev: false
     optional: true
 
-  /@fontsource-utils/cli@0.2.0-beta.23:
-    resolution: {integrity: sha512-zEC+V2eBwL11VJU2wuKe8kTCfBpXSyX9imGl3keA7HP7EWJXVETrPDgtDOEcHHSNM5cxfkr+k0392NWovtRFGA==}
+  /@fontsource-utils/cli@0.2.0-beta.26:
+    resolution: {integrity: sha512-aIMcohe3+OVRmwbIZvDQ34wHCqjjEqc6N2AmEuX95DqtTnpNl4lxNMZNPuwkkFmUM1NhsLthWQiflBQDb/EenQ==}
     hasBin: true
     dependencies:
       '@clack/prompts': 0.6.3
@@ -1949,7 +1952,7 @@ packages:
     dependencies:
       env-paths: 2.2.1
       glob: 7.2.3
-      graceful-fs: 4.2.10
+      graceful-fs: 4.2.11
       nopt: 5.0.0
       npmlog: 4.1.2
       request: 2.88.2

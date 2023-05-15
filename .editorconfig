@@ -14,3 +14,7 @@ quote_type = single
 
 [*.md]
 trim_trailing_whitespace = false
+
+[*.yml]
+indent_size = 2
+indent_style = space
