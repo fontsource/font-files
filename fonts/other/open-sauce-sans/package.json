@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/open-sauce-sans",
+  "version": "5.0.0",
+  "description": "Self-host the Open Sauce Sans font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "open-sauce-sans",
+    "Open Sauce Sans",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "The Open Sauce Sans Authors (https://github.com/marcologous/Open-Sauce-Fonts)",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/open-sauce-sans",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/other/open-sauce-sans"
+  }
+}
