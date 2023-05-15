@@ -1,0 +1,19 @@
+{
+  "id": "bluu-next",
+  "family": "Bluu Next",
+  "subsets": ["latin"],
+  "weights": [700],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v1.0",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/jbmorizot/BluuNext/blob/master/OFL_BluuNext.txt",
+    "attribution": "Jean-Baptiste Morizot, (http://cargocollective.com/jbmrz)"
+  },
+  "source": "https://github.com/jbmorizot/BluuNext",
+  "type": "other"
+}
