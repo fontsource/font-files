@@ -1,0 +1,19 @@
+{
+  "id": "ia-writer-mono",
+  "family": "iA Writer Mono",
+  "subsets": ["latin"],
+  "weights": [400, 700],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v1",
+  "category": "monospace",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Mono/LICENSE.md",
+    "attribution": "Information Architects Inc."
+  },
+  "source": "https://github.com/iaolo/iA-Fonts",
+  "type": "other"
+}
