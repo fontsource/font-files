@@ -1,0 +1,19 @@
+{
+  "id": "peace-sans",
+  "family": "Peace Sans",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v1.0.0",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://www.dropbox.com/s/nj8rlfgsqpph9h7/Peace%20Sans.zip?dl=0&file_subpath=%2FFREE+FONT+LICENSE.txt",
+    "attribution": "Sergey Ryadovoy"
+  },
+  "source": "https://ryadovoy.com/",
+  "type": "other"
+}
