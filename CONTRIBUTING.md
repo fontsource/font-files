@@ -22,7 +22,8 @@ This repository hosts the font files for the [Fontsource](https://github.com/fon
    - Run `pnpm install` in this repository to install the necessary dependencies or install the [Fontsource CLI](https://github.com/fontsource/fontsource) (`@fontsource-utils/cli`) globally with the package manager of your choice.
    - Run `npx fontsource create` in the root of this repository and follow the necessary prompts. Ensure your submission matches the [Fontsource Submission Guidelines](#fontsource-submission-guidelines).
    - Add the font files to the generated directory following the guidelines given in the CLI prompts.
-   - Run `npx fontsource create-verify` to check if the all the required font files are added.
+   - Move the package into the `fonts/other` directory.
+   - Run `pnpm test` to check if your package has all the required files.
 
 5. On GitHub, send a pull request to fontsource/font-files:main.
 6. After your pull request is merged, you can safely delete your branch and pull changes from the main repository.
