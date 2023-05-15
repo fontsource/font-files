@@ -1,0 +1,19 @@
+{
+  "id": "noto-mono",
+  "family": "Noto Mono",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v1",
+  "category": "monospace",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/notofonts/noto-fonts/blob/master/LICENSE",
+    "attribution": "The Noto Project Authors (github.com/googlei18n/noto-fonts)"
+  },
+  "source": "https://github.com/notofonts/noto-fonts",
+  "type": "other"
+}
