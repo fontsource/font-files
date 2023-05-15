@@ -1,0 +1,14 @@
+$id: 'opendyslexic' !default;
+$family: 'OpenDyslexic' !default;
+$category: sans-serif !default;
+$subsets: (latin) !default;
+$weights: (400, 700) !default;
+$styles: (normal, italic) !default;
+$axes: null !default;
+$defaults: (
+  subset: latin,
+  weight: 400,
+  style: normal,
+  axis: null,
+) !default;
+$unicode: null !default;

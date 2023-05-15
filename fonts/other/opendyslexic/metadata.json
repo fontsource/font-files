@@ -1,0 +1,19 @@
+{
+  "id": "opendyslexic",
+  "family": "OpenDyslexic",
+  "subsets": ["latin"],
+  "weights": [400, 700],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v0.910.12",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/antijingoist/opendyslexic/blob/master/OFL.txt",
+    "attribution": "Abbie Gonzalez (https://abbiecod.es|support@abbiecod.es)\\"
+  },
+  "source": "https://github.com/antijingoist/opendyslexic",
+  "type": "other"
+}
