@@ -1,0 +1,19 @@
+{
+  "id": "victor-mono",
+  "family": "Victor Mono",
+  "subsets": ["latin"],
+  "weights": [400, 700],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v1.5.5",
+  "category": "monospace",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/rubjo/victor-mono/blob/master/LICENSE",
+    "attribution": "Rune Bjørnerås (https://github.com/rubjo)"
+  },
+  "source": "https://github.com/rubjo/victor-mono",
+  "type": "other"
+}
