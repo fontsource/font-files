@@ -1,0 +1,19 @@
+{
+  "id": "bagnard",
+  "family": "Bagnard",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-15",
+  "version": "v1",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/sebsan/Bagnard/blob/master/OFL.txt",
+    "attribution": "Sebastien Sanfilippo (www.love-letters.be)"
+  },
+  "source": "https://github.com/dconstruct/Bagnard",
+  "type": "other"
+}

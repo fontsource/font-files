@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/bagnard-sans",
+  "version": "5.0.0",
+  "description": "Self-host the Bagnard Sans font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "bagnard-sans",
+    "Bagnard Sans",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Sebastien Sanfilippo (www.love-letters.be)",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/bagnard-sans",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/other/bagnard-sans"
+  }
+}
