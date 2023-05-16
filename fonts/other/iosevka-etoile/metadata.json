@@ -1,0 +1,19 @@
+{
+  "id": "iosevka-etoile",
+  "family": "Iosevka Etoile",
+  "subsets": ["latin"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-16",
+  "version": "v22.1.2",
+  "category": "monospace",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/be5invis/Iosevka/blob/main/LICENSE.md",
+    "attribution": "Belleve Invis"
+  },
+  "source": "https://github.com/be5invis/Iosevka",
+  "type": "other"
+}
