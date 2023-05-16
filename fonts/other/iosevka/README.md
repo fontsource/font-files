@@ -38,9 +38,9 @@ body {
 It is important to always read the license for every font that you use.
 Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Renzhi Li (aka. Belleve Invis, belleve@typeof.net)
+Belleve Invis
 [OFL-1.1](https://github.com/be5invis/Iosevka/blob/main/LICENSE.md)
 
 ## Other Notes
-Font version (provided by source): `v9.0.1`.
+Font version (provided by source): `v22.1.2`.
 Feel free to star and contribute new ideas to this repository that aim to improve the performance of font loading, as well as expanding the existing library we already have. Any suggestions or ideas can be voiced via an [issue](https://github.com/fontsource/fontsource/issues).

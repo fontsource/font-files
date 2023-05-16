@@ -6,13 +6,13 @@
   "styles": ["normal", "italic"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-05-15",
-  "version": "v9.0.1",
+  "lastModified": "2023-05-16",
+  "version": "v22.1.2",
   "category": "monospace",
   "license": {
     "type": "OFL-1.1",
     "url": "https://github.com/be5invis/Iosevka/blob/main/LICENSE.md",
-    "attribution": "Renzhi Li (aka. Belleve Invis, belleve@typeof.net)"
+    "attribution": "Belleve Invis"
   },
   "source": "https://github.com/be5invis/Iosevka",
   "type": "other"
