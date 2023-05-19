@@ -1,0 +1,10 @@
+{
+	"packages": [
+		"./fonts/google/",
+		"./fonts/icons/",
+		"./fonts/other/",
+		"./fonts/variable-icons/",
+		"./fonts/variable/"
+	],
+	"commitMessage": "chore: release new versions"
+}
