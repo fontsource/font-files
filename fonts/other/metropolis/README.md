@@ -39,7 +39,7 @@ It is important to always read the license for every font that you use.
 Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
 Chris Simpson
-[other](https://github.com/dw5/Metropolis/blob/master/UNLICENSE)
+[Unlicense](https://github.com/dw5/Metropolis/blob/master/UNLICENSE)
 
 ## Other Notes
 Font version (provided by source): `v11.0.0`.
