@@ -8,13 +8,13 @@
 		"fontlist": "tsx scripts/fontlist.ts",
 		"gfm-metadata": "tsx scripts/gfm-metadata.ts",
 		"metadata": "tsx scripts/metadata.ts",
-		"test": "tsx scripts/test.ts"
+		"test": "fontsource create-verify --all"
 	},
 	"author": "Ayuhito <hello@ayuhito.com>",
 	"license": "MIT",
 	"dependencies": {
-		"@fontsource-utils/cli": "0.3.0",
-		"@fontsource-utils/publish": "^0.1.4",
+		"@fontsource-utils/cli": "0.3.1",
+		"@fontsource-utils/publish": "^0.1.5",
 		"@types/node": "^20.2.1",
 		"consola": "^3.1.0",
 		"json-stringify-pretty-compact": "^4.0.0",

@@ -2,11 +2,11 @@ lockfileVersion: '6.0'
 
 dependencies:
   '@fontsource-utils/cli':
-    specifier: 0.3.0
-    version: 0.3.0
+    specifier: 0.3.1
+    version: 0.3.1
   '@fontsource-utils/publish':
-    specifier: ^0.1.4
-    version: 0.1.4
+    specifier: ^0.1.5
+    version: 0.1.5
   '@types/node':
     specifier: ^20.2.1
     version: 20.2.1
@@ -282,8 +282,8 @@ packages:
     dev: false
     optional: true
 
-  /@fontsource-utils/cli@0.3.0:
-    resolution: {integrity: sha512-bh+nqx21SGjK0CLyowDwEQbIw9M9/Pbut4l2XVztod2VArbFf+2Q1jDuJds+VnJ/On9Sx76IwdO4SmCdd9c44g==}
+  /@fontsource-utils/cli@0.3.1:
+    resolution: {integrity: sha512-d22eMBaspc588X2T20S4GJwJdeEeReHH0F4CP/bEBF8FHWQJPJvxzHxZMF0Ge8qgk3iPakCLmm47S3pux+JLYA==}
     hasBin: true
     dependencies:
       '@clack/prompts': 0.6.3
@@ -310,8 +310,8 @@ packages:
     resolution: {integrity: sha512-Z0wjIXQPHl5aEX3P+M9iIEJUO0UFVouzrl0z6wjEtkeoh27wtu+BnAqCLXLYrlTU8zVwBaJk/QbUVmkfGQQ9VA==}
     dev: false
 
-  /@fontsource-utils/publish@0.1.4:
-    resolution: {integrity: sha512-IPNDfpQpDKfxCo+bMXtO8TFx26ycRjToi2Zmw5aHrA3SJv+PhjELsYTtdAxxa6Id9KULOAiRMkvRMDymCDgbFg==}
+  /@fontsource-utils/publish@0.1.5:
+    resolution: {integrity: sha512-PsHmkLp6Jj8O3JThkQFdB8ZmYbMiTpE1Fg8KCSvDX6SZEH2TrEmy87SMC5qFjqC8cLDC1IolLjeCNdt3vATCfg==}
     hasBin: true
     dependencies:
       '@clack/prompts': 0.6.3
