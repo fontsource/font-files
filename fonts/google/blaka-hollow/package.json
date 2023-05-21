@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/blaka-hollow",
-  "version": "4.5.0",
+  "version": "5.0.0",
   "description": "Self-host the Blaka Hollow font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/blaka-hollow"
-  }
+  },
+  "publishHash": "3d9a65953ab2b0e5"
 }

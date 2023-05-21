@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/yakuhanmp"
-  }
+  },
+  "publishHash": "8e1136829f0fbb7d"
 }

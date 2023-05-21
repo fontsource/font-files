@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-old-persian",
-  "version": "4.5.0",
+  "version": "5.0.0",
   "description": "Self-host the Noto Sans Old Persian font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-old-persian"
-  }
+  },
+  "publishHash": "c8ec285b3902ac5d"
 }

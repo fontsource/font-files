@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/montserrat-subrayada",
-  "version": "4.5.0",
+  "version": "5.0.0",
   "description": "Self-host the Montserrat Subrayada font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/montserrat-subrayada"
-  }
+  },
+  "publishHash": "708f027f711a31c9"
 }

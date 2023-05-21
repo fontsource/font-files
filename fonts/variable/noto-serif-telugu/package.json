@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-serif-telugu",
-  "version": "4.5.0",
+  "version": "5.0.0",
   "description": "Self-host the Noto Serif Telugu font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-serif-telugu"
-  }
+  },
+  "publishHash": "31e606687f5453f8"
 }

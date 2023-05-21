@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/bagnard-sans"
-  }
+  },
+  "publishHash": "4612994e28b0f5c9"
 }

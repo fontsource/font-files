@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-malayalam",
-  "version": "4.5.0",
+  "version": "5.0.0",
   "description": "Self-host the Noto Sans Malayalam font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-malayalam"
-  }
+  },
+  "publishHash": "a3fb0c173fc6f000"
 }

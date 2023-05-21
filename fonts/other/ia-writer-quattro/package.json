@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/ia-writer-quattro"
-  }
+  },
+  "publishHash": "deea6a0e301019bb"
 }

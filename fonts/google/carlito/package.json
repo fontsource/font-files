@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/carlito"
-  }
+  },
+  "publishHash": "29099eccfa24f3fe"
 }

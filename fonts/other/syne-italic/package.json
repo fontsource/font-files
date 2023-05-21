@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/syne-italic"
-  }
+  },
+  "publishHash": "d86551846e1cc7a9"
 }

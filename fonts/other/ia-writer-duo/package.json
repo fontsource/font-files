@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/ia-writer-duo"
-  }
+  },
+  "publishHash": "2d81cee286c1af72"
 }

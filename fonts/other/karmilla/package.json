@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/karmilla"
-  }
+  },
+  "publishHash": "0068b7bbd5329959"
 }

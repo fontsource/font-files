@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/dseg14-classic-mini"
-  }
+  },
+  "publishHash": "607cf70b90b8c32d"
 }

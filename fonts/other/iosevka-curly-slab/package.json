@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/iosevka-curly-slab"
-  }
+  },
+  "publishHash": "15c811385e64a99b"
 }

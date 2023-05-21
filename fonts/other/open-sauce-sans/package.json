@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/open-sauce-sans"
-  }
+  },
+  "publishHash": "2ae1c7e14e0c21ea"
 }

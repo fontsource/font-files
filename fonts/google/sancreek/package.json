@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sancreek",
-  "version": "4.5.0",
+  "version": "5.0.0",
   "description": "Self-host the Sancreek font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sancreek"
-  }
+  },
+  "publishHash": "0b6441fb21f55150"
 }

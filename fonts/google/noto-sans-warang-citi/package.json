@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-warang-citi",
-  "version": "4.5.0",
+  "version": "5.0.0",
   "description": "Self-host the Noto Sans Warang Citi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-warang-citi"
-  }
+  },
+  "publishHash": "a97cdbbe1eab2283"
 }

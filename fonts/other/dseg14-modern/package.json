@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/dseg14-modern"
-  }
+  },
+  "publishHash": "0b2fa3edd01b9d2a"
 }

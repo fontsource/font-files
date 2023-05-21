@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/dejavu-sans"
-  }
+  },
+  "publishHash": "7e903312fe7ac915"
 }

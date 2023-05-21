@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/iosevka-etoile"
-  }
+  },
+  "publishHash": "a904a17cda7c6ba4"
 }

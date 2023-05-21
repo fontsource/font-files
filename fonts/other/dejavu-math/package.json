@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/dejavu-math"
-  }
+  },
+  "publishHash": "0a73c97a72b2aa5e"
 }

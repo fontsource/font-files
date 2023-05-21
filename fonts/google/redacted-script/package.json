@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/redacted-script",
-  "version": "4.5.0",
+  "version": "5.0.0",
   "description": "Self-host the Redacted Script font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/redacted-script"
-  }
+  },
+  "publishHash": "1496ef1724554fa8"
 }

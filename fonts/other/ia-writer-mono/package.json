@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/ia-writer-mono"
-  }
+  },
+  "publishHash": "4866cbe7e3ce6e03"
 }

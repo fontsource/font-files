@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tenali-ramakrishna",
-  "version": "4.5.0",
+  "version": "5.0.0",
   "description": "Self-host the Tenali Ramakrishna font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tenali-ramakrishna"
-  }
+  },
+  "publishHash": "c4de680f4c8b0cb3"
 }

@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/ostrich-sans"
-  }
+  },
+  "publishHash": "013520a32c951159"
 }

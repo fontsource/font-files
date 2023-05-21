@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/schibsted-grotesk"
-  }
+  },
+  "publishHash": "9e7bb9530c5a8aad"
 }

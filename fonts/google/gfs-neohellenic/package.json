@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gfs-neohellenic",
-  "version": "4.5.0",
+  "version": "5.0.0",
   "description": "Self-host the GFS Neohellenic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gfs-neohellenic"
-  }
+  },
+  "publishHash": "04bc8d68a5c2930b"
 }
