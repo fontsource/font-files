@@ -6,6 +6,5 @@
 		"./fonts/variable-icons/",
 		"./fonts/variable/"
 	],
-	"commitMessage": "chore: release new versions",
-	"yes": true
+	"commitMessage": "chore: release new versions"
 }
