@@ -6,7 +6,7 @@ The CSS and web font files to easily self-host the “IBM Plex Sans KR” font. 
 
 ## Quick Installation
 
-Fontsource has a variety of methods to import CSS, such as using a bundler like Webpack. Alternatively, it supports SASS. Full documentation can be found [here](https://fontsource.org/docs/introduction).
+Fontsource has a variety of methods to import CSS, such as using a bundler like Webpack. Alternatively, it supports SASS. Full documentation can be found [here](https://beta.fontsource.org/docs/getting-started/introduction).
 
 ```javascript
 npm install @fontsource/ibm-plex-sans-kr
