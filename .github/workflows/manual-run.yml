@@ -39,6 +39,9 @@ jobs:
       - name: Save Fontsource metadata
         run: pnpm run metadata
 
+      - name: Publish to NPM
+        run: "pnpm run ci:publish"
+
       - name: Stage, commit and push files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
@@ -51,7 +54,7 @@ jobs:
       - name: Trigger DB updates
         uses: fjogeleit/http-request-action@v1
         with:
-          url: "https://beta.fontsource.org/actions/update"
+          url: "https://fontsource.org/actions/update"
           method: "POST"
           bearerToken: ${{ secrets.WEBSITE_UPDATE_TOKEN }}
           data: '{"fonts": true, "algolia": true, "download": true, "axisRegistry": true, "docs": true}'
