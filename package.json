@@ -14,7 +14,7 @@
 	"author": "Ayuhito <hello@ayuhito.com>",
 	"license": "MIT",
 	"dependencies": {
-		"@fontsource-utils/cli": "0.3.3",
+		"@fontsource-utils/cli": "0.3.4",
 		"@fontsource-utils/publish": "^0.1.5",
 		"@types/node": "^20.2.1",
 		"consola": "^3.1.0",
