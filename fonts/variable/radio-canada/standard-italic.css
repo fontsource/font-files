@@ -1,3 +1,13 @@
+/* radio-canada-canadian-aboriginal-standard-italic */
+@font-face {
+  font-family: 'Radio Canada Variable';
+  font-style: italic;
+  font-display: var(--fontsource-display, swap);
+  font-weight: 300 700;
+  font-stretch: 75% 100%;
+  src: url(./files/radio-canada-canadian-aboriginal-standard-italic.woff2) format('woff2-variations');
+}
+
 /* radio-canada-vietnamese-standard-italic */
 @font-face {
   font-family: 'Radio Canada Variable';

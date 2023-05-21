@@ -6,7 +6,7 @@ The CSS and web font files to easily self-host the “Noto Serif Devanagari” f
 
 ## Quick Installation
 
-Fontsource has a variety of methods to import CSS, such as using a bundler like Webpack. Alternatively, it supports SASS. Full documentation can be found [here](https://beta.fontsource.org/docs/getting-started/introduction).
+Fontsource has a variety of methods to import CSS, such as using a bundler like Webpack. Alternatively, it supports SASS. Full documentation can be found [here](https://fontsource.org/docs/getting-started/introduction).
 
 ```javascript
 npm install @fontsource-variable/noto-serif-devanagari
@@ -38,7 +38,7 @@ body {
 ## Variable Fonts
 
 This particular typeface supports [variable fonts](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide).
-Variable documentation can be found [here](https://fontsource.org/docs/variable-fonts).
+Variable documentation can be found [here](https://fontsource.org/docs/getting-started/variable).
 
 ## Licensing
 It is important to always read the license for every font that you use.
