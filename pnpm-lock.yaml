@@ -5,8 +5,8 @@ dependencies:
     specifier: 0.3.7
     version: 0.3.7
   '@fontsource-utils/publish':
-    specifier: ^0.2.3
-    version: 0.2.3
+    specifier: ^0.2.4
+    version: 0.2.4
   '@types/node':
     specifier: ^20.2.3
     version: 20.2.3
@@ -310,8 +310,8 @@ packages:
     resolution: {integrity: sha512-Z0wjIXQPHl5aEX3P+M9iIEJUO0UFVouzrl0z6wjEtkeoh27wtu+BnAqCLXLYrlTU8zVwBaJk/QbUVmkfGQQ9VA==}
     dev: false
 
-  /@fontsource-utils/publish@0.2.3:
-    resolution: {integrity: sha512-VVEW/rFThC3RKosqT7ociwSpOd8YysXbVSWjjcyUF2qplOk6C0Lit19tmCSpt0ELr+t2i3bnK8E6SnrRHh17Wg==}
+  /@fontsource-utils/publish@0.2.4:
+    resolution: {integrity: sha512-qfscihB3GvWQyB8QEHot3EzlR1GfsKAG6yVd3WynlTajHcGCdrHXuc4GyXEYlE7ly++8Zcx10jnhzsYsOqMpNg==}
     hasBin: true
     dependencies:
       '@clack/prompts': 0.6.3
