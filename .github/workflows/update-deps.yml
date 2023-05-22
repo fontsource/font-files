@@ -3,6 +3,7 @@ name: Update Fontsource Dependencies
 on:
   repository_dispatch:
     types: [update-deps]
+  workflow_dispatch:
 
 jobs:
   myEvent:
