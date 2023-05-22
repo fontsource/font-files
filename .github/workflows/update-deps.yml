@@ -24,7 +24,7 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Update
-        run: pnpm up "@fontsource/*" --latest
+        run: pnpm up --latest
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
