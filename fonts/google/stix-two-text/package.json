@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/stix-two-text"
-  },
-  "publishHash": "7c9b986de5d59b3d"
+  }
 }

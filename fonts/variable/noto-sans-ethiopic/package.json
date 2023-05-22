@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-ethiopic"
-  },
-  "publishHash": "807639c992bd15a0"
+  }
 }

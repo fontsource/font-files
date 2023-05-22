@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gideon-roman"
-  },
-  "publishHash": "076d85e2b2787e01"
+  }
 }

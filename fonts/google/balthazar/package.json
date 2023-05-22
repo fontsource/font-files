@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/balthazar"
-  },
-  "publishHash": "ca9524d1b5d230de"
+  }
 }

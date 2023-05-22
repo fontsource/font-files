@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ibm-plex-sans-hebrew"
-  },
-  "publishHash": "92b9aa0e231b0e2f"
+  }
 }

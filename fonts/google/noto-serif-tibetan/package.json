@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-tibetan"
-  },
-  "publishHash": "e2da7acc308a47b4"
+  }
 }

@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-cuneiform"
-  },
-  "publishHash": "6d2c56c726183195"
+  }
 }

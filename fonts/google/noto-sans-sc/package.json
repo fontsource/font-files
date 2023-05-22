@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-sc"
-  },
-  "publishHash": "d6e09fd56c735a9f"
+  }
 }

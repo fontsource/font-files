@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/material-icons-two-tone"
-  },
-  "publishHash": "00db573cc46ff37c"
+  }
 }

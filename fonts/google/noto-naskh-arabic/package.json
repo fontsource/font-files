@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-naskh-arabic"
-  },
-  "publishHash": "eb76181c694d19fe"
+  }
 }

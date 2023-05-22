@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-ol-chiki"
-  },
-  "publishHash": "043cb6c985beac24"
+  }
 }

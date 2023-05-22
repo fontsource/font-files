@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-shavian"
-  },
-  "publishHash": "1f7cf21b660dde98"
+  }
 }

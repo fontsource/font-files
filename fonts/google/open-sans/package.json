@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/open-sans"
-  },
-  "publishHash": "9255c7a783fc4e14"
+  }
 }

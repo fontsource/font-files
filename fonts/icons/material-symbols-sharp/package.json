@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/material-symbols-sharp"
-  },
-  "publishHash": "3064fe8f3a8a7dcb"
+  }
 }

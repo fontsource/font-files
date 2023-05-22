@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-bamum"
-  },
-  "publishHash": "97f968a60748df69"
+  }
 }

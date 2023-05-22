@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/jetbrains-mono"
-  },
-  "publishHash": "2a3ab06d9ddf8331"
+  }
 }

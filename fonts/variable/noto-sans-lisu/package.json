@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-lisu"
-  },
-  "publishHash": "c09059aa486821b4"
+  }
 }

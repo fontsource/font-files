@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-yi"
-  },
-  "publishHash": "4b6b6a78ec5235cc"
+  }
 }

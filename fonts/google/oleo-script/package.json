@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/oleo-script"
-  },
-  "publishHash": "bd0e79a2d507a0d4"
+  }
 }

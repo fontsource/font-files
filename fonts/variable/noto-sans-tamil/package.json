@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-tamil"
-  },
-  "publishHash": "d9d0ae94784ef5ac"
+  }
 }

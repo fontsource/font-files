@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-hebrew"
-  },
-  "publishHash": "fbe2d0791cc4a8e3"
+  }
 }

@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-buginese"
-  },
-  "publishHash": "d2b353efd21d470d"
+  }
 }

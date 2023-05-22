@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-grantha"
-  },
-  "publishHash": "0f056d25326f97f9"
+  }
 }

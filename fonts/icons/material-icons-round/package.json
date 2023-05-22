@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/material-icons-round"
-  },
-  "publishHash": "3cfa5e757575aaf9"
+  }
 }

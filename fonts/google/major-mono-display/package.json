@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/major-mono-display"
-  },
-  "publishHash": "58bb1630d091ee1d"
+  }
 }

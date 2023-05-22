@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-serif-display"
-  },
-  "publishHash": "28b75ede64f43045"
+  }
 }

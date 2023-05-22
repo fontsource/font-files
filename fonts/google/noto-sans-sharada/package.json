@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-sharada"
-  },
-  "publishHash": "550f926f054452a9"
+  }
 }

@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-kufi-arabic"
-  },
-  "publishHash": "d0daeeceae9e038e"
+  }
 }

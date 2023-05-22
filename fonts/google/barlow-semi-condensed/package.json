@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/barlow-semi-condensed"
-  },
-  "publishHash": "80f6d4228aca4687"
+  }
 }

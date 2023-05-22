@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fragment-mono"
-  },
-  "publishHash": "146cf7412df4c2ad"
+  }
 }

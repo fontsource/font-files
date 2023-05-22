@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ledger"
-  },
-  "publishHash": "3617ab2c7b11f961"
+  }
 }

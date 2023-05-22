@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/miriam-libre"
-  },
-  "publishHash": "40fb090ff8999850"
+  }
 }

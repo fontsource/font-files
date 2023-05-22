@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/roboto-condensed"
-  },
-  "publishHash": "5b28d2f5d69586c3"
+  }
 }

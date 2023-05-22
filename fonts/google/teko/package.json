@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/teko"
-  },
-  "publishHash": "a9c983e7ee60b122"
+  }
 }

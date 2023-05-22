@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ubuntu"
-  },
-  "publishHash": "6af6ef0ecd18500c"
+  }
 }

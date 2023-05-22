@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-nastaliq-urdu"
-  },
-  "publishHash": "854a073b4609fabb"
+  }
 }
