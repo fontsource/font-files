@@ -1,0 +1,39 @@
+name: Update Fontsource Dependencies
+
+on:
+  repository_dispatch:
+    types: [update-deps]
+
+jobs:
+  myEvent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Enable PNPM
+        uses: pnpm/action-setup@v2
+
+      - name: Set node version to 20
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20"
+          cache: "pnpm"
+
+      - name: Install
+        run: pnpm install --frozen-lockfile
+
+      - name: Update
+        run: pnpm up "@fontsource/*"
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore: update dependencies"
+          title: Update Fontsource Dependencies
+          body: |
+            This PR updates the Fontsource dependencies to the latest versions.
+            It was created automatically by a GitHub Action.
+          branch: update-fontsource-deps
+          delete-branch: true
+          labels: dependencies
