@@ -2,14 +2,14 @@ lockfileVersion: '6.0'
 
 dependencies:
   '@fontsource-utils/cli':
-    specifier: 0.3.4
-    version: 0.3.4
+    specifier: 0.3.5
+    version: 0.3.5
   '@fontsource-utils/publish':
     specifier: ^0.2.1
     version: 0.2.1
   '@types/node':
-    specifier: ^20.2.1
-    version: 20.2.1
+    specifier: ^20.2.3
+    version: 20.2.3
   consola:
     specifier: ^3.1.0
     version: 3.1.0
@@ -282,8 +282,8 @@ packages:
     dev: false
     optional: true
 
-  /@fontsource-utils/cli@0.3.4:
-    resolution: {integrity: sha512-qkqoskg6UOlnlF5AqzNIgBH7y79WqULYoTvn2UMg/x2/AYGnBkSxAfNCCCxRA4oZ/bK4rW0TW3ToneXUHclyJg==}
+  /@fontsource-utils/cli@0.3.5:
+    resolution: {integrity: sha512-MmAGe++I+tewfhikFWbobrjG7hbsKC+HToBZ8KqsNv+J5L2M4ZuBXdaxCEMXKLkRBTEemKloacMW0EUqD/hQ9A==}
     hasBin: true
     dependencies:
       '@clack/prompts': 0.6.3
@@ -365,7 +365,7 @@ packages:
     engines: {node: '>= 14'}
     dependencies:
       '@octokit/auth-token': 3.0.3
-      '@octokit/graphql': 5.0.5
+      '@octokit/graphql': 5.0.6
       '@octokit/request': 6.2.5
       '@octokit/request-error': 3.0.3
       '@octokit/types': 9.2.3
@@ -384,8 +384,8 @@ packages:
       universal-user-agent: 6.0.0
     dev: false
 
-  /@octokit/graphql@5.0.5:
-    resolution: {integrity: sha512-Qwfvh3xdqKtIznjX9lz2D458r7dJPP8l6r4GQkIdWQouZwHQK0mVT88uwiU2bdTU2OtT1uOlKpRciUWldpG0yQ==}
+  /@octokit/graphql@5.0.6:
+    resolution: {integrity: sha512-Fxyxdy/JH0MnIB5h+UQ3yCoh1FG4kWXfFKkpWqjZHw/p+Kc8Y44Hu/kCgNBT6nU1shNumEchmW/sUO1JuQnPcw==}
     engines: {node: '>= 14'}
     dependencies:
       '@octokit/request': 6.2.5
@@ -473,8 +473,8 @@ packages:
     resolution: {integrity: sha512-SZs7ekbP8CN0txVG2xVRH6EgKmEm31BOxA07vkFaETzZz1xh+cbt8BcI0slpymvwhx5dlFnQG2rTlPVQn+iRPQ==}
     dev: false
 
-  /@types/node@20.2.1:
-    resolution: {integrity: sha512-DqJociPbZP1lbZ5SQPk4oag6W7AyaGMO6gSfRwq3PWl4PXTwJpRQJhDq4W0kzrg3w6tJ1SwlvGZ5uKFHY13LIg==}
+  /@types/node@20.2.3:
+    resolution: {integrity: sha512-pg9d0yC4rVNWQzX8U7xb4olIOFuuVL9za3bzMT2pu2SU0SNEi66i2qrvhE2qt0HvkhuCaWJu7pLNOt/Pj8BIrw==}
     dev: false
 
   /@types/stylis@4.2.0:
@@ -485,7 +485,7 @@ packages:
     resolution: {integrity: sha512-Cn6WYCm0tXv8p6k+A8PvbDG763EDpBoTzHdA+Q/MF6H3sapGjCm9NzoaJncJS9tUKSuCoDs9XHxYYsQDgxR6kw==}
     requiresBuild: true
     dependencies:
-      '@types/node': 20.2.1
+      '@types/node': 20.2.3
     dev: false
     optional: true
 
