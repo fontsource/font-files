@@ -30,7 +30,7 @@ Finally, you can reference the font name in a CSS stylesheet, CSS Module, or CSS
 
 ```css
 body {
-  font-family: "Old Standard TT;
+  font-family: "Old Standard TT";
 }
 ```
 

@@ -30,7 +30,7 @@ Finally, you can reference the font name in a CSS stylesheet, CSS Module, or CSS
 
 ```css
 body {
-  font-family: "Hammersmith One;
+  font-family: "Hammersmith One";
 }
 ```
 

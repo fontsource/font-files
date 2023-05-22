@@ -30,7 +30,7 @@ Finally, you can reference the font name in a CSS stylesheet, CSS Module, or CSS
 
 ```css
 body {
-  font-family: "Brygada 1918;
+  font-family: "Brygada 1918";
 }
 ```
 

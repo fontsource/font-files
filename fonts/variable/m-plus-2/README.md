@@ -31,7 +31,7 @@ Finally, you can reference the font name in a CSS stylesheet, CSS Module, or CSS
 
 ```css
 body {
-  font-family: "M PLUS 2;
+  font-family: "M PLUS 2";
 }
 ```
 

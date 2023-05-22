@@ -30,7 +30,7 @@ Finally, you can reference the font name in a CSS stylesheet, CSS Module, or CSS
 
 ```css
 body {
-  font-family: "Noto Sans Symbols 2;
+  font-family: "Noto Sans Symbols 2";
 }
 ```
 
