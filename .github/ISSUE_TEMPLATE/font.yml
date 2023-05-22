@@ -1,62 +1,36 @@
-name: Font Request
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
-assignees:
-  - octocat
+name: ➕ Font request
+description: Request a new Open Source font
+labels: ["font request"]
+title: "Font Request: "
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
-  - type: input
-    id: contact
-    attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
+        Thanks for taking the time to fill out this issue 🙏.
+        Before you submit, please search the issue tracker to prevent duplicates as a similar request might already exist.
   - type: textarea
-    id: what-happened
+    id: name
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Font Name
+      description: Ensure it is an Open Source downloadable font.
     validations:
       required: true
-  - type: dropdown
-    id: version
+  - type: textarea
+    id: source
     attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+      label: Link to font source
+      description: Preferably Github, however, main website is also acceptable.
     validations:
       required: true
-  - type: dropdown
-    id: browsers
-    attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
   - type: textarea
-    id: logs
+    id: license
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
-  - type: checkboxes
-    id: terms
+      label: Link to font license
+      description: Accepted licenses are SIL OFL, Apache 2, MIT and Ubuntu Font License 1.0.
+    validations:
+      required: true
+  - type: textarea
+    id: additional
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+      label: Additional context
+      description: Add any other context about the font request here.
