@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/mulish"
-  }
+  },
+  "publishHash": "db0e7bf298dcd3fb"
 }

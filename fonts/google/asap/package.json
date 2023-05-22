@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/asap"
-  }
+  },
+  "publishHash": "91aa67e2a2217498"
 }

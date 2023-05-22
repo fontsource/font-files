@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/oleo-script-swash-caps"
-  }
+  },
+  "publishHash": "bc1b834fc85b5f7e"
 }

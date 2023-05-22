@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/schoolbell"
-  }
+  },
+  "publishHash": "2c8c9b04b74604c4"
 }

@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/petemoss"
-  }
+  },
+  "publishHash": "176ee204991832c7"
 }

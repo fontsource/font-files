@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cardo"
-  }
+  },
+  "publishHash": "8a784ad184d377ff"
 }

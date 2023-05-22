@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/snippet"
-  }
+  },
+  "publishHash": "29d5fa21e3190b2a"
 }

@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/almendra-display"
-  }
+  },
+  "publishHash": "d34adc7ff2593fe4"
 }

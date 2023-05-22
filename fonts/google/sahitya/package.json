@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sahitya"
-  }
+  },
+  "publishHash": "a4c41dc1214d790d"
 }

@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/unica-one"
-  }
+  },
+  "publishHash": "a8f5b3c2c807fd5f"
 }

@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/suwannaphum"
-  }
+  },
+  "publishHash": "ba2f53306e3b26f3"
 }

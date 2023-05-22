@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lily-script-one"
-  }
+  },
+  "publishHash": "c960cd3584735fa1"
 }

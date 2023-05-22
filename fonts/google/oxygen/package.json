@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/oxygen"
-  }
+  },
+  "publishHash": "9bc753800e80a2c0"
 }

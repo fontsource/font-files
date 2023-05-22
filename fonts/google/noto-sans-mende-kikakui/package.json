@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-mende-kikakui"
-  }
+  },
+  "publishHash": "04dc143682a65da5"
 }

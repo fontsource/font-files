@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gantari"
-  }
+  },
+  "publishHash": "dd85ca40f2e5b625"
 }

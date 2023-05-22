@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/anek-odia"
-  }
+  },
+  "publishHash": "8b11288310f0a154"
 }

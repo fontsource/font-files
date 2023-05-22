@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/average-sans"
-  }
+  },
+  "publishHash": "40558d32b1f07fe4"
 }

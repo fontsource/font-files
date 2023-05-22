@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gowun-dodum"
-  }
+  },
+  "publishHash": "8469cb72361219c6"
 }

@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cabin-condensed"
-  }
+  },
+  "publishHash": "7593e11d646e1ce5"
 }

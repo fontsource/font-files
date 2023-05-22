@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kotta-one"
-  }
+  },
+  "publishHash": "9dc34a532c9123ac"
 }

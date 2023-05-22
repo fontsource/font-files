@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/montagu-slab"
-  }
+  },
+  "publishHash": "01b8e310efe4891d"
 }

@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/jacques-francois"
-  }
+  },
+  "publishHash": "0854348278fe7584"
 }

@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lexend-mega"
-  }
+  },
+  "publishHash": "227357252b87c4b0"
 }

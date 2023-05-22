@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/paytone-one"
-  }
+  },
+  "publishHash": "11cb35b0b746615c"
 }

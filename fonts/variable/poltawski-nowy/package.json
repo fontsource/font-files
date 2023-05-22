@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/poltawski-nowy"
-  }
+  },
+  "publishHash": "dcbf73c76754dbb6"
 }

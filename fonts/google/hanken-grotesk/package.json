@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/hanken-grotesk"
-  }
+  },
+  "publishHash": "badd1e7b99c9d426"
 }

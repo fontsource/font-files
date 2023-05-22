@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-khmer"
-  }
+  },
+  "publishHash": "decaa5c9fa83641f"
 }

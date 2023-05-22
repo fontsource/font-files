@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/goblin-one"
-  }
+  },
+  "publishHash": "63ec6d2faa1bd7ff"
 }

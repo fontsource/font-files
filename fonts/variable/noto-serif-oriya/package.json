@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-serif-oriya"
-  }
+  },
+  "publishHash": "45abb3b04d14408c"
 }

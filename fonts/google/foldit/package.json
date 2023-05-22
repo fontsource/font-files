@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/foldit"
-  }
+  },
+  "publishHash": "75baf0eda1f2d334"
 }

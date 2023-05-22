@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/thasadith"
-  }
+  },
+  "publishHash": "3b0eb2ee820fb457"
 }

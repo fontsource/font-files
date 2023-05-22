@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/crimson-text"
-  }
+  },
+  "publishHash": "51020b81b091ff27"
 }

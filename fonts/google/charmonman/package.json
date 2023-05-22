@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/charmonman"
-  }
+  },
+  "publishHash": "d2da4d6877c2066b"
 }

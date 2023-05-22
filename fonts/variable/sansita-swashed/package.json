@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/sansita-swashed"
-  }
+  },
+  "publishHash": "39758bb6755b55f2"
 }

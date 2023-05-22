@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/domine"
-  }
+  },
+  "publishHash": "11edaaa157eab611"
 }

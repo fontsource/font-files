@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-hatran"
-  }
+  },
+  "publishHash": "9ef1b19d45ba8623"
 }

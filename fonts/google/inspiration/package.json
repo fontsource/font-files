@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/inspiration"
-  }
+  },
+  "publishHash": "4e5b04138936c409"
 }

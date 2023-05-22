@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rubik-wet-paint"
-  }
+  },
+  "publishHash": "56af889a5c7aace0"
 }

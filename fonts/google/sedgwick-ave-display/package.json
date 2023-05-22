@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sedgwick-ave-display"
-  }
+  },
+  "publishHash": "656591c47ce991ba"
 }

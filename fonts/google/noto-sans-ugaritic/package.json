@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-ugaritic"
-  }
+  },
+  "publishHash": "0432c86dd93d5ef2"
 }

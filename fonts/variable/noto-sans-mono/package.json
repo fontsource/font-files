@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-mono"
-  }
+  },
+  "publishHash": "9686750da9902b2b"
 }

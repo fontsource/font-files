@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kalam"
-  }
+  },
+  "publishHash": "f11d1a2f154f8214"
 }

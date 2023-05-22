@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/delicious-handrawn"
-  }
+  },
+  "publishHash": "ec7273d9ee0b6cb3"
 }

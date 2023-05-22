@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/actor"
-  }
+  },
+  "publishHash": "eef7a56a9457160b"
 }

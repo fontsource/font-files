@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/julee"
-  }
+  },
+  "publishHash": "88691de935cf7f4a"
 }

@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/racing-sans-one"
-  }
+  },
+  "publishHash": "163f5f02a132ea2a"
 }

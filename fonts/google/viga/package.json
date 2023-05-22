@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/viga"
-  }
+  },
+  "publishHash": "9214615d73a82d1c"
 }

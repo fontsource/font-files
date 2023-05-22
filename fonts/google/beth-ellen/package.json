@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/beth-ellen"
-  }
+  },
+  "publishHash": "75d783bad2a38e28"
 }

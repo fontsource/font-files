@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/catamaran"
-  }
+  },
+  "publishHash": "6f5b1c4a60fd6a72"
 }

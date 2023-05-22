@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/akshar"
-  }
+  },
+  "publishHash": "6847bd9defe1086c"
 }

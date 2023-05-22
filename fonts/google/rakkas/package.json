@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rakkas"
-  }
+  },
+  "publishHash": "7bee9b61bab1806a"
 }

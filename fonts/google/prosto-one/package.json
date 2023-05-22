@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/prosto-one"
-  }
+  },
+  "publishHash": "e9dd3a9f0337b5c8"
 }

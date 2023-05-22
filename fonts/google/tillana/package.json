@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tillana"
-  }
+  },
+  "publishHash": "3f5e02d1dc3d9f58"
 }

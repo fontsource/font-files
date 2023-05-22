@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/zen-antique"
-  }
+  },
+  "publishHash": "d110225e1dfcc6dc"
 }

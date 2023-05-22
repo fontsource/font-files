@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/literata"
-  }
+  },
+  "publishHash": "f28029340c79c5ac"
 }

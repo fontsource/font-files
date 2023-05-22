@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/meddon"
-  }
+  },
+  "publishHash": "3d9bffb3c77bb3ab"
 }

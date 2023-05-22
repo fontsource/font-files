@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/modak"
-  }
+  },
+  "publishHash": "b9c3c157bf336061"
 }

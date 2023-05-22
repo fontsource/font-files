@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-adlam-unjoined"
-  }
+  },
+  "publishHash": "14b31052977121a9"
 }

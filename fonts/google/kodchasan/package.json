@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kodchasan"
-  }
+  },
+  "publishHash": "489d3da34eacbff9"
 }

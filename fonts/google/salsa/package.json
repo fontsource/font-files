@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/salsa"
-  }
+  },
+  "publishHash": "8adf1c7e3682a7d5"
 }

@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/exo-2"
-  }
+  },
+  "publishHash": "4692b0d1b5d46655"
 }

@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/fira-code"
-  }
+  },
+  "publishHash": "61a3b738e3ec6616"
 }

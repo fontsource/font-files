@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ibm-plex-sans-kr"
-  }
+  },
+  "publishHash": "6abb75f4c334f1f3"
 }

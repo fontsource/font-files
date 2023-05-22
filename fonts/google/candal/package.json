@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/candal"
-  }
+  },
+  "publishHash": "b39b1a190b0ae5e6"
 }

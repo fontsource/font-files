@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/marko-one"
-  }
+  },
+  "publishHash": "922b7f6127d40f7f"
 }

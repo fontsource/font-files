@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/biz-udgothic"
-  }
+  },
+  "publishHash": "f96c16cfcf1377c4"
 }

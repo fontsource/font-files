@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kristi"
-  }
+  },
+  "publishHash": "c91023574afd1c40"
 }

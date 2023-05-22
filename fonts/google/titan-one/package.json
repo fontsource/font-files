@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/titan-one"
-  }
+  },
+  "publishHash": "4fa38db7b0ce867d"
 }

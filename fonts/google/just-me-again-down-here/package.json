@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/just-me-again-down-here"
-  }
+  },
+  "publishHash": "a49f4ff68e472a72"
 }

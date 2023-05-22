@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/source-code-pro"
-  }
+  },
+  "publishHash": "1013f2c7f6997b30"
 }

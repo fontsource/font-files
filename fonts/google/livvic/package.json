@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/livvic"
-  }
+  },
+  "publishHash": "16b94ff65df2c451"
 }

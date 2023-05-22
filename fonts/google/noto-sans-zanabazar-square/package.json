@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-zanabazar-square"
-  }
+  },
+  "publishHash": "752ee087db73e1f0"
 }

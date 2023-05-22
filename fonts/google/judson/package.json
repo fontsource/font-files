@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/judson"
-  }
+  },
+  "publishHash": "37782fe7b5cab58f"
 }

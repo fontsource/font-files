@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cherry-swash"
-  }
+  },
+  "publishHash": "b89d2fb85f438ed4"
 }

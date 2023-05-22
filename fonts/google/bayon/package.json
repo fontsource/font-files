@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bayon"
-  }
+  },
+  "publishHash": "b7d0873e2824aade"
 }

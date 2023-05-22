@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/quintessential"
-  }
+  },
+  "publishHash": "ee16c9e83fd3584d"
 }

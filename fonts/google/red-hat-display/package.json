@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/red-hat-display"
-  }
+  },
+  "publishHash": "d59a6a0f43a9e07e"
 }

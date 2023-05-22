@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/shippori-mincho"
-  }
+  },
+  "publishHash": "9d2f39610479c944"
 }

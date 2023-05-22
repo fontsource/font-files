@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/carrois-gothic"
-  }
+  },
+  "publishHash": "e854f71afe39f644"
 }

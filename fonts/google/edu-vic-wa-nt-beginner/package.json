@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/edu-vic-wa-nt-beginner"
-  }
+  },
+  "publishHash": "7820add69992cd26"
 }

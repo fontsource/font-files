@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/antonio"
-  }
+  },
+  "publishHash": "d81d7306bcf02c8c"
 }

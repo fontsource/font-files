@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/trade-winds"
-  }
+  },
+  "publishHash": "0b1e432d0f4839ab"
 }

@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/encode-sans-expanded"
-  }
+  },
+  "publishHash": "f16ee08113b11add"
 }

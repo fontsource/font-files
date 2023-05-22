@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cousine"
-  }
+  },
+  "publishHash": "232a597363856c31"
 }

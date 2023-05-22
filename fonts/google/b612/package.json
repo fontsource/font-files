@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/b612"
-  }
+  },
+  "publishHash": "26b1e54ec7710798"
 }

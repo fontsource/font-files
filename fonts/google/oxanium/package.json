@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/oxanium"
-  }
+  },
+  "publishHash": "3f2174828f71948a"
 }

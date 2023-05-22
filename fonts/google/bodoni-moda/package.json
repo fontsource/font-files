@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bodoni-moda"
-  }
+  },
+  "publishHash": "6090745a48e6fe44"
 }

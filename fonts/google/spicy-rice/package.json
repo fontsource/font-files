@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/spicy-rice"
-  }
+  },
+  "publishHash": "6dad3cdc91f544a5"
 }

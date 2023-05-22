@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gugi"
-  }
+  },
+  "publishHash": "86d318d5622b2320"
 }

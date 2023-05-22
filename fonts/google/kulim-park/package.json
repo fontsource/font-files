@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kulim-park"
-  }
+  },
+  "publishHash": "0b1eec2bf794fe97"
 }

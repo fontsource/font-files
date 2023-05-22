@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/fredoka"
-  }
+  },
+  "publishHash": "1c6a5774a7f23b1e"
 }

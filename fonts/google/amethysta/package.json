@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/amethysta"
-  }
+  },
+  "publishHash": "4d6e653dcf65694c"
 }

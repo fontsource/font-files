@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/the-nautigal"
-  }
+  },
+  "publishHash": "9de6a5425706e559"
 }

@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/commissioner"
-  }
+  },
+  "publishHash": "edf0b3a4d6ba3d5e"
 }

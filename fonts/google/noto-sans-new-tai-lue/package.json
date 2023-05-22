@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-new-tai-lue"
-  }
+  },
+  "publishHash": "f72a5ade7274cf6d"
 }

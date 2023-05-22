@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/concert-one"
-  }
+  },
+  "publishHash": "15b6cf17c1c8c259"
 }

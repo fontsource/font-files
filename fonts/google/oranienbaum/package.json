@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/oranienbaum"
-  }
+  },
+  "publishHash": "57a0463330eab5f7"
 }

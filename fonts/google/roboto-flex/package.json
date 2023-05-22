@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/roboto-flex"
-  }
+  },
+  "publishHash": "7cca9ba64d3b4b51"
 }

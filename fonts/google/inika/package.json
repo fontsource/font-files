@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/inika"
-  }
+  },
+  "publishHash": "1a054552317f8ed3"
 }

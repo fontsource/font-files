@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/spectral-sc"
-  }
+  },
+  "publishHash": "8d3e349c8a9477ce"
 }

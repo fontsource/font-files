@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/anuphan"
-  }
+  },
+  "publishHash": "8815f19d76d7f259"
 }

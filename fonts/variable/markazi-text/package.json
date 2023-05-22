@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/markazi-text"
-  }
+  },
+  "publishHash": "38b0e955b689d216"
 }

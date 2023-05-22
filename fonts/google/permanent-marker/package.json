@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/permanent-marker"
-  }
+  },
+  "publishHash": "45c2bf71affb3f9d"
 }

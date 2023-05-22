@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-bassa-vah"
-  }
+  },
+  "publishHash": "2c23896b98143ae8"
 }

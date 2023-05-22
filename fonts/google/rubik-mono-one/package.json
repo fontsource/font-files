@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rubik-mono-one"
-  }
+  },
+  "publishHash": "2a9fb6157a22c225"
 }

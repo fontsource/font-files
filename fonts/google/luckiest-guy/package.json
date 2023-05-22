@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/luckiest-guy"
-  }
+  },
+  "publishHash": "1cd9190c48e4a47a"
 }

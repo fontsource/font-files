@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/slabo-13px"
-  }
+  },
+  "publishHash": "ef3eae2dad02c285"
 }

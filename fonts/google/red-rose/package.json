@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/red-rose"
-  }
+  },
+  "publishHash": "b99e43b093dbf9b5"
 }

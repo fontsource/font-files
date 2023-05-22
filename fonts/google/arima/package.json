@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/arima"
-  }
+  },
+  "publishHash": "8aa14a27db3fa8a6"
 }

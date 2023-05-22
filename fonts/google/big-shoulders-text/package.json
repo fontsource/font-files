@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/big-shoulders-text"
-  }
+  },
+  "publishHash": "fb68aa6fc9e74433"
 }

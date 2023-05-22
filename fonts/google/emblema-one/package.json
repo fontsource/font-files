@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/emblema-one"
-  }
+  },
+  "publishHash": "8dad1e191c923b5b"
 }

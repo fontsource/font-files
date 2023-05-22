@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sawarabi-mincho"
-  }
+  },
+  "publishHash": "3080d9bb6be9ca8a"
 }

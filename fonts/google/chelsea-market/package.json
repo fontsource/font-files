@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/chelsea-market"
-  }
+  },
+  "publishHash": "7e33d2ce518fa495"
 }

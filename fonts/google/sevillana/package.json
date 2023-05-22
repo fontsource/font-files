@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sevillana"
-  }
+  },
+  "publishHash": "7efbf58e24dad11b"
 }

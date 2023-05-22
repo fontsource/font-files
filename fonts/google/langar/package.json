@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/langar"
-  }
+  },
+  "publishHash": "66bd59b73e96207d"
 }

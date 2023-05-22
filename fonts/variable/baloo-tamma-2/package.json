@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/baloo-tamma-2"
-  }
+  },
+  "publishHash": "735fff16c7e06c11"
 }

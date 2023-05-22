@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rouge-script"
-  }
+  },
+  "publishHash": "ba7c1ad588fc00ea"
 }

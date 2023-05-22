@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-anatolian-hieroglyphs"
-  }
+  },
+  "publishHash": "19520d4f08ad21c8"
 }

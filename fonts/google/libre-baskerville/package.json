@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/libre-baskerville"
-  }
+  },
+  "publishHash": "3e9c9464889097ad"
 }

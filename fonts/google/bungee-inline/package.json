@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bungee-inline"
-  }
+  },
+  "publishHash": "bbd51d47e7f83534"
 }

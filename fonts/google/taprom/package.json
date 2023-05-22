@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/taprom"
-  }
+  },
+  "publishHash": "a9a338e6e98702d5"
 }

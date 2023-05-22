@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kosugi-maru"
-  }
+  },
+  "publishHash": "f52ac9d9ceb2ae6a"
 }

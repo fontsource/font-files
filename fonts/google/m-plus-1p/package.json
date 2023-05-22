@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/m-plus-1p"
-  }
+  },
+  "publishHash": "9ff92590e04e98dd"
 }

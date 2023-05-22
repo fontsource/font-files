@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/long-cang"
-  }
+  },
+  "publishHash": "7b6cdf7b1e34c00d"
 }

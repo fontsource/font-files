@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/coda-caption"
-  }
+  },
+  "publishHash": "2de65e8fcf341943"
 }

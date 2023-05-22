@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/prompt"
-  }
+  },
+  "publishHash": "88a06d4abc7919c0"
 }

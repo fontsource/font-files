@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/la-belle-aurore"
-  }
+  },
+  "publishHash": "40adaccfac0b7623"
 }

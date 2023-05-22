@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fira-sans-condensed"
-  }
+  },
+  "publishHash": "f0f4767a8a28b4b0"
 }

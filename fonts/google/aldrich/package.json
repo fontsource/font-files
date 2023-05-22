@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/aldrich"
-  }
+  },
+  "publishHash": "1b29e3cc6e018866"
 }

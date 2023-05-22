@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/water-brush"
-  }
+  },
+  "publishHash": "5437a7b04b98faf5"
 }

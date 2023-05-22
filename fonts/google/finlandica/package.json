@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/finlandica"
-  }
+  },
+  "publishHash": "3ab929e0407138d5"
 }

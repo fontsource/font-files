@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/comfortaa"
-  }
+  },
+  "publishHash": "b8118bd10f2948c2"
 }

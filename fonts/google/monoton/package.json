@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/monoton"
-  }
+  },
+  "publishHash": "0f589e607a887d4e"
 }

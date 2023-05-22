@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-ethiopic"
-  }
+  },
+  "publishHash": "464ebc0d2400cea8"
 }

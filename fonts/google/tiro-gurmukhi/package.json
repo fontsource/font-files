@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tiro-gurmukhi"
-  }
+  },
+  "publishHash": "4acca5e278bea7fc"
 }

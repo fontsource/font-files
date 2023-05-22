@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sigmar-one"
-  }
+  },
+  "publishHash": "15f5eca0e44f7ff3"
 }

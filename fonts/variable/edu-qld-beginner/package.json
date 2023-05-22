@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/edu-qld-beginner"
-  }
+  },
+  "publishHash": "09e61f98de889c39"
 }

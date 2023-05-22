@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/revalia"
-  }
+  },
+  "publishHash": "9cf85e4a91d545e7"
 }

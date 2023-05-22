@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/meie-script"
-  }
+  },
+  "publishHash": "de586d4e6886d3bc"
 }

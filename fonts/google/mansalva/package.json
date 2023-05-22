@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mansalva"
-  }
+  },
+  "publishHash": "f61c3f99fffe0738"
 }

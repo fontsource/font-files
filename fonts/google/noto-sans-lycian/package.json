@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-lycian"
-  }
+  },
+  "publishHash": "eb0fd08e94c66ed8"
 }

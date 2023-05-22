@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/im-fell-french-canon"
-  }
+  },
+  "publishHash": "662d13f76e8c36a1"
 }

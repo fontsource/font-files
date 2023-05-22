@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kaisei-tokumin"
-  }
+  },
+  "publishHash": "77501b9d5600dc9c"
 }

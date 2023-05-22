@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/siemreap"
-  }
+  },
+  "publishHash": "4bf16f1729680221"
 }

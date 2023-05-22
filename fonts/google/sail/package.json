@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sail"
-  }
+  },
+  "publishHash": "1c2ed753129f5d24"
 }

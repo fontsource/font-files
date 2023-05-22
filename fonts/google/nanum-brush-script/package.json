@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/nanum-brush-script"
-  }
+  },
+  "publishHash": "8236dd5aec7521ff"
 }

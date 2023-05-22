@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-serif-toto"
-  }
+  },
+  "publishHash": "623f9d1ae1431be2"
 }

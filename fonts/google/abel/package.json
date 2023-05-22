@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/abel"
-  }
+  },
+  "publishHash": "8ba7183ae2c893a5"
 }

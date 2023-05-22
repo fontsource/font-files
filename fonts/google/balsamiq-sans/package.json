@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/balsamiq-sans"
-  }
+  },
+  "publishHash": "4df50d1bcafb61bd"
 }

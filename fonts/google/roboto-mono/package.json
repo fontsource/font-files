@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/roboto-mono"
-  }
+  },
+  "publishHash": "dcf4b97a69a41ba8"
 }

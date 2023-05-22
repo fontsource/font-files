@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/hachi-maru-pop"
-  }
+  },
+  "publishHash": "908d7b4e4d9389ed"
 }

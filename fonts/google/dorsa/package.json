@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/dorsa"
-  }
+  },
+  "publishHash": "65bf8ab30e1311fe"
 }

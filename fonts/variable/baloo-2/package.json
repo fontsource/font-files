@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/baloo-2"
-  }
+  },
+  "publishHash": "46c339be8a24567f"
 }

@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/anek-malayalam"
-  }
+  },
+  "publishHash": "d68c4cef2bb2358c"
 }

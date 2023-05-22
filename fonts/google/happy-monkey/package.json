@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/happy-monkey"
-  }
+  },
+  "publishHash": "24b55ee057ae6d25"
 }

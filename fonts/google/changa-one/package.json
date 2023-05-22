@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/changa-one"
-  }
+  },
+  "publishHash": "25c4c6e677eb0f54"
 }

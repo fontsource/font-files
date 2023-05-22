@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/josefin-slab"
-  }
+  },
+  "publishHash": "3c6ed63d07032a2d"
 }

@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/expletus-sans"
-  }
+  },
+  "publishHash": "fe6dc0b4910ad230"
 }

@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/jockey-one"
-  }
+  },
+  "publishHash": "c713a359202b276b"
 }

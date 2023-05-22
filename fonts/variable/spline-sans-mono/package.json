@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/spline-sans-mono"
-  }
+  },
+  "publishHash": "75b39c5cd6c31113"
 }

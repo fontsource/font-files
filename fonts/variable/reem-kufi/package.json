@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/reem-kufi"
-  }
+  },
+  "publishHash": "47ebb5999a0c739e"
 }

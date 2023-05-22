@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/b612-mono"
-  }
+  },
+  "publishHash": "9ae36f405ace8c9a"
 }

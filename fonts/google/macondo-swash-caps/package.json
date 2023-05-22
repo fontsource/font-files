@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/macondo-swash-caps"
-  }
+  },
+  "publishHash": "774b1a4b6bd2e818"
 }
