@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  myEvent:
+  update-deps:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -24,14 +24,14 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Update
-        run: pnpm up "@fontsource/*"
+        run: pnpm up "@fontsource/*" --latest
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "chore: update dependencies"
-          title: Update Fontsource Dependencies
+          title: Update Fontsource Dependencies 🎉
           body: |
             This PR updates the Fontsource dependencies to the latest versions.
             It was created automatically by a GitHub Action.
