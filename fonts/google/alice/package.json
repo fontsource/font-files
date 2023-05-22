@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/alice",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Alice font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/alice"
   },
-  "publishHash": "4a8736e06021072d"
+  "publishHash": "7cd0313a400cda65"
 }

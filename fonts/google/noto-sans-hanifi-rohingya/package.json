@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-hanifi-rohingya",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Noto Sans Hanifi Rohingya font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-hanifi-rohingya"
   },
-  "publishHash": "bd123256f8beaa32"
+  "publishHash": "8725b507b12222e0"
 }

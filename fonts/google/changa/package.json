@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/changa",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Changa font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/changa"
   },
-  "publishHash": "1dbbfbe932962c06"
+  "publishHash": "fc5887a494aff04b"
 }

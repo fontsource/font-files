@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/prata",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Prata font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/prata"
   },
-  "publishHash": "1b66069a9e877556"
+  "publishHash": "99ad6e78aa56137d"
 }

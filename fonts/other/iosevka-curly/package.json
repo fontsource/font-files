@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/iosevka-curly",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Iosevka Curly font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/iosevka-curly"
   },
-  "publishHash": "6a336a02182e3417"
+  "publishHash": "72d75726fcc42600"
 }

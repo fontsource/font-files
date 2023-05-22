@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/merienda",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Merienda font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/merienda"
   },
-  "publishHash": "0b04ae659302e721"
+  "publishHash": "cb1460d41bf4e139"
 }

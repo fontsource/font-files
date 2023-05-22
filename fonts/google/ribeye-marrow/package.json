@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ribeye-marrow",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Ribeye Marrow font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ribeye-marrow"
   },
-  "publishHash": "9a3c5cbbd4b3611c"
+  "publishHash": "bc79c23fec8b5cea"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ostrich-sans",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Ostrich Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/ostrich-sans"
   },
-  "publishHash": "013520a32c951159"
+  "publishHash": "a86364e23e5bdebf"
 }

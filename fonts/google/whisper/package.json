@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/whisper",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Whisper font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/whisper"
   },
-  "publishHash": "16bd52295d2df211"
+  "publishHash": "ac69dd59497cee45"
 }

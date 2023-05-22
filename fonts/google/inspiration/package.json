@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/inspiration",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Inspiration font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/inspiration"
   },
-  "publishHash": "4e5b04138936c409"
+  "publishHash": "4e81daeac28bb3c2"
 }

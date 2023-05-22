@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/phudu",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Phudu font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/phudu"
   },
-  "publishHash": "ffd5f8ecd75aba0c"
+  "publishHash": "b7aa1a6f7ba4f8b3"
 }

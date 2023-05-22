@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/water-brush",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Water Brush font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/water-brush"
   },
-  "publishHash": "5437a7b04b98faf5"
+  "publishHash": "90774c48103b7f3a"
 }

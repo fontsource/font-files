@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ole",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Ole font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ole"
   },
-  "publishHash": "082806e2253240f5"
+  "publishHash": "264d227f6261df7a"
 }

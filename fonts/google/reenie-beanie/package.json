@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/reenie-beanie",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Reenie Beanie font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/reenie-beanie"
   },
-  "publishHash": "6750634855511c99"
+  "publishHash": "718ccd5ebaa6a25f"
 }

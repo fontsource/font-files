@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/potta-one",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Potta One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/potta-one"
   },
-  "publishHash": "1609f4f7c1545e6d"
+  "publishHash": "dbf9eb164d11a019"
 }

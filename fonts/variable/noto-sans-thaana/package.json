@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-thaana",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Noto Sans Thaana font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-thaana"
   },
-  "publishHash": "10340cd0fd7889c1"
+  "publishHash": "4beb18249d2a4c7c"
 }

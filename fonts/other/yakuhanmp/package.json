@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/yakuhanmp",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the YakuHanMP font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/yakuhanmp"
   },
-  "publishHash": "8e1136829f0fbb7d"
+  "publishHash": "8661c3c4d5d43ed1"
 }

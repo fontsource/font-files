@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/halant",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Halant font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/halant"
   },
-  "publishHash": "ac841d249b70e282"
+  "publishHash": "347e7b6b3f7bad8e"
 }

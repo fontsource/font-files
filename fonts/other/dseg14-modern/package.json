@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dseg14-modern",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the DSEG14 Modern font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/dseg14-modern"
   },
-  "publishHash": "0b2fa3edd01b9d2a"
+  "publishHash": "5554c9e80c8ef723"
 }

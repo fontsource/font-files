@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/krub",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Krub font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/krub"
   },
-  "publishHash": "acb4024fd6ed68ad"
+  "publishHash": "3c8d3f3e9fc3a77a"
 }

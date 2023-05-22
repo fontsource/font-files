@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kiwi-maru",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Kiwi Maru font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kiwi-maru"
   },
-  "publishHash": "b1453aa35bf98734"
+  "publishHash": "56264f73e7e563ad"
 }

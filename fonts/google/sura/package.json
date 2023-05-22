@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sura",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Sura font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sura"
   },
-  "publishHash": "0f979eb9cce2d7d9"
+  "publishHash": "be69bf35099c659a"
 }

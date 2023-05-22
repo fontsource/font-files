@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/baloo-thambi-2",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Baloo Thambi 2 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/baloo-thambi-2"
   },
-  "publishHash": "1f5cf98630a1df46"
+  "publishHash": "2e5daae0cf753939"
 }

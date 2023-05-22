@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/monoton",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Monoton font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/monoton"
   },
-  "publishHash": "0f589e607a887d4e"
+  "publishHash": "ff02d67fc2ad0c30"
 }

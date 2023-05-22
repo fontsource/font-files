@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-sc",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Noto Sans SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-sc"
   },
-  "publishHash": "d6e09fd56c735a9f"
+  "publishHash": "9f31c6f51b03d3e1"
 }

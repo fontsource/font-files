@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/arimo",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Arimo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/arimo"
   },
-  "publishHash": "1956b90b2b041f8c"
+  "publishHash": "0f034cb0fd305f74"
 }

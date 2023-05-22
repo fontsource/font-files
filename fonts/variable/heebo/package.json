@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/heebo",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Heebo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/heebo"
   },
-  "publishHash": "df1f197e1d5b69fb"
+  "publishHash": "26b4d5b14afb0531"
 }

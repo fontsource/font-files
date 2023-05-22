@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ubuntu",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Ubuntu font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ubuntu"
   },
-  "publishHash": "6af6ef0ecd18500c"
+  "publishHash": "269c71e4ae4a9a89"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/candal",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Candal font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/candal"
   },
-  "publishHash": "b39b1a190b0ae5e6"
+  "publishHash": "23945902cb798255"
 }

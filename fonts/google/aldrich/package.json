@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/aldrich",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Aldrich font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/aldrich"
   },
-  "publishHash": "1b29e3cc6e018866"
+  "publishHash": "d52831f0802233fc"
 }

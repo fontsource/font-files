@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/explora",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Explora font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/explora"
   },
-  "publishHash": "65ef2adee14e6b50"
+  "publishHash": "c1c817f836801361"
 }

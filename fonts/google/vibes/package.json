@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/vibes",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Vibes font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/vibes"
   },
-  "publishHash": "c6985022ef615642"
+  "publishHash": "19a0eb6972ab7684"
 }

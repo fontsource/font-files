@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/konkhmer-sleokchher",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Konkhmer Sleokchher font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/konkhmer-sleokchher"
   },
-  "publishHash": "438ffb058ee13302"
+  "publishHash": "01c21da7fd1fdbcf"
 }

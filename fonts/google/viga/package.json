@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/viga",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Viga font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/viga"
   },
-  "publishHash": "9214615d73a82d1c"
+  "publishHash": "97b2c2fc394b03cd"
 }

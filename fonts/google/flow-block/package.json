@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/flow-block",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Flow Block font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/flow-block"
   },
-  "publishHash": "d5ea803af29e7998"
+  "publishHash": "e2d33e7edff18e79"
 }

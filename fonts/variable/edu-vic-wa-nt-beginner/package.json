@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/edu-vic-wa-nt-beginner",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Edu VIC WA NT Beginner font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/edu-vic-wa-nt-beginner"
   },
-  "publishHash": "8ffff8dd272f77d9"
+  "publishHash": "2c11168b30d61223"
 }

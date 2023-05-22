@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/foldit",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Foldit font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/foldit"
   },
-  "publishHash": "75baf0eda1f2d334"
+  "publishHash": "0a9f0c9f26b35cb3"
 }

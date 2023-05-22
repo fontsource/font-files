@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bagnard-sans",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Bagnard Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/bagnard-sans"
   },
-  "publishHash": "4612994e28b0f5c9"
+  "publishHash": "f5f408d7a97ae437"
 }

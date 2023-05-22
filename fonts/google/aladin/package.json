@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/aladin",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Aladin font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/aladin"
   },
-  "publishHash": "b7b1091d5de8515c"
+  "publishHash": "6b157d0dc652ad2e"
 }

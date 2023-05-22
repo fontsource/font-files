@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/trochut",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Trochut font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/trochut"
   },
-  "publishHash": "d5000000dbf69cab"
+  "publishHash": "eb0602a6aa55e832"
 }

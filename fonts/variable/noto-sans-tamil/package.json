@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-tamil",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Noto Sans Tamil font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-tamil"
   },
-  "publishHash": "d9d0ae94784ef5ac"
+  "publishHash": "2669657c6b710048"
 }

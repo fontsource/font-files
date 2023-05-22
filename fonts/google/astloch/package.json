@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/astloch",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Astloch font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/astloch"
   },
-  "publishHash": "351a6191eb1be065"
+  "publishHash": "0be4f2cee52c221f"
 }

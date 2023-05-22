@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/wendy-one",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Wendy One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/wendy-one"
   },
-  "publishHash": "d99676b3e63f17ec"
+  "publishHash": "2dcffaf110257aee"
 }

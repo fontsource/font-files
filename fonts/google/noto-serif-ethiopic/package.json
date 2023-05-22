@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-ethiopic",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Noto Serif Ethiopic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-ethiopic"
   },
-  "publishHash": "464ebc0d2400cea8"
+  "publishHash": "47dc05dc13dabd4b"
 }

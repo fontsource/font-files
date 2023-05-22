@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/darker-grotesque",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Darker Grotesque font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/darker-grotesque"
   },
-  "publishHash": "5d1f3241bc461150"
+  "publishHash": "8f49a6f3e199a9c7"
 }

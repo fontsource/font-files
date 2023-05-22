@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/marko-one",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Marko One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/marko-one"
   },
-  "publishHash": "922b7f6127d40f7f"
+  "publishHash": "25c636fb99ff1ebd"
 }

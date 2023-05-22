@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dr-sugiyama",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Dr Sugiyama font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/dr-sugiyama"
   },
-  "publishHash": "6878202966976ea3"
+  "publishHash": "eb28235634ac4ebb"
 }

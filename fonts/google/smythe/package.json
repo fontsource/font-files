@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/smythe",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Smythe font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/smythe"
   },
-  "publishHash": "ecb6cb9091db1382"
+  "publishHash": "857c5815b9e2dcd3"
 }

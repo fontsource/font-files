@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/nunito",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Nunito font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/nunito"
   },
-  "publishHash": "da0b669154ed1318"
+  "publishHash": "3d42cd7e74000665"
 }

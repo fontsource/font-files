@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/freehand",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Freehand font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/freehand"
   },
-  "publishHash": "9eedec7132cc4765"
+  "publishHash": "70181e19bca4b9e9"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-anatolian-hieroglyphs",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Noto Sans Anatolian Hieroglyphs font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-anatolian-hieroglyphs"
   },
-  "publishHash": "19520d4f08ad21c8"
+  "publishHash": "5f58fbecc99b7caa"
 }

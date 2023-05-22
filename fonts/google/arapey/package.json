@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/arapey",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Arapey font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/arapey"
   },
-  "publishHash": "59e3d72fec97ff04"
+  "publishHash": "cbbda60c62ad569d"
 }

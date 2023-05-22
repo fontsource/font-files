@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/hanken-grotesk",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Hanken Grotesk font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/hanken-grotesk"
   },
-  "publishHash": "badd1e7b99c9d426"
+  "publishHash": "59671e0321084881"
 }

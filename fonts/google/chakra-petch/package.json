@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/chakra-petch",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Chakra Petch font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/chakra-petch"
   },
-  "publishHash": "24ccf4bcc246ab51"
+  "publishHash": "8ab7bd6ab42b0827"
 }

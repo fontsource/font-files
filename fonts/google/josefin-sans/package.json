@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/josefin-sans",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Josefin Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/josefin-sans"
   },
-  "publishHash": "ab94b96aaeb63300"
+  "publishHash": "b20f38e57e6c1ed8"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gluten",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Gluten font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gluten"
   },
-  "publishHash": "f5b36777ef9cfa04"
+  "publishHash": "5e50482c61e0f1bd"
 }

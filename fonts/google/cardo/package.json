@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cardo",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Cardo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cardo"
   },
-  "publishHash": "8a784ad184d377ff"
+  "publishHash": "58f7aaa7621537fc"
 }

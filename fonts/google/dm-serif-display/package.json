@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dm-serif-display",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the DM Serif Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/dm-serif-display"
   },
-  "publishHash": "53e3d0a868a9a1f7"
+  "publishHash": "4b153d043d73914d"
 }

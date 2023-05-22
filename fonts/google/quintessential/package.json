@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/quintessential",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Quintessential font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/quintessential"
   },
-  "publishHash": "ee16c9e83fd3584d"
+  "publishHash": "6ff62dd78ef07e61"
 }

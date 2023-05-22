@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/zen-loop",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Zen Loop font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/zen-loop"
   },
-  "publishHash": "e79d69c2f1ba6b11"
+  "publishHash": "f01a612bbe699811"
 }

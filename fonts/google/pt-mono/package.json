@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/pt-mono",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the PT Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/pt-mono"
   },
-  "publishHash": "69bd4e4668c48fd5"
+  "publishHash": "b530b7542c85c84b"
 }

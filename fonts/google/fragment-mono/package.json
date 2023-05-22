@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fragment-mono",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Fragment Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fragment-mono"
   },
-  "publishHash": "146cf7412df4c2ad"
+  "publishHash": "5805ae3a69dcbc4c"
 }

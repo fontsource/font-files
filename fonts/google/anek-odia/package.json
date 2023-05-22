@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/anek-odia",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Anek Odia font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/anek-odia"
   },
-  "publishHash": "8b11288310f0a154"
+  "publishHash": "2fa4509db5388945"
 }

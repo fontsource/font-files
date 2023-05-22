@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/questrial",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Questrial font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/questrial"
   },
-  "publishHash": "7921979245470477"
+  "publishHash": "dfaca9a12bb25b93"
 }

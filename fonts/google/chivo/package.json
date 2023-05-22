@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/chivo",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Chivo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/chivo"
   },
-  "publishHash": "247d6c9e6c39cf04"
+  "publishHash": "95bc405d0f2ea797"
 }

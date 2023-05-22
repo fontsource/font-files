@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playfair-display",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Playfair Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playfair-display"
   },
-  "publishHash": "18e0b8ecf2b0e84e"
+  "publishHash": "e22ab7cf64e0fd4b"
 }

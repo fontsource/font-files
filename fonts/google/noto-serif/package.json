@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Noto Serif font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif"
   },
-  "publishHash": "fcf2a0ac28ea6b38"
+  "publishHash": "0da2950793ff69eb"
 }

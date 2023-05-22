@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/unica-one",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Unica One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/unica-one"
   },
-  "publishHash": "a8f5b3c2c807fd5f"
+  "publishHash": "ae4c8a83cecfa25f"
 }

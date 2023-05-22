@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/overlock",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Overlock font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/overlock"
   },
-  "publishHash": "577600f046675213"
+  "publishHash": "7e75106b52bdf859"
 }

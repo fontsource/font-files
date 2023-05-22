@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/purple-purse",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Purple Purse font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/purple-purse"
   },
-  "publishHash": "5a487f3b71fbd189"
+  "publishHash": "f2677e0c253ebfc6"
 }

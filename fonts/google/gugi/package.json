@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gugi",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Gugi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gugi"
   },
-  "publishHash": "86d318d5622b2320"
+  "publishHash": "0afa4a4642535bd0"
 }

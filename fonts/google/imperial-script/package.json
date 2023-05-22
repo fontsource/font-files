@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/imperial-script",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Imperial Script font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/imperial-script"
   },
-  "publishHash": "fe857692fbe64267"
+  "publishHash": "a31b3e6c31375427"
 }
