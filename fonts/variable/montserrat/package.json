@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/montserrat",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Montserrat font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/montserrat"
   },
-  "publishHash": "297627f60a5cff04"
+  "publishHash": "25cf040340565d56"
 }
