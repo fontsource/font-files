@@ -2,14 +2,14 @@ lockfileVersion: '6.0'
 
 dependencies:
   '@fontsource-utils/cli':
-    specifier: 0.3.7
-    version: 0.3.7
+    specifier: 0.3.8
+    version: 0.3.8
   '@fontsource-utils/publish':
     specifier: ^0.2.4
     version: 0.2.4
   '@types/node':
-    specifier: ^20.2.3
-    version: 20.2.3
+    specifier: ^20.2.5
+    version: 20.2.5
   consola:
     specifier: ^3.1.0
     version: 3.1.0
@@ -282,8 +282,8 @@ packages:
     dev: false
     optional: true
 
-  /@fontsource-utils/cli@0.3.7:
-    resolution: {integrity: sha512-DdXTJSgZKIdfb24xhsZQ9ESJNinWTBti9PGYCc0YyahjK84xl6HV3WrkLkb1UDxkvVwXq8kApVTpJBom1KItzg==}
+  /@fontsource-utils/cli@0.3.8:
+    resolution: {integrity: sha512-FoQwlMBWN1XtBIlwWG0YSk7EQ+gpqs4ao3FIeThTDABXZsCixGBvVMEdaDuJ9gp3YiSkpIiykFfQcf09FZhsxA==}
     hasBin: true
     dependencies:
       '@clack/prompts': 0.6.3
@@ -291,7 +291,6 @@ packages:
       cac: 6.7.14
       consola: 3.1.0
       dotenv: 16.0.3
-      flat: 5.0.2
       fs-extra: 11.1.1
       google-font-metadata: 5.2.0
       json-stringify-pretty-compact: 4.0.0
@@ -337,7 +336,7 @@ packages:
     dependencies:
       string-width: 5.1.2
       string-width-cjs: /string-width@4.2.3
-      strip-ansi: 7.0.1
+      strip-ansi: 7.1.0
       strip-ansi-cjs: /strip-ansi@6.0.1
       wrap-ansi: 8.1.0
       wrap-ansi-cjs: /wrap-ansi@7.0.0
@@ -473,8 +472,8 @@ packages:
     resolution: {integrity: sha512-SZs7ekbP8CN0txVG2xVRH6EgKmEm31BOxA07vkFaETzZz1xh+cbt8BcI0slpymvwhx5dlFnQG2rTlPVQn+iRPQ==}
     dev: false
 
-  /@types/node@20.2.3:
-    resolution: {integrity: sha512-pg9d0yC4rVNWQzX8U7xb4olIOFuuVL9za3bzMT2pu2SU0SNEi66i2qrvhE2qt0HvkhuCaWJu7pLNOt/Pj8BIrw==}
+  /@types/node@20.2.5:
+    resolution: {integrity: sha512-JJulVEQXmiY9Px5axXHeYGLSjhkZEnD+MDPDGbCbIAbMslkKwmygtZFy1X6s/075Yo94sf8GuSlFfPzysQrWZQ==}
     dev: false
 
   /@types/stylis@4.2.0:
@@ -485,7 +484,7 @@ packages:
     resolution: {integrity: sha512-Cn6WYCm0tXv8p6k+A8PvbDG763EDpBoTzHdA+Q/MF6H3sapGjCm9NzoaJncJS9tUKSuCoDs9XHxYYsQDgxR6kw==}
     requiresBuild: true
     dependencies:
-      '@types/node': 20.2.3
+      '@types/node': 20.2.5
     dev: false
     optional: true
 
@@ -887,11 +886,6 @@ packages:
       pend: 1.2.0
     dev: false
 
-  /flat@5.0.2:
-    resolution: {integrity: sha512-b6suED+5/3rTpUBdG1gupIl8MPFCAMA0QXwmljLhvCUKcUvdE4gWky9zpuGCcXHOsz4J9wPGNWq6OKpmIzz3hQ==}
-    hasBin: true
-    dev: false
-
   /foreground-child@3.1.1:
     resolution: {integrity: sha512-TMKDUnIte6bfb5nWv7V/caI169OHgvwjb7V4WkeUvbQQdjr5rWKqHFiKWb/fcOwB+CzBT+qbWjvj+DVwRskpIg==}
     engines: {node: '>=14'}
@@ -979,7 +973,7 @@ packages:
       deepmerge: 4.3.1
       dotenv: 16.0.3
       execa: 7.1.1
-      got: 12.6.0
+      got: 12.6.1
       json-stringify-pretty-compact: 4.0.0
       linkedom: 0.14.26
       p-queue: 7.3.4
@@ -996,8 +990,8 @@ packages:
       - utf-8-validate
     dev: false
 
-  /got@12.6.0:
-    resolution: {integrity: sha512-WTcaQ963xV97MN3x0/CbAriXFZcXCfgxVp91I+Ze6pawQOa7SgzwSx2zIJJsX+kTajMnVs0xcFD1TxZKFqhdnQ==}
+  /got@12.6.1:
+    resolution: {integrity: sha512-mThBblvlAF1d4O5oqyvN+ZxLAYwIJK7bpMxgYqPD9okW0C3qm5FFn7k811QrcuEBwaogR3ngOFoCfs6mRv7teQ==}
     engines: {node: '>=14.16'}
     dependencies:
       '@sindresorhus/is': 5.3.0
@@ -1589,7 +1583,7 @@ packages:
     dependencies:
       eastasianwidth: 0.2.0
       emoji-regex: 9.2.2
-      strip-ansi: 7.0.1
+      strip-ansi: 7.1.0
     dev: false
 
   /string_decoder@1.3.0:
@@ -1605,8 +1599,8 @@ packages:
       ansi-regex: 5.0.1
     dev: false
 
-  /strip-ansi@7.0.1:
-    resolution: {integrity: sha512-cXNxvT8dFNRVfhVME3JAe98mkXDYN2O1l7jmcwMnOslDeESg1rF/OZMtK0nRAhiari1unG5cD4jG3rapUAkLbw==}
+  /strip-ansi@7.1.0:
+    resolution: {integrity: sha512-iq6eVVI64nQQTRYq2KtEg2d2uU7LElhTJwsH4YzIHZshxlgZms/wIc4VoDQTlG/IvVIrBKG06CrZnp0qv7hkcQ==}
     engines: {node: '>=12'}
     dependencies:
       ansi-regex: 6.0.1
@@ -1732,7 +1726,7 @@ packages:
     dependencies:
       ansi-styles: 6.2.1
       string-width: 5.1.2
-      strip-ansi: 7.0.1
+      strip-ansi: 7.1.0
     dev: false
 
   /wrappy@1.0.2:
