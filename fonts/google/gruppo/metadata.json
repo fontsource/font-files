@@ -12,7 +12,7 @@
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2010 Vernon Adams (vern@newtypography.co.uk). Available under the terms of the SIL OFL v1.1 from http://scripts.sil.org/OFL"
+    "attribution": "Copyright 2010 The Gruppo Project Authors (https://github.com/googlefonts/GruppoFont)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

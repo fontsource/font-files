@@ -1,12 +1,12 @@
 # Fontsource Big Shoulders Text
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/big-shoulders-text?color=brightgreen)](https://www.npmjs.com/package/@fontsource/big-shoulders-text) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/big-shoulders-text)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/big-shoulders-text)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource-variable/big-shoulders-text?color=brightgreen)](https://www.npmjs.com/package/@fontsource-variable/big-shoulders-text) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource-variable/big-shoulders-text)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource-variable/big-shoulders-text)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
 
-The CSS and web font files to easily self-host the “Big Shoulders Text” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/big-shoulders-text) to view more details on this package.
+The CSS and web font files to easily self-host the “Big Shoulders Text” variable font. Please visit the main [Fontsource website](https://fontsource.org/fonts/big-shoulders-text) to view more details on this package.
 
 ## Quick Installation
 
-Fontsource has a variety of methods to import CSS, such as using a bundler like Webpack. Alternatively, it supports SASS. Full documentation can be found [here](https://fontsource.org/docs/getting-started/introduction).
+Fontsource offers multiple methods to import the CSS, including using a bundler like Vite or using SASS. You can find full documentation [here](https://fontsource.org/docs/getting-started/introduction).
 
 ```javascript
 npm install @fontsource-variable/big-shoulders-text
@@ -18,7 +18,6 @@ Within your app entry file or site component, import it in.
 import "@fontsource-variable/big-shoulders-text"; // Defaults to wght axis
 import "@fontsource-variable/big-shoulders-text/wght.css"; // Specify axis
 import "@fontsource-variable/big-shoulders-text/wght-italic.css"; // Specify axis and style
-
 ```
 
 Supported variables:
@@ -27,26 +26,23 @@ Supported variables:
 - Subsets: `[latin,latin-ext,vietnamese]`
 - Axes: `[wght]`
 
+> Note: `italic` may not be supported by all fonts. To learn more about what axes and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/big-shoulders-text).
+
 Finally, you can reference the font name in a CSS stylesheet, CSS Module, or CSS-in-JS.
 
 ```css
 body {
-  font-family: "Big Shoulders Text";
+  font-family: "Big Shoulders Text Variable";
 }
 ```
 
-## Variable Fonts
-
-This particular typeface supports [variable fonts](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide).
-Variable documentation can be found [here](https://fontsource.org/docs/getting-started/variable).
-
 ## Licensing
-It is important to always read the license for every font that you use.
-Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
+Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
 Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
 Font version (provided by source): `v22`.
-Feel free to star and contribute new ideas to this repository that aim to improve the performance of font loading, as well as expanding the existing library we already have. Any suggestions or ideas can be voiced via an [issue](https://github.com/fontsource/fontsource/issues).
+
+If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).
