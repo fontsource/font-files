@@ -2,8 +2,8 @@ lockfileVersion: '6.0'
 
 dependencies:
   '@fontsource-utils/cli':
-    specifier: 0.3.8
-    version: 0.3.8
+    specifier: 0.3.9
+    version: 0.3.9
   '@fontsource-utils/publish':
     specifier: ^0.2.4
     version: 0.2.4
@@ -282,8 +282,8 @@ packages:
     dev: false
     optional: true
 
-  /@fontsource-utils/cli@0.3.8:
-    resolution: {integrity: sha512-FoQwlMBWN1XtBIlwWG0YSk7EQ+gpqs4ao3FIeThTDABXZsCixGBvVMEdaDuJ9gp3YiSkpIiykFfQcf09FZhsxA==}
+  /@fontsource-utils/cli@0.3.9:
+    resolution: {integrity: sha512-riezJDBwOSmYnDN1rhRm1iloaSjC82/4GR7JMdenoRuK5Gcrf8PcvaEzIBdHDs2nCTgZpaCLMidzwFfn0qrNKQ==}
     hasBin: true
     dependencies:
       '@clack/prompts': 0.6.3
