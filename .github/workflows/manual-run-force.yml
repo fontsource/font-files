@@ -10,6 +10,15 @@ jobs:
       - name: checkout
         uses: actions/checkout@v3
 
+      # There may be times we exceed runner storage limits
+      - name: Free Disk Space
+        run: |
+          sudo swapoff -a
+          sudo rm -f /swapfile /usr/share/dotnet /usr/local/lib/android /opt/ghc
+          sudo apt clean
+          docker rmi $(docker image ls -aq)
+          df -h
+
       - name: Enable PNPM
         uses: pnpm/action-setup@v2
 
