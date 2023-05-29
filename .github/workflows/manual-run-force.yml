@@ -10,15 +10,6 @@ jobs:
       - name: checkout
         uses: actions/checkout@v3
 
-      # There may be times we exceed runner storage limits
-      - name: Free Disk Space
-        run: |
-          sudo swapoff -a
-          sudo rm -rf /swapfile /usr/share/dotnet /usr/local/lib/android /opt/ghc
-          sudo apt clean
-          docker rmi $(docker image ls -aq)
-          df -h
-
       - name: Enable PNPM
         uses: pnpm/action-setup@v2
 
@@ -36,7 +27,7 @@ jobs:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
 
       - name: Build fonts # Build all updated Google Fonts in repository
-        run: npx fontsource build --force --ttf
+        run: npx fontsource build --force
 
       - name: Generate fontlist
         run: pnpm run fontlist
