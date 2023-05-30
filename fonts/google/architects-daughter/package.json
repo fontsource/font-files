@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/architects-daughter",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Architects Daughter font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/architects-daughter"
   },
-  "publishHash": "76d5f64a12a2c5c6"
+  "publishHash": "226a470e27b74cf5"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dhurjati",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Dhurjati font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/dhurjati"
   },
-  "publishHash": "bc237777b2534b72"
+  "publishHash": "d75fbe68bf61b39e"
 }

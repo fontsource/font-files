@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/baumans",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Baumans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/baumans"
   },
-  "publishHash": "3677f709a3a117cd"
+  "publishHash": "e626037c53a64221"
 }

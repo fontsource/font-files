@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sofia-sans-semi-condensed",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Sofia Sans Semi Condensed font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sofia-sans-semi-condensed"
   },
-  "publishHash": "c77b92f12b249972"
+  "publishHash": "98c0d34e2db5bb3c"
 }

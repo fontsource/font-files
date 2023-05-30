@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/alumni-sans-inline-one",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Alumni Sans Inline One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/alumni-sans-inline-one"
   },
-  "publishHash": "aeb73f170d046a90"
+  "publishHash": "8506ea9d8aee43bb"
 }

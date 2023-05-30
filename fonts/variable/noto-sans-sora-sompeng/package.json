@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-sora-sompeng",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Noto Sans Sora Sompeng font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-sora-sompeng"
   },
-  "publishHash": "57e8a36770b4e492"
+  "publishHash": "3ba67666b5b70624"
 }

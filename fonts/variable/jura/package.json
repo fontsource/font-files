@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/jura",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Jura font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/jura"
   },
-  "publishHash": "b9a93509c7f59df9"
+  "publishHash": "357b0b5f4fbd3376"
 }

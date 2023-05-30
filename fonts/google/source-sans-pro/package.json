@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/source-sans-pro",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Source Sans Pro font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/source-sans-pro"
   },
-  "publishHash": "105f492a6f09ae3d"
+  "publishHash": "ddbb930261ae6ec4"
 }

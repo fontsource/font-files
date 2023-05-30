@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/habibi",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Habibi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/habibi"
   },
-  "publishHash": "4212dccfb7c50305"
+  "publishHash": "ffe456b5cac001b7"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-lisu",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Noto Sans Lisu font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-lisu"
   },
-  "publishHash": "4b34c86fdb5a34f3"
+  "publishHash": "2165e2b802d23d43"
 }

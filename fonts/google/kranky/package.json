@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kranky",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Kranky font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kranky"
   },
-  "publishHash": "afa3ec071e20a68b"
+  "publishHash": "d29a5d2321938036"
 }

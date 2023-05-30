@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/original-surfer",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Original Surfer font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/original-surfer"
   },
-  "publishHash": "3546306d619056bb"
+  "publishHash": "6db5f1bb5ba2e7bd"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/quicksand",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Quicksand font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/quicksand"
   },
-  "publishHash": "b56492bc9c712757"
+  "publishHash": "76842d7fa4650efd"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/adamina",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Adamina font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/adamina"
   },
-  "publishHash": "981656954f6e1b08"
+  "publishHash": "fbc1376b8640dea6"
 }

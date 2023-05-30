@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/quantico",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Quantico font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/quantico"
   },
-  "publishHash": "cf8a6a0398ffc02a"
+  "publishHash": "62439947b21b57b7"
 }

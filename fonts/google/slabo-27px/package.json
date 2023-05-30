@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/slabo-27px",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Slabo 27px font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/slabo-27px"
   },
-  "publishHash": "67f1eb6fad93e332"
+  "publishHash": "bc8cb27dc6f1d360"
 }

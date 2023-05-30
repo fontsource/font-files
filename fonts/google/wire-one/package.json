@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/wire-one",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Wire One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/wire-one"
   },
-  "publishHash": "8f246d904556f94a"
+  "publishHash": "82812d341820dbe6"
 }

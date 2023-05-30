@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/truculenta",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Truculenta font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/truculenta"
   },
-  "publishHash": "b6d0f7e74edb0b8d"
+  "publishHash": "c005515ed6ff0113"
 }

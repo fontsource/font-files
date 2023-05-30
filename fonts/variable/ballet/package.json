@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/ballet",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Ballet font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/ballet"
   },
-  "publishHash": "997111972c32817d"
+  "publishHash": "9e7bd5ee2e8a15dd"
 }

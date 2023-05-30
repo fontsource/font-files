@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/maiden-orange",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Maiden Orange font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/maiden-orange"
   },
-  "publishHash": "ecd4195272116e9d"
+  "publishHash": "051a1528316c2c58"
 }

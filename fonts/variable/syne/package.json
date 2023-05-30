@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/syne",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Syne font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/syne"
   },
-  "publishHash": "c6d12ca2961b2896"
+  "publishHash": "d31ee17dabed7946"
 }

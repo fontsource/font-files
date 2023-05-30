@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/praise",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Praise font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/praise"
   },
-  "publishHash": "2d71e34ab95821cc"
+  "publishHash": "8d3609a3c50bd681"
 }

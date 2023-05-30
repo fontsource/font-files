@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/pontano-sans",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Pontano Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/pontano-sans"
   },
-  "publishHash": "604d024e60d295f3"
+  "publishHash": "f335f1101cf7feae"
 }

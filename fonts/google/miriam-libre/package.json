@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/miriam-libre",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Miriam Libre font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/miriam-libre"
   },
-  "publishHash": "f511ed2b7258b080"
+  "publishHash": "40390421178bc600"
 }

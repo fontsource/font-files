@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/trispace",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Trispace font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/trispace"
   },
-  "publishHash": "690068263a531fe8"
+  "publishHash": "54079ac2d5a59459"
 }

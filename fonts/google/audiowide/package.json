@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/audiowide",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Audiowide font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/audiowide"
   },
-  "publishHash": "b8e3a5e32a744be1"
+  "publishHash": "68cae0301a4cc2f8"
 }

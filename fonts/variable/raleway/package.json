@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/raleway",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Raleway font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/raleway"
   },
-  "publishHash": "2b1574457cc570c6"
+  "publishHash": "d8cb4c26c36295b4"
 }

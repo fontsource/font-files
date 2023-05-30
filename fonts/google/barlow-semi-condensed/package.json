@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/barlow-semi-condensed",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Barlow Semi Condensed font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/barlow-semi-condensed"
   },
-  "publishHash": "d2f148da7b5dc0fd"
+  "publishHash": "e9e83581d6d78d25"
 }

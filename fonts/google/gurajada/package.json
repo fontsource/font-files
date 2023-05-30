@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gurajada",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Gurajada font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gurajada"
   },
-  "publishHash": "a40543e175130203"
+  "publishHash": "8d51a4434e6219bb"
 }

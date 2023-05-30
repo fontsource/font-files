@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rubik-vinyl",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Rubik Vinyl font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rubik-vinyl"
   },
-  "publishHash": "a503c01c82a2fb16"
+  "publishHash": "03aa27627575856c"
 }

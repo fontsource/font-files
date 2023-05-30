@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/pt-sans-narrow",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the PT Sans Narrow font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/pt-sans-narrow"
   },
-  "publishHash": "e9ed7bd671fd74a6"
+  "publishHash": "2103cf3a412be74a"
 }

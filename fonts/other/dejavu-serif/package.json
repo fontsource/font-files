@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dejavu-serif",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the DejaVu Serif font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/dejavu-serif"
   },
-  "publishHash": "14655d0707b76bbf"
+  "publishHash": "0430244b39c5ac87"
 }

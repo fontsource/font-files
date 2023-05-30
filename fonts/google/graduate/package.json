@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/graduate",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Graduate font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/graduate"
   },
-  "publishHash": "e5a5e871250fb211"
+  "publishHash": "7a1ba1b8f590a305"
 }

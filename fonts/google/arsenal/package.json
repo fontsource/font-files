@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/arsenal",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Arsenal font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/arsenal"
   },
-  "publishHash": "a2309064402ab203"
+  "publishHash": "55ef94648ecbd7ee"
 }

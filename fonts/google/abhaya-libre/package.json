@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/abhaya-libre",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Abhaya Libre font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/abhaya-libre"
   },
-  "publishHash": "37c888df7ba21f11"
+  "publishHash": "d085409b7e2fa67c"
 }

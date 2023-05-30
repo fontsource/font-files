@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gaegu",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Gaegu font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gaegu"
   },
-  "publishHash": "dec62294a21fe409"
+  "publishHash": "a32261ec1253554b"
 }

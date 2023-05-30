@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/m-plus-1-code",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the M PLUS 1 Code font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/m-plus-1-code"
   },
-  "publishHash": "43af11107f2c1317"
+  "publishHash": "fe7a2056eb9bde9e"
 }

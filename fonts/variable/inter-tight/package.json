@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/inter-tight",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Inter Tight font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/inter-tight"
   },
-  "publishHash": "7a1a56aed98e4a88"
+  "publishHash": "638feb66f0c67775"
 }

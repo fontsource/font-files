@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-myanmar",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Noto Sans Myanmar font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-myanmar"
   },
-  "publishHash": "f4b28b4508e5916d"
+  "publishHash": "c186cc3063b56b76"
 }

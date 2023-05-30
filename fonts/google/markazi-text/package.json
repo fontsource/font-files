@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/markazi-text",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Markazi Text font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/markazi-text"
   },
-  "publishHash": "c164be6a5ac8b06e"
+  "publishHash": "0057492b4508a28a"
 }

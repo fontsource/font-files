@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mingzat",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Mingzat font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mingzat"
   },
-  "publishHash": "8980db9fd9e32968"
+  "publishHash": "2229b897a1f0123b"
 }

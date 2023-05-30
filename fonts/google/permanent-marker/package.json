@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/permanent-marker",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Permanent Marker font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/permanent-marker"
   },
-  "publishHash": "e45e10380319f9bd"
+  "publishHash": "3304cd5d61d931ba"
 }

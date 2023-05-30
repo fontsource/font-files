@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/yusei-magic",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Yusei Magic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/yusei-magic"
   },
-  "publishHash": "e1a32e3f402a053e"
+  "publishHash": "82740bc26791fb2c"
 }

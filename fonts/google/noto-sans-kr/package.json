@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-kr",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Noto Sans KR font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-kr"
   },
-  "publishHash": "15348c4841fb6e1b"
+  "publishHash": "8291f766692ab289"
 }

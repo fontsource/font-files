@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/comme",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Comme font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/comme"
   },
-  "publishHash": "215a7d70084fa060"
+  "publishHash": "81a15644df619c48"
 }

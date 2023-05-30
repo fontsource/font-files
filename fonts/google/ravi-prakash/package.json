@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ravi-prakash",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Ravi Prakash font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ravi-prakash"
   },
-  "publishHash": "3850ee61eaa8d56c"
+  "publishHash": "7c7b8e084ccc4e31"
 }

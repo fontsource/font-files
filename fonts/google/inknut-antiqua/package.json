@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/inknut-antiqua",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Inknut Antiqua font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/inknut-antiqua"
   },
-  "publishHash": "3aed5ccf9f3f2c3d"
+  "publishHash": "af1e03137832ff58"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/emblema-one",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Emblema One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/emblema-one"
   },
-  "publishHash": "54fe51794eb7b93c"
+  "publishHash": "c9fc053eba43c4bd"
 }

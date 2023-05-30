@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/saira-extra-condensed",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Saira Extra Condensed font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/saira-extra-condensed"
   },
-  "publishHash": "84ae01f6afa115a4"
+  "publishHash": "c2cf15e122980788"
 }

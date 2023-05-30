@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ingrid-darling",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Ingrid Darling font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ingrid-darling"
   },
-  "publishHash": "b2c5105e75bddd29"
+  "publishHash": "e0dc01843b3fd9df"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/blackout-midnight",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Blackout Midnight font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/blackout-midnight"
   },
-  "publishHash": "7ac016bc0188f458"
+  "publishHash": "6f321528432a5f40"
 }

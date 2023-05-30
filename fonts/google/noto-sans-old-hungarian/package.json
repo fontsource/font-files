@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-old-hungarian",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Noto Sans Old Hungarian font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-old-hungarian"
   },
-  "publishHash": "ac797dd5c9db5b58"
+  "publishHash": "6a9dc48dd17ce791"
 }

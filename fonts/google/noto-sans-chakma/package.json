@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-chakma",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Noto Sans Chakma font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-chakma"
   },
-  "publishHash": "e37a2cc2f44ef3eb"
+  "publishHash": "4688011e2ae9d41a"
 }

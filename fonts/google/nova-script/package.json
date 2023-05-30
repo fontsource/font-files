@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/nova-script",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Nova Script font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/nova-script"
   },
-  "publishHash": "21c85f14857f0a89"
+  "publishHash": "46cc8b7224ccfa14"
 }

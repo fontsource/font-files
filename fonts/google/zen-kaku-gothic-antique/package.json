@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/zen-kaku-gothic-antique",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Zen Kaku Gothic Antique font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/zen-kaku-gothic-antique"
   },
-  "publishHash": "82826dfe290b160e"
+  "publishHash": "41564d0fd53b2938"
 }

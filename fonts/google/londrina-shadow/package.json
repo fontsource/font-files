@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/londrina-shadow",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Londrina Shadow font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/londrina-shadow"
   },
-  "publishHash": "e47d8ac7c4b99e55"
+  "publishHash": "7777812889ea1210"
 }

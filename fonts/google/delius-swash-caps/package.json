@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/delius-swash-caps",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Delius Swash Caps font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/delius-swash-caps"
   },
-  "publishHash": "e7687c01bc7c7b27"
+  "publishHash": "5675e313ab67ec4e"
 }

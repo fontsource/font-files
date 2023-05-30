@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/euphoria-script",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Euphoria Script font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/euphoria-script"
   },
-  "publishHash": "537aa393113c09d1"
+  "publishHash": "544452cbecc3713f"
 }

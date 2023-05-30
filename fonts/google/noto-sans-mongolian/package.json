@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-mongolian",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Noto Sans Mongolian font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-mongolian"
   },
-  "publishHash": "6f935d7bac8ee780"
+  "publishHash": "387cdaba73de5be5"
 }

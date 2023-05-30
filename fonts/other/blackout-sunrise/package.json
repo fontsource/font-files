@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/blackout-sunrise",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Blackout Sunrise font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/blackout-sunrise"
   },
-  "publishHash": "d120b005bb4e1747"
+  "publishHash": "e7fb0ca80080157d"
 }

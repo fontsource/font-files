@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/murecho",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Murecho font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/murecho"
   },
-  "publishHash": "68e0158d715b0920"
+  "publishHash": "3d62727aab9aa115"
 }

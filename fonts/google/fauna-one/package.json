@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fauna-one",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Fauna One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fauna-one"
   },
-  "publishHash": "4455fafe4f17f440"
+  "publishHash": "f329475908b5e5bf"
 }

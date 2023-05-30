@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/reem-kufi-fun",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Reem Kufi Fun font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/reem-kufi-fun"
   },
-  "publishHash": "eb59be63a30ef6f2"
+  "publishHash": "2cc14ceb586aaa3d"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sahitya",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Sahitya font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sahitya"
   },
-  "publishHash": "9aa2d359b412ff2d"
+  "publishHash": "a23ed8bfe5e19658"
 }

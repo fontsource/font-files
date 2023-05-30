@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/shojumaru",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Shojumaru font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/shojumaru"
   },
-  "publishHash": "31011b0eea5f3c96"
+  "publishHash": "b14233ec0cece4c6"
 }

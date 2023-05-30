@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-traditional-nushu",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Noto Traditional Nushu font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-traditional-nushu"
   },
-  "publishHash": "c491263ba7d1e7fe"
+  "publishHash": "bcdd08f419d067f6"
 }

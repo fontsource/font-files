@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/anek-kannada",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Anek Kannada font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/anek-kannada"
   },
-  "publishHash": "876a4c14a84962f7"
+  "publishHash": "91406a60de20769c"
 }

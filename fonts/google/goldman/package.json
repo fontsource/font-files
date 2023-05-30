@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/goldman",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Goldman font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/goldman"
   },
-  "publishHash": "a1cd98e89636c3e0"
+  "publishHash": "0ae594bd1a4bb4d1"
 }

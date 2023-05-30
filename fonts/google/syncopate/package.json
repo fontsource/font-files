@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/syncopate",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Syncopate font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/syncopate"
   },
-  "publishHash": "4879eee45ea329af"
+  "publishHash": "4e74bb09c0110e6e"
 }

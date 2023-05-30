@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/climate-crisis",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Climate Crisis font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/climate-crisis"
   },
-  "publishHash": "dad538fa02dccef3"
+  "publishHash": "ba8edcd4dab690fe"
 }

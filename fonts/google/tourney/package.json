@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tourney",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Tourney font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tourney"
   },
-  "publishHash": "7451acd7d678e5a5"
+  "publishHash": "021c4f858865852b"
 }
