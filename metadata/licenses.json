@@ -3877,14 +3877,14 @@
   "darker-grotesque": {
     "id": "darker-grotesque",
     "authors": {
-      "copyright": "Copyright 2019 The Darkergrotesque Project Authors",
+      "copyright": "Copyright 2019 The Darker Grotesque Project Authors",
       "website": "https://github.com/bettergui/DarkerGrotesque"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2019 The Darkergrotesque Project Authors (https://github.com/bettergui/DarkerGrotesque)"
+    "original": "Copyright 2019 The Darker Grotesque Project Authors (https://github.com/bettergui/DarkerGrotesque)"
   },
   "darumadrop-one": {
     "id": "darumadrop-one",
@@ -5461,6 +5461,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright (c) 2000-2010, Ben Weiner (ben@readingtype.org.uk), with Reserved Font Name Geo."
+  },
+  "geologica": {
+    "id": "geologica",
+    "authors": {
+      "copyright": "Copyright 2020 The Geologica Project Authors",
+      "website": "https://github.com/googlefonts/geologica"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2020 The Geologica Project Authors (https://github.com/googlefonts/geologica)"
   },
   "georama": {
     "id": "georama",
@@ -11823,12 +11835,15 @@
   },
   "noto-serif": {
     "id": "noto-serif",
-    "authors": {"copyright": "Copyright 2012 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/latin-greek-cyrillic"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2012 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)"
   },
   "noto-serif-ahom": {
     "id": "noto-serif-ahom",
@@ -12835,6 +12850,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2014 Pria Ravichandran (pria.ravichandran@gmail.com)"
+  },
+  "palette-mosaic": {
+    "id": "palette-mosaic",
+    "authors": {
+      "copyright": "Copyright 2020 The Palette Mosaic Project Authors all rights reserved.",
+      "website": "https://github.com/shibuyafont/Palette-mosaic-font-mono"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2020 The Palette Mosaic Project Authors (https://github.com/shibuyafont/Palette-mosaic-font-mono), all rights reserved."
   },
   "pangolin": {
     "id": "pangolin",
@@ -14209,6 +14236,18 @@
     },
     "original": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved. Available under the Apache 2.0 licence. http://www.apache.org/licenses/LICENSE-2.0.html"
   },
+  "rock-3d": {
+    "id": "rock-3d",
+    "authors": {
+      "copyright": "Copyright 2020 The Rock 3D Project Authors all rights reserved.",
+      "website": "https://github.com/shibuyafont/3d-rock-font"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2020 The Rock 3D Project Authors (https://github.com/shibuyafont/3d-rock-font), all rights reserved."
+  },
   "rock-salt": {
     "id": "rock-salt",
     "authors": {
@@ -15237,6 +15276,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2021 The Shippori Mincho Project Authors (https://github.com/fontdasu/ShipporiMincho)"
+  },
+  "shizuru": {
+    "id": "shizuru",
+    "authors": {
+      "copyright": "Copyright 2020 The Shizuru Project Authors all rights reserved.",
+      "website": "https://github.com/shibuyafont/shizuru-font"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2020 The Shizuru Project Authors (https://github.com/shibuyafont/shizuru-font), all rights reserved."
   },
   "shojumaru": {
     "id": "shojumaru",
@@ -17545,6 +17596,30 @@
   },
   "yuji-boku": {
     "id": "yuji-boku",
+    "authors": {
+      "copyright": "Copyright 2021 The Yuji Project Authors",
+      "website": "https://github.com/Kinutafontfactory/Yuji"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2021 The Yuji Project Authors (https://github.com/Kinutafontfactory/Yuji)"
+  },
+  "yuji-hentaigana-akari": {
+    "id": "yuji-hentaigana-akari",
+    "authors": {
+      "copyright": "Copyright 2021 The Yuji Project Authors",
+      "website": "https://github.com/Kinutafontfactory/Yuji"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2021 The Yuji Project Authors (https://github.com/Kinutafontfactory/Yuji)"
+  },
+  "yuji-hentaigana-akebono": {
+    "id": "yuji-hentaigana-akebono",
     "authors": {
       "copyright": "Copyright 2021 The Yuji Project Authors",
       "website": "https://github.com/Kinutafontfactory/Yuji"
