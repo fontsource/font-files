@@ -19,7 +19,7 @@
 		"@types/node": "^20.2.5",
 		"consola": "^3.1.0",
 		"json-stringify-pretty-compact": "^4.0.0",
-		"pathe": "^1.1.0",
+		"pathe": "^1.1.1",
 		"tsx": "^3.12.7"
 	},
 	"homepage": "https://fontsource.org",
