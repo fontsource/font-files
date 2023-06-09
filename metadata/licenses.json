@@ -1485,6 +1485,18 @@
     },
     "original": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Bad Script\"."
   },
+  "bagel-fat-one": {
+    "id": "bagel-fat-one",
+    "authors": {
+      "copyright": "Copyright 2022 The Bagel Fat Project Authors",
+      "website": "https://github.com/JAMO-TYPEFACE/BagelFat"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Bagel Fat Project Authors (https://github.com/JAMO-TYPEFACE/BagelFat)"
+  },
   "bahiana": {
     "id": "bahiana",
     "authors": {
@@ -3302,17 +3314,6 @@
     },
     "original": "Copyright (c) 2010-2012, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Names \"Coda\""
   },
-  "coda-caption": {
-    "id": "coda-caption",
-    "authors": {
-      "copyright": "Copyright 2009 by vernon adams. All rights reserved."
-    },
-    "license": {
-      "type": "SIL Open Font License, 1.1",
-      "url": "http://scripts.sil.org/OFL"
-    },
-    "original": "Copyright (c) 2009 by vernon adams. All rights reserved."
-  },
   "codystar": {
     "id": "codystar",
     "authors": {
@@ -4061,6 +4062,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2016 The Didact Gothic Project Authors (il.basso.buffo@gmail.com)"
+  },
+  "diphylleia": {
+    "id": "diphylleia",
+    "authors": {
+      "copyright": "Copyright 2022 The Diphylleia Project Authors",
+      "website": "https://github.com/JAMO-TYPEFACE/Diphylleia"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Diphylleia Project Authors (https://github.com/JAMO-TYPEFACE/Diphylleia)"
   },
   "diplomata": {
     "id": "diplomata",
@@ -5384,6 +5397,18 @@
     },
     "original": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)"
   },
+  "gasoek-one": {
+    "id": "gasoek-one",
+    "authors": {
+      "copyright": "Copyright 2022 The Gasoek Project Authors",
+      "website": "https://github.com/JAMO-TYPEFACE/Gasoek"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Gasoek Project Authors (https://github.com/JAMO-TYPEFACE/Gasoek)"
+  },
   "gayathri": {
     "id": "gayathri",
     "authors": {
@@ -5790,6 +5815,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name \"Grand Hotel\""
+  },
+  "grandiflora-one": {
+    "id": "grandiflora-one",
+    "authors": {
+      "copyright": "Copyright 2022 The Grandiflora Project Authors",
+      "website": "https://github.com/JAMO-TYPEFACE/Grandiflora"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Grandiflora Project Authors (https://github.com/JAMO-TYPEFACE/Grandiflora)"
   },
   "grandstander": {
     "id": "grandstander",
@@ -7096,6 +7133,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)"
+  },
+  "kablammo": {
+    "id": "kablammo",
+    "authors": {
+      "copyright": "Copyright 2023 The Kablammo Project Authors",
+      "website": "https://github.com/Vectro-Type-Foundry/kablammo"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Kablammo Project Authors (https://github.com/Vectro-Type-Foundry/kablammo)"
   },
   "kadwa": {
     "id": "kadwa",
@@ -9163,12 +9212,15 @@
   },
   "michroma": {
     "id": "michroma",
-    "authors": {"copyright": "vernon adams"},
+    "authors": {
+      "copyright": "Copyright 2011 The Michroma Project Authors",
+      "website": "https://github.com/googlefonts/Michroma-font"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "vernon adams"
+    "original": "Copyright 2011 The Michroma Project Authors (https://github.com/googlefonts/Michroma-font)"
   },
   "milonga": {
     "id": "milonga",
@@ -9357,6 +9409,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2019 The Mohave Project Authors (https://github.com/tokotype/Mohave-Typefaces)"
+  },
+  "moirai-one": {
+    "id": "moirai-one",
+    "authors": {
+      "copyright": "Copyright 2022 The Moirai Project Authors",
+      "website": "https://github.com/JAMO-TYPEFACE/Moirai"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Moirai Project Authors (https://github.com/JAMO-TYPEFACE/Moirai)"
   },
   "molengo": {
     "id": "molengo",
@@ -12537,6 +12601,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright (c) 2012, Oleg Pospelov (oleg@pospelov.com), Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name 'Oranienbaum'"
+  },
+  "orbit": {
+    "id": "orbit",
+    "authors": {
+      "copyright": "Copyright 2022 The Orbit Project Authors",
+      "website": "https://github.com/JAMO-TYPEFACE/Orbit"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Orbit Project Authors (https://github.com/JAMO-TYPEFACE/Orbit)"
   },
   "orbitron": {
     "id": "orbitron",
@@ -15768,18 +15844,6 @@
     },
     "original": "© 2010 – 2021 Adobe (http://www.adobe.com/), with Reserved Font Name ‘Source’"
   },
-  "source-sans-pro": {
-    "id": "source-sans-pro",
-    "authors": {
-      "copyright": "© 2010 - 2018 Adobe Systems Incorporated with Reserved Font Name ‘Source’.",
-      "website": "http://www.adobe.com/"
-    },
-    "license": {
-      "type": "SIL Open Font License, 1.1",
-      "url": "http://scripts.sil.org/OFL"
-    },
-    "original": "© 2010 - 2018 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name ‘Source’."
-  },
   "source-serif-4": {
     "id": "source-serif-4",
     "authors": {
@@ -15791,18 +15855,6 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "© 2014 - 2021 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name ‘Source’."
-  },
-  "source-serif-pro": {
-    "id": "source-serif-pro",
-    "authors": {
-      "copyright": "Copyright 2014, 2015, 2016 Adobe Systems Incorporated with Reserved Font Name 'Source'.",
-      "website": "http://www.adobe.com/"
-    },
-    "license": {
-      "type": "SIL Open Font License, 1.1",
-      "url": "http://scripts.sil.org/OFL"
-    },
-    "original": "Copyright 2014, 2015, 2016 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'."
   },
   "space-grotesk": {
     "id": "space-grotesk",

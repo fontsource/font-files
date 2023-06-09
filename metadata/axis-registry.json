@@ -261,6 +261,15 @@
     "precision": 0
   },
   {
+    "name": "Y Alignment",
+    "tag": "YALN",
+    "description": "Align glyphs from their default position (0%), usually the baseline, to an upper (100%) or lower (-100%) position.",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "precision": 0
+  },
+  {
     "name": "Thin Stroke",
     "tag": "YOPQ",
     "description": "A parametric axis for varying thin stroke weights, such as bars and hairlines.",

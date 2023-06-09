@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'Noto Sans Display Variable';
   font-style: italic;
-  font-display: var(--fontsource-display, swap);
+  font-display: swap;
   font-weight: 100 900;
   font-stretch: 62.5% 100%;
   src: url(./files/noto-sans-display-cyrillic-ext-standard-italic.woff2) format('woff2-variations');
@@ -13,7 +13,7 @@
 @font-face {
   font-family: 'Noto Sans Display Variable';
   font-style: italic;
-  font-display: var(--fontsource-display, swap);
+  font-display: swap;
   font-weight: 100 900;
   font-stretch: 62.5% 100%;
   src: url(./files/noto-sans-display-cyrillic-standard-italic.woff2) format('woff2-variations');
@@ -24,7 +24,7 @@
 @font-face {
   font-family: 'Noto Sans Display Variable';
   font-style: italic;
-  font-display: var(--fontsource-display, swap);
+  font-display: swap;
   font-weight: 100 900;
   font-stretch: 62.5% 100%;
   src: url(./files/noto-sans-display-greek-ext-standard-italic.woff2) format('woff2-variations');
@@ -35,7 +35,7 @@
 @font-face {
   font-family: 'Noto Sans Display Variable';
   font-style: italic;
-  font-display: var(--fontsource-display, swap);
+  font-display: swap;
   font-weight: 100 900;
   font-stretch: 62.5% 100%;
   src: url(./files/noto-sans-display-greek-standard-italic.woff2) format('woff2-variations');
@@ -46,7 +46,7 @@
 @font-face {
   font-family: 'Noto Sans Display Variable';
   font-style: italic;
-  font-display: var(--fontsource-display, swap);
+  font-display: swap;
   font-weight: 100 900;
   font-stretch: 62.5% 100%;
   src: url(./files/noto-sans-display-vietnamese-standard-italic.woff2) format('woff2-variations');
@@ -57,7 +57,7 @@
 @font-face {
   font-family: 'Noto Sans Display Variable';
   font-style: italic;
-  font-display: var(--fontsource-display, swap);
+  font-display: swap;
   font-weight: 100 900;
   font-stretch: 62.5% 100%;
   src: url(./files/noto-sans-display-latin-ext-standard-italic.woff2) format('woff2-variations');
@@ -68,7 +68,7 @@
 @font-face {
   font-family: 'Noto Sans Display Variable';
   font-style: italic;
-  font-display: var(--fontsource-display, swap);
+  font-display: swap;
   font-weight: 100 900;
   font-stretch: 62.5% 100%;
   src: url(./files/noto-sans-display-latin-standard-italic.woff2) format('woff2-variations');

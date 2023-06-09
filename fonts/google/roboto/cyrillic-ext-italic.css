@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'Roboto';
   font-style: italic;
-  font-display: var(--fontsource-display, swap);
+  font-display: swap;
   font-weight: 100;
   src: url(./files/roboto-cyrillic-ext-100-italic.woff2) format('woff2'), url(./files/roboto-cyrillic-ext-100-italic.woff) format('woff');
 }
@@ -11,7 +11,7 @@
 @font-face {
   font-family: 'Roboto';
   font-style: italic;
-  font-display: var(--fontsource-display, swap);
+  font-display: swap;
   font-weight: 300;
   src: url(./files/roboto-cyrillic-ext-300-italic.woff2) format('woff2'), url(./files/roboto-cyrillic-ext-300-italic.woff) format('woff');
 }
@@ -20,7 +20,7 @@
 @font-face {
   font-family: 'Roboto';
   font-style: italic;
-  font-display: var(--fontsource-display, swap);
+  font-display: swap;
   font-weight: 400;
   src: url(./files/roboto-cyrillic-ext-400-italic.woff2) format('woff2'), url(./files/roboto-cyrillic-ext-400-italic.woff) format('woff');
 }
@@ -29,7 +29,7 @@
 @font-face {
   font-family: 'Roboto';
   font-style: italic;
-  font-display: var(--fontsource-display, swap);
+  font-display: swap;
   font-weight: 500;
   src: url(./files/roboto-cyrillic-ext-500-italic.woff2) format('woff2'), url(./files/roboto-cyrillic-ext-500-italic.woff) format('woff');
 }
@@ -38,7 +38,7 @@
 @font-face {
   font-family: 'Roboto';
   font-style: italic;
-  font-display: var(--fontsource-display, swap);
+  font-display: swap;
   font-weight: 700;
   src: url(./files/roboto-cyrillic-ext-700-italic.woff2) format('woff2'), url(./files/roboto-cyrillic-ext-700-italic.woff) format('woff');
 }
@@ -47,7 +47,7 @@
 @font-face {
   font-family: 'Roboto';
   font-style: italic;
-  font-display: var(--fontsource-display, swap);
+  font-display: swap;
   font-weight: 900;
   src: url(./files/roboto-cyrillic-ext-900-italic.woff2) format('woff2'), url(./files/roboto-cyrillic-ext-900-italic.woff) format('woff');
 }

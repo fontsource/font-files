@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'Material Symbols Outlined Variable';
   font-style: normal;
-  font-display: var(--fontsource-display, swap);
+  font-display: swap;
   font-weight: 100 700;
   src: url(./files/material-symbols-outlined-latin-full-normal.woff2) format('woff2-variations');
 }

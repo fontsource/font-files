@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'Nunito Sans Variable';
   font-style: italic;
-  font-display: var(--fontsource-display, swap);
+  font-display: swap;
   font-weight: 200 1000;
   font-stretch: 75% 125%;
   src: url(./files/nunito-sans-cyrillic-ext-full-italic.woff2) format('woff2-variations');
@@ -13,7 +13,7 @@
 @font-face {
   font-family: 'Nunito Sans Variable';
   font-style: italic;
-  font-display: var(--fontsource-display, swap);
+  font-display: swap;
   font-weight: 200 1000;
   font-stretch: 75% 125%;
   src: url(./files/nunito-sans-cyrillic-full-italic.woff2) format('woff2-variations');
@@ -24,7 +24,7 @@
 @font-face {
   font-family: 'Nunito Sans Variable';
   font-style: italic;
-  font-display: var(--fontsource-display, swap);
+  font-display: swap;
   font-weight: 200 1000;
   font-stretch: 75% 125%;
   src: url(./files/nunito-sans-vietnamese-full-italic.woff2) format('woff2-variations');
@@ -35,7 +35,7 @@
 @font-face {
   font-family: 'Nunito Sans Variable';
   font-style: italic;
-  font-display: var(--fontsource-display, swap);
+  font-display: swap;
   font-weight: 200 1000;
   font-stretch: 75% 125%;
   src: url(./files/nunito-sans-latin-ext-full-italic.woff2) format('woff2-variations');
@@ -46,7 +46,7 @@
 @font-face {
   font-family: 'Nunito Sans Variable';
   font-style: italic;
-  font-display: var(--fontsource-display, swap);
+  font-display: swap;
   font-weight: 200 1000;
   font-stretch: 75% 125%;
   src: url(./files/nunito-sans-latin-full-italic.woff2) format('woff2-variations');
