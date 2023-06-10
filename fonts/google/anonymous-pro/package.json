@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/anonymous-pro",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Anonymous Pro font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/anonymous-pro"
   },
-  "publishHash": "0aeb1a8a30f7ce25"
+  "publishHash": "e820e1deac6fddd1"
 }

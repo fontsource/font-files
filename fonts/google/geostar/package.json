@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/geostar",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Geostar font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/geostar"
   },
-  "publishHash": "014488ea1ffde95d"
+  "publishHash": "58713acb9e3db370"
 }

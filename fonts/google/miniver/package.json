@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/miniver",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Miniver font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/miniver"
   },
-  "publishHash": "d0c04c6742f4211e"
+  "publishHash": "9da8ae65a8d5b972"
 }

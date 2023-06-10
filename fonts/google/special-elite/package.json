@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/special-elite",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Special Elite font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/special-elite"
   },
-  "publishHash": "ba1998a4b10cee32"
+  "publishHash": "3f271b666f9b5e0d"
 }

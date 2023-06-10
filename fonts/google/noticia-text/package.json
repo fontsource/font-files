@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noticia-text",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Noticia Text font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noticia-text"
   },
-  "publishHash": "7b52888cfdeb48f8"
+  "publishHash": "154c3dca490143fe"
 }

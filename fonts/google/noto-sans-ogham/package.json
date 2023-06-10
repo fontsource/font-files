@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-ogham",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Noto Sans Ogham font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-ogham"
   },
-  "publishHash": "f9534b5db7006db5"
+  "publishHash": "6806231dcbecba32"
 }

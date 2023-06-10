@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cedarville-cursive",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Cedarville Cursive font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cedarville-cursive"
   },
-  "publishHash": "38d282ebc49b1112"
+  "publishHash": "3fb5f64fec68c91a"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/manuale",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Manuale font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/manuale"
   },
-  "publishHash": "22f316508a99fab7"
+  "publishHash": "ca02511ac7ab769c"
 }

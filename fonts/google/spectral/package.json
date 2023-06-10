@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/spectral",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Spectral font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/spectral"
   },
-  "publishHash": "f53f6b41e9d7d99f"
+  "publishHash": "044cfb6e6828e99d"
 }

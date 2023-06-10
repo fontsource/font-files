@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/homemade-apple",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Homemade Apple font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/homemade-apple"
   },
-  "publishHash": "a1473aa3c23d08d9"
+  "publishHash": "aed3ff7ef254d49b"
 }

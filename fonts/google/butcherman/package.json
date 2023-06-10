@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/butcherman",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Butcherman font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/butcherman"
   },
-  "publishHash": "964b5689bb6b3225"
+  "publishHash": "9d875190664f791a"
 }

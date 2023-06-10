@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fenix",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Fenix font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fenix"
   },
-  "publishHash": "e786cf6732c8af21"
+  "publishHash": "b1416acfc2aa0279"
 }

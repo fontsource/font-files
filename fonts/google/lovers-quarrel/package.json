@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lovers-quarrel",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Lovers Quarrel font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lovers-quarrel"
   },
-  "publishHash": "983abdda6d262017"
+  "publishHash": "1cfc9261a8c25c73"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/overpass-mono",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Overpass Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/overpass-mono"
   },
-  "publishHash": "44aed5a15105b814"
+  "publishHash": "59fc544113065c1a"
 }

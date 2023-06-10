@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/suravaram",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Suravaram font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/suravaram"
   },
-  "publishHash": "71debfb1378e34dc"
+  "publishHash": "490529bdd7c0f23b"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-mende-kikakui",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Noto Sans Mende Kikakui font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-mende-kikakui"
   },
-  "publishHash": "547c3c1c2b1508f4"
+  "publishHash": "709a358199f8ac44"
 }

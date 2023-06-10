@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sail",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Sail font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sail"
   },
-  "publishHash": "ce2648848f5f6503"
+  "publishHash": "af237f800c4edba1"
 }

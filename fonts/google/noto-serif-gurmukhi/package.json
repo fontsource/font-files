@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-gurmukhi",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Noto Serif Gurmukhi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-gurmukhi"
   },
-  "publishHash": "2c2ac3b652a363b9"
+  "publishHash": "cb66ec6c86433939"
 }

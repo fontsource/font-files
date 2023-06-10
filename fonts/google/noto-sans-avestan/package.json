@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-avestan",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Noto Sans Avestan font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-avestan"
   },
-  "publishHash": "9e5dfa97e9e16518"
+  "publishHash": "9a697c7c13c0d832"
 }

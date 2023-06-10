@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/work-sans",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Work Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/work-sans"
   },
-  "publishHash": "134d93b17056b310"
+  "publishHash": "1077dd7928798d62"
 }

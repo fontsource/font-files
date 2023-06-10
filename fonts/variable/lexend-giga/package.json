@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/lexend-giga",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Lexend Giga font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/lexend-giga"
   },
-  "publishHash": "c2b86637656ff867"
+  "publishHash": "ab4e5f5dbb09d0f5"
 }

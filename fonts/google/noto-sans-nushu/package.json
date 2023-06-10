@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-nushu",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Noto Sans Nushu font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-nushu"
   },
-  "publishHash": "9c89ce31d87c3a20"
+  "publishHash": "f501662ffdbf6d08"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/open-sauce-two",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Open Sauce Two font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/open-sauce-two"
   },
-  "publishHash": "dfc02fe2f026a7c7"
+  "publishHash": "cf8468d5b728a24f"
 }

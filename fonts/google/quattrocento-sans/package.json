@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/quattrocento-sans",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Quattrocento Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/quattrocento-sans"
   },
-  "publishHash": "78d49f836172c3be"
+  "publishHash": "9e76bc39a463da22"
 }

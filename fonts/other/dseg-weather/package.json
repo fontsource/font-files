@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dseg-weather",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the DSEG Weather font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/dseg-weather"
   },
-  "publishHash": "98cf6ef17e9de334"
+  "publishHash": "30015489ad731586"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ubuntu-condensed",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Ubuntu Condensed font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ubuntu-condensed"
   },
-  "publishHash": "abe65fab4430b803"
+  "publishHash": "6dde4f5b1ea6c7e8"
 }

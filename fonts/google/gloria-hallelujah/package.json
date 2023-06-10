@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gloria-hallelujah",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Gloria Hallelujah font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gloria-hallelujah"
   },
-  "publishHash": "bfb1a7865647a729"
+  "publishHash": "56d1f3127d4a71a4"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/great-vibes",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Great Vibes font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/great-vibes"
   },
-  "publishHash": "e1983f184ed6de8e"
+  "publishHash": "6000c67a5f06d075"
 }

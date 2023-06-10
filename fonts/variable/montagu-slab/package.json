@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/montagu-slab",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Montagu Slab font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/montagu-slab"
   },
-  "publishHash": "781cd5e8ec7e0c45"
+  "publishHash": "3f8c1d5fbd3c20d9"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/nunito-sans",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Nunito Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/nunito-sans"
   },
-  "publishHash": "441ce2b098ffe61c"
+  "publishHash": "f235ba8ec176c946"
 }

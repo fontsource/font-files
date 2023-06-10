@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cutive",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Cutive font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cutive"
   },
-  "publishHash": "d18ed81a3554e2fb"
+  "publishHash": "635b1ea8174a3736"
 }

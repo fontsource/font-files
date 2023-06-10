@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/pt-serif",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the PT Serif font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/pt-serif"
   },
-  "publishHash": "9ef0ea73adc7f7dc"
+  "publishHash": "5fd81f99e5de1263"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-saurashtra",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Noto Sans Saurashtra font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-saurashtra"
   },
-  "publishHash": "a9d51e38a4484b2f"
+  "publishHash": "86113904c6008896"
 }

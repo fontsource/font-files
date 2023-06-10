@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gafata",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Gafata font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gafata"
   },
-  "publishHash": "0a630e866788a178"
+  "publishHash": "28fd3d7597f0306d"
 }

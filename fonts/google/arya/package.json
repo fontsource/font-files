@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/arya",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Arya font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/arya"
   },
-  "publishHash": "85786241cf3d3257"
+  "publishHash": "c099baf7c8c4ef57"
 }

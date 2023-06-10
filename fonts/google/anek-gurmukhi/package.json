@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/anek-gurmukhi",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Anek Gurmukhi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/anek-gurmukhi"
   },
-  "publishHash": "e33e6bcbd6c8321c"
+  "publishHash": "a846e7cf182afa9d"
 }

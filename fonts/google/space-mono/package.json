@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/space-mono",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Space Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/space-mono"
   },
-  "publishHash": "85f37412c42a1a0a"
+  "publishHash": "3aa87fdeb8ffb7f9"
 }

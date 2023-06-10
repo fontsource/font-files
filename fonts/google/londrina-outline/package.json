@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/londrina-outline",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Londrina Outline font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/londrina-outline"
   },
-  "publishHash": "ed7113a680c5b1e6"
+  "publishHash": "8de5a6c8e199ac88"
 }

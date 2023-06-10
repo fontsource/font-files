@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-jp",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Noto Serif JP font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-jp"
   },
-  "publishHash": "68b39e2f171734d8"
+  "publishHash": "5203009a649f92f3"
 }

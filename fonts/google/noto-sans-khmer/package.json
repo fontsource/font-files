@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-khmer",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Noto Sans Khmer font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-khmer"
   },
-  "publishHash": "7ec6a9aa8f331187"
+  "publishHash": "9571f8fcb7341a66"
 }

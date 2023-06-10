@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dseg14-classic",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the DSEG14 Classic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/dseg14-classic"
   },
-  "publishHash": "088b4de2c6378f0e"
+  "publishHash": "e24b31607a2e555d"
 }

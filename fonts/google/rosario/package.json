@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rosario",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Rosario font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rosario"
   },
-  "publishHash": "c00acf8cf5e50859"
+  "publishHash": "90c5c9a652f2a641"
 }

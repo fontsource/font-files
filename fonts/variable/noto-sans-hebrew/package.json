@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-hebrew",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Noto Sans Hebrew font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-hebrew"
   },
-  "publishHash": "9ef1c4233049af4f"
+  "publishHash": "271ca1717f63e536"
 }

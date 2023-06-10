@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bad-script",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Bad Script font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bad-script"
   },
-  "publishHash": "9a7edecf8c38b029"
+  "publishHash": "768ab4b702c0ba4d"
 }

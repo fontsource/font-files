@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/battambang",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Battambang font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/battambang"
   },
-  "publishHash": "c8d725fea035fe8d"
+  "publishHash": "df2c4daa195e381d"
 }

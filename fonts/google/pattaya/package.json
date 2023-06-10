@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/pattaya",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Pattaya font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/pattaya"
   },
-  "publishHash": "8392ef9781a5b244"
+  "publishHash": "48db567231efe9a7"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/coda-caption",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Coda Caption font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/coda-caption"
   },
-  "publishHash": "692e116ef4999b7f"
+  "publishHash": "631886ff37c489d8"
 }

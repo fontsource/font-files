@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/benne",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Benne font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/benne"
   },
-  "publishHash": "d842b9852c7c6bbd"
+  "publishHash": "d2a571d31655166a"
 }

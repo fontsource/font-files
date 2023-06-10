@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/festive",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Festive font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/festive"
   },
-  "publishHash": "d2c1d95f99632d03"
+  "publishHash": "81b7f0db46b26241"
 }

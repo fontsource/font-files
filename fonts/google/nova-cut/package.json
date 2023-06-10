@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/nova-cut",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Nova Cut font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/nova-cut"
   },
-  "publishHash": "7f53ac262e6c9a53"
+  "publishHash": "c562ed57a9495c08"
 }

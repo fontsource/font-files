@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/averia-serif-libre",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Averia Serif Libre font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/averia-serif-libre"
   },
-  "publishHash": "48a9e3ac12a941e6"
+  "publishHash": "12a72705298bbf62"
 }

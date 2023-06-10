@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/comic-neue",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Comic Neue font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/comic-neue"
   },
-  "publishHash": "319382dec7c26b71"
+  "publishHash": "0533cc53147b4fd5"
 }

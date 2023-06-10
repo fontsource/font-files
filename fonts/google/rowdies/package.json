@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rowdies",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Rowdies font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rowdies"
   },
-  "publishHash": "779dff7a6b780e2c"
+  "publishHash": "f9bd08d839ad7afd"
 }

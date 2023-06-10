@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/joti-one",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Joti One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/joti-one"
   },
-  "publishHash": "9d10658f78d8c409"
+  "publishHash": "a2ebe63db11d70cc"
 }

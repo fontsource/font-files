@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/inria-serif",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Inria Serif font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/inria-serif"
   },
-  "publishHash": "b3c075237344205d"
+  "publishHash": "201ee20e48ea1f7e"
 }

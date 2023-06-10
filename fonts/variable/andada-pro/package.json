@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/andada-pro",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Andada Pro font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/andada-pro"
   },
-  "publishHash": "3f13ad16c15ef292"
+  "publishHash": "139a30f0cdfc2740"
 }
