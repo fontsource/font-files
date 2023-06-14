@@ -261,8 +261,8 @@
     "precision": 0
   },
   {
-    "name": "Y Alignment",
-    "tag": "YALN",
+    "name": "Vertical Element Alignment",
+    "tag": "YELA",
     "description": "Align glyphs from their default position (0%), usually the baseline, to an upper (100%) or lower (-100%) position.",
     "min": -100,
     "max": 100,
