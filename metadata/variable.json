@@ -2120,9 +2120,9 @@
     "variants": {
       "wght": {
         "normal": {
-          "hebrew": "https://fonts.gstatic.com/s/frankruhllibre/v19/j8_w6_fAw7jrcalD7oKYNX0QfAnPW7Ll4ajn.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/frankruhllibre/v19/j8_w6_fAw7jrcalD7oKYNX0QfAnPW77l4ajn.woff2",
-          "latin": "https://fonts.gstatic.com/s/frankruhllibre/v19/j8_w6_fAw7jrcalD7oKYNX0QfAnPW7Dl4Q.woff2"
+          "hebrew": "https://fonts.gstatic.com/s/frankruhllibre/v20/j8_w6_fAw7jrcalD7oKYNX0QfAnPW7Ll4ajn.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/frankruhllibre/v20/j8_w6_fAw7jrcalD7oKYNX0QfAnPW77l4ajn.woff2",
+          "latin": "https://fonts.gstatic.com/s/frankruhllibre/v20/j8_w6_fAw7jrcalD7oKYNX0QfAnPW7Dl4Q.woff2"
         }
       }
     }
@@ -6786,16 +6786,16 @@
     "variants": {
       "wght": {
         "normal": {
-          "cyrillic-ext": "https://fonts.gstatic.com/s/plusjakartasans/v7/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko70yyygA.woff2",
-          "vietnamese": "https://fonts.gstatic.com/s/plusjakartasans/v7/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko50yyygA.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/plusjakartasans/v7/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko40yyygA.woff2",
-          "latin": "https://fonts.gstatic.com/s/plusjakartasans/v7/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko20yw.woff2"
+          "cyrillic-ext": "https://fonts.gstatic.com/s/plusjakartasans/v8/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko70yyygA.woff2",
+          "vietnamese": "https://fonts.gstatic.com/s/plusjakartasans/v8/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko50yyygA.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/plusjakartasans/v8/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko40yyygA.woff2",
+          "latin": "https://fonts.gstatic.com/s/plusjakartasans/v8/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko20yw.woff2"
         },
         "italic": {
-          "cyrillic-ext": "https://fonts.gstatic.com/s/plusjakartasans/v7/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4yOqhMva.woff2",
-          "vietnamese": "https://fonts.gstatic.com/s/plusjakartasans/v7/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4yGqhMva.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/plusjakartasans/v7/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4yCqhMva.woff2",
-          "latin": "https://fonts.gstatic.com/s/plusjakartasans/v7/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4y6qhA.woff2"
+          "cyrillic-ext": "https://fonts.gstatic.com/s/plusjakartasans/v8/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4yOqhMva.woff2",
+          "vietnamese": "https://fonts.gstatic.com/s/plusjakartasans/v8/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4yGqhMva.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/plusjakartasans/v8/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4yCqhMva.woff2",
+          "latin": "https://fonts.gstatic.com/s/plusjakartasans/v8/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4y6qhA.woff2"
         }
       }
     }
