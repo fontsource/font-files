@@ -9982,6 +9982,19 @@
     },
     "original": "Copyright  2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
   },
+  "narnoor": {
+    "id": "narnoor",
+    "authors": {
+      "copyright": "Original font copyright 2014-2017 CDAST, University of Hyderabad, Hyderabad and modifications copyright 2015-2023 SIL International glyphs copyright 2010, 2012, 2014, 2021 Adobe Systems with Reserved Font Name 'Source'.",
+      "website": "http://www.sil.org/.\nLatin, Incorporated\nhttp://www.adobe.com/",
+      "email": "cdast@uohyd.ernet.in.\nAdditions"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Original font copyright (c) 2014-2017 CDAST, University of Hyderabad, Hyderabad (cdast@uohyd.ernet.in).\nAdditions and modifications copyright (c) 2015-2023 SIL International (http://www.sil.org/).\nLatin glyphs copyright (c) 2010, 2012, 2014, 2021 Adobe Systems Incorporated\n(http://www.adobe.com/), with Reserved Font Name 'Source'."
+  },
   "neonderthaw": {
     "id": "neonderthaw",
     "authors": {
@@ -11820,12 +11833,15 @@
   },
   "noto-sans-tamil-supplement": {
     "id": "noto-sans-tamil-supplement",
-    "authors": {"copyright": "Copyright 2019 Google LLC. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/tamil"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2019 Google LLC. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tamil)"
   },
   "noto-sans-tangsa": {
     "id": "noto-sans-tangsa",
@@ -12225,6 +12241,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/lao)"
+  },
+  "noto-serif-makasar": {
+    "id": "noto-serif-makasar",
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/makasar"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/makasar)"
   },
   "noto-serif-malayalam": {
     "id": "noto-serif-malayalam",
