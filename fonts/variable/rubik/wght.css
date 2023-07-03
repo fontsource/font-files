@@ -1,3 +1,12 @@
+/* rubik-arabic-wght-normal */
+@font-face {
+  font-family: 'Rubik Variable';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300 900;
+  src: url(./files/rubik-arabic-wght-normal.woff2) format('woff2-variations');
+}
+
 /* rubik-cyrillic-ext-wght-normal */
 @font-face {
   font-family: 'Rubik Variable';
