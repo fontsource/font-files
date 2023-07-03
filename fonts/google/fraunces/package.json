@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fraunces",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Fraunces font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fraunces"
   },
-  "publishHash": "6608f614c7bc7c65"
+  "publishHash": "b46082ed4b4dcbce"
 }

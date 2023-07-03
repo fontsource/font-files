@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gowun-dodum",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Gowun Dodum font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gowun-dodum"
   },
-  "publishHash": "05a6ebb91986ebdc"
+  "publishHash": "8a2252bc5d23a0c1"
 }

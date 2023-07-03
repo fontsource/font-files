@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ibm-plex-sans-thai-looped",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the IBM Plex Sans Thai Looped font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ibm-plex-sans-thai-looped"
   },
-  "publishHash": "870229fb443f2de4"
+  "publishHash": "4cdf79d25ca0e310"
 }

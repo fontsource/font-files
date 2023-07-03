@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/arbutus",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Arbutus font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/arbutus"
   },
-  "publishHash": "a47f528c4a6bf721"
+  "publishHash": "e536a7eaa5062f76"
 }

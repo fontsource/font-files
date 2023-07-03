@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/crimson-text",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Crimson Text font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/crimson-text"
   },
-  "publishHash": "035965c0acfaef32"
+  "publishHash": "f726da544c2ea145"
 }

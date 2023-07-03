@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lustria",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Lustria font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lustria"
   },
-  "publishHash": "89f668973796d050"
+  "publishHash": "75102305f6a18fdb"
 }

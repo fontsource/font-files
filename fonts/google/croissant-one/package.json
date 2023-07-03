@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/croissant-one",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Croissant One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/croissant-one"
   },
-  "publishHash": "2bf87f48ccf62eff"
+  "publishHash": "f0b6fc9f2f19b158"
 }

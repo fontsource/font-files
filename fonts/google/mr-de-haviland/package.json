@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mr-de-haviland",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Mr De Haviland font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mr-de-haviland"
   },
-  "publishHash": "22da6c1844f392bb"
+  "publishHash": "d484f9560d5db23f"
 }

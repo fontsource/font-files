@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tomorrow",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Tomorrow font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tomorrow"
   },
-  "publishHash": "778367e0ff222f6e"
+  "publishHash": "ca3f365096701426"
 }

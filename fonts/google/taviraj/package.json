@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/taviraj",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Taviraj font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/taviraj"
   },
-  "publishHash": "8d27c2913b93d672"
+  "publishHash": "3b26bb7d2fe0a976"
 }

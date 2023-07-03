@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bigshot-one",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Bigshot One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bigshot-one"
   },
-  "publishHash": "18a7f24e31803ee1"
+  "publishHash": "b6519ad4af39d90b"
 }

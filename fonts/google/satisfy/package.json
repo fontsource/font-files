@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/satisfy",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Satisfy font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/satisfy"
   },
-  "publishHash": "3bc7f68556126d54"
+  "publishHash": "33f325ec5f789671"
 }

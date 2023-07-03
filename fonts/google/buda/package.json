@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/buda",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Buda font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/buda"
   },
-  "publishHash": "ae9cd7f52a21c71f"
+  "publishHash": "3fa008208e9e0c43"
 }

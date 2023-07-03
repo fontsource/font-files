@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/calistoga",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Calistoga font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/calistoga"
   },
-  "publishHash": "173d41f65da22dc2"
+  "publishHash": "fe236da3dda982a6"
 }

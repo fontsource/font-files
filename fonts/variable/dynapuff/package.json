@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/dynapuff",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the DynaPuff font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/dynapuff"
   },
-  "publishHash": "34dc53bcf099fa04"
+  "publishHash": "1526244c3b63be2f"
 }

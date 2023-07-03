@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/anybody",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Anybody font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/anybody"
   },
-  "publishHash": "98567ba4d2323454"
+  "publishHash": "2172941b7ad3f124"
 }

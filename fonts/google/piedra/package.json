@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/piedra",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Piedra font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/piedra"
   },
-  "publishHash": "9dfebafa4432a1a3"
+  "publishHash": "466cc44916cb1d21"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/berkshire-swash",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Berkshire Swash font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/berkshire-swash"
   },
-  "publishHash": "1796a7ec17bb5200"
+  "publishHash": "3f3ad9d864a8bd0f"
 }

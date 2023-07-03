@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/alike",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Alike font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/alike"
   },
-  "publishHash": "1ff92b28a7c6415f"
+  "publishHash": "4d52f1634c3268ed"
 }

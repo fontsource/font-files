@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/keania-one",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Keania One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/keania-one"
   },
-  "publishHash": "39eea1d5b662a9a7"
+  "publishHash": "c29a37899395b0eb"
 }

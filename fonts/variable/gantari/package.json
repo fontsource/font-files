@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/gantari",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Gantari font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/gantari"
   },
-  "publishHash": "2b2987695b45ed1c"
+  "publishHash": "aca61137923e4982"
 }

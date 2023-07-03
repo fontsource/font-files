@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/headland-one",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Headland One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/headland-one"
   },
-  "publishHash": "4af27f0a0df3c2d7"
+  "publishHash": "3ff0fb5b0d7872e0"
 }

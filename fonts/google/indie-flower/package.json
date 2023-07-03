@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/indie-flower",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Indie Flower font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/indie-flower"
   },
-  "publishHash": "6c0eadb42b565274"
+  "publishHash": "c7d12c69730247c8"
 }

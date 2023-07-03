@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rubik-80s-fade",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Rubik 80s Fade font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rubik-80s-fade"
   },
-  "publishHash": "f756801fccb0d581"
+  "publishHash": "7ad2f92e0f79bb90"
 }

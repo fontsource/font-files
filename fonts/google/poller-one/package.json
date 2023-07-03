@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/poller-one",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Poller One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/poller-one"
   },
-  "publishHash": "765beb12a0b58893"
+  "publishHash": "b9053105cafc289b"
 }

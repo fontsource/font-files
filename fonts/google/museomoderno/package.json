@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/museomoderno",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the MuseoModerno font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/museomoderno"
   },
-  "publishHash": "3346eedca0467b5f"
+  "publishHash": "5b1bb038f78e0bae"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sorts-mill-goudy",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Sorts Mill Goudy font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sorts-mill-goudy"
   },
-  "publishHash": "a9e508c40e11bbe9"
+  "publishHash": "c16ed0c89003bfe8"
 }

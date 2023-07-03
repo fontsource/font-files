@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/familjen-grotesk",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Familjen Grotesk font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/familjen-grotesk"
   },
-  "publishHash": "6c671726dc62a4d2"
+  "publishHash": "78967ad55846be24"
 }

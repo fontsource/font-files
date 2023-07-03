@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/pt-sans",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the PT Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/pt-sans"
   },
-  "publishHash": "f30ab63e94f4d29e"
+  "publishHash": "aea87a58c215747a"
 }

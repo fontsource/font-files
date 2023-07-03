@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cormorant-infant",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Cormorant Infant font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cormorant-infant"
   },
-  "publishHash": "717a1798ab07e52a"
+  "publishHash": "3dad1ee7d6a69861"
 }

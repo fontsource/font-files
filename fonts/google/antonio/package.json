@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/antonio",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Antonio font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/antonio"
   },
-  "publishHash": "36c4f58023f14b64"
+  "publishHash": "736ae8f01c6904e3"
 }

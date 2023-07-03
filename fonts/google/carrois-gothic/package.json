@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/carrois-gothic",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Carrois Gothic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/carrois-gothic"
   },
-  "publishHash": "561ed04326d8f830"
+  "publishHash": "57b4b1e205e48763"
 }

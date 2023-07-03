@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/yanone-kaffeesatz",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Yanone Kaffeesatz font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/yanone-kaffeesatz"
   },
-  "publishHash": "fb4e006161c1f17b"
+  "publishHash": "dbe2748cc35db3db"
 }
