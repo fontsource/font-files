@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/faster-one",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Faster One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/faster-one"
   },
-  "publishHash": "82decd412bbc8c4e"
+  "publishHash": "95c10191ceca1b4a"
 }

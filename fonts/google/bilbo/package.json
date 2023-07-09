@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bilbo",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Bilbo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bilbo"
   },
-  "publishHash": "a4b1c53efa18c410"
+  "publishHash": "9b0bfd52c4e133b0"
 }

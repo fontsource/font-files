@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cabin",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Cabin font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cabin"
   },
-  "publishHash": "51e071de019658f6"
+  "publishHash": "44ffa6e7352f5245"
 }

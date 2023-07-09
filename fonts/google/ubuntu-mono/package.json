@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ubuntu-mono",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Ubuntu Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ubuntu-mono"
   },
-  "publishHash": "16b1e73a18f285e2"
+  "publishHash": "b810cd3c7e454b9b"
 }

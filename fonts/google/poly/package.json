@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/poly",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Poly font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/poly"
   },
-  "publishHash": "f0028b6cc27f8121"
+  "publishHash": "3dd2b14e706aba4b"
 }

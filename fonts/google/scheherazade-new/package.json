@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/scheherazade-new",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Scheherazade New font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/scheherazade-new"
   },
-  "publishHash": "9a5d6b22be248675"
+  "publishHash": "93e2259d1fe5f422"
 }

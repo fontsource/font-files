@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-rashi-hebrew",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Noto Rashi Hebrew font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-rashi-hebrew"
   },
-  "publishHash": "ae20185ed592fe81"
+  "publishHash": "9645a594af815548"
 }

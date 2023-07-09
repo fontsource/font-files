@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-georgian",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Noto Sans Georgian font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-georgian"
   },
-  "publishHash": "93de8d2bab2635d5"
+  "publishHash": "b1f8b328904097b5"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/baloo-bhaina-2",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Baloo Bhaina 2 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/baloo-bhaina-2"
   },
-  "publishHash": "72388136e1455fb3"
+  "publishHash": "35e1cba74ecfd927"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tiro-bangla",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Tiro Bangla font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tiro-bangla"
   },
-  "publishHash": "6a91498899a72a1b"
+  "publishHash": "74a60cca0a05fce1"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/vibur",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Vibur font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/vibur"
   },
-  "publishHash": "38f6a52ae5120101"
+  "publishHash": "2d8a49d52df3fc01"
 }

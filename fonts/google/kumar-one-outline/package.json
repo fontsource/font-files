@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kumar-one-outline",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Kumar One Outline font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kumar-one-outline"
   },
-  "publishHash": "de92a882e149e99f"
+  "publishHash": "5dca53c332fe83c5"
 }

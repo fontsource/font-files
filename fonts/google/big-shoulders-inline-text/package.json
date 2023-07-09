@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/big-shoulders-inline-text",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Big Shoulders Inline Text font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/big-shoulders-inline-text"
   },
-  "publishHash": "34ee335748ec9e56"
+  "publishHash": "9c12fbc53bf4f489"
 }

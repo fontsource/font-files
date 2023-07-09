@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/stint-ultra-condensed",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Stint Ultra Condensed font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/stint-ultra-condensed"
   },
-  "publishHash": "c9a3b779572f624b"
+  "publishHash": "986c8c3df7026cca"
 }

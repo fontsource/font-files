@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/loved-by-the-king",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Loved by the King font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/loved-by-the-king"
   },
-  "publishHash": "af08a3c3fa2823ef"
+  "publishHash": "b15361546ca95e49"
 }

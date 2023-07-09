@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gorditas",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Gorditas font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gorditas"
   },
-  "publishHash": "09e7b1b78a1a6979"
+  "publishHash": "765df828dd8b024b"
 }

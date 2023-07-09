@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/barriecito",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Barriecito font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/barriecito"
   },
-  "publishHash": "591c099d2e423efa"
+  "publishHash": "c1baca068c22fced"
 }

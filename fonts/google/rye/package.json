@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rye",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Rye font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rye"
   },
-  "publishHash": "a72d9e0e1b454b5a"
+  "publishHash": "d440a14cf83e6abb"
 }
