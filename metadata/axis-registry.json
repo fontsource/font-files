@@ -340,5 +340,14 @@
     "max": 4000,
     "default": 2000,
     "precision": 0
+  },
+  {
+    "name": "Rotation in Z",
+    "tag": "ZROT",
+    "description": "Glyphs rotate left and right, negative values to the left and positive values to the right, in the Z dimension.",
+    "min": -180,
+    "max": 180,
+    "default": 0,
+    "precision": 0
   }
 ]

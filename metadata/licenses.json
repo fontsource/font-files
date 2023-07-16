@@ -3867,14 +3867,14 @@
   "dm-sans": {
     "id": "dm-sans",
     "authors": {
-      "copyright": "Copyright 2014-2017 Indian Type Foundry with Reserved Font Name 'Poppins'. Copyright 2019 Google LLC.",
-      "email": "info@indiantypefoundry.com"
+      "copyright": "Copyright 2014 The DM Sans Project Authors",
+      "website": "https://github.com/googlefonts/dm-fonts"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2014-2017 Indian Type Foundry (info@indiantypefoundry.com) with Reserved Font Name 'Poppins'. Copyright 2019 Google LLC."
+    "original": "Copyright 2014 The DM Sans Project Authors (https://github.com/googlefonts/dm-fonts)"
   },
   "dm-serif-display": {
     "id": "dm-serif-display",
@@ -8513,6 +8513,42 @@
     },
     "original": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence. http://www.apache.org/licenses/LICENSE-2.0.html"
   },
+  "lugrasimo": {
+    "id": "lugrasimo",
+    "authors": {
+      "copyright": "Copyright 2023 The Lugrasimo Project Authors",
+      "website": "https://github.com/docrepair-fonts/lugrasimo-fonts."
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Lugrasimo Project Authors (https://github.com/docrepair-fonts/lugrasimo-fonts)."
+  },
+  "lumanosimo": {
+    "id": "lumanosimo",
+    "authors": {
+      "copyright": "Copyright 2023 The Lumanosimo Project Authors",
+      "website": "https://github.com/docrepair-fonts/lumanosimo-fonts."
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Lumanosimo Project Authors (https://github.com/docrepair-fonts/lumanosimo-fonts)."
+  },
+  "lunasima": {
+    "id": "lunasima",
+    "authors": {
+      "copyright": "Copyright 2023 The Lunasima Project Authors",
+      "website": "https://github.com/docrepair-fonts/lunasima-fonts."
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Lunasima Project Authors (https://github.com/docrepair-fonts/lunasima-fonts)."
+  },
   "lusitana": {
     "id": "lusitana",
     "authors": {
@@ -10573,6 +10609,18 @@
     },
     "original": "Copyright 2017 Google Inc. All Rights Reserved."
   },
+  "noto-sans-cypro-minoan": {
+    "id": "noto-sans-cypro-minoan",
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/cypro-minoan"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/cypro-minoan)"
+  },
   "noto-sans-deseret": {
     "id": "noto-sans-deseret",
     "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
@@ -10769,12 +10817,15 @@
   },
   "noto-sans-hatran": {
     "id": "noto-sans-hatran",
-    "authors": {"copyright": "Copyright 2018 Google LLC. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/hatran"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2018 Google LLC. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hatran)"
   },
   "noto-sans-hebrew": {
     "id": "noto-sans-hebrew",
@@ -11078,12 +11129,15 @@
   },
   "noto-sans-marchen": {
     "id": "noto-sans-marchen",
-    "authors": {"copyright": "Copyright 2020 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/marchen"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2020 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/marchen)"
   },
   "noto-sans-masaram-gondi": {
     "id": "noto-sans-masaram-gondi",
@@ -11362,39 +11416,51 @@
   },
   "noto-sans-old-italic": {
     "id": "noto-sans-old-italic",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/old-italic"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/old-italic)"
   },
   "noto-sans-old-north-arabian": {
     "id": "noto-sans-old-north-arabian",
-    "authors": {"copyright": "Copyright 2018 Google LLC. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/old-north-arabian"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2018 Google LLC. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/old-north-arabian)"
   },
   "noto-sans-old-permic": {
     "id": "noto-sans-old-permic",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/old-permic"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/old-permic)"
   },
   "noto-sans-old-persian": {
     "id": "noto-sans-old-persian",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/old-persian"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/old-persian)"
   },
   "noto-sans-old-sogdian": {
     "id": "noto-sans-old-sogdian",
@@ -11410,12 +11476,15 @@
   },
   "noto-sans-old-south-arabian": {
     "id": "noto-sans-old-south-arabian",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/old-south-arabian"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/old-south-arabian)"
   },
   "noto-sans-old-turkic": {
     "id": "noto-sans-old-turkic",
@@ -11725,6 +11794,18 @@
   },
   "noto-sans-syriac": {
     "id": "noto-sans-syriac",
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/syriac"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/syriac)"
+  },
+  "noto-sans-syriac-eastern": {
+    "id": "noto-sans-syriac-eastern",
     "authors": {
       "copyright": "Copyright 2022 The Noto Project Authors",
       "website": "https://github.com/notofonts/syriac"
@@ -12205,6 +12286,15 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/kannada)"
+  },
+  "noto-serif-khitan-small-script": {
+    "id": "noto-serif-khitan-small-script",
+    "authors": {"copyright": "Copyright 2022 Google LLC. All Rights Reserved."},
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 Google LLC. All Rights Reserved."
   },
   "noto-serif-khmer": {
     "id": "noto-serif-khmer",
@@ -16578,6 +16668,18 @@
     },
     "original": "Copyright 2014 Indian Type Foundry. All rights reserved."
   },
+  "tektur": {
+    "id": "tektur",
+    "authors": {
+      "copyright": "Copyright 2023 The Tektur Project Authors",
+      "website": "https://www.github.com/hyvyys/Tektur"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Tektur Project Authors (https://www.github.com/hyvyys/Tektur)"
+  },
   "telex": {
     "id": "telex",
     "authors": {
@@ -17356,6 +17458,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright (c) 2010, Johan Kallas (johan.kallas@gmail.com). All rights reserved. Licenced under SIL OFL v1.1"
+  },
+  "victor-mono": {
+    "id": "victor-mono",
+    "authors": {
+      "copyright": "Copyright 2023 The Victor Mono Project Authors",
+      "website": "https://github.com/rubjo/victor-mono-font"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Victor Mono Project Authors (https://github.com/rubjo/victor-mono-font)"
   },
   "vidaloka": {
     "id": "vidaloka",
