@@ -2042,12 +2042,12 @@
     "variants": {
       "wght": {
         "normal": {
-          "latin-ext": "https://fonts.gstatic.com/s/figtree/v4/_Xms-HUzqDCFdgfMm4q9DbZs.woff2",
-          "latin": "https://fonts.gstatic.com/s/figtree/v4/_Xms-HUzqDCFdgfMm4S9DQ.woff2"
+          "latin-ext": "https://fonts.gstatic.com/s/figtree/v5/_Xms-HUzqDCFdgfMm4q9DbZs.woff2",
+          "latin": "https://fonts.gstatic.com/s/figtree/v5/_Xms-HUzqDCFdgfMm4S9DQ.woff2"
         },
         "italic": {
-          "latin-ext": "https://fonts.gstatic.com/s/figtree/v4/_Xmu-HUzqDCFdgfMm4GNAa5o_ik.woff2",
-          "latin": "https://fonts.gstatic.com/s/figtree/v4/_Xmu-HUzqDCFdgfMm4GND65o.woff2"
+          "latin-ext": "https://fonts.gstatic.com/s/figtree/v5/_Xmu-HUzqDCFdgfMm4GNAa5o_ik.woff2",
+          "latin": "https://fonts.gstatic.com/s/figtree/v5/_Xmu-HUzqDCFdgfMm4GND65o.woff2"
         }
       }
     }
@@ -6259,7 +6259,9 @@
     "variants": {
       "wght": {
         "normal": {
-          "yezidi": "https://fonts.gstatic.com/s/notoserifyezidi/v16/XLY8IYr5bJNDGYxLBibeHZAn3B5KJGkKasc.woff2"
+          "yezidi": "https://fonts.gstatic.com/s/notoserifyezidi/v21/XLY8IYr5bJNDGYxLBibeHZAn3B5KJGkKasc3GA.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notoserifyezidi/v21/XLY8IYr5bJNDGYxLBibeHZAn3B5KJGllasc3GA.woff2",
+          "latin": "https://fonts.gstatic.com/s/notoserifyezidi/v21/XLY8IYr5bJNDGYxLBibeHZAn3B5KJGlrasc.woff2"
         }
       }
     }
@@ -7800,9 +7802,9 @@
     "variants": {
       "wght": {
         "normal": {
-          "vietnamese": "https://fonts.gstatic.com/s/signika/v20/vEFR2_JTCgwQ5ejvG14mBkho.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/signika/v20/vEFR2_JTCgwQ5ejvG18mBkho.woff2",
-          "latin": "https://fonts.gstatic.com/s/signika/v20/vEFR2_JTCgwQ5ejvG1EmBg.woff2"
+          "vietnamese": "https://fonts.gstatic.com/s/signika/v25/vEFO2_JTCgwQ5ejvMV0Ox_Kg1UwJ0tKfX6bOjM7sfA.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/signika/v25/vEFO2_JTCgwQ5ejvMV0Ox_Kg1UwJ0tKfX6bPjM7sfA.woff2",
+          "latin": "https://fonts.gstatic.com/s/signika/v25/vEFO2_JTCgwQ5ejvMV0Ox_Kg1UwJ0tKfX6bBjM4.woff2"
         }
       }
     }

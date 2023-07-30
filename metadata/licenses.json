@@ -1741,13 +1741,13 @@
     "id": "bangers",
     "authors": {
       "copyright": "Copyright 2010 The Bangers Project Authors",
-      "email": "contact@sansoxygen.com"
+      "website": "https://github.com/googlefonts/bangers"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2010 The Bangers Project Authors (contact@sansoxygen.com)"
+    "original": "Copyright 2010 The Bangers Project Authors (https://github.com/googlefonts/bangers)"
   },
   "barlow": {
     "id": "barlow",
@@ -2414,6 +2414,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright (c) 2011, John Vargas Beltran (www.johnvargasbeltran.com|john.vargasbeltran@gmail.com), with Reserved Font Name \"Boogaloo\"."
+  },
+  "borel": {
+    "id": "borel",
+    "authors": {
+      "copyright": "Copyright 2023 The Borel Project Authors",
+      "website": "https://github.com/RosaWagner/Borel"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Borel Project Authors (https://github.com/RosaWagner/Borel)"
   },
   "bowlby-one": {
     "id": "bowlby-one",
@@ -3899,6 +3911,15 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Copyright 2019 Google LLC."
+  },
+  "dai-banna-sil": {
+    "id": "dai-banna-sil",
+    "authors": {"copyright": "Copyright 1998-2022 SIL International"},
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright (c) 1998-2022 SIL International"
   },
   "damion": {
     "id": "damion",
@@ -6162,6 +6183,18 @@
     },
     "original": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name \"Hanalei Fill\""
   },
+  "handjet": {
+    "id": "handjet",
+    "authors": {
+      "copyright": "Copyright 2018 The Handjet Project Authors",
+      "website": "https://github.com/rosettatype/Handjet/"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2018 The Handjet Project Authors (https://github.com/rosettatype/Handjet/)"
+  },
   "handlee": {
     "id": "handlee",
     "authors": {
@@ -8324,6 +8357,18 @@
     },
     "original": "Copyright (c) 2010, Barry Schwartz (chemoelectric@chemoelectric.org)"
   },
+  "lisu-bosa": {
+    "id": "lisu-bosa",
+    "authors": {
+      "copyright": "Copyright 1998-2019 David Morse original regular, Copyright 2019-2023 SIL International revised regular, bold, italic, bold italic, Copyright 2014-2019 Adobe Latin glyphs",
+      "website": "http://www.adobe.com/"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright (c) 1998-2019 David Morse (original regular), Copyright (c) 2019-2023 SIL International (revised regular, bold, italic, bold italic), Copyright (c) 2014-2019 Adobe (http://www.adobe.com/) (Latin glyphs)"
+  },
   "literata": {
     "id": "literata",
     "authors": {
@@ -10357,12 +10402,15 @@
   },
   "noto-sans-anatolian-hieroglyphs": {
     "id": "noto-sans-anatolian-hieroglyphs",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/anatolian-hieroglyphs"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/anatolian-hieroglyphs)"
   },
   "noto-sans-arabic": {
     "id": "noto-sans-arabic",
@@ -10470,12 +10518,15 @@
   },
   "noto-sans-brahmi": {
     "id": "noto-sans-brahmi",
-    "authors": {"copyright": "Copyright 2018 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/brahmi"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2018 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/brahmi)"
   },
   "noto-sans-buginese": {
     "id": "noto-sans-buginese",
@@ -10515,12 +10566,15 @@
   },
   "noto-sans-carian": {
     "id": "noto-sans-carian",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/carian"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/carian)"
   },
   "noto-sans-caucasian-albanian": {
     "id": "noto-sans-caucasian-albanian",
@@ -10593,12 +10647,15 @@
   },
   "noto-sans-cuneiform": {
     "id": "noto-sans-cuneiform",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/cuneiform"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/cuneiform)"
   },
   "noto-sans-cypriot": {
     "id": "noto-sans-cypriot",
@@ -10623,12 +10680,15 @@
   },
   "noto-sans-deseret": {
     "id": "noto-sans-deseret",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/deseret"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/deseret)"
   },
   "noto-sans-devanagari": {
     "id": "noto-sans-devanagari",
@@ -10664,12 +10724,15 @@
   },
   "noto-sans-egyptian-hieroglyphs": {
     "id": "noto-sans-egyptian-hieroglyphs",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/egyptian-hieroglyphs"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/egyptian-hieroglyphs)"
   },
   "noto-sans-elbasan": {
     "id": "noto-sans-elbasan",
@@ -10718,21 +10781,27 @@
   },
   "noto-sans-glagolitic": {
     "id": "noto-sans-glagolitic",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/glagolitic"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/glagolitic)"
   },
   "noto-sans-gothic": {
     "id": "noto-sans-gothic",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/gothic"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/gothic)"
   },
   "noto-sans-grantha": {
     "id": "noto-sans-grantha",
@@ -10916,12 +10985,15 @@
   },
   "noto-sans-kaithi": {
     "id": "noto-sans-kaithi",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/kaithi"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/kaithi)"
   },
   "noto-sans-kannada": {
     "id": "noto-sans-kannada",
@@ -10985,12 +11057,15 @@
   },
   "noto-sans-khudawadi": {
     "id": "noto-sans-khudawadi",
-    "authors": {"copyright": "Copyright 2018 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/khudawadi"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2018 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/khudawadi)"
   },
   "noto-sans-lao": {
     "id": "noto-sans-lao",
@@ -11042,21 +11117,27 @@
   },
   "noto-sans-linear-a": {
     "id": "noto-sans-linear-a",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/linear-a"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/linear-a)"
   },
   "noto-sans-linear-b": {
     "id": "noto-sans-linear-b",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/linear-b"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/linear-b)"
   },
   "noto-sans-lisu": {
     "id": "noto-sans-lisu",
@@ -11081,21 +11162,27 @@
   },
   "noto-sans-lydian": {
     "id": "noto-sans-lydian",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/lydian"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/lydian)"
   },
   "noto-sans-mahajani": {
     "id": "noto-sans-mahajani",
-    "authors": {"copyright": "Copyright 2018 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/mahajani"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2018 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/mahajani)"
   },
   "noto-sans-malayalam": {
     "id": "noto-sans-malayalam",
@@ -11120,12 +11207,15 @@
   },
   "noto-sans-manichaean": {
     "id": "noto-sans-manichaean",
-    "authors": {"copyright": "Copyright 2018 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/manichaean"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2018 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/manichaean)"
   },
   "noto-sans-marchen": {
     "id": "noto-sans-marchen",
@@ -11384,12 +11474,15 @@
   },
   "noto-sans-ogham": {
     "id": "noto-sans-ogham",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/ogham"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/ogham)"
   },
   "noto-sans-ol-chiki": {
     "id": "noto-sans-ol-chiki",
@@ -11578,12 +11671,15 @@
   },
   "noto-sans-phoenician": {
     "id": "noto-sans-phoenician",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/phoenician"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/phoenician)"
   },
   "noto-sans-psalter-pahlavi": {
     "id": "noto-sans-psalter-pahlavi",
@@ -11611,12 +11707,15 @@
   },
   "noto-sans-runic": {
     "id": "noto-sans-runic",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/runic"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/runic)"
   },
   "noto-sans-sc": {
     "id": "noto-sans-sc",
@@ -11668,12 +11767,15 @@
   },
   "noto-sans-shavian": {
     "id": "noto-sans-shavian",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/shavian"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/shavian)"
   },
   "noto-sans-siddham": {
     "id": "noto-sans-siddham",
@@ -11737,12 +11839,15 @@
   },
   "noto-sans-soyombo": {
     "id": "noto-sans-soyombo",
-    "authors": {"copyright": "Copyright 2019 Google LLC. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/soyombo"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2019 Google LLC. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/soyombo)"
   },
   "noto-sans-sundanese": {
     "id": "noto-sans-sundanese",
@@ -11998,12 +12103,15 @@
   },
   "noto-sans-tirhuta": {
     "id": "noto-sans-tirhuta",
-    "authors": {"copyright": "Copyright 2018 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/tirhuta"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2018 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tirhuta)"
   },
   "noto-sans-ugaritic": {
     "id": "noto-sans-ugaritic",
@@ -12028,6 +12136,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/vai)"
+  },
+  "noto-sans-vithkuqi": {
+    "id": "noto-sans-vithkuqi",
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/vithkuqi"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/vithkuqi)"
   },
   "noto-sans-wancho": {
     "id": "noto-sans-wancho",
@@ -12506,14 +12626,29 @@
     },
     "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/toto)"
   },
-  "noto-serif-yezidi": {
-    "id": "noto-serif-yezidi",
-    "authors": {"copyright": "Copyright 2020 Google Inc. All Rights Reserved."},
+  "noto-serif-vithkuqi": {
+    "id": "noto-serif-vithkuqi",
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/vithkuqi"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2020 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/vithkuqi)"
+  },
+  "noto-serif-yezidi": {
+    "id": "noto-serif-yezidi",
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/yezidi"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/yezidi)"
   },
   "noto-traditional-nushu": {
     "id": "noto-traditional-nushu",
@@ -12663,12 +12798,12 @@
   },
   "nuosu-sil": {
     "id": "nuosu-sil",
-    "authors": {"copyright": "Copyright 1999-2020 SIL International"},
+    "authors": {"copyright": "Copyright 1999-2022 SIL International"},
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 1999-2020 SIL International"
+    "original": "Copyright (c) 1999-2022 SIL International"
   },
   "odibee-sans": {
     "id": "odibee-sans",
@@ -13982,6 +14117,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2007-2021 The Qwitcher Grypen Project Authors (https://github.com/googlefonts/qwitcher-grypen)"
+  },
+  "rem": {
+    "id": "rem",
+    "authors": {
+      "copyright": "Copyright 2019 The REM Project Authors",
+      "website": "https://github.com/octaviopardo/REM"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)"
   },
   "racing-sans-one": {
     "id": "racing-sans-one",
@@ -15381,14 +15528,14 @@
   "sen": {
     "id": "sen",
     "authors": {
-      "copyright": "Copyright 2015 The Sen Project Authors",
-      "website": "https://github.com/philatype/Sen"
+      "copyright": "Copyright 2023 The Sen Project Authors",
+      "website": "https://github.com/philatype/Sen/"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2015 The Sen Project Authors (https://github.com/philatype/Sen)"
+    "original": "Copyright 2023 The Sen Project Authors (https://github.com/philatype/Sen/)"
   },
   "send-flowers": {
     "id": "send-flowers",
