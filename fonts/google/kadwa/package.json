@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kadwa",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Kadwa font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kadwa"
   },
-  "publishHash": "1826a854250ceb40"
+  "publishHash": "c0fbae1a61d691d3"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/grenze",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Grenze font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/grenze"
   },
-  "publishHash": "3f6f82ee369fb226"
+  "publishHash": "0b9efd609ac2b394"
 }

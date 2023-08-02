@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/chivo-mono",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Chivo Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/chivo-mono"
   },
-  "publishHash": "7f41358121bef235"
+  "publishHash": "8b44f9bc64d7648e"
 }

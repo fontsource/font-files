@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/hubballi",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Hubballi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/hubballi"
   },
-  "publishHash": "8f784d6229cc294c"
+  "publishHash": "47e5b6b3e11aec7b"
 }

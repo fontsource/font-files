@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/nothing-you-could-do",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Nothing You Could Do font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/nothing-you-could-do"
   },
-  "publishHash": "420a87eae389aae3"
+  "publishHash": "af9630e44c823452"
 }

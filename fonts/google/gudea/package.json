@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gudea",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Gudea font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gudea"
   },
-  "publishHash": "937c41bb12ccdbdc"
+  "publishHash": "d1e4f9511cf91e24"
 }

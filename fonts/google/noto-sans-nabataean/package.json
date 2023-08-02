@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-nabataean",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Noto Sans Nabataean font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-nabataean"
   },
-  "publishHash": "debe3a5a3a7009bf"
+  "publishHash": "99270b78bfa0a6a5"
 }

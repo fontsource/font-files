@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/yakuhanrp",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the YakuHanRP font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/yakuhanrp"
   },
-  "publishHash": "bfa9f1d8d4894250"
+  "publishHash": "9fa68a668995c161"
 }

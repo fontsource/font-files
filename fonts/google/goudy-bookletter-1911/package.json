@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/goudy-bookletter-1911",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Goudy Bookletter 1911 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/goudy-bookletter-1911"
   },
-  "publishHash": "8424684d873ac1b9"
+  "publishHash": "dcf7d82313347ebb"
 }

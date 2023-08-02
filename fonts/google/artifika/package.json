@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/artifika",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Artifika font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/artifika"
   },
-  "publishHash": "49bfe9b0f1fad8c3"
+  "publishHash": "f84ad5118f3807cd"
 }

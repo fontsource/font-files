@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sassy-frass",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Sassy Frass font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sassy-frass"
   },
-  "publishHash": "411f7c84b7a72ccd"
+  "publishHash": "acf54fd1e7ebc811"
 }

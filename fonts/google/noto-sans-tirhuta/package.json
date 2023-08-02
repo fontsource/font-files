@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-tirhuta",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Noto Sans Tirhuta font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-tirhuta"
   },
-  "publishHash": "ba34e919a13228bc"
+  "publishHash": "94e538d241c1d40a"
 }

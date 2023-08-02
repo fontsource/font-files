@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rubik-marker-hatch",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Rubik Marker Hatch font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rubik-marker-hatch"
   },
-  "publishHash": "15c6482fefe67988"
+  "publishHash": "383fdea12e0fe6b9"
 }

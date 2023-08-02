@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/viaoda-libre",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Viaoda Libre font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/viaoda-libre"
   },
-  "publishHash": "e6c913a1ee89d0e0"
+  "publishHash": "1d34ca4ee8800419"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/peace-sans",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Peace Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/peace-sans"
   },
-  "publishHash": "8246be4b79e681e4"
+  "publishHash": "327d813390abb0e7"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/megrim",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Megrim font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/megrim"
   },
-  "publishHash": "fd5d5139e5016d9c"
+  "publishHash": "7ebba9bbe15beeb7"
 }

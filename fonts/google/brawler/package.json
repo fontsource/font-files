@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/brawler",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Brawler font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/brawler"
   },
-  "publishHash": "c255d7c3bfbed9b6"
+  "publishHash": "5313f453bdf8b29f"
 }

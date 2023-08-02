@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-medefaidrin",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Noto Sans Medefaidrin font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-medefaidrin"
   },
-  "publishHash": "add7b1728d69d309"
+  "publishHash": "23b1aa699759882d"
 }

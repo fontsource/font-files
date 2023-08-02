@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/abel",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Abel font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/abel"
   },
-  "publishHash": "f30df1e7b573b5c0"
+  "publishHash": "ab5a600140cb4ace"
 }

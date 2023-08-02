@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/zilla-slab",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Zilla Slab font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/zilla-slab"
   },
-  "publishHash": "4ab1a4f57872be0a"
+  "publishHash": "e69976edb3673cfd"
 }

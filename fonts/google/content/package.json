@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/content",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Content font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/content"
   },
-  "publishHash": "41d95688c4a30d96"
+  "publishHash": "4bede8ea24567bb2"
 }

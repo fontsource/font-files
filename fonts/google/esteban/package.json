@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/esteban",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Esteban font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/esteban"
   },
-  "publishHash": "ecdb85c1bf47d07e"
+  "publishHash": "fd6c63f1a5381b9d"
 }

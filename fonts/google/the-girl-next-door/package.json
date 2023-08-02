@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/the-girl-next-door",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the The Girl Next Door font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/the-girl-next-door"
   },
-  "publishHash": "822926aa4142a0ed"
+  "publishHash": "15a75303c49178dc"
 }

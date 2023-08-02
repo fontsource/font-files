@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rubik-beastly",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Rubik Beastly font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rubik-beastly"
   },
-  "publishHash": "61ecee795dd72e54"
+  "publishHash": "2d2de1471dd81e93"
 }

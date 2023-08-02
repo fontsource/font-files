@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gravitas-one",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Gravitas One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gravitas-one"
   },
-  "publishHash": "4ac270b836278642"
+  "publishHash": "71377cd1b4aaea8d"
 }

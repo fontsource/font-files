@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/frijole",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Frijole font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/frijole"
   },
-  "publishHash": "037913bb9e1515cc"
+  "publishHash": "700d18ade82faa47"
 }

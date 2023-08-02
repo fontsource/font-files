@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/happy-monkey",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Happy Monkey font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/happy-monkey"
   },
-  "publishHash": "1aeec64bc0d73dd3"
+  "publishHash": "5dedb1c0a0535e5d"
 }

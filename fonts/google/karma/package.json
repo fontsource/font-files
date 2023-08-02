@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/karma",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Karma font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/karma"
   },
-  "publishHash": "a7e2460786af97a7"
+  "publishHash": "4819149d00a6d6af"
 }

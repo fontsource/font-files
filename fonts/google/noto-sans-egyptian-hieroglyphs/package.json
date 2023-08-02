@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-egyptian-hieroglyphs",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Noto Sans Egyptian Hieroglyphs font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-egyptian-hieroglyphs"
   },
-  "publishHash": "8a1f7b08968fcd59"
+  "publishHash": "6f80ac7a519692e8"
 }

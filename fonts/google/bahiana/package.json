@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bahiana",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Bahiana font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bahiana"
   },
-  "publishHash": "2579c6cf522a4d2e"
+  "publishHash": "1c3a1b7545fc8857"
 }

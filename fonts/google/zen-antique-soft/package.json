@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/zen-antique-soft",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Zen Antique Soft font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/zen-antique-soft"
   },
-  "publishHash": "85d2cb6a4e1c6faf"
+  "publishHash": "45cca6012fd1e91c"
 }

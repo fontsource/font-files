@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kantumruy",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Kantumruy font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kantumruy"
   },
-  "publishHash": "cc0facc993de13c2"
+  "publishHash": "3ea51f0cf57def3c"
 }

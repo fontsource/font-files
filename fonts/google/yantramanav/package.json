@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/yantramanav",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Yantramanav font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/yantramanav"
   },
-  "publishHash": "6f3eb375ba56fd70"
+  "publishHash": "a5d62d17f13da9e0"
 }

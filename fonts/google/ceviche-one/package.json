@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ceviche-one",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Ceviche One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ceviche-one"
   },
-  "publishHash": "c9444fdc20a00a68"
+  "publishHash": "09e5f047d48f7548"
 }

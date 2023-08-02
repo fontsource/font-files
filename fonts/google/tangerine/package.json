@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tangerine",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Tangerine font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tangerine"
   },
-  "publishHash": "2d8f060d8ba880dc"
+  "publishHash": "f3cbf5caf591b4a9"
 }

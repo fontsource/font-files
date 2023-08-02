@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mitr",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Mitr font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mitr"
   },
-  "publishHash": "4b05cba2c1851528"
+  "publishHash": "e33f49ee8d199d79"
 }

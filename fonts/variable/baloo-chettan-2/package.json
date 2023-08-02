@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/baloo-chettan-2",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Baloo Chettan 2 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/baloo-chettan-2"
   },
-  "publishHash": "1f372d26ab472729"
+  "publishHash": "90d63da96f7df98b"
 }
