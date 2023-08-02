@@ -38,7 +38,7 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright (c) 1999-2020 SIL International
+Copyright (c) 1999-2022 SIL International
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
