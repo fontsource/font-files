@@ -14,10 +14,10 @@
 	"author": "Ayuhito <hello@ayuhito.com>",
 	"license": "MIT",
 	"dependencies": {
-		"@fontsource-utils/cli": "0.3.13",
+		"@fontsource-utils/cli": "0.3.15",
 		"@fontsource-utils/publish": "^0.2.7",
-		"@types/node": "^20.2.5",
-		"consola": "^3.1.0",
+		"@types/node": "^20.4.5",
+		"consola": "^3.2.3",
 		"json-stringify-pretty-compact": "^4.0.0",
 		"pathe": "^1.1.1",
 		"tsx": "^3.12.7"
