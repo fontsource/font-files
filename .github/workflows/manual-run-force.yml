@@ -22,7 +22,7 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Fetch API # Calls Google Font Metadata to fetch the latest data from Google's Developer API
-        run: npx fontsource fetch $GOOGLE_API_KEY
+        run: npx fontsource fetch $GOOGLE_API_KEY --force
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
 
