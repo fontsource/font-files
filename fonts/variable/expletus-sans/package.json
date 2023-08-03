@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/expletus-sans",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Expletus Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/expletus-sans"
   },
-  "publishHash": "ffcc77e7dd0f3589"
+  "publishHash": "d26c83da344b2cf5"
 }

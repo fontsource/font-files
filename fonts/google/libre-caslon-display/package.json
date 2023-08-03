@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/libre-caslon-display",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Libre Caslon Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/libre-caslon-display"
   },
-  "publishHash": "3bd616279f3089bc"
+  "publishHash": "8c73c4e9d9b359dd"
 }

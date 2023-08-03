@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/macondo",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Macondo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/macondo"
   },
-  "publishHash": "0253bc2449491c1b"
+  "publishHash": "91bbf76021ea9c17"
 }

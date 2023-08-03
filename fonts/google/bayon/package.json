@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bayon",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Bayon font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bayon"
   },
-  "publishHash": "dded564cbb154768"
+  "publishHash": "2c433793e3a8f958"
 }

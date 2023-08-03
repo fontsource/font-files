@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/source-serif-pro",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Source Serif Pro font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/source-serif-pro"
   },
-  "publishHash": "144eb84c2c987373"
+  "publishHash": "1c43cd2f2946f4ad"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-lao",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Noto Sans Lao font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-lao"
   },
-  "publishHash": "2ce875ee8aa026cf"
+  "publishHash": "a778dc3a5e377827"
 }

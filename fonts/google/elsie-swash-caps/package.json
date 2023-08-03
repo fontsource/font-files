@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/elsie-swash-caps",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Elsie Swash Caps font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/elsie-swash-caps"
   },
-  "publishHash": "4bd5da00bee0a73c"
+  "publishHash": "2c30ce51fa77a032"
 }

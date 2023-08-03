@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sigmar",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Sigmar font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sigmar"
   },
-  "publishHash": "d3c0e7985bb22dde"
+  "publishHash": "7bf4116be389adbd"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/secular-one",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Secular One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/secular-one"
   },
-  "publishHash": "5d7b2951a9a1731f"
+  "publishHash": "f7d37fc104a9f9c2"
 }

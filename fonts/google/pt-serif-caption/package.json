@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/pt-serif-caption",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the PT Serif Caption font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/pt-serif-caption"
   },
-  "publishHash": "4be0767e6ff2085b"
+  "publishHash": "af40b8e3d1705ac8"
 }

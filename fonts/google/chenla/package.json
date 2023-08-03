@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/chenla",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Chenla font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/chenla"
   },
-  "publishHash": "54e3314a05774bcd"
+  "publishHash": "668823b3dafb2552"
 }

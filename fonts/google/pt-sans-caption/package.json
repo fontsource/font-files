@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/pt-sans-caption",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the PT Sans Caption font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/pt-sans-caption"
   },
-  "publishHash": "af293a749453d3ab"
+  "publishHash": "a0ce9734e3d5df33"
 }

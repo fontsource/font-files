@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/asset",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Asset font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/asset"
   },
-  "publishHash": "a0881ba3fb0d5df8"
+  "publishHash": "60af5276044ce52c"
 }

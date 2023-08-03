@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/princess-sofia",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Princess Sofia font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/princess-sofia"
   },
-  "publishHash": "1915da6595fe0298"
+  "publishHash": "5c83061be53df2c4"
 }

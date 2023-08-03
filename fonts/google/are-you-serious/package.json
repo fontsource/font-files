@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/are-you-serious",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Are You Serious font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/are-you-serious"
   },
-  "publishHash": "666d3ace0c54acad"
+  "publishHash": "da28d4a09acedace"
 }

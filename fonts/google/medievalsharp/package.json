@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/medievalsharp",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the MedievalSharp font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/medievalsharp"
   },
-  "publishHash": "f49672f25ec8f897"
+  "publishHash": "f6fb1f4f1d77df15"
 }

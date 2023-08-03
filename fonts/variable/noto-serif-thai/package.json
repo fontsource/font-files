@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-serif-thai",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Noto Serif Thai font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-serif-thai"
   },
-  "publishHash": "c6a2f81e3e87b556"
+  "publishHash": "028d66f8c58d623e"
 }

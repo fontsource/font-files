@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-tibetan",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Noto Serif Tibetan font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-tibetan"
   },
-  "publishHash": "601cfb99bb0f3524"
+  "publishHash": "dc30b27975b06c31"
 }

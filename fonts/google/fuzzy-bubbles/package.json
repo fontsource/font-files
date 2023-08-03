@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fuzzy-bubbles",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Fuzzy Bubbles font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fuzzy-bubbles"
   },
-  "publishHash": "e4667dcd2c753733"
+  "publishHash": "f71d40f2f1160756"
 }

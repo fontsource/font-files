@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/port-lligat-slab",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Port Lligat Slab font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/port-lligat-slab"
   },
-  "publishHash": "3c1a65c33396956b"
+  "publishHash": "ff7e7e4b3e8212e1"
 }

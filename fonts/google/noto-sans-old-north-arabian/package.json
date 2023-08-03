@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-old-north-arabian",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Noto Sans Old North Arabian font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-old-north-arabian"
   },
-  "publishHash": "f17710a62aa85d19"
+  "publishHash": "6504cfe72f807d97"
 }

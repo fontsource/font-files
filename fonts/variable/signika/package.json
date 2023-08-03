@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/signika",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Signika font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/signika"
   },
-  "publishHash": "5d349ddd750ecc5c"
+  "publishHash": "7246041e7329ee4a"
 }

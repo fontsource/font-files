@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lexend-deca",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Lexend Deca font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lexend-deca"
   },
-  "publishHash": "be5b2a5a053c821d"
+  "publishHash": "234432832e08c556"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-serif-hebrew",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Noto Serif Hebrew font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-serif-hebrew"
   },
-  "publishHash": "ef26b2f36abe7cad"
+  "publishHash": "79698dc4e3ecf369"
 }

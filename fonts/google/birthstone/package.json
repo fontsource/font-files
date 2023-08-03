@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/birthstone",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Birthstone font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/birthstone"
   },
-  "publishHash": "0ba1edaad8ea7e65"
+  "publishHash": "a602af75645d075e"
 }

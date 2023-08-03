@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/henny-penny",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Henny Penny font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/henny-penny"
   },
-  "publishHash": "bbafa5a9a902b863"
+  "publishHash": "503ae95509706a5d"
 }

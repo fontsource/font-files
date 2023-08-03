@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/spinnaker",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Spinnaker font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/spinnaker"
   },
-  "publishHash": "3d8440198b7102cc"
+  "publishHash": "bbc88037137df47f"
 }

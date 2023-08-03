@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/akshar",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Akshar font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/akshar"
   },
-  "publishHash": "d74ffe4151986207"
+  "publishHash": "4d4e599eb9dc898f"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-takri",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Noto Sans Takri font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-takri"
   },
-  "publishHash": "388020b3ed0b3245"
+  "publishHash": "8e40be20a86793c7"
 }

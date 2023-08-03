@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mea-culpa",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Mea Culpa font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mea-culpa"
   },
-  "publishHash": "52d097bc85771cb6"
+  "publishHash": "1447619787560c9a"
 }

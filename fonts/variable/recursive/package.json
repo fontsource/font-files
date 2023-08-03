@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/recursive",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Recursive font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/recursive"
   },
-  "publishHash": "fc4d46ca9b7c16fc"
+  "publishHash": "efb6d0d481f21a19"
 }

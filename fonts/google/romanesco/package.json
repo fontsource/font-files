@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/romanesco",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Romanesco font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/romanesco"
   },
-  "publishHash": "1f2089dfa98a8866"
+  "publishHash": "00ca9278d0c02bb1"
 }

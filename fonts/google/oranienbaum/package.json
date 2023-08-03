@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/oranienbaum",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Oranienbaum font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/oranienbaum"
   },
-  "publishHash": "9cc223551d615ba9"
+  "publishHash": "a3c7e43a30b6f62f"
 }

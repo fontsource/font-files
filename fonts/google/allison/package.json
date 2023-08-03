@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/allison",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Allison font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/allison"
   },
-  "publishHash": "0c4dcf766077591c"
+  "publishHash": "6cd2e37dd57e4d35"
 }
