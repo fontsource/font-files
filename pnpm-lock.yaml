@@ -1,5 +1,9 @@
 lockfileVersion: '6.0'
 
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
 dependencies:
   '@fontsource-utils/cli':
     specifier: 0.3.15
@@ -13,6 +17,9 @@ dependencies:
   consola:
     specifier: ^3.2.3
     version: 3.2.3
+  google-font-metadata:
+    specifier: ^5.2.0
+    version: 5.2.0
   json-stringify-pretty-compact:
     specifier: ^4.0.0
     version: 4.0.0
