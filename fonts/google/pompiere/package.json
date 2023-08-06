@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/pompiere",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Pompiere font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/pompiere"
   },
-  "publishHash": "7e45906ed76efe70"
+  "publishHash": "63106c8df09485c8"
 }

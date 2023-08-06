@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/nova-slim",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Nova Slim font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/nova-slim"
   },
-  "publishHash": "f9f25389fe773a8a"
+  "publishHash": "2422e2dc1ed061fa"
 }

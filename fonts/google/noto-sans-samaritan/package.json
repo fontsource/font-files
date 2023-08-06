@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-samaritan",
-  "version": "5.0.8",
+  "version": "5.0.9",
   "description": "Self-host the Noto Sans Samaritan font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-samaritan"
   },
-  "publishHash": "cdc5ab68e330eead"
+  "publishHash": "44de190870d9319a"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/glory",
-  "version": "5.0.8",
+  "version": "5.0.9",
   "description": "Self-host the Glory font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/glory"
   },
-  "publishHash": "0f6e5be0e39cccf8"
+  "publishHash": "1ff6b08c21a5ddc9"
 }

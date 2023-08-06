@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/b612-mono",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the B612 Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/b612-mono"
   },
-  "publishHash": "bfb78a73c56ada36"
+  "publishHash": "a0258d7fc94116e8"
 }

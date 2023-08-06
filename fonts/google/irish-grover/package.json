@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/irish-grover",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Irish Grover font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/irish-grover"
   },
-  "publishHash": "4c3a34892a98e7d0"
+  "publishHash": "90b5aea0a6c18cde"
 }

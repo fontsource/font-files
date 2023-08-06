@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/pinyon-script",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Pinyon Script font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/pinyon-script"
   },
-  "publishHash": "a4eb2fc154f9f530"
+  "publishHash": "5954f72e10188c3f"
 }

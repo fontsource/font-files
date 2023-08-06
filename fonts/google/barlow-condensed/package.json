@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/barlow-condensed",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Barlow Condensed font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/barlow-condensed"
   },
-  "publishHash": "c9a3ee049b94258c"
+  "publishHash": "1f2df755a990e82c"
 }

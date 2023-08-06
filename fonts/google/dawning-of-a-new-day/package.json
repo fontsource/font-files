@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dawning-of-a-new-day",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Dawning of a New Day font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/dawning-of-a-new-day"
   },
-  "publishHash": "3b2b9a0268ae552a"
+  "publishHash": "e83c3f7f743b2cd6"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/yatra-one",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Yatra One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/yatra-one"
   },
-  "publishHash": "08d73711aebd8b4f"
+  "publishHash": "86548403ab1833c1"
 }

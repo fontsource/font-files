@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/encode-sans-condensed",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Encode Sans Condensed font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/encode-sans-condensed"
   },
-  "publishHash": "e2db11016017eeb7"
+  "publishHash": "6e46879a308b7e38"
 }

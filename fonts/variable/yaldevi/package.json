@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/yaldevi",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Yaldevi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/yaldevi"
   },
-  "publishHash": "42dc776807638267"
+  "publishHash": "d27be383b6d36c8d"
 }

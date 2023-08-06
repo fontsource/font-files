@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/yrsa",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Yrsa font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/yrsa"
   },
-  "publishHash": "338a5da3229d1d66"
+  "publishHash": "2cb26ea53ba6deca"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fanwood-text",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Fanwood Text font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fanwood-text"
   },
-  "publishHash": "7f0bf3543833c4d7"
+  "publishHash": "7ea6ce3ff3c5587e"
 }

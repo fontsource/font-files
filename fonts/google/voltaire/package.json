@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/voltaire",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Voltaire font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/voltaire"
   },
-  "publishHash": "3ee0e4a706349e56"
+  "publishHash": "0ca631b2614fcc10"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lobster-two",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Lobster Two font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lobster-two"
   },
-  "publishHash": "6da34ca4c1206095"
+  "publishHash": "273d00a5e93c84da"
 }

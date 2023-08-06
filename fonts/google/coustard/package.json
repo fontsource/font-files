@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/coustard",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Coustard font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/coustard"
   },
-  "publishHash": "2d899eb846e2be25"
+  "publishHash": "827c77e5da94eaf4"
 }

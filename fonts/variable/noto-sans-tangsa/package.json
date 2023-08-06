@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-tangsa",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Noto Sans Tangsa font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-tangsa"
   },
-  "publishHash": "aa6a9586afff2f2a"
+  "publishHash": "96ed9b84c1b804c1"
 }

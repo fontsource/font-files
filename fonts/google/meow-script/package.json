@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/meow-script",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Meow Script font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/meow-script"
   },
-  "publishHash": "10e8540d97b3a407"
+  "publishHash": "b4544093d350907b"
 }

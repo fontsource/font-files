@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/aref-ruqaa-ink",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Aref Ruqaa Ink font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/aref-ruqaa-ink"
   },
-  "publishHash": "ae2f7a8f75d3a530"
+  "publishHash": "a02093df39537804"
 }

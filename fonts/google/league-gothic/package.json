@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/league-gothic",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the League Gothic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/league-gothic"
   },
-  "publishHash": "c9c6ba612dbbe307"
+  "publishHash": "1d2f094438d4d247"
 }

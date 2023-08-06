@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/el-messiri",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the El Messiri font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/el-messiri"
   },
-  "publishHash": "a06944a07c5278ee"
+  "publishHash": "5407a7b12a388232"
 }

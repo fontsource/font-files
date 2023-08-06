@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/merriweather-sans",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Merriweather Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/merriweather-sans"
   },
-  "publishHash": "c45e904a23cc14df"
+  "publishHash": "6ae5c46303b13685"
 }

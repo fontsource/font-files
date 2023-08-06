@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/diplomata-sc",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Diplomata SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/diplomata-sc"
   },
-  "publishHash": "441f9e3dd5729c66"
+  "publishHash": "31123e03ec158b34"
 }

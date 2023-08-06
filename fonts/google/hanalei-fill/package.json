@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/hanalei-fill",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Hanalei Fill font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/hanalei-fill"
   },
-  "publishHash": "ee133bc5f69b2074"
+  "publishHash": "253cf61c19e769a1"
 }

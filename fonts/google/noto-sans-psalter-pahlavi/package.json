@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-psalter-pahlavi",
-  "version": "5.0.8",
+  "version": "5.0.9",
   "description": "Self-host the Noto Sans Psalter Pahlavi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-psalter-pahlavi"
   },
-  "publishHash": "05a8d926c8b6ac5b"
+  "publishHash": "7dcfbf798f07343a"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sulphur-point",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Sulphur Point font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sulphur-point"
   },
-  "publishHash": "cba4c106ce73968e"
+  "publishHash": "9b6da26b2d1bd5a0"
 }

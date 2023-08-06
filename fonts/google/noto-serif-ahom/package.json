@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-ahom",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Noto Serif Ahom font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-ahom"
   },
-  "publishHash": "5f2a50f1ca42e9d0"
+  "publishHash": "8d490a91672d5ff1"
 }

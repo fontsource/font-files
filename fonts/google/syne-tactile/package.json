@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/syne-tactile",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Syne Tactile font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/syne-tactile"
   },
-  "publishHash": "a5444682ecc2d91f"
+  "publishHash": "dc8423a05b694991"
 }

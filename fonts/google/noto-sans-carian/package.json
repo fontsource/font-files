@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-carian",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Noto Sans Carian font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-carian"
   },
-  "publishHash": "83ab2b28e87c6674"
+  "publishHash": "4f8d0bbee63fa2da"
 }

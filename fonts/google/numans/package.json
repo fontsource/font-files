@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/numans",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Numans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/numans"
   },
-  "publishHash": "5e723aab20b79edf"
+  "publishHash": "97374a5e9e4874b3"
 }

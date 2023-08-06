@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-gothic",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Noto Sans Gothic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-gothic"
   },
-  "publishHash": "7aca48161cb6de85"
+  "publishHash": "f4840f0adbedbd12"
 }

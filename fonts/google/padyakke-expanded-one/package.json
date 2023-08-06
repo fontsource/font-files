@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/padyakke-expanded-one",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Padyakke Expanded One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/padyakke-expanded-one"
   },
-  "publishHash": "f4400dd25b758243"
+  "publishHash": "9d1e00fdff8f268d"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sedgwick-ave-display",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Sedgwick Ave Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sedgwick-ave-display"
   },
-  "publishHash": "f0274054c508fd77"
+  "publishHash": "197f6f2ae699b891"
 }

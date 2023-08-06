@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/waterfall",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Waterfall font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/waterfall"
   },
-  "publishHash": "927174c26c8e92ec"
+  "publishHash": "f36d89e41e51bbd1"
 }

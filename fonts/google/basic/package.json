@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/basic",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Basic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/basic"
   },
-  "publishHash": "a3d6e36882121d7a"
+  "publishHash": "1ed9c797ddb17a4a"
 }

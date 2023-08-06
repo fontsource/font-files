@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dseg7-segg-chan-mini",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the DSEG7 SEGG CHAN Mini font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/dseg7-segg-chan-mini"
   },
-  "publishHash": "6392513d2b1c1a8c"
+  "publishHash": "6868b0a74edf3029"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-runic",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Noto Sans Runic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-runic"
   },
-  "publishHash": "4d63de133c2c4979"
+  "publishHash": "3fa4bcb8cefe25a1"
 }

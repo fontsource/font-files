@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bellota-text",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Bellota Text font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bellota-text"
   },
-  "publishHash": "245cf3e3e0a7bd3c"
+  "publishHash": "59b64d3001ce4e4f"
 }

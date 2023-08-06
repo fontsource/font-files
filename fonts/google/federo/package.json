@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/federo",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Federo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/federo"
   },
-  "publishHash": "9228a1e4e2828ca5"
+  "publishHash": "76f550fc7f531c8d"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/anek-devanagari",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Anek Devanagari font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/anek-devanagari"
   },
-  "publishHash": "f0db5708c66c6b8b"
+  "publishHash": "f773bbbdc77cf148"
 }

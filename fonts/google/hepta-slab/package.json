@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/hepta-slab",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Hepta Slab font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/hepta-slab"
   },
-  "publishHash": "5b378387cbc966c4"
+  "publishHash": "3a243d1ab2e1763e"
 }

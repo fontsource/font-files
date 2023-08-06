@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/song-myung",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Song Myung font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/song-myung"
   },
-  "publishHash": "321ce8ade92516bd"
+  "publishHash": "8bb814f34077d316"
 }

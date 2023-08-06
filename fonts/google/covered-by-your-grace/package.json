@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/covered-by-your-grace",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Covered By Your Grace font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/covered-by-your-grace"
   },
-  "publishHash": "1844f6f5fdb196f3"
+  "publishHash": "8bdc158b153baa58"
 }

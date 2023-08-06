@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rubik-maze",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Rubik Maze font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rubik-maze"
   },
-  "publishHash": "25a8f792021c178d"
+  "publishHash": "0fec03e7d2ce2c04"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/besley",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Besley font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/besley"
   },
-  "publishHash": "234b08e7b562de8f"
+  "publishHash": "f96134c00ace162b"
 }

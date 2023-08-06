@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/anek-latin",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Anek Latin font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/anek-latin"
   },
-  "publishHash": "d96caadfc52621e3"
+  "publishHash": "758aed139036e7f9"
 }

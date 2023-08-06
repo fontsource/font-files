@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cookie",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Cookie font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cookie"
   },
-  "publishHash": "5b95656cec9b5435"
+  "publishHash": "39c2b0369a71af20"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/alumni-sans-pinstripe",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Alumni Sans Pinstripe font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/alumni-sans-pinstripe"
   },
-  "publishHash": "94eaa347a3c9a90d"
+  "publishHash": "86ba2f51a6b410a1"
 }

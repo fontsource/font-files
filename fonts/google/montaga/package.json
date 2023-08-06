@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/montaga",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Montaga font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/montaga"
   },
-  "publishHash": "0b5bb69f612b3742"
+  "publishHash": "b0d7008417cce494"
 }

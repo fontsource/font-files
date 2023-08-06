@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sanchez",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Sanchez font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sanchez"
   },
-  "publishHash": "3980d33e4e1a21dd"
+  "publishHash": "2050c3bb63d1286b"
 }

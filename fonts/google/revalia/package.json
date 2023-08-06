@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/revalia",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Revalia font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/revalia"
   },
-  "publishHash": "a6ce1d5a5543f899"
+  "publishHash": "ef069245c22cfffe"
 }

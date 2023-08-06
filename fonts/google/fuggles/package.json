@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fuggles",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Fuggles font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fuggles"
   },
-  "publishHash": "2a7030b1f19f7504"
+  "publishHash": "350ecc6f865314dc"
 }

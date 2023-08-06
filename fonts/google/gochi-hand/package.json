@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gochi-hand",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Gochi Hand font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gochi-hand"
   },
-  "publishHash": "5146839cd5cb8142"
+  "publishHash": "55e329f35a2cb13d"
 }

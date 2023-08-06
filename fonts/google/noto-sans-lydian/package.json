@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-lydian",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Noto Sans Lydian font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-lydian"
   },
-  "publishHash": "a53458591f8cc358"
+  "publishHash": "f5002e3e02cf71fb"
 }

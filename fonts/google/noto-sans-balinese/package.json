@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-balinese",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Noto Sans Balinese font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-balinese"
   },
-  "publishHash": "f6da21cd7a95bc22"
+  "publishHash": "5356f46517d65e45"
 }

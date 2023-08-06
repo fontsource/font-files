@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/alatsi",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Alatsi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/alatsi"
   },
-  "publishHash": "c8c6a7dfca64846a"
+  "publishHash": "b96b9572a78010c0"
 }

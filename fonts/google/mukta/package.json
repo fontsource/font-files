@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mukta",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Mukta font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mukta"
   },
-  "publishHash": "9a63b63195b6f84e"
+  "publishHash": "8e1f65c2b1afbd92"
 }

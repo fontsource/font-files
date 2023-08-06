@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/miltonian-tattoo",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Miltonian Tattoo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/miltonian-tattoo"
   },
-  "publishHash": "e3f7439db1f16a44"
+  "publishHash": "5472ee8d4d9b59ce"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ruge-boogie",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Ruge Boogie font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ruge-boogie"
   },
-  "publishHash": "f6ee4c52530d19b1"
+  "publishHash": "b0364d18f6945358"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/flow-circular",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Flow Circular font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/flow-circular"
   },
-  "publishHash": "fd7f8036f028b6a1"
+  "publishHash": "f9da04d8c535dfab"
 }

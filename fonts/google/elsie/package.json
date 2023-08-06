@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/elsie",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Elsie font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/elsie"
   },
-  "publishHash": "0060ffd20e8b6243"
+  "publishHash": "d17b7af3a1fa4076"
 }

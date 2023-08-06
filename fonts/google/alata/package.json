@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/alata",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Alata font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/alata"
   },
-  "publishHash": "6cddd85f77cb5463"
+  "publishHash": "5a89966959c50548"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/condiment",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Condiment font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/condiment"
   },
-  "publishHash": "b4356e2300519690"
+  "publishHash": "faf6f155a7bbb327"
 }

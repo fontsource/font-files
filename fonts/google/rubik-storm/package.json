@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rubik-storm",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Rubik Storm font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rubik-storm"
   },
-  "publishHash": "cf9a1aa6b78f31a7"
+  "publishHash": "648ad38edc53452a"
 }

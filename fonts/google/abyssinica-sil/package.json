@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/abyssinica-sil",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Abyssinica SIL font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/abyssinica-sil"
   },
-  "publishHash": "097c1365e4fdc4dd"
+  "publishHash": "43d2ef315388136d"
 }

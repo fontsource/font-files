@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/biryani",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Biryani font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/biryani"
   },
-  "publishHash": "4f16b818cf9d8cf3"
+  "publishHash": "fd6367eab7e05d7a"
 }

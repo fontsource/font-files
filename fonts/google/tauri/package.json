@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tauri",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Tauri font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tauri"
   },
-  "publishHash": "e04b5337c04767b1"
+  "publishHash": "9360eedf04a651b2"
 }

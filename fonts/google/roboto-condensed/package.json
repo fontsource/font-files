@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/roboto-condensed",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Roboto Condensed font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/roboto-condensed"
   },
-  "publishHash": "1b39c42e2e831ac9"
+  "publishHash": "abc6129035ef1a36"
 }

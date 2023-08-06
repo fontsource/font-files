@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rock-salt",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Rock Salt font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rock-salt"
   },
-  "publishHash": "18200cc33c9f6c53"
+  "publishHash": "b755a454c5f7a9ca"
 }

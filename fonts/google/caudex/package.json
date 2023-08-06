@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/caudex",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Caudex font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/caudex"
   },
-  "publishHash": "9b6a9fe5ed0d32c1"
+  "publishHash": "f5783a3315e0d085"
 }

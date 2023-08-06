@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/inter",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Inter font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/inter"
   },
-  "publishHash": "44659ea5c33b7cf8"
+  "publishHash": "64d3252eae3ce077"
 }

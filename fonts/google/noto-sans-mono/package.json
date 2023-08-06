@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-mono",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Noto Sans Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-mono"
   },
-  "publishHash": "03db4ea23a39394a"
+  "publishHash": "a4a86d2f239a4f2b"
 }

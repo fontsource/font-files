@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/moon-dance",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Moon Dance font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/moon-dance"
   },
-  "publishHash": "a5449ab27bfce084"
+  "publishHash": "161f56eadd586d63"
 }

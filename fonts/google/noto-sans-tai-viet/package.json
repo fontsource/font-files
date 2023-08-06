@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-tai-viet",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Noto Sans Tai Viet font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-tai-viet"
   },
-  "publishHash": "4f3b4aad5abf7b12"
+  "publishHash": "e61074e65454b76d"
 }

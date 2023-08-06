@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/salsa",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Salsa font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/salsa"
   },
-  "publishHash": "f0f7ccd94a15016f"
+  "publishHash": "4303f9f44a21c396"
 }

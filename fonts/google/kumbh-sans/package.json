@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kumbh-sans",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Kumbh Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kumbh-sans"
   },
-  "publishHash": "2477ba2d96222a11"
+  "publishHash": "979b8813724fe181"
 }

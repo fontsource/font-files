@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/wellfleet",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Wellfleet font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/wellfleet"
   },
-  "publishHash": "ae5abca5e00edb00"
+  "publishHash": "6f46520d84e47d7e"
 }

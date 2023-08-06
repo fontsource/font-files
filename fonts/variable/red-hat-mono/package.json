@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/red-hat-mono",
-  "version": "5.0.8",
+  "version": "5.0.9",
   "description": "Self-host the Red Hat Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/red-hat-mono"
   },
-  "publishHash": "d05a730094806023"
+  "publishHash": "aab5ec3d0feaf395"
 }

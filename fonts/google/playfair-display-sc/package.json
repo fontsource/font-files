@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playfair-display-sc",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Playfair Display SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playfair-display-sc"
   },
-  "publishHash": "1fd2a938da3dda3b"
+  "publishHash": "71c41e9590595c9e"
 }
