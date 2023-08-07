@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/pitagon-serif",
+  "version": "5.0.0",
+  "description": "Self-host the Pitagon Serif font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "pitagon-serif",
+    "Pitagon Serif",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Travis Tran & Pitagon",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/pitagon-serif",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/other/pitagon-serif"
+  }
+}

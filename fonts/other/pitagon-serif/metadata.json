@@ -1,0 +1,19 @@
+{
+  "id": "pitagon-serif",
+  "family": "Pitagon Serif",
+  "subsets": ["latin"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-08-07",
+  "version": "v1.1.1",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/ThePitagon/pitagon-serif/blob/main/LICENSE.md",
+    "attribution": "Travis Tran & Pitagon"
+  },
+  "source": "https://github.com/ThePitagon/pitagon-serif",
+  "type": "other"
+}
