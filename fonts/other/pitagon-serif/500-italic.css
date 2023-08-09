@@ -1,0 +1,8 @@
+/* pitagon-serif-latin-500-italic */
+@font-face {
+  font-family: 'Pitagon Serif';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src: url(./files/pitagon-serif-latin-500-italic.woff2) format('woff2'), url(./files/pitagon-serif-latin-500-italic.woff) format('woff');
+}
