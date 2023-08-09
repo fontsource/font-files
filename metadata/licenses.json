@@ -2487,6 +2487,18 @@
     },
     "original": "Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names \"Bree\" and \"Bree Serif\""
   },
+  "bricolage-grotesque": {
+    "id": "bricolage-grotesque",
+    "authors": {
+      "copyright": "Copyright 2022 The Bricolage Grotesque Project Authors",
+      "website": "https://github.com/ateliertriay/bricolage"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Bricolage Grotesque Project Authors (https://github.com/ateliertriay/bricolage)"
+  },
   "bruno-ace": {
     "id": "bruno-ace",
     "authors": {
@@ -10910,12 +10922,15 @@
   },
   "noto-sans-imperial-aramaic": {
     "id": "noto-sans-imperial-aramaic",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/imperial-aramaic"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/imperial-aramaic)"
   },
   "noto-sans-indic-siyaq-numbers": {
     "id": "noto-sans-indic-siyaq-numbers",
@@ -11198,12 +11213,15 @@
   },
   "noto-sans-mandaic": {
     "id": "noto-sans-mandaic",
-    "authors": {"copyright": "Copyright 2020 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/mandaic"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2020 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/mandaic)"
   },
   "noto-sans-manichaean": {
     "id": "noto-sans-manichaean",
@@ -15147,6 +15165,15 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2014 The Ruthie Project Authors (https://github.com/googlefonts/ruthie)"
+  },
+  "ruwudu": {
+    "id": "ruwudu",
+    "authors": {"copyright": "Copyright SIL International, 2015-2023"},
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright (c) SIL International, 2015-2023"
   },
   "rye": {
     "id": "rye",
