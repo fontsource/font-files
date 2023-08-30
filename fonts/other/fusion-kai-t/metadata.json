@@ -1,0 +1,19 @@
+{
+  "id": "fusion-kai-t",
+  "family": "Fusion Kai T",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-08-15",
+  "version": "v3.243",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/lxgw/FusionKai/blob/main/OFL.txt",
+    "attribution": "lxgw"
+  },
+  "source": "https://github.com/lxgw/FusionKai",
+  "type": "other"
+}
