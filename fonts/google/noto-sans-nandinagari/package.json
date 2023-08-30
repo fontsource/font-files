@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-nandinagari",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Noto Sans Nandinagari font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},

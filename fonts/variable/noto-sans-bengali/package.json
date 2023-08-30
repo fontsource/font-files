@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-bengali",
-  "version": "5.0.9",
+  "version": "5.0.10",
   "description": "Self-host the Noto Sans Bengali font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
