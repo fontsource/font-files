@@ -1,12 +1,12 @@
 $id: 'noto-sans-old-sogdian' !default;
 $family: 'Noto Sans Old Sogdian' !default;
 $category: sans-serif !default;
-$subsets: (old-sogdian) !default;
+$subsets: (latin, latin-ext, old-sogdian) !default;
 $weights: (400) !default;
 $styles: (normal) !default;
 $axes: null !default;
 $defaults: (
-  subset: old-sogdian,
+  subset: latin,
   weight: 400,
   style: normal,
   axis: null,

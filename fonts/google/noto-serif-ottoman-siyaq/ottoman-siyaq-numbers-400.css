@@ -1,0 +1,8 @@
+/* noto-serif-ottoman-siyaq-ottoman-siyaq-numbers-400-normal */
+@font-face {
+  font-family: 'Noto Serif Ottoman Siyaq';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/noto-serif-ottoman-siyaq-ottoman-siyaq-numbers-400-normal.woff2) format('woff2'), url(./files/noto-serif-ottoman-siyaq-ottoman-siyaq-numbers-400-normal.woff) format('woff');
+}

@@ -1,12 +1,12 @@
 $id: 'noto-sans-inscriptional-parthian' !default;
 $family: 'Noto Sans Inscriptional Parthian' !default;
 $category: sans-serif !default;
-$subsets: (inscriptional-parthian) !default;
+$subsets: (inscriptional-parthian, latin, latin-ext) !default;
 $weights: (400) !default;
 $styles: (normal) !default;
 $axes: null !default;
 $defaults: (
-  subset: inscriptional-parthian,
+  subset: latin,
   weight: 400,
   style: normal,
   axis: null,

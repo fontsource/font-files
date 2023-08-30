@@ -21,7 +21,7 @@ import "@fontsource/scheherazade-new/400-italic.css"; // Specify weight and styl
 ```
 
 Supported variables:
-- Weights: `[400,700]`
+- Weights: `[400,500,600,700]`
 - Styles: `[normal]`
 - Subsets: `[arabic,latin,latin-ext]`
 
@@ -44,6 +44,6 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1.
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v14`.
+Font version (provided by source): `v15`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

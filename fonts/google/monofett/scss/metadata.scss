@@ -1,7 +1,7 @@
 $id: 'monofett' !default;
 $family: 'Monofett' !default;
-$category: display !default;
-$subsets: (latin) !default;
+$category: monospace !default;
+$subsets: (latin, latin-ext) !default;
 $weights: (400) !default;
 $styles: (normal) !default;
 $axes: null !default;

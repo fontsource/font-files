@@ -1,12 +1,12 @@
 $id: 'noto-sans-palmyrene' !default;
 $family: 'Noto Sans Palmyrene' !default;
 $category: sans-serif !default;
-$subsets: (palmyrene) !default;
+$subsets: (latin, latin-ext, palmyrene) !default;
 $weights: (400) !default;
 $styles: (normal) !default;
 $axes: null !default;
 $defaults: (
-  subset: palmyrene,
+  subset: latin,
   weight: 400,
   style: normal,
   axis: null,

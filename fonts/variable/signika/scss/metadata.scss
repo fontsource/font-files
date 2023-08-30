@@ -11,6 +11,12 @@ $axes: (
     max: 700,
     step: 1,
   ),
+  GRAD: (
+    default: 0,
+    min: -30,
+    max: 0,
+    step: 1,
+  ),
 ) !default;
 $defaults: (
   subset: latin,

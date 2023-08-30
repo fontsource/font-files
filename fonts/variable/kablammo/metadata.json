@@ -1,0 +1,19 @@
+{
+  "id": "kablammo",
+  "family": "Kablammo",
+  "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {"MORF": {"default": "0", "min": "0", "max": "60", "step": "1"}},
+  "lastModified": "2023-06-08",
+  "version": "v1",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2023 The Kablammo Project Authors (https://github.com/Vectro-Type-Foundry/kablammo)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

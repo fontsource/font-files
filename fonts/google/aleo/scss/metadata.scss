@@ -1,8 +1,8 @@
 $id: 'aleo' !default;
 $family: 'Aleo' !default;
 $category: serif !default;
-$subsets: (latin, latin-ext) !default;
-$weights: (300, 400, 700) !default;
+$subsets: (latin, latin-ext, vietnamese) !default;
+$weights: (100, 200, 300, 400, 500, 600, 700, 800, 900) !default;
 $styles: (italic, normal) !default;
 $axes: null !default;
 $defaults: (

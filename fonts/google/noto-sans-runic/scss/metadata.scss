@@ -1,12 +1,12 @@
 $id: 'noto-sans-runic' !default;
 $family: 'Noto Sans Runic' !default;
 $category: sans-serif !default;
-$subsets: (runic) !default;
+$subsets: (latin, latin-ext, runic) !default;
 $weights: (400) !default;
 $styles: (normal) !default;
 $axes: null !default;
 $defaults: (
-  subset: runic,
+  subset: latin,
   weight: 400,
   style: normal,
   axis: null,

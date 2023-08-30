@@ -1,0 +1,8 @@
+/* lisu-bosa-lisu-300-italic */
+@font-face {
+  font-family: 'Lisu Bosa';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src: url(./files/lisu-bosa-lisu-300-italic.woff2) format('woff2'), url(./files/lisu-bosa-lisu-300-italic.woff) format('woff');
+}

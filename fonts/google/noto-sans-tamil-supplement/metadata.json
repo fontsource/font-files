@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-tamil-supplement",
   "family": "Noto Sans Tamil Supplement",
-  "subsets": ["tamil-supplement"],
+  "subsets": ["latin", "latin-ext", "tamil-supplement"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "tamil-supplement",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-09-22",
-  "version": "v19",
+  "lastModified": "2023-06-30",
+  "version": "v21",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

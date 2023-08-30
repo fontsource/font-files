@@ -1,12 +1,12 @@
 $id: 'noto-sans-ogham' !default;
 $family: 'Noto Sans Ogham' !default;
 $category: sans-serif !default;
-$subsets: (ogham) !default;
+$subsets: (latin, latin-ext, ogham) !default;
 $weights: (400) !default;
 $styles: (normal) !default;
 $axes: null !default;
 $defaults: (
-  subset: ogham,
+  subset: latin,
   weight: 400,
   style: normal,
   axis: null,

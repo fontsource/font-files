@@ -1,12 +1,12 @@
 $id: 'noto-sans-old-south-arabian' !default;
 $family: 'Noto Sans Old South Arabian' !default;
 $category: sans-serif !default;
-$subsets: (old-south-arabian) !default;
+$subsets: (latin, latin-ext, old-south-arabian) !default;
 $weights: (400) !default;
 $styles: (normal) !default;
 $axes: null !default;
 $defaults: (
-  subset: old-south-arabian,
+  subset: latin,
   weight: 400,
   style: normal,
   axis: null,

@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-09-22",
-  "version": "v16",
+  "lastModified": "2023-08-25",
+  "version": "v20",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2011 by vernon adams. All rights reserved."
+    "attribution": "Copyright (c) 2011, Vernon Adams (vern@newtypography.co.uk) with Reserved Font Name 'Holtwood'. All rights reserved."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

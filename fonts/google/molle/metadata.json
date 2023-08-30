@@ -6,13 +6,13 @@
   "styles": ["italic"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-04-26",
-  "version": "v21",
+  "lastModified": "2023-08-25",
+  "version": "v23",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Spinnaker\"."
+    "attribution": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Name \"Spinnaker\"."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

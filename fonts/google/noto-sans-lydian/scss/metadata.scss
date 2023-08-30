@@ -1,12 +1,12 @@
 $id: 'noto-sans-lydian' !default;
 $family: 'Noto Sans Lydian' !default;
 $category: sans-serif !default;
-$subsets: (lydian) !default;
+$subsets: (latin, latin-ext, lydian) !default;
 $weights: (400) !default;
 $styles: (normal) !default;
 $axes: null !default;
 $defaults: (
-  subset: lydian,
+  subset: latin,
   weight: 400,
   style: normal,
   axis: null,

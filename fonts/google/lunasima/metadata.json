@@ -1,0 +1,28 @@
+{
+  "id": "lunasima",
+  "family": "Lunasima",
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "hebrew",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "weights": [400, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-07-13",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2023 The Lunasima Project Authors (https://github.com/docrepair-fonts/lunasima-fonts)."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

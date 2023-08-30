@@ -1,0 +1,8 @@
+/* dai-banna-sil-latin-400-normal */
+@font-face {
+  font-family: 'Dai Banna SIL';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/dai-banna-sil-latin-400-normal.woff2) format('woff2'), url(./files/dai-banna-sil-latin-400-normal.woff) format('woff');
+}

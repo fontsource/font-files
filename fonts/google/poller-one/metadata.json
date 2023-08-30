@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-09-22",
-  "version": "v19",
+  "lastModified": "2023-08-25",
+  "version": "v23",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Names \"Poller\" and \"Poller One\"."
+    "attribution": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Names \"Poller\" and \"Poller One\"."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

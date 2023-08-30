@@ -1,0 +1,8 @@
+/* ysabeau-infant-cyrillic-300-normal */
+@font-face {
+  font-family: 'Ysabeau Infant';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url(./files/ysabeau-infant-cyrillic-300-normal.woff2) format('woff2'), url(./files/ysabeau-infant-cyrillic-300-normal.woff) format('woff');
+}

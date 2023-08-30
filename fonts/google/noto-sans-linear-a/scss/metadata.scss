@@ -1,12 +1,12 @@
 $id: 'noto-sans-linear-a' !default;
 $family: 'Noto Sans Linear A' !default;
 $category: sans-serif !default;
-$subsets: (linear-a) !default;
+$subsets: (latin, latin-ext, linear-a) !default;
 $weights: (400) !default;
 $styles: (normal) !default;
 $axes: null !default;
 $defaults: (
-  subset: linear-a,
+  subset: latin,
   weight: 400,
   style: normal,
   axis: null,

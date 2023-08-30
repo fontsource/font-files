@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-09-22",
-  "version": "v14",
+  "lastModified": "2023-08-25",
+  "version": "v18",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com/) with Reserved Font Name Squada."
+    "attribution": "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com joe@admixdesigns.com) with Reserved Font Name Squada."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

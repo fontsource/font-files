@@ -1,0 +1,19 @@
+{
+  "id": "noto-serif-khitan-small-script",
+  "family": "Noto Serif Khitan Small Script",
+  "subsets": ["khitan-small-script", "latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-08-25",
+  "version": "v4",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2022 Google LLC. All Rights Reserved."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

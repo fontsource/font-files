@@ -1,0 +1,19 @@
+{
+  "id": "akatab",
+  "family": "Akatab",
+  "subsets": ["latin", "latin-ext", "tifinagh"],
+  "weights": [400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-07-24",
+  "version": "v7",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2010-2023, SIL International (https://scripts.sil.org), with Reserved Font Name \"Akatab\", copyright 2010-2019 Adobe (http://www.adobe.com/), with Reserved Font Name \"Source\" (Latin glyphs)."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

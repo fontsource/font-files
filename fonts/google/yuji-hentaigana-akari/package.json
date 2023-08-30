@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/yuji-hentaigana-akari",
+  "version": "5.0.0",
+  "description": "Self-host the Yuji Hentaigana Akari font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "yuji-hentaigana-akari",
+    "Yuji Hentaigana Akari",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/yuji-hentaigana-akari",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/yuji-hentaigana-akari"
+  }
+}

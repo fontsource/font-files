@@ -1,0 +1,19 @@
+{
+  "id": "yuji-hentaigana-akebono",
+  "family": "Yuji Hentaigana Akebono",
+  "subsets": ["japanese", "latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-05-31",
+  "version": "v12",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2021 The Yuji Project Authors (https://github.com/Kinutafontfactory/Yuji)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

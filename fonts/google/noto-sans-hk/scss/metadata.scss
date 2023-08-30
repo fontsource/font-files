@@ -1,8 +1,8 @@
 $id: 'noto-sans-hk' !default;
 $family: 'Noto Sans HK' !default;
 $category: sans-serif !default;
-$subsets: (chinese-hongkong, latin) !default;
-$weights: (100, 300, 400, 500, 700, 900) !default;
+$subsets: (chinese-hongkong, cyrillic, latin, latin-ext, vietnamese) !default;
+$weights: (100, 200, 300, 400, 500, 600, 700, 800, 900) !default;
 $styles: (normal) !default;
 $axes: null !default;
 $defaults: (

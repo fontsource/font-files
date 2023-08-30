@@ -1,0 +1,8 @@
+/* dai-banna-sil-new-tai-lue-300-italic */
+@font-face {
+  font-family: 'Dai Banna SIL';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src: url(./files/dai-banna-sil-new-tai-lue-300-italic.woff2) format('woff2'), url(./files/dai-banna-sil-new-tai-lue-300-italic.woff) format('woff');
+}

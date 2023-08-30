@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-mahajani",
   "family": "Noto Sans Mahajani",
-  "subsets": ["mahajani"],
+  "subsets": ["latin", "latin-ext", "mahajani"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "mahajani",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-05-10",
-  "version": "v15",
+  "lastModified": "2023-07-24",
+  "version": "v17",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

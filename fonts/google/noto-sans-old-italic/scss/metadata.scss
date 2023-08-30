@@ -1,12 +1,12 @@
 $id: 'noto-sans-old-italic' !default;
 $family: 'Noto Sans Old Italic' !default;
 $category: sans-serif !default;
-$subsets: (old-italic) !default;
+$subsets: (latin, latin-ext, old-italic) !default;
 $weights: (400) !default;
 $styles: (normal) !default;
 $axes: null !default;
 $defaults: (
-  subset: old-italic,
+  subset: latin,
   weight: 400,
   style: normal,
   axis: null,

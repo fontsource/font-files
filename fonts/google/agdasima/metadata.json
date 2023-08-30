@@ -1,0 +1,19 @@
+{
+  "id": "agdasima",
+  "family": "Agdasima",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-08-25",
+  "version": "v4",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2023 The Agdasima Project Authors (https://github.com/docrepair-fonts/agdasima-fonts)."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

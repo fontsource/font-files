@@ -1,12 +1,12 @@
 $id: 'noto-sans-soyombo' !default;
 $family: 'Noto Sans Soyombo' !default;
 $category: sans-serif !default;
-$subsets: (soyombo) !default;
+$subsets: (latin, latin-ext, soyombo) !default;
 $weights: (400) !default;
 $styles: (normal) !default;
 $axes: null !default;
 $defaults: (
-  subset: soyombo,
+  subset: latin,
   weight: 400,
   style: normal,
   axis: null,

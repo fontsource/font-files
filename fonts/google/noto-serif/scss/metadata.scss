@@ -2,7 +2,7 @@ $id: 'noto-serif' !default;
 $family: 'Noto Serif' !default;
 $category: serif !default;
 $subsets: (cyrillic, cyrillic-ext, greek, greek-ext, latin, latin-ext, vietnamese) !default;
-$weights: (400, 700) !default;
+$weights: (100, 200, 300, 400, 500, 600, 700, 800, 900) !default;
 $styles: (italic, normal) !default;
 $axes: null !default;
 $defaults: (

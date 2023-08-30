@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/palette-mosaic",
+  "version": "5.0.0",
+  "description": "Self-host the Palette Mosaic font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "palette-mosaic",
+    "Palette Mosaic",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/palette-mosaic",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/palette-mosaic"
+  }
+}

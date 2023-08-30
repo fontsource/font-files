@@ -1,0 +1,21 @@
+{
+  "id": "noto-sans-nag-mundari",
+  "family": "Noto Sans Nag Mundari",
+  "subsets": ["latin", "latin-ext", "nag-mundari"],
+  "weights": [400, 500, 600, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
+  },
+  "lastModified": "2023-05-09",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2023 The Noto Project Authors (https://github.com/notofonts/nag-mundari)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

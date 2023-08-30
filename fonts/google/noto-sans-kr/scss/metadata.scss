@@ -1,8 +1,8 @@
 $id: 'noto-sans-kr' !default;
 $family: 'Noto Sans KR' !default;
 $category: sans-serif !default;
-$subsets: (korean, latin) !default;
-$weights: (100, 300, 400, 500, 700, 900) !default;
+$subsets: (cyrillic, korean, latin, latin-ext, vietnamese) !default;
+$weights: (100, 200, 300, 400, 500, 600, 700, 800, 900) !default;
 $styles: (normal) !default;
 $axes: null !default;
 $defaults: (

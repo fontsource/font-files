@@ -1,0 +1,29 @@
+{
+  "id": "tektur",
+  "family": "Tektur",
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "weights": [400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "wdth": {"default": "100", "min": "75", "max": "100", "step": "0.1"},
+    "wght": {"default": "400", "min": "400", "max": "900", "step": "1"}
+  },
+  "lastModified": "2023-08-25",
+  "version": "v3",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2023 The Tektur Project Authors (https://www.github.com/hyvyys/Tektur)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

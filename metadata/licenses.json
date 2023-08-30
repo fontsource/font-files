@@ -11,6 +11,17 @@
     },
     "original": "Copyright 2011 The ABeeZee Project Authors (https://github.com/googlefonts/abeezee) with Reserved Font Name ABeeZee"
   },
+  "adlam-display": {
+    "id": "adlam-display",
+    "authors": {
+      "copyright": "Copyright 2022 by Microsoft. All rights reserved."
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright (c) 2022 by Microsoft. All rights reserved."
+  },
   "abel": {
     "id": "abel",
     "authors": {
@@ -51,13 +62,14 @@
   "abril-fatface": {
     "id": "abril-fatface",
     "authors": {
-      "copyright": "Copyright 2011, Copyright 2011, TypeTogether www.type-together.com, with Reserved Font Names \"Abril\" and \"Abril Fatface\""
+      "copyright": "Copyright 2011, Copyright 2011, TypeTogether www.type-together.com with Reserved Font Names \"Abril\" and \"Abril Fatface\"",
+      "email": "info@type-together.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names \"Abril\" and \"Abril Fatface\""
+    "original": "Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com info@type-together.com), with Reserved Font Names \"Abril\" and \"Abril Fatface\""
   },
   "abyssinica-sil": {
     "id": "abyssinica-sil",
@@ -586,13 +598,14 @@
   "amarante": {
     "id": "amarante",
     "authors": {
-      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name \"Amarante\"."
+      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name \"Amarante\".",
+      "email": "eben@eyebytes.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Amarante\"."
+    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Name \"Amarante\"."
   },
   "amaranth": {
     "id": "amaranth",
@@ -3017,12 +3030,15 @@
   },
   "caudex": {
     "id": "caudex",
-    "authors": {"copyright": "Copyright 2011 Hjort Nidudsson"},
+    "authors": {
+      "copyright": "Copyright 2011 Hjort Nidudsson",
+      "email": "nidud@users.sourceforge.net"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011 Hjort Nidudsson"
+    "original": "Copyright (c) 2011 Hjort Nidudsson (nidud@users.sourceforge.net)"
   },
   "caveat": {
     "id": "caveat",
@@ -3097,13 +3113,14 @@
     "id": "changa-one",
     "authors": {
       "copyright": "Copyright 2011, Eduardo Tunni with Reserved Font Name \"Changa\"",
-      "website": "http://www.tipo.net.ar"
+      "website": "http://www.tipo.net.ar",
+      "email": "edu@tipo.net.ar"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name \"Changa\""
+    "original": "Copyright (c) 2011, Eduardo Tunni (http://www.tipo.net.ar edu@tipo.net.ar), with Reserved Font Name \"Changa\""
   },
   "chango": {
     "id": "chango",
@@ -3555,13 +3572,14 @@
   "contrail-one": {
     "id": "contrail-one",
     "authors": {
-      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Names \"Contrail\" and \"Contrail One\"."
+      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Names \"Contrail\" and \"Contrail One\".",
+      "email": "eben@eyebytes.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Names \"Contrail\" and \"Contrail One\"."
+    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Names \"Contrail\" and \"Contrail One\"."
   },
   "convergence": {
     "id": "convergence",
@@ -3693,13 +3711,14 @@
   "courgette": {
     "id": "courgette",
     "authors": {
-      "copyright": "Copyright 2012, Sorkin Type Co www.sorkintype.com with Reserved Font Name \"Courgette\"."
+      "copyright": "Copyright 2012, Sorkin Type Co www.sorkintype.com with Reserved Font Name \"Courgette\".",
+      "email": "eben@eyebytes.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Courgette\"."
+    "original": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Name \"Courgette\"."
   },
   "courier-prime": {
     "id": "courier-prime",
@@ -3809,13 +3828,14 @@
     "id": "croissant-one",
     "authors": {
       "copyright": "Copyright 2012, Eduardo Tunni with Reserved Font Name 'Croissant'",
-      "website": "http://www.tipo.net.ar"
+      "website": "http://www.tipo.net.ar",
+      "email": "edu@tipo.net.ar"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Croissant'"
+    "original": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar edu@tipo.net.ar), with Reserved Font Name 'Croissant'"
   },
   "crushed": {
     "id": "crushed",
@@ -4008,24 +4028,26 @@
   "dawning-of-a-new-day": {
     "id": "dawning-of-a-new-day",
     "authors": {
-      "copyright": "Copyright 2010, Kimberly Geswein kimberlygeswein.com"
+      "copyright": "Copyright 2010, Kimberly Geswein kimberlygeswein.com",
+      "email": "kimberlygeswein@gmail.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)"
+    "original": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com kimberlygeswein@gmail.com)"
   },
   "days-one": {
     "id": "days-one",
     "authors": {
-      "copyright": "Copyright 2009 by Alexander Kalachev, Alexey Maslov, Jovanny Lemonad. All rights reserved."
+      "copyright": "Copyright 2009 by Alexander Kalachev, Alexey Maslov, Jovanny Lemonad All rights reserved.",
+      "email": "lemonad@jovanny.ru."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2009 by Alexander Kalachev, Alexey Maslov, Jovanny Lemonad. All rights reserved."
+    "original": "Copyright (c) 2009 by Alexander Kalachev, Alexey Maslov, Jovanny Lemonad (lemonad@jovanny.ru). All rights reserved."
   },
   "dekko": {
     "id": "dekko",
@@ -4065,13 +4087,14 @@
   "delius": {
     "id": "delius",
     "authors": {
-      "copyright": "Copyright 2010 by Natalia Raices. All rights reserved."
+      "copyright": "Copyright 2010 by Natalia Raices All rights reserved.",
+      "email": "nraices@gmail.com."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2010 by Natalia Raices. All rights reserved."
+    "original": "Copyright (c) 2010 by Natalia Raices (nraices@gmail.com). All rights reserved."
   },
   "delius-swash-caps": {
     "id": "delius-swash-caps",
@@ -4377,13 +4400,14 @@
   "eater": {
     "id": "eater",
     "authors": {
-      "copyright": "Copyright 2011, Typomondo, with Reserved Font Name \"Eater\""
+      "copyright": "Copyright 2011, Vernon Adams DBA Typomondo with Reserved Font Name \"Eater\"",
+      "email": "vern@newtypography.co.uk"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Typomondo, with Reserved Font Name \"Eater\""
+    "original": "Copyright (c) 2011, Vernon Adams DBA Typomondo (vern@newtypography.co.uk), with Reserved Font Name \"Eater\""
   },
   "economica": {
     "id": "economica",
@@ -4485,13 +4509,14 @@
     "id": "electrolize",
     "authors": {
       "copyright": "Copyright 2011, Cyreal www.cyreal.org with Reserved Font Name \"Electrolize\" This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at",
-      "website": "http://scripts.sil.org/OFL"
+      "website": "http://scripts.sil.org/OFL",
+      "email": "a@cyreal.org"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Electrolize\" This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org a@cyreal.org) with Reserved Font Name \"Electrolize\" This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
   },
   "elsie": {
     "id": "elsie",
@@ -5608,25 +5633,27 @@
     "id": "geostar",
     "authors": {
       "copyright": "Copyright 2011, Admix Designs with Reserved Font Name Geostar.",
-      "website": "http://www.admixdesigns.com/"
+      "website": "http://www.admixdesigns.com",
+      "email": "joe@admixdesigns.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com/) with Reserved Font Name Geostar."
+    "original": "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com joe@admixdesigns.com) with Reserved Font Name Geostar."
   },
   "geostar-fill": {
     "id": "geostar-fill",
     "authors": {
       "copyright": "Copyright 2011, Admix Designs with Reserved Font Name Geostar.",
-      "website": "http://www.admixdesigns.com/"
+      "website": "http://www.admixdesigns.com",
+      "email": "joe@admixdesigns.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com/) with Reserved Font Name Geostar."
+    "original": "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com joe@admixdesigns.com) with Reserved Font Name Geostar."
   },
   "germania-one": {
     "id": "germania-one",
@@ -5776,13 +5803,14 @@
     "id": "goblin-one",
     "authors": {
       "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name \"Goblin\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at",
-      "website": "http://scripts.sil.org/OFL"
+      "website": "http://scripts.sil.org/OFL",
+      "email": "eben@eyebytes.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Goblin\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Name \"Goblin\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
   },
   "gochi-hand": {
     "id": "gochi-hand",
@@ -5854,12 +5882,15 @@
   },
   "goudy-bookletter-1911": {
     "id": "goudy-bookletter-1911",
-    "authors": {"copyright": "Copyright 2010, Barry Schwartz crudfactory.com"},
+    "authors": {
+      "copyright": "Copyright 2010, Barry Schwartz crudfactory.com",
+      "email": "chemoelectric@chemoelectric.org"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2010, Barry Schwartz (crudfactory.com)"
+    "original": "Copyright (c) 2010, Barry Schwartz (crudfactory.com chemoelectric@chemoelectric.org)"
   },
   "gowun-batang": {
     "id": "gowun-batang",
@@ -5889,13 +5920,14 @@
     "id": "graduate",
     "authors": {
       "copyright": "Copyright 2012, Eduardo Tunni with Reserved Font Name \"Graduate\"",
-      "website": "http://www.tipo.net.ar"
+      "website": "http://www.tipo.net.ar",
+      "email": "edu@tipo.net.ar"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name \"Graduate\""
+    "original": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar edu@tipo.net.ar), with Reserved Font Name \"Graduate\""
   },
   "grand-hotel": {
     "id": "grand-hotel",
@@ -5949,13 +5981,14 @@
     "id": "gravitas-one",
     "authors": {
       "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name \"Gravitas\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at",
-      "website": "http://scripts.sil.org/OFL"
+      "website": "http://scripts.sil.org/OFL",
+      "email": "eben@eyebytes.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Gravitas\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Name \"Gravitas\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
   },
   "great-vibes": {
     "id": "great-vibes",
@@ -6211,13 +6244,14 @@
     "id": "handlee",
     "authors": {
       "copyright": "Copyright 2011, Admix Designs with Reserved Font Name Handlee.",
-      "website": "http://www.admixdesigns.com/"
+      "website": "http://www.admixdesigns.com",
+      "email": "joe@admixdesigns.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com/) with Reserved Font Name Handlee."
+    "original": "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com joe@admixdesigns.com) with Reserved Font Name Handlee."
   },
   "hanken-grotesk": {
     "id": "hanken-grotesk",
@@ -6410,13 +6444,14 @@
   "holtwood-one-sc": {
     "id": "holtwood-one-sc",
     "authors": {
-      "copyright": "Copyright 2011 by vernon adams. All rights reserved."
+      "copyright": "Copyright 2011, Vernon Adams with Reserved Font Name 'Holtwood'. All rights reserved.",
+      "email": "vern@newtypography.co.uk"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011 by vernon adams. All rights reserved."
+    "original": "Copyright (c) 2011, Vernon Adams (vern@newtypography.co.uk) with Reserved Font Name 'Holtwood'. All rights reserved."
   },
   "homemade-apple": {
     "id": "homemade-apple",
@@ -6689,25 +6724,27 @@
   "iceberg": {
     "id": "iceberg",
     "authors": {
-      "copyright": "Copyright 2011, Cyreal www.cyreal.org, with Reserved Font Name \"Iceberg\"."
+      "copyright": "Copyright 2011, Cyreal www.cyreal.org with Reserved Font Name \"Iceberg\".",
+      "email": "a@cyreal.org"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org), with Reserved Font Name \"Iceberg\"."
+    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org a@cyreal.org), with Reserved Font Name \"Iceberg\"."
   },
   "iceland": {
     "id": "iceland",
     "authors": {
       "copyright": "Copyright 2011, Cyreal www.cyreal.org with Reserved Font Name \"Iceland\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at",
-      "website": "http://scripts.sil.org/OFL"
+      "website": "http://scripts.sil.org/OFL",
+      "email": "a@cyreal.org"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Iceland\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org a@cyreal.org) with Reserved Font Name \"Iceland\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
   },
   "imbue": {
     "id": "imbue",
@@ -6772,14 +6809,13 @@
   "indie-flower": {
     "id": "indie-flower",
     "authors": {
-      "copyright": "Copyright 2010, Kimberly Geswein kimberlygeswein.com",
-      "email": "kimberlygeswein@gmail.com"
+      "copyright": "Copyright 2010 The Indie Flower Authors kimberlygeswein.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com kimberlygeswein@gmail.com)"
+    "original": "Copyright 2010 The Indie Flower Authors (kimberlygeswein.com)"
   },
   "ingrid-darling": {
     "id": "ingrid-darling",
@@ -6974,24 +7010,26 @@
   "jacques-francois": {
     "id": "jacques-francois",
     "authors": {
-      "copyright": "Copyright 2011, Cyreal www.cyreal.org with Reserved Font Name 'Jacques Francois'"
+      "copyright": "Copyright 2011, Cyreal www.cyreal.org with Reserved Font Name 'Jacques Francois'",
+      "email": "a@cyreal.org"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name 'Jacques Francois'"
+    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org a@cyreal.org) with Reserved Font Name 'Jacques Francois'"
   },
   "jacques-francois-shadow": {
     "id": "jacques-francois-shadow",
     "authors": {
-      "copyright": "Copyright 2011, Cyreal www.cyreal.org with Reserved Font Name 'Jacques Francois'"
+      "copyright": "Copyright 2011, Cyreal www.cyreal.org with Reserved Font Name 'Jacques Francois'",
+      "email": "a@cyreal.org"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name 'Jacques Francois'"
+    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org a@cyreal.org) with Reserved Font Name 'Jacques Francois'"
   },
   "jaldi": {
     "id": "jaldi",
@@ -7044,13 +7082,14 @@
   "jockey-one": {
     "id": "jockey-one",
     "authors": {
-      "copyright": "Copyright 2011, Copyright 2011, TypeTogether www.type-together.com, with Reserved Font Names \"Jockey\" and \"Jockey One\""
+      "copyright": "Copyright 2011, Copyright 2011, TypeTogether www.type-together.com with Reserved Font Names \"Jockey\" and \"Jockey One\"",
+      "email": "info@type-together.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names \"Jockey\" and \"Jockey One\""
+    "original": "Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com info@type-together.com), with Reserved Font Names \"Jockey\" and \"Jockey One\""
   },
   "jolly-lodger": {
     "id": "jolly-lodger",
@@ -7184,13 +7223,14 @@
     "id": "junge",
     "authors": {
       "copyright": "Copyright 2011, Cyreal www.cyreal.org with Reserved Font Name \"Junge\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at",
-      "website": "http://scripts.sil.org/OFL"
+      "website": "http://scripts.sil.org/OFL",
+      "email": "a@cyreal.org"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Junge\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org a@cyreal.org) with Reserved Font Name \"Junge\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
   },
   "jura": {
     "id": "jura",
@@ -8000,13 +8040,14 @@
   "leckerli-one": {
     "id": "leckerli-one",
     "authors": {
-      "copyright": "Copyright 2011 Gesine Todt www.gesine-todt.de, with Reserved Font Names \"Leckerli\""
+      "copyright": "Copyright 2011 Gesine Todt www.gesine-todt.de with Reserved Font Names \"Leckerli\"",
+      "email": "hallo@gesine-todt.de"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011 Gesine Todt (www.gesine-todt.de), with Reserved Font Names \"Leckerli\""
+    "original": "Copyright (c) 2011 Gesine Todt (www.gesine-todt.de hallo@gesine-todt.de), with Reserved Font Names \"Leckerli\""
   },
   "ledger": {
     "id": "ledger",
@@ -8432,13 +8473,14 @@
   "lobster-two": {
     "id": "lobster-two",
     "authors": {
-      "copyright": "Copyright 2011 by Pablo Impallari. www.impallari.com. All rights reserved."
+      "copyright": "Copyright 2011 by Pablo Impallari www.impallari.com All rights reserved.",
+      "email": "impallari@gmail.com."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011 by Pablo Impallari. www.impallari.com. All rights reserved."
+    "original": "Copyright (c) 2011 by Pablo Impallari (www.impallari.com impallari@gmail.com). All rights reserved."
   },
   "londrina-outline": {
     "id": "londrina-outline",
@@ -8527,24 +8569,26 @@
   "love-ya-like-a-sister": {
     "id": "love-ya-like-a-sister",
     "authors": {
-      "copyright": "Copyright 2011 by Kimberly Geswein. All rights reserved."
+      "copyright": "Copyright 2011 by Kimberly Geswein All rights reserved.",
+      "email": "kimberlygeswein@gmail.com."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011 by Kimberly Geswein. All rights reserved."
+    "original": "Copyright (c) 2011 by Kimberly Geswein (kimberlygeswein@gmail.com). All rights reserved."
   },
   "loved-by-the-king": {
     "id": "loved-by-the-king",
     "authors": {
-      "copyright": "Copyright 2006 by Kimberly Geswein. All rights reserved."
+      "copyright": "Copyright 2006 by Kimberly Geswein All rights reserved.",
+      "email": "kimberlygeswein@gmail.com."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2006 by Kimberly Geswein. All rights reserved."
+    "original": "Copyright (c) 2006 by Kimberly Geswein (kimberlygeswein@gmail.com). All rights reserved."
   },
   "lovers-quarrel": {
     "id": "lovers-quarrel",
@@ -9214,12 +9258,15 @@
   },
   "medievalsharp": {
     "id": "medievalsharp",
-    "authors": {"copyright": "wmk69 SIL Open Font License v.1.1"},
+    "authors": {
+      "copyright": "Copyright 2011, Wojciech 'wmk69' Kalinowski",
+      "email": "wmk69@o2.pl"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "wmk69 SIL Open Font License v.1.1"
+    "original": "Copyright (c) 2011, Wojciech 'wmk69' Kalinowski (wmk69@o2.pl)"
   },
   "medula-one": {
     "id": "medula-one",
@@ -9343,13 +9390,14 @@
   "metamorphous": {
     "id": "metamorphous",
     "authors": {
-      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name \"Metamorphous\"."
+      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name \"Metamorphous\".",
+      "email": "eben@eyebytes.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Metamorphous\"."
+    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Name \"Metamorphous\"."
   },
   "metrophobic": {
     "id": "metrophobic",
@@ -9590,13 +9638,14 @@
   "molle": {
     "id": "molle",
     "authors": {
-      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name \"Spinnaker\"."
+      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name \"Spinnaker\".",
+      "email": "eben@eyebytes.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Spinnaker\"."
+    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Name \"Spinnaker\"."
   },
   "monda": {
     "id": "monda",
@@ -9637,13 +9686,14 @@
   "monoton": {
     "id": "monoton",
     "authors": {
-      "copyright": "Copyright 2011 by vernon adams. All rights reserved."
+      "copyright": "Copyright 2011, Vernon Adams with Reserved Font Name 'Monoton'. All rights reserved.",
+      "email": "vern@newtypography.co.uk"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011 by vernon adams. All rights reserved."
+    "original": "Copyright (c) 2011, Vernon Adams (vern@newtypography.co.uk) with Reserved Font Name 'Monoton'. All rights reserved."
   },
   "monsieur-la-doulaise": {
     "id": "monsieur-la-doulaise",
@@ -10034,35 +10084,35 @@
   "nanum-gothic": {
     "id": "nanum-gothic",
     "authors": {
-      "copyright": "Copyright 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+      "copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright  2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+    "original": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
   },
   "nanum-gothic-coding": {
     "id": "nanum-gothic-coding",
     "authors": {
-      "copyright": "Copyright 2009 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+      "copyright": "Copyright © 2009 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright  2009 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+    "original": "Copyright © 2009 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
   },
   "nanum-myeongjo": {
     "id": "nanum-myeongjo",
     "authors": {
-      "copyright": "Copyright 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX."
+      "copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright  2010 NHN Corporation. All rights reserved. Font designed by FONTRIX."
+    "original": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX."
   },
   "nanum-pen-script": {
     "id": "nanum-pen-script",
@@ -10258,13 +10308,14 @@
   "nosifer": {
     "id": "nosifer",
     "authors": {
-      "copyright": "Copyright 2011, Typomondo, with Reserved Font Name \"Nosifer\""
+      "copyright": "Copyright 2011, Vernon Adams DBA Typomondo with Reserved Font Name \"Nosifer\"",
+      "email": "vern@newtypography.co.uk"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Typomondo, with Reserved Font Name \"Nosifer\""
+    "original": "Copyright (c) 2011, Vernon Adams DBA Typomondo (vern@newtypography.co.uk), with Reserved Font Name \"Nosifer\""
   },
   "notable": {
     "id": "notable",
@@ -10281,14 +10332,15 @@
   "nothing-you-could-do": {
     "id": "nothing-you-could-do",
     "authors": {
-      "copyright": "Copyright 2010, Kimberly Geswein kimberlygeswein.com. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license available with a FAQ at",
-      "website": "http://scripts.sil.org/OFL"
+      "copyright": "Copyright 2010, Kimberly Geswein kimberlygeswein.com This Font Software is licensed under the SIL Open Font License, Version 1.1. This license available with a FAQ at",
+      "website": "http://scripts.sil.org/OFL",
+      "email": "kimberlygeswein@gmail.com."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com). This Font Software is licensed under the SIL Open Font License, Version 1.1. This license available with a FAQ at: http://scripts.sil.org/OFL"
+    "original": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com kimberlygeswein@gmail.com). This Font Software is licensed under the SIL Open Font License, Version 1.1. This license available with a FAQ at: http://scripts.sil.org/OFL"
   },
   "noticia-text": {
     "id": "noticia-text",
@@ -10863,14 +10915,14 @@
   "noto-sans-hk": {
     "id": "noto-sans-hk",
     "authors": {
-      "copyright": "Copyright 2014, 2015, 2018 Adobe Systems Incorporated",
-      "website": "http://www.adobe.com/."
+      "copyright": "2014-2021 Adobe with Reserved Font Name 'Source'.",
+      "website": "http://www.adobe.com/"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright  2014, 2015, 2018 Adobe Systems Incorporated (http://www.adobe.com/)."
+    "original": "(c) 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'."
   },
   "noto-sans-hanifi-rohingya": {
     "id": "noto-sans-hanifi-rohingya",
@@ -10934,21 +10986,27 @@
   },
   "noto-sans-indic-siyaq-numbers": {
     "id": "noto-sans-indic-siyaq-numbers",
-    "authors": {"copyright": "Copyright 2019 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/indic-siyaq-numbers"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2019 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/indic-siyaq-numbers)"
   },
   "noto-sans-inscriptional-pahlavi": {
     "id": "noto-sans-inscriptional-pahlavi",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/inscriptional-pahlavi"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/inscriptional-pahlavi)"
   },
   "noto-sans-inscriptional-parthian": {
     "id": "noto-sans-inscriptional-parthian",
@@ -10989,14 +11047,14 @@
   "noto-sans-kr": {
     "id": "noto-sans-kr",
     "authors": {
-      "copyright": "Copyright 2014-2020 Adobe",
-      "website": "http://www.adobe.com/."
+      "copyright": "2014-2021 Adobe with Reserved Font Name 'Source'.",
+      "website": "http://www.adobe.com/"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2014-2020 Adobe (http://www.adobe.com/)."
+    "original": "(c) 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'."
   },
   "noto-sans-kaithi": {
     "id": "noto-sans-kaithi",
@@ -11270,12 +11328,15 @@
   },
   "noto-sans-mayan-numerals": {
     "id": "noto-sans-mayan-numerals",
-    "authors": {"copyright": "Copyright 2019 Google LLC. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/mayan-numerals"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2019 Google LLC. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/mayan-numerals)"
   },
   "noto-sans-medefaidrin": {
     "id": "noto-sans-medefaidrin",
@@ -11738,14 +11799,14 @@
   "noto-sans-sc": {
     "id": "noto-sans-sc",
     "authors": {
-      "copyright": "Copyright 2014, 2015 Adobe Systems Incorporated",
-      "website": "http://www.adobe.com/."
+      "copyright": "2014-2021 Adobe with Reserved Font Name 'Source'.",
+      "website": "http://www.adobe.com/"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright  2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/)."
+    "original": "(c) 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'."
   },
   "noto-sans-samaritan": {
     "id": "noto-sans-samaritan",
@@ -11942,14 +12003,14 @@
   "noto-sans-tc": {
     "id": "noto-sans-tc",
     "authors": {
-      "copyright": "Copyright 2014, 2015 Adobe Systems Incorporated",
-      "website": "http://www.adobe.com/."
+      "copyright": "2014-2021 Adobe with Reserved Font Name 'Source'.",
+      "website": "http://www.adobe.com/"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright  2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/)."
+    "original": "(c) 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'."
   },
   "noto-sans-tagalog": {
     "id": "noto-sans-tagalog",
@@ -12708,12 +12769,15 @@
   },
   "nova-mono": {
     "id": "nova-mono",
-    "authors": {"copyright": "wmk69 SIL - Open Font License v.1.1"},
+    "authors": {
+      "copyright": "Copyright 2011, Wojciech 'wmk69' Kalinowski",
+      "email": "wmk69@o2.pl"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "wmk69 SIL - Open Font License v.1.1"
+    "original": "Copyright (c) 2011, Wojciech 'wmk69' Kalinowski (wmk69@o2.pl)"
   },
   "nova-oval": {
     "id": "nova-oval",
@@ -12885,13 +12949,14 @@
   "oldenburg": {
     "id": "oldenburg",
     "authors": {
-      "copyright": "Copyright 2010 by Sorkin Type Co with Reserved Font Name Oldenburgh."
+      "copyright": "Copyright 2010 by Sorkin Type Co with Reserved Font Name Oldenburgh.",
+      "email": "eben@eyebytes.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Oldenburgh."
+    "original": "Copyright (c) 2010 by Sorkin Type Co (eben@eyebytes.com) with Reserved Font Name Oldenburgh."
   },
   "ole": {
     "id": "ole",
@@ -13064,13 +13129,14 @@
   "over-the-rainbow": {
     "id": "over-the-rainbow",
     "authors": {
-      "copyright": "Copyright 2010, Kimberly Geswein kimberlygeswein.com"
+      "copyright": "Copyright 2010, Kimberly Geswein kimberlygeswein.com",
+      "email": "kimberlygeswein@gmail.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)"
+    "original": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com kimberlygeswein@gmail.com)"
   },
   "overlock": {
     "id": "overlock",
@@ -13088,13 +13154,14 @@
     "id": "overlock-sc",
     "authors": {
       "copyright": "Copyright 2011, Dario Manuel Muhafara with Reserved Font Name \"Overlock\".",
-      "website": "http://www.tipo.net.ar"
+      "website": "http://www.tipo.net.ar",
+      "email": "dario@tipo.net.ar"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Overlock\"."
+    "original": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar dario@tipo.net.ar), with Reserved Font Name \"Overlock\"."
   },
   "overpass": {
     "id": "overpass",
@@ -13341,13 +13408,14 @@
   "passero-one": {
     "id": "passero-one",
     "authors": {
-      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Names \"Passero\""
+      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Names \"Passero\"",
+      "email": "eben@eyebytes.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Names \"Passero\""
+    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Names \"Passero\""
   },
   "passion-one": {
     "id": "passion-one",
@@ -13412,14 +13480,14 @@
   "patrick-hand-sc": {
     "id": "patrick-hand-sc",
     "authors": {
-      "copyright": "Copyright 2010-2012 Patrick Wagesreiter",
+      "copyright": "Copyright 2012 The Patrick Hand Authors",
       "email": "mail@patrickwagesreiter.at"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2010-2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)"
+    "original": "Copyright 2012 The Patrick Hand Authors (mail@patrickwagesreiter.at)"
   },
   "pattaya": {
     "id": "pattaya",
@@ -13711,25 +13779,26 @@
   "poiret-one": {
     "id": "poiret-one",
     "authors": {
-      "copyright": "Copyright 2011, Denis Masharov",
-      "email": "denis.masharov@gmail.com"
+      "copyright": "Copyright 2011 The Poiret One Project Authors",
+      "website": "https://github.com/alexeiva/poiretone"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Denis Masharov (denis.masharov@gmail.com)"
+    "original": "Copyright 2011 The Poiret One Project Authors (https://github.com/alexeiva/poiretone)"
   },
   "poller-one": {
     "id": "poller-one",
     "authors": {
-      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Names \"Poller\" and \"Poller One\"."
+      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Names \"Poller\" and \"Poller One\".",
+      "email": "eben@eyebytes.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Names \"Poller\" and \"Poller One\"."
+    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Names \"Poller\" and \"Poller One\"."
   },
   "poltawski-nowy": {
     "id": "poltawski-nowy",
@@ -13758,13 +13827,14 @@
   "pompiere": {
     "id": "pompiere",
     "authors": {
-      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name \"Pompiere\"."
+      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name \"Pompiere\".",
+      "email": "eben@eyebytes.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Pompiere\"."
+    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Name \"Pompiere\"."
   },
   "pontano-sans": {
     "id": "pontano-sans",
@@ -13803,25 +13873,27 @@
     "id": "port-lligat-sans",
     "authors": {
       "copyright": "Copyright 2011, Tipo with Reserved Font Name \"Port Lligat Sans\"",
-      "website": "http://www.tipo.net.ar"
+      "website": "http://www.tipo.net.ar",
+      "email": "dario@tipo.net.ar"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Tipo (http://www.tipo.net.ar), with Reserved Font Name \"Port Lligat Sans\""
+    "original": "Copyright (c) 2011, Tipo (http://www.tipo.net.ar dario@tipo.net.ar), with Reserved Font Name \"Port Lligat Sans\""
   },
   "port-lligat-slab": {
     "id": "port-lligat-slab",
     "authors": {
       "copyright": "Copyright 2011, Tipo with Reserved Font Name \"Port Lligat Slab\"",
-      "website": "http://www.tipo.net.ar"
+      "website": "http://www.tipo.net.ar",
+      "email": "dario@tipo.net.ar"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Tipo (http://www.tipo.net.ar), with Reserved Font Name \"Port Lligat Slab\""
+    "original": "Copyright (c) 2011, Tipo (http://www.tipo.net.ar dario@tipo.net.ar), with Reserved Font Name \"Port Lligat Slab\""
   },
   "potta-one": {
     "id": "potta-one",
@@ -14015,6 +14087,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name \"Purple Purse\""
+  },
+  "pushster": {
+    "id": "pushster",
+    "authors": {
+      "copyright": "Copyright 2010 xyz The Lobster Project Authors with Reserved Font Name \"Lobster\".4",
+      "website": "https://github.com/impallari/The-Lobster-Font"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2010 xyz The Lobster Project Authors (https://github.com/impallari/The-Lobster-Font), with Reserved Font Name \"Lobster\".4"
   },
   "qahiri": {
     "id": "qahiri",
@@ -14338,13 +14422,14 @@
   "rationale": {
     "id": "rationale",
     "authors": {
-      "copyright": "Copyright 2011, Cyreal www.cyreal.org with Reserved Font Name \"Rationale\"."
+      "copyright": "Copyright 2011, Cyreal www.cyreal.org with Reserved Font Name \"Rationale\".",
+      "email": "a@cyreal.org"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Rationale\"."
+    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org a@cyreal.org) with Reserved Font Name \"Rationale\"."
   },
   "ravi-prakash": {
     "id": "ravi-prakash",
@@ -14773,13 +14858,14 @@
   "rosarivo": {
     "id": "rosarivo",
     "authors": {
-      "copyright": "Copyright 2011, UGR Design www.ugrdesign.com.ar, with Reserved Font Names \"Rosarivo\", \"Rosarivo Pro\", \"Rosarivo UGR\""
+      "copyright": "Copyright 2011, UGR Design www.ugrdesign.com.ar with Reserved Font Names \"Rosarivo\", \"Rosarivo Pro\", \"Rosarivo UGR\"",
+      "email": "info@ugrdesign.com.ar"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, UGR Design (www.ugrdesign.com.ar), with Reserved Font Names \"Rosarivo\", \"Rosarivo Pro\", \"Rosarivo UGR\""
+    "original": "Copyright (c) 2011, UGR Design (www.ugrdesign.com.ar info@ugrdesign.com.ar), with Reserved Font Names \"Rosarivo\", \"Rosarivo Pro\", \"Rosarivo UGR\""
   },
   "rouge-script": {
     "id": "rouge-script",
@@ -14976,14 +15062,14 @@
   "rubik-mono-one": {
     "id": "rubik-mono-one",
     "authors": {
-      "copyright": "Copyright 2013, 2014, Hubert and Fischer, Philipp Hubert Sebastian Fischer",
-      "email": "philipp@hubertfischer.com, sebastian@hubertfischer.com"
+      "copyright": "Copyright 2015 The Rubik Project Authors",
+      "email": "mail@hubertfischer.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2013, 2014, Hubert and Fischer, Philipp Hubert (philipp@hubertfischer.com), Sebastian Fischer (sebastian@hubertfischer.com)"
+    "original": "Copyright 2015 The Rubik Project Authors (mail@hubertfischer.com)"
   },
   "rubik-moonrocks": {
     "id": "rubik-moonrocks",
@@ -15178,13 +15264,14 @@
   "rye": {
     "id": "rye",
     "authors": {
-      "copyright": "Copyright 2012, Sorkin Type Co with Reserved Font Name 'Rye'"
+      "copyright": "Copyright 2012, Sorkin Type Co with Reserved Font Name 'Rye'",
+      "email": "eben@eyebytes.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2012, Sorkin Type Co with Reserved Font Name 'Rye'"
+    "original": "Copyright (c) 2012, Sorkin Type Co (eben@eyebytes.com) with Reserved Font Name 'Rye'"
   },
   "stix-two-text": {
     "id": "stix-two-text",
@@ -15380,13 +15467,14 @@
   "sarina": {
     "id": "sarina",
     "authors": {
-      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name \"Sarina\"."
+      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name \"Sarina\".",
+      "email": "eben@eyebytes.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Sarina\"."
+    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Name \"Sarina\"."
   },
   "sarpanch": {
     "id": "sarpanch",
@@ -15591,33 +15679,38 @@
   "seymour-one": {
     "id": "seymour-one",
     "authors": {
-      "copyright": "Copyright 2011-12 by vernon adams. All rights reserved."
+      "copyright": "Copyright 2011-12 by vernon adams with Reserved Font Names 'Seymour'. All rights reserved.",
+      "email": "vern@newtypography.co.uk"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011-12 by vernon adams. All rights reserved."
+    "original": "Copyright (c) 2011-12 by vernon adams (vern@newtypography.co.uk) with Reserved Font Names 'Seymour'. All rights reserved."
   },
   "shadows-into-light": {
     "id": "shadows-into-light",
     "authors": {
-      "copyright": "Copyright 2010, Kimberly Geswein kimberlygeswein.com"
+      "copyright": "Copyright 2010, Kimberly Geswein kimberlygeswein.com",
+      "email": "kimberlygeswein@gmail.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)"
+    "original": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com kimberlygeswein@gmail.com)"
   },
   "shadows-into-light-two": {
     "id": "shadows-into-light-two",
-    "authors": {"copyright": "Copyright 2012, Kimberly Geswein."},
+    "authors": {
+      "copyright": "Copyright 2012, Kimberly Geswein",
+      "email": "kimberlygeswein@gmail.com."
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2012, Kimberly Geswein."
+    "original": "Copyright (c) 2012, Kimberly Geswein (kimberlygeswein@gmail.com)."
   },
   "shalimar": {
     "id": "shalimar",
@@ -15788,14 +15881,15 @@
   "siemreap": {
     "id": "siemreap",
     "authors": {
-      "copyright": "Copyright 2010, Danh Hong khmertype.blogspot.com,??with Reserved Font Name Khmer OS Siemreap.??This Font Software is licensed under the SIL Open Font License, Version 1.1.??This license is available with a FAQ at",
-      "website": "http://scripts.sil.org/OFL"
+      "copyright": "Copyright 2010, Danh Hong khmertype.blogspot.com with Reserved Font Name Khmer OS Siemreap. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at",
+      "website": "http://scripts.sil.org/OFL",
+      "email": "danhhong@gmail.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2010, Danh Hong (khmertype.blogspot.com),??with Reserved Font Name Khmer OS Siemreap.??This Font Software is licensed under the SIL Open Font License, Version 1.1.??This license is available with a FAQ at: http://scripts.sil.org/OFL"
+    "original": "Copyright (c) 2010, Danh Hong (khmertype.blogspot.com danhhong@gmail.com), with Reserved Font Name Khmer OS Siemreap. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
   },
   "sigmar": {
     "id": "sigmar",
@@ -15884,36 +15978,39 @@
     "id": "sintony",
     "authors": {
       "copyright": "Copyright 2013, Eduardo Tunni with Reserved Font Name 'Sintony'",
-      "website": "http://www.tipo.net.ar"
+      "website": "http://www.tipo.net.ar",
+      "email": "edu@tipo.net.ar"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2013, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Sintony'"
+    "original": "Copyright (c) 2013, Eduardo Tunni (http://www.tipo.net.ar edu@tipo.net.ar), with Reserved Font Name 'Sintony'"
   },
   "sirin-stencil": {
     "id": "sirin-stencil",
     "authors": {
       "copyright": "Copyright 2011, Cyreal www.cyreal.org with Reserved Font Name \"Sirin\" and \"Sirin Stencil\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at",
-      "website": "http://scripts.sil.org/OFL"
+      "website": "http://scripts.sil.org/OFL",
+      "email": "a@cyreal.org"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Sirin\" and \"Sirin Stencil\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org a@cyreal.org) with Reserved Font Name \"Sirin\" and \"Sirin Stencil\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
   },
   "six-caps": {
     "id": "six-caps",
     "authors": {
-      "copyright": "Copyright 2010 by vernon adams. All rights reserved."
+      "copyright": "Copyright 2010 by vernon adams with Reserved Font Names 'Six Caps'. All rights reserved.",
+      "email": "vern@newtypography.co.uk"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2010 by vernon adams. All rights reserved."
+    "original": "Copyright (c) 2010 by vernon adams (vern@newtypography.co.uk) with Reserved Font Names 'Six Caps'. All rights reserved."
   },
   "skranji": {
     "id": "skranji",
@@ -16313,13 +16410,14 @@
   "spinnaker": {
     "id": "spinnaker",
     "authors": {
-      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name \"Spinnaker\"."
+      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name \"Spinnaker\".",
+      "email": "eben@eyebytes.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Spinnaker\"."
+    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Name \"Spinnaker\"."
   },
   "spirax": {
     "id": "spirax",
@@ -16373,13 +16471,14 @@
     "id": "squada-one",
     "authors": {
       "copyright": "Copyright 2011, Admix Designs with Reserved Font Name Squada.",
-      "website": "http://www.admixdesigns.com/"
+      "website": "http://www.admixdesigns.com",
+      "email": "joe@admixdesigns.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com/) with Reserved Font Name Squada."
+    "original": "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com joe@admixdesigns.com) with Reserved Font Name Squada."
   },
   "square-peg": {
     "id": "square-peg",
@@ -16527,13 +16626,14 @@
   "stoke": {
     "id": "stoke",
     "authors": {
-      "copyright": "Copyright 2012, Sorkin Type Co www.sorkintype.com, with Reserved Font Name 'Stoke'"
+      "copyright": "Copyright 2012, Sorkin Type Co www.sorkintype.com with Reserved Font Name 'Stoke'",
+      "email": "eben@eyebytes.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com), with Reserved Font Name 'Stoke'"
+    "original": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com), with Reserved Font Name 'Stoke'"
   },
   "strait": {
     "id": "strait",
@@ -16573,13 +16673,14 @@
   "sue-ellen-francisco": {
     "id": "sue-ellen-francisco",
     "authors": {
-      "copyright": "Copyright 2010, Kimberly Geswein kimberlygeswein.com"
+      "copyright": "Copyright 2010, Kimberly Geswein kimberlygeswein.com",
+      "email": "kimberlygeswein@gmail.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)"
+    "original": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com kimberlygeswein@gmail.com)"
   },
   "suez-one": {
     "id": "suez-one",
@@ -16638,13 +16739,14 @@
   "supermercado-one": {
     "id": "supermercado-one",
     "authors": {
-      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name \"Supermercado One\"."
+      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name \"Supermercado One\".",
+      "email": "eben@eyebytes.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Supermercado One\"."
+    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Name \"Supermercado One\"."
   },
   "sura": {
     "id": "sura",
@@ -16811,13 +16913,14 @@
   "tauri": {
     "id": "tauri",
     "authors": {
-      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name 'Tauri'."
+      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name 'Tauri'.",
+      "email": "eben@eyebytes.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Tauri'."
+    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Name 'Tauri'."
   },
   "taviraj": {
     "id": "taviraj",
@@ -16834,13 +16937,14 @@
   "teko": {
     "id": "teko",
     "authors": {
-      "copyright": "Copyright 2014 Indian Type Foundry. All rights reserved."
+      "copyright": "Copyright 2023 The Teko Project Authors",
+      "website": "https://www.github.com/googlefonts/teko"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2014 Indian Type Foundry. All rights reserved."
+    "original": "Copyright 2023 The Teko Project Authors (https://www.github.com/googlefonts/teko)"
   },
   "tektur": {
     "id": "tektur",
@@ -16930,13 +17034,14 @@
   "the-girl-next-door": {
     "id": "the-girl-next-door",
     "authors": {
-      "copyright": "Copyright 2010, Kimberly Geswein kimberlygeswein.com"
+      "copyright": "Copyright 2010, Kimberly Geswein kimberlygeswein.com",
+      "email": "kimberlygeswein@gmail.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)"
+    "original": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com kimberlygeswein@gmail.com)"
   },
   "the-nautigal": {
     "id": "the-nautigal",
@@ -17286,13 +17391,14 @@
   "tulpen-one": {
     "id": "tulpen-one",
     "authors": {
-      "copyright": "Copyright 2011, Naima Ben Ayed, with Reserved Font Names \"Tulpen\" and \"Tulpen One\"."
+      "copyright": "Copyright 2011, Naima Ben Ayed with Reserved Font Names \"Tulpen\" and \"Tulpen One\".",
+      "email": "naima.benayed@gmail.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Naima Ben Ayed, with Reserved Font Names \"Tulpen\" and \"Tulpen One\"."
+    "original": "Copyright (c) 2011, Naima Ben Ayed (naima.benayed@gmail.com), with Reserved Font Names \"Tulpen\" and \"Tulpen One\"."
   },
   "turret-road": {
     "id": "turret-road",
@@ -17425,24 +17531,26 @@
   "unifrakturcook": {
     "id": "unifrakturcook",
     "authors": {
-      "copyright": "Copyright 2010 j. 'mach' wust with Reserved Font Name UnifrakturCook. Copyright 2009 Peter Wiegel. This Font Software is licensed under the SIL Open Font License, Version 1.1."
+      "copyright": "Copyright 2010 j. 'mach' wust with Reserved Font Name UnifrakturCook. Copyright 2009 Peter Wiegel This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+      "email": "j.mach.wust@gmail.com, wiegel@peter-wiegel.de."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2010 j. 'mach' wust with Reserved Font Name UnifrakturCook. Copyright (c) 2009 Peter Wiegel. This Font Software is licensed under the SIL Open Font License, Version 1.1."
+    "original": "Copyright (c) 2010 j. 'mach' wust (j.mach.wust@gmail.com) with Reserved Font Name UnifrakturCook. Copyright (c) 2009 Peter Wiegel (wiegel@peter-wiegel.de). This Font Software is licensed under the SIL Open Font License, Version 1.1."
   },
   "unifrakturmaguntia": {
     "id": "unifrakturmaguntia",
     "authors": {
-      "copyright": "Copyright 2010 j. 'mach' wust with Reserved Font Name UnifrakturMaguntia. Copyright 2009 Peter Wiegel. This Font Software is licensed under the SIL Open Font License, Version 1.1."
+      "copyright": "Copyright 2010 j. 'mach' wust with Reserved Font Name UnifrakturMaguntia. Copyright 2009 Peter Wiegel This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+      "email": "j.mach.wust@gmail.com, wiegel@peter-wiegel.de."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2010 j. 'mach' wust with Reserved Font Name UnifrakturMaguntia. Copyright (c) 2009 Peter Wiegel. This Font Software is licensed under the SIL Open Font License, Version 1.1."
+    "original": "Copyright (c) 2010 j. 'mach' wust (j.mach.wust@gmail.com) with Reserved Font Name UnifrakturMaguntia. Copyright (c) 2009 Peter Wiegel (wiegel@peter-wiegel.de). This Font Software is licensed under the SIL Open Font License, Version 1.1."
   },
   "unkempt": {
     "id": "unkempt",
@@ -17566,13 +17674,14 @@
     "id": "vast-shadow",
     "authors": {
       "copyright": "Copyright 2010 by Sorkin Type Co with Reserved Font Name Vast and Vast Shadow. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at",
-      "website": "http://scripts.sil.org/OFL"
+      "website": "http://scripts.sil.org/OFL",
+      "email": "eben@eyebytes.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Vast and Vast Shadow. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL"
+    "original": "Copyright (c) 2010 by Sorkin Type Co (eben@eyebytes.com) with Reserved Font Name Vast and Vast Shadow. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL"
   },
   "vazirmatn": {
     "id": "vazirmatn",
@@ -17755,13 +17864,14 @@
   "waiting-for-the-sunrise": {
     "id": "waiting-for-the-sunrise",
     "authors": {
-      "copyright": "Copyright 2010, Kimberly Geswein kimberlygeswein.com"
+      "copyright": "Copyright 2010, Kimberly Geswein kimberlygeswein.com",
+      "email": "kimberlygeswein@gmail.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)"
+    "original": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com kimberlygeswein@gmail.com)"
   },
   "wallpoet": {
     "id": "wallpoet",
@@ -17822,16 +17932,29 @@
     },
     "original": "Copyright 2011 The Waterfall Project Authors (https://github.com/googlefonts/waterfall)"
   },
-  "wellfleet": {
-    "id": "wellfleet",
+  "wavefont": {
+    "id": "wavefont",
     "authors": {
-      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com, with Reserved Font Name Wellfleet"
+      "copyright": "Copyright 2022 The Wavefont Project Authors",
+      "website": "https://github.com/dy/wavefont"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com), with Reserved Font Name Wellfleet"
+    "original": "Copyright 2022 The Wavefont Project Authors (https://github.com/dy/wavefont)"
+  },
+  "wellfleet": {
+    "id": "wellfleet",
+    "authors": {
+      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name Wellfleet",
+      "email": "eben@eyebytes.com"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com), with Reserved Font Name Wellfleet"
   },
   "wendy-one": {
     "id": "wendy-one",
@@ -18322,13 +18445,14 @@
   "zeyada": {
     "id": "zeyada",
     "authors": {
-      "copyright": "Copyright 2010, Kimberly Geswein kimberlygeswein.com"
+      "copyright": "Copyright 2010, Kimberly Geswein kimberlygeswein.com",
+      "email": "kimberlygeswein@gmail.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)"
+    "original": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com kimberlygeswein@gmail.com)"
   },
   "zhi-mang-xing": {
     "id": "zhi-mang-xing",

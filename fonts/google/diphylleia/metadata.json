@@ -1,0 +1,19 @@
+{
+  "id": "diphylleia",
+  "family": "Diphylleia",
+  "subsets": ["korean", "latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-06-07",
+  "version": "v1",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2022 The Diphylleia Project Authors (https://github.com/JAMO-TYPEFACE/Diphylleia)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

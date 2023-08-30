@@ -15,11 +15,11 @@
   "variable": {
     "slnt": {"default": "0", "min": "-12", "max": "0", "step": "1"},
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"},
-    "FLAR": {"default": "0", "min": "0", "max": "100", "step": "0.1"},
+    "FLAR": {"default": "0", "min": "0", "max": "100", "step": "1"},
     "VOLM": {"default": "0", "min": "0", "max": "100", "step": "1"}
   },
-  "lastModified": "2023-04-05",
-  "version": "v19",
+  "lastModified": "2023-05-02",
+  "version": "v20",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

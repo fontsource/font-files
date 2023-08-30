@@ -1,12 +1,12 @@
 $id: 'noto-sans-imperial-aramaic' !default;
 $family: 'Noto Sans Imperial Aramaic' !default;
 $category: sans-serif !default;
-$subsets: (imperial-aramaic) !default;
+$subsets: (imperial-aramaic, latin, latin-ext) !default;
 $weights: (400) !default;
 $styles: (normal) !default;
 $axes: null !default;
 $defaults: (
-  subset: imperial-aramaic,
+  subset: latin,
   weight: 400,
   style: normal,
   axis: null,

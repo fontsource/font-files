@@ -1,0 +1,19 @@
+{
+  "id": "belanosima",
+  "family": "Belanosima",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400, 600, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-08-25",
+  "version": "v3",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2023 The Belanosima Project Authors (https://github.com/docrepair-fonts/belanosima-fonts), with Reserved Font Name \"Josefin Sans\"."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

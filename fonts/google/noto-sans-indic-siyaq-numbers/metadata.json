@@ -1,18 +1,18 @@
 {
   "id": "noto-sans-indic-siyaq-numbers",
   "family": "Noto Sans Indic Siyaq Numbers",
-  "subsets": ["indic-siyaq-numbers"],
+  "subsets": ["indic-siyaq-numbers", "latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "indic-siyaq-numbers",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-05-10",
-  "version": "v15",
+  "lastModified": "2023-08-17",
+  "version": "v16",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2019 Google Inc. All Rights Reserved."
+    "attribution": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/indic-siyaq-numbers)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

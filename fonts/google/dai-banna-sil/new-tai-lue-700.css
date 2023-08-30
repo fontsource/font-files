@@ -1,0 +1,8 @@
+/* dai-banna-sil-new-tai-lue-700-normal */
+@font-face {
+  font-family: 'Dai Banna SIL';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./files/dai-banna-sil-new-tai-lue-700-normal.woff2) format('woff2'), url(./files/dai-banna-sil-new-tai-lue-700-normal.woff) format('woff');
+}
