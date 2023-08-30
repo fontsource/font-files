@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/oleo-script",
-  "version": "5.0.8",
+  "version": "5.0.9",
   "description": "Self-host the Oleo Script font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},

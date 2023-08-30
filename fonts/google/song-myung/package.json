@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/song-myung",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Song Myung font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
