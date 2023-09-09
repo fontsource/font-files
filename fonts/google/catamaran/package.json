@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/catamaran",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Catamaran font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/catamaran"
   },
-  "publishHash": "63a1b4030a32b55a"
+  "publishHash": "e181aba3b0d611b9"
 }

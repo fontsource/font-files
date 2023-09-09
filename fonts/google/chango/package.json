@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/chango",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Chango font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/chango"
   },
-  "publishHash": "4b4a7d3992823307"
+  "publishHash": "d4b4635de2341247"
 }

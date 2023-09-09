@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/red-rose",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Red Rose font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/red-rose"
   },
-  "publishHash": "958489a168db3fdc"
+  "publishHash": "11eb07bcd1dd903c"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kanit",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Kanit font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kanit"
   },
-  "publishHash": "440da635acd5eac8"
+  "publishHash": "8a5fa6719f14c392"
 }

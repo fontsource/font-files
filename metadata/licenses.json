@@ -10365,12 +10365,14 @@
   },
   "noto-emoji": {
     "id": "noto-emoji",
-    "authors": {"copyright": "Copyright Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2013, 2022 Google Inc. All Rights Reserved."
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright  Google Inc. All Rights Reserved."
+    "original": "Copyright 2013, 2022 Google Inc. All Rights Reserved."
   },
   "noto-kufi-arabic": {
     "id": "noto-kufi-arabic",
@@ -14087,18 +14089,6 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name \"Purple Purse\""
-  },
-  "pushster": {
-    "id": "pushster",
-    "authors": {
-      "copyright": "Copyright 2010 xyz The Lobster Project Authors with Reserved Font Name \"Lobster\".4",
-      "website": "https://github.com/impallari/The-Lobster-Font"
-    },
-    "license": {
-      "type": "SIL Open Font License, 1.1",
-      "url": "http://scripts.sil.org/OFL"
-    },
-    "original": "Copyright 2010 xyz The Lobster Project Authors (https://github.com/impallari/The-Lobster-Font), with Reserved Font Name \"Lobster\".4"
   },
   "qahiri": {
     "id": "qahiri",

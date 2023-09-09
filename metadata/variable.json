@@ -4604,16 +4604,17 @@
     "variants": {
       "wght": {
         "normal": {
-          "[0]": "https://fonts.gstatic.com/s/notoemoji/v39/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.0.woff2",
-          "[1]": "https://fonts.gstatic.com/s/notoemoji/v39/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.1.woff2",
-          "[2]": "https://fonts.gstatic.com/s/notoemoji/v39/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.2.woff2",
-          "[3]": "https://fonts.gstatic.com/s/notoemoji/v39/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.3.woff2",
-          "[4]": "https://fonts.gstatic.com/s/notoemoji/v39/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.4.woff2",
-          "[5]": "https://fonts.gstatic.com/s/notoemoji/v39/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.5.woff2",
-          "[6]": "https://fonts.gstatic.com/s/notoemoji/v39/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.6.woff2",
-          "[7]": "https://fonts.gstatic.com/s/notoemoji/v39/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.7.woff2",
-          "[8]": "https://fonts.gstatic.com/s/notoemoji/v39/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.8.woff2",
-          "[9]": "https://fonts.gstatic.com/s/notoemoji/v39/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.9.woff2"
+          "[0]": "https://fonts.gstatic.com/s/notoemoji/v46/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.0.woff2",
+          "[1]": "https://fonts.gstatic.com/s/notoemoji/v46/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.1.woff2",
+          "[2]": "https://fonts.gstatic.com/s/notoemoji/v46/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.2.woff2",
+          "[3]": "https://fonts.gstatic.com/s/notoemoji/v46/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.3.woff2",
+          "[4]": "https://fonts.gstatic.com/s/notoemoji/v46/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.4.woff2",
+          "[5]": "https://fonts.gstatic.com/s/notoemoji/v46/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.5.woff2",
+          "[6]": "https://fonts.gstatic.com/s/notoemoji/v46/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.6.woff2",
+          "[7]": "https://fonts.gstatic.com/s/notoemoji/v46/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.7.woff2",
+          "[8]": "https://fonts.gstatic.com/s/notoemoji/v46/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.8.woff2",
+          "[9]": "https://fonts.gstatic.com/s/notoemoji/v46/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.9.woff2",
+          "[10]": "https://fonts.gstatic.com/s/notoemoji/v46/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.10.woff2"
         }
       }
     }
@@ -8580,13 +8581,13 @@
     "variants": {
       "wght": {
         "normal": {
-          "cyrillic-ext": "https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2",
-          "cyrillic": "https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2",
-          "greek-ext": "https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2",
-          "greek": "https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2",
-          "vietnamese": "https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2",
-          "latin": "https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2"
+          "cyrillic-ext": "https://fonts.gstatic.com/s/robotoslab/v32/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2",
+          "cyrillic": "https://fonts.gstatic.com/s/robotoslab/v32/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2",
+          "greek-ext": "https://fonts.gstatic.com/s/robotoslab/v32/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2",
+          "greek": "https://fonts.gstatic.com/s/robotoslab/v32/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2",
+          "vietnamese": "https://fonts.gstatic.com/s/robotoslab/v32/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/robotoslab/v32/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2",
+          "latin": "https://fonts.gstatic.com/s/robotoslab/v32/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2"
         }
       }
     }

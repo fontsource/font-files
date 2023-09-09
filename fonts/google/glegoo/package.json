@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/glegoo",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Glegoo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/glegoo"
   },
-  "publishHash": "31c0edb2faf64c6c"
+  "publishHash": "28c51c41d6ac1e0c"
 }

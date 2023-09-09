@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sigmar-one",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Sigmar One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sigmar-one"
   },
-  "publishHash": "cc05053675d0cdd2"
+  "publishHash": "5f0570212dea9f19"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/big-shoulders-text",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Big Shoulders Text font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/big-shoulders-text"
   },
-  "publishHash": "16cb8090450f6c28"
+  "publishHash": "70b39e3bbea6b408"
 }

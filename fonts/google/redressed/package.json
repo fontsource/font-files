@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/redressed",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Redressed font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/redressed"
   },
-  "publishHash": "0401086e9c3951e0"
+  "publishHash": "bbbbc057e8b64fb9"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/passero-one",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Passero One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/passero-one"
   },
-  "publishHash": "e8de2860567c4647"
+  "publishHash": "19bb7654a7952487"
 }

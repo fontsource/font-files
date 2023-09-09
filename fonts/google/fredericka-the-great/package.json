@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fredericka-the-great",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Fredericka the Great font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fredericka-the-great"
   },
-  "publishHash": "e1228573f2e4d505"
+  "publishHash": "10b8e8e55ea2f888"
 }

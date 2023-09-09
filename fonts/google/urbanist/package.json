@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/urbanist",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Urbanist font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/urbanist"
   },
-  "publishHash": "68a60b4848908d6b"
+  "publishHash": "82ac9f5052e7c7d4"
 }

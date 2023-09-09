@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/qwitcher-grypen",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Qwitcher Grypen font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/qwitcher-grypen"
   },
-  "publishHash": "4717bfc5dbc2382d"
+  "publishHash": "0c7eaeefec8fbfcd"
 }

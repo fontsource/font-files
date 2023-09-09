@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/geologica",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Geologica font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/geologica"
-  }
+  },
+  "publishHash": "58a0b672928fc1c8"
 }

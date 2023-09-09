@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/cuprum",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Cuprum font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/cuprum"
   },
-  "publishHash": "b26a3b2129abcbad"
+  "publishHash": "17715d93d5d46b40"
 }

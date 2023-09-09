@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/jomhuria",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Jomhuria font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/jomhuria"
   },
-  "publishHash": "96d7c26195db91d9"
+  "publishHash": "1c36e45bfcdc072a"
 }

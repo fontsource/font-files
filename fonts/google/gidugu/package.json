@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gidugu",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Gidugu font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gidugu"
   },
-  "publishHash": "402f9763da1a8706"
+  "publishHash": "e10f0753ea817d22"
 }

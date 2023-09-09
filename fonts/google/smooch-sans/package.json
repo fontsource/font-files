@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/smooch-sans",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Smooch Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/smooch-sans"
   },
-  "publishHash": "704e0a09bf445891"
+  "publishHash": "17f51885b6fe9551"
 }

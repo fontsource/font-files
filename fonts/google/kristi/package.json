@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kristi",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Kristi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kristi"
   },
-  "publishHash": "287b09e310492da4"
+  "publishHash": "3327d10c43fecfb1"
 }

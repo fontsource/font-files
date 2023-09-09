@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/notable",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Notable font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/notable"
   },
-  "publishHash": "446fac006d54d8ea"
+  "publishHash": "45c25fa7abf6fc3b"
 }

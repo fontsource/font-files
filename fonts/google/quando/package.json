@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/quando",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Quando font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/quando"
   },
-  "publishHash": "455257876fca5670"
+  "publishHash": "3aef95ff9acfc571"
 }

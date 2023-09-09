@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/angkor",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Angkor font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/angkor"
   },
-  "publishHash": "52afbebd28e96f19"
+  "publishHash": "fd60f053f3d88b58"
 }

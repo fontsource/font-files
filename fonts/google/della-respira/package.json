@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/della-respira",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Della Respira font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/della-respira"
   },
-  "publishHash": "1e698ef31ef34299"
+  "publishHash": "28cf38b169135661"
 }

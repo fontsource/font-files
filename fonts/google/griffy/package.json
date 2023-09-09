@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/griffy",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Griffy font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/griffy"
   },
-  "publishHash": "4fba485e94b01331"
+  "publishHash": "6a0b2b84edada22f"
 }
