@@ -5,6 +5,7 @@
 	"packageManager": "pnpm@8.3.1",
 	"private": true,
 	"scripts": {
+		"check-duplicates": "tsx scripts/check-duplicates.ts",
 		"fontlist": "tsx scripts/fontlist.ts",
 		"gfm-metadata": "tsx scripts/gfm-metadata.ts",
 		"metadata": "tsx scripts/metadata.ts",

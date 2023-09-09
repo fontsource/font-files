@@ -1,6 +1,7 @@
 import stringify from 'json-stringify-pretty-compact';
 import path from 'pathe';
 import fs from 'node:fs';
+import { consola } from 'consola';
 
 import { getDirectories } from './utils';
 
@@ -34,6 +35,13 @@ const purgeDuplicates = () => {
 	const duplicates = directories.filter(
 		(item, index) => directories.indexOf(item) !== index
 	);
+
+	if (duplicates.length === 0) {
+		consola.success('No duplicates found.');
+		return;
+	} else {
+		consola.info(`Found ${duplicates} to be duplicated.`);
+	}
 
 	// Delete packages from other directory
 	for (const dir of duplicates) {
