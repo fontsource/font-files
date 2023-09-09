@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/abel",
-  "version": "5.0.10",
+  "version": "5.0.11",
   "description": "Self-host the Abel font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
