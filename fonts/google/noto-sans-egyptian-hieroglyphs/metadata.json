@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-egyptian-hieroglyphs",
   "family": "Noto Sans Egyptian Hieroglyphs",
-  "subsets": ["egyptian-hieroglyphs", "latin", "latin-ext"],
+  "subsets": ["egyptian-hieroglyphs"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "latin",
+  "defSubset": "egyptian-hieroglyphs",
   "variable": false,
-  "lastModified": "2023-07-24",
-  "version": "v28",
+  "lastModified": "2022-05-10",
+  "version": "v26",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-emoji",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Noto Emoji font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-emoji"
   },
-  "publishHash": "0525de3a69e76e22"
+  "publishHash": "00cda7e59d71598c"
 }

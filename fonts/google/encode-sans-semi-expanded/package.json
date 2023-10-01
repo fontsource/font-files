@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/encode-sans-semi-expanded",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Encode Sans Semi Expanded font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/encode-sans-semi-expanded"
   },
-  "publishHash": "04758beefeea6578"
+  "publishHash": "71e66ac2f54038e2"
 }

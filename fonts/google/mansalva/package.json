@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mansalva",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Mansalva font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mansalva"
   },
-  "publishHash": "ff27cabba5f5e893"
+  "publishHash": "3f04bd762f968b1d"
 }

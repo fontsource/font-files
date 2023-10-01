@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-khudawadi",
   "family": "Noto Sans Khudawadi",
-  "subsets": ["khudawadi", "latin", "latin-ext"],
+  "subsets": ["khudawadi"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "latin",
+  "defSubset": "khudawadi",
   "variable": false,
-  "lastModified": "2023-07-28",
-  "version": "v18",
+  "lastModified": "2022-11-09",
+  "version": "v16",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

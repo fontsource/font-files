@@ -1,15 +1,13 @@
 {
   "id": "noto-sans-kr",
   "family": "Noto Sans KR",
-  "subsets": ["cyrillic", "korean", "latin", "latin-ext", "vietnamese"],
-  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "subsets": ["korean", "latin"],
+  "weights": [100, 300, 400, 500, 700, 900],
   "styles": ["normal"],
   "defSubset": "latin",
-  "variable": {
-    "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
-  },
-  "lastModified": "2023-08-17",
-  "version": "v36",
+  "variable": false,
+  "lastModified": "2022-09-27",
+  "version": "v27",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

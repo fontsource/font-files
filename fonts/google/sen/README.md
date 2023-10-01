@@ -21,7 +21,7 @@ import "@fontsource/sen/400-italic.css"; // Specify weight and style
 ```
 
 Supported variables:
-- Weights: `[400,500,600,700,800]`
+- Weights: `[400,700,800]`
 - Styles: `[normal]`
 - Subsets: `[latin,latin-ext]`
 
@@ -42,6 +42,6 @@ Copyright 2023 The Sen Project Authors (https://github.com/philatype/Sen/)
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v9`.
+Font version (provided by source): `v7`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

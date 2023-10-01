@@ -6,9 +6,9 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-08-25",
-  "version": "v17",
-  "category": "display",
+  "lastModified": "2022-09-27",
+  "version": "v15",
+  "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",

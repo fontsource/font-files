@@ -43,6 +43,6 @@ Copyright 2019 The Manrope Project Authors (https://github.com/sharanda/manrope)
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v14`.
+Font version (provided by source): `v13`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

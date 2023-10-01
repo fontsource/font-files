@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-meroitic",
   "family": "Noto Sans Meroitic",
-  "subsets": ["latin", "latin-ext", "meroitic"],
+  "subsets": ["meroitic"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "latin",
+  "defSubset": "meroitic",
   "variable": false,
-  "lastModified": "2023-06-22",
-  "version": "v17",
+  "lastModified": "2022-05-10",
+  "version": "v16",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

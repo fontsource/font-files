@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-balinese",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Noto Serif Balinese font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-balinese"
   },
-  "publishHash": "cd862a3520b37ef7"
+  "publishHash": "be720d3bcc5e4234"
 }

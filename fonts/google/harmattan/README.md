@@ -21,7 +21,7 @@ import "@fontsource/harmattan/400-italic.css"; // Specify weight and style
 ```
 
 Supported variables:
-- Weights: `[400,500,600,700]`
+- Weights: `[400,700]`
 - Styles: `[normal]`
 - Subsets: `[arabic,latin,latin-ext]`
 
@@ -51,6 +51,6 @@ with Reserved Font Names "Harmattan" and "SIL".
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v19`.
+Font version (provided by source): `v17`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

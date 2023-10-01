@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/orelega-one",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Orelega One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/orelega-one"
   },
-  "publishHash": "554b5d107e2fa77d"
+  "publishHash": "6ea8dc415e86975a"
 }

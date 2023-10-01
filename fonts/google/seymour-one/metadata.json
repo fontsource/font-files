@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-08-25",
-  "version": "v22",
+  "lastModified": "2022-09-22",
+  "version": "v20",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2011-12 by vernon adams (vern@newtypography.co.uk) with Reserved Font Names 'Seymour'. All rights reserved."
+    "attribution": "Copyright 2011 The Seymour One Project Authors (https://github.com/googlefonts/seymourFont)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

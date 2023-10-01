@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/nanum-gothic-coding",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Nanum Gothic Coding font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/nanum-gothic-coding"
   },
-  "publishHash": "73946c24c8485f0e"
+  "publishHash": "86886a036e6e721e"
 }

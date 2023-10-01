@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-serif-khojki",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Noto Serif Khojki font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-serif-khojki"
   },
-  "publishHash": "f4c4d7bbc2639b94"
+  "publishHash": "1d391225ddd02969"
 }

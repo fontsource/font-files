@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/babylonica",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Babylonica font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/babylonica"
   },
-  "publishHash": "1e2b90c35c7a6a36"
+  "publishHash": "05285fe34719f0c9"
 }

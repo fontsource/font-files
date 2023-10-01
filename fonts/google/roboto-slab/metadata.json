@@ -16,8 +16,8 @@
   "variable": {
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
   },
-  "lastModified": "2023-09-06",
-  "version": "v32",
+  "lastModified": "2022-09-22",
+  "version": "v24",
   "category": "serif",
   "license": {
     "type": "Apache-2.0",

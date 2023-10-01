@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-hatran",
   "family": "Noto Sans Hatran",
-  "subsets": ["hatran", "latin", "latin-ext"],
+  "subsets": ["hatran"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "latin",
+  "defSubset": "hatran",
   "variable": false,
-  "lastModified": "2023-07-13",
-  "version": "v16",
+  "lastModified": "2022-05-10",
+  "version": "v15",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

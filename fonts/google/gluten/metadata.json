@@ -9,8 +9,8 @@
     "slnt": {"default": "0", "min": "-13", "max": "13", "step": "1"},
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
   },
-  "lastModified": "2023-08-25",
-  "version": "v16",
+  "lastModified": "2022-09-22",
+  "version": "v9",
   "category": "display",
   "license": {
     "type": "OFL-1.1",

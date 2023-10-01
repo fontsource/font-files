@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cute-font",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Cute Font font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cute-font"
   },
-  "publishHash": "328a44387700d57b"
+  "publishHash": "202b8a3fe6abe928"
 }
