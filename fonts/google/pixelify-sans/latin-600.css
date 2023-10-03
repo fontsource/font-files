@@ -1,0 +1,8 @@
+/* pixelify-sans-latin-600-normal */
+@font-face {
+  font-family: 'Pixelify Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(./files/pixelify-sans-latin-600-normal.woff2) format('woff2'), url(./files/pixelify-sans-latin-600-normal.woff) format('woff');
+}

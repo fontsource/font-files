@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/poltawski-nowy",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Poltawski Nowy font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/poltawski-nowy"
   },
-  "publishHash": "59d13feaee694936"
+  "publishHash": "89a0edd08d45d4f8"
 }

@@ -10,8 +10,8 @@
     "ROND": {"default": "100", "min": "0", "max": "100", "step": "1"},
     "YELA": {"default": "-100", "min": "-100", "max": "100", "step": "1"}
   },
-  "lastModified": "2023-08-17",
-  "version": "v2",
+  "lastModified": "2023-09-13",
+  "version": "v3",
   "category": "display",
   "license": {
     "type": "OFL-1.1",

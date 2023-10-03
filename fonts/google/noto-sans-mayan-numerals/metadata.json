@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-mayan-numerals",
   "family": "Noto Sans Mayan Numerals",
-  "subsets": ["mayan-numerals"],
+  "subsets": ["latin", "latin-ext", "mayan-numerals"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "mayan-numerals",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-05-10",
-  "version": "v15",
+  "lastModified": "2023-08-17",
+  "version": "v16",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

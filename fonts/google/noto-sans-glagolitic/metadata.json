@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-glagolitic",
   "family": "Noto Sans Glagolitic",
-  "subsets": ["glagolitic"],
+  "subsets": ["cyrillic-ext", "glagolitic", "latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "glagolitic",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-05-10",
-  "version": "v15",
+  "lastModified": "2023-07-24",
+  "version": "v17",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

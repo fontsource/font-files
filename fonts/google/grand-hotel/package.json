@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/grand-hotel",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Grand Hotel font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/grand-hotel"
   },
-  "publishHash": "cfc91ef37aadeeec"
+  "publishHash": "7c8dae80bfaf87bd"
 }

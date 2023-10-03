@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-batak",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Noto Sans Batak font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-batak"
   },
-  "publishHash": "bfd80e3c1176eb69"
+  "publishHash": "25468b2a10c33d2e"
 }

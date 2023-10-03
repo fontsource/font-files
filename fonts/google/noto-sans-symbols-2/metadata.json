@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-symbols-2",
   "family": "Noto Sans Symbols 2",
-  "subsets": ["latin", "latin-ext", "symbols"],
+  "subsets": ["braille", "latin", "latin-ext", "mayan-numerals", "symbols"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-12-08",
-  "version": "v17",
+  "lastModified": "2023-09-27",
+  "version": "v22",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

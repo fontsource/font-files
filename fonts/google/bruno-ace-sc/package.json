@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bruno-ace-sc",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Bruno Ace SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bruno-ace-sc"
   },
-  "publishHash": "d860827cd893f521"
+  "publishHash": "44e7662e4e9693ae"
 }

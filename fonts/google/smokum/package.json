@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/smokum",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Smokum font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/smokum"
   },
-  "publishHash": "1de4889199318cf5"
+  "publishHash": "55b321db83daafb7"
 }

@@ -8,13 +8,13 @@
   "variable": {
     "wght": {"default": "400", "min": "300", "max": "700", "step": "1"}
   },
-  "lastModified": "2023-04-04",
-  "version": "v16",
+  "lastModified": "2023-09-27",
+  "version": "v17",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2012 The Pontano Sans Project Authors (https://github.com/googlefonts/PontanoSans) with Reserved Font Names \"Pontano\""
+    "attribution": "Copyright 2012 The Pontano Sans Project Authors (https://github.com/googlefonts/PontanoSansFont)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

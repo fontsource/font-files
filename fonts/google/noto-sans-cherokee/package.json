@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-cherokee",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Noto Sans Cherokee font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-cherokee"
   },
-  "publishHash": "5b391ba5a149d5f5"
+  "publishHash": "83184f119a911bc4"
 }

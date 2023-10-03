@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-gothic",
   "family": "Noto Sans Gothic",
-  "subsets": ["gothic"],
+  "subsets": ["gothic", "latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "gothic",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-05-10",
-  "version": "v15",
+  "lastModified": "2023-07-24",
+  "version": "v16",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

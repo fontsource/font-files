@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource-variable/gabarito",
+  "version": "5.0.1",
+  "description": "Self-host the Gabarito font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "gabarito",
+    "Gabarito",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/gabarito",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/variable/gabarito"
+  },
+  "publishHash": "d1edd06dbec1de6b"
+}

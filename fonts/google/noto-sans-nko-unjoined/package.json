@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/noto-sans-nko-unjoined",
+  "version": "5.0.1",
+  "description": "Self-host the Noto Sans NKo Unjoined font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "noto-sans-nko-unjoined",
+    "Noto Sans NKo Unjoined",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/noto-sans-nko-unjoined",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/noto-sans-nko-unjoined"
+  },
+  "publishHash": "da3d8bed90bfdb24"
+}

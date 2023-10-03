@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-javanese",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Noto Sans Javanese font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-javanese"
   },
-  "publishHash": "b1a3e1ca4cf5f571"
+  "publishHash": "b818c0a00a06cc88"
 }

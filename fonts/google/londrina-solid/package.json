@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/londrina-solid",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Londrina Solid font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/londrina-solid"
   },
-  "publishHash": "429d2abf5ac9e506"
+  "publishHash": "6b4de52f54490c6b"
 }

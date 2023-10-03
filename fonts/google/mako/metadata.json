@@ -1,18 +1,18 @@
 {
   "id": "mako",
   "family": "Mako",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-09-22",
-  "version": "v18",
+  "lastModified": "2023-09-13",
+  "version": "v19",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2007 by vernon adams. All rights reserved."
+    "attribution": "Copyright 2007 The Mako Project Authors (https://github.com/googlefonts/MakoFont)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tiro-tamil",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Tiro Tamil font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tiro-tamil"
   },
-  "publishHash": "f81283607d2372d3"
+  "publishHash": "48a5975bcc75e476"
 }

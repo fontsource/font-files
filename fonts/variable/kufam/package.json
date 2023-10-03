@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/kufam",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Kufam font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/kufam"
   },
-  "publishHash": "94a57d34ab43b877"
+  "publishHash": "2a817548516c697c"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/black-and-white-picture",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Black And White Picture font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/black-and-white-picture"
   },
-  "publishHash": "321ca819dce1f0e8"
+  "publishHash": "cf20b72e46934ebd"
 }

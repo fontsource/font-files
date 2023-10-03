@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-khojki",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Noto Sans Khojki font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-khojki"
   },
-  "publishHash": "3ebeb4879f95b5a0"
+  "publishHash": "c8736dadb78eda5a"
 }

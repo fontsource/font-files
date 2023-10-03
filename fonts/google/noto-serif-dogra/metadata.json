@@ -1,18 +1,18 @@
 {
   "id": "noto-serif-dogra",
   "family": "Noto Serif Dogra",
-  "subsets": ["dogra"],
+  "subsets": ["dogra", "latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "dogra",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-11-09",
-  "version": "v16",
+  "lastModified": "2023-09-13",
+  "version": "v21",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2019 Google LLC. All Rights Reserved."
+    "attribution": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/dogra)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/ar-one-sans",
+  "version": "5.0.1",
+  "description": "Self-host the AR One Sans font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "ar-one-sans",
+    "AR One Sans",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/ar-one-sans",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/ar-one-sans"
+  },
+  "publishHash": "d6e7a685fd339813"
+}

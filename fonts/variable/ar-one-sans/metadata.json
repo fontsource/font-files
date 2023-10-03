@@ -1,0 +1,22 @@
+{
+  "id": "ar-one-sans",
+  "family": "AR One Sans",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400, 500, 600, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "wght": {"default": "400", "min": "400", "max": "700", "step": "1"},
+    "ARRR": {"default": "10", "min": "10", "max": "60", "step": "1"}
+  },
+  "lastModified": "2023-09-27",
+  "version": "v2",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2018 The AR One Project Authors (https://github.com/niteeshy/ar-one-sans)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-samaritan",
   "family": "Noto Sans Samaritan",
-  "subsets": ["samaritan"],
+  "subsets": ["latin", "latin-ext", "samaritan"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "samaritan",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-05-10",
-  "version": "v15",
+  "lastModified": "2023-06-22",
+  "version": "v16",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

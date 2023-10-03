@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/zen-maru-gothic",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Zen Maru Gothic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/zen-maru-gothic"
   },
-  "publishHash": "28e9f9363bcb1ad8"
+  "publishHash": "91434c909af1ffea"
 }

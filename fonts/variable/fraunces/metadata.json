@@ -12,8 +12,8 @@
     "SOFT": {"default": "0", "min": "0", "max": "100", "step": "0.1"},
     "WONK": {"default": "0", "min": "0", "max": "1", "step": "1"}
   },
-  "lastModified": "2023-03-21",
-  "version": "v30",
+  "lastModified": "2023-05-02",
+  "version": "v31",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",

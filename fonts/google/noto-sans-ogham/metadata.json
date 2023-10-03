@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-ogham",
   "family": "Noto Sans Ogham",
-  "subsets": ["ogham"],
+  "subsets": ["latin", "latin-ext", "ogham"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "ogham",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-05-10",
-  "version": "v15",
+  "lastModified": "2023-07-24",
+  "version": "v17",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
