@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/warnes",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Warnes font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/warnes"
   },
-  "publishHash": "08f3842ef02f82f1"
+  "publishHash": "b362cdfc2f58b811"
 }

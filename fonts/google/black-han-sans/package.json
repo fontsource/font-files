@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/black-han-sans",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Black Han Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/black-han-sans"
   },
-  "publishHash": "ab1016ca296c409b"
+  "publishHash": "eda68b58d86f6e2f"
 }

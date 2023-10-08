@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fresca",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Fresca font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fresca"
   },
-  "publishHash": "8198a52b27cd098e"
+  "publishHash": "361b89de1a3c4e64"
 }

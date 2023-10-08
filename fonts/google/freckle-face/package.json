@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/freckle-face",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Freckle Face font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/freckle-face"
   },
-  "publishHash": "e04f693788b2ede0"
+  "publishHash": "1dd480cb9e362c6d"
 }

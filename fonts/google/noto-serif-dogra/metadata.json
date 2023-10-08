@@ -1,13 +1,13 @@
 {
   "id": "noto-serif-dogra",
   "family": "Noto Serif Dogra",
-  "subsets": ["dogra", "latin", "latin-ext"],
+  "subsets": ["dogra"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "latin",
+  "defSubset": "dogra",
   "variable": false,
-  "lastModified": "2023-09-13",
-  "version": "v21",
+  "lastModified": "2022-11-09",
+  "version": "v16",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",

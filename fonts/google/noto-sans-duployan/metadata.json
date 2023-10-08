@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-duployan",
   "family": "Noto Sans Duployan",
-  "subsets": ["duployan", "latin", "latin-ext"],
-  "weights": [400, 700],
+  "subsets": ["duployan"],
+  "weights": [400],
   "styles": ["normal"],
-  "defSubset": "latin",
+  "defSubset": "duployan",
   "variable": false,
-  "lastModified": "2023-06-22",
-  "version": "v17",
+  "lastModified": "2022-05-10",
+  "version": "v16",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

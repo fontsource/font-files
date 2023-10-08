@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-kaithi",
   "family": "Noto Sans Kaithi",
-  "subsets": ["kaithi", "latin", "latin-ext"],
+  "subsets": ["kaithi"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "latin",
+  "defSubset": "kaithi",
   "variable": false,
-  "lastModified": "2023-09-13",
-  "version": "v20",
+  "lastModified": "2022-11-09",
+  "version": "v16",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

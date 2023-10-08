@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/shalimar",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Shalimar font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/shalimar"
   },
-  "publishHash": "660d069964e74675"
+  "publishHash": "9459eef7b97e40ab"
 }

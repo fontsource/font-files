@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/archivo-narrow",
-  "version": "5.0.15",
+  "version": "5.0.16",
   "description": "Self-host the Archivo Narrow font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/archivo-narrow"
   },
-  "publishHash": "e932970675e83b14"
+  "publishHash": "faf93ae6e9c50f78"
 }

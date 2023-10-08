@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-nabataean",
   "family": "Noto Sans Nabataean",
-  "subsets": ["latin", "latin-ext", "nabataean"],
+  "subsets": ["nabataean"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "latin",
+  "defSubset": "nabataean",
   "variable": false,
-  "lastModified": "2023-06-22",
-  "version": "v16",
+  "lastModified": "2022-05-10",
+  "version": "v15",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

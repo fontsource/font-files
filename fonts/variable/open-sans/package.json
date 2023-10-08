@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/open-sans",
-  "version": "5.0.15",
+  "version": "5.0.16",
   "description": "Self-host the Open Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/open-sans"
   },
-  "publishHash": "99f6e0d4d70c386c"
+  "publishHash": "ab04eb772d5d8986"
 }

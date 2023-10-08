@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fasthand",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Fasthand font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fasthand"
   },
-  "publishHash": "fae2802105f2dae4"
+  "publishHash": "70dfd268a8fa0583"
 }

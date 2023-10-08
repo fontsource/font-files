@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-marchen",
   "family": "Noto Sans Marchen",
-  "subsets": ["latin", "latin-ext", "marchen"],
+  "subsets": ["marchen"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "latin",
+  "defSubset": "marchen",
   "variable": false,
-  "lastModified": "2023-07-13",
-  "version": "v19",
+  "lastModified": "2022-11-02",
+  "version": "v17",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

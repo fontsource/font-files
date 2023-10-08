@@ -6,8 +6,8 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-05-02",
-  "version": "v2",
+  "lastModified": "2023-01-18",
+  "version": "v1",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",

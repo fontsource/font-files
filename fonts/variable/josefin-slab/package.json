@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/josefin-slab",
-  "version": "5.0.15",
+  "version": "5.0.16",
   "description": "Self-host the Josefin Slab font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/josefin-slab"
   },
-  "publishHash": "3bf6b9d66e83fdff"
+  "publishHash": "11509fc428673b3d"
 }

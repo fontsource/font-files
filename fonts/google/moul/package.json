@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/moul",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Moul font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/moul"
   },
-  "publishHash": "0560fc1b7047eb6b"
+  "publishHash": "c852c2110cfc396d"
 }

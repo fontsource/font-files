@@ -9,8 +9,8 @@
     "EDPT": {"default": "100", "min": "0", "max": "200", "step": "1"},
     "EHLT": {"default": "12", "min": "0", "max": "24", "step": "1"}
   },
-  "lastModified": "2023-06-07",
-  "version": "v10",
+  "lastModified": "2022-11-09",
+  "version": "v9",
   "category": "display",
   "license": {
     "type": "OFL-1.1",

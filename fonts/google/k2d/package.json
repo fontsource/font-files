@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/k2d",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the K2D font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/k2d"
   },
-  "publishHash": "4332ca9e16a07598"
+  "publishHash": "7c225f1d9c7d3455"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/material-symbols-outlined",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Material Symbols Outlined font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/material-symbols-outlined"
   },
-  "publishHash": "11e48616d3b5bb37"
+  "publishHash": "90ed8bf665614b4c"
 }

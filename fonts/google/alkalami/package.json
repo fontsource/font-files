@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/alkalami",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Alkalami font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/alkalami"
   },
-  "publishHash": "f0ec80d99b5f2767"
+  "publishHash": "cd07add3de4e5663"
 }

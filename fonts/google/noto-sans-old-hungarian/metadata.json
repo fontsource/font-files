@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-old-hungarian",
   "family": "Noto Sans Old Hungarian",
-  "subsets": ["latin", "latin-ext", "old-hungarian"],
+  "subsets": ["old-hungarian"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "latin",
+  "defSubset": "old-hungarian",
   "variable": false,
-  "lastModified": "2023-09-13",
-  "version": "v18",
+  "lastModified": "2022-05-10",
+  "version": "v15",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

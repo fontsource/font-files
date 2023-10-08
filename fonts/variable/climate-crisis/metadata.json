@@ -8,8 +8,8 @@
   "variable": {
     "YEAR": {"default": "1979", "min": "1979", "max": "2050", "step": "1"}
   },
-  "lastModified": "2023-08-25",
-  "version": "v7",
+  "lastModified": "2023-03-21",
+  "version": "v4",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
