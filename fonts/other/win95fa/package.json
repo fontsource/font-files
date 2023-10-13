@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/win95fa",
+  "version": "5.0.0",
+  "description": "Self-host the WIN95FA font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "win95fa",
+    "WIN95FA",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Alina Sava",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/win95fa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/other/win95fa"
+  }
+}
