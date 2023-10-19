@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kosugi",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Kosugi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kosugi"
   },
-  "publishHash": "87227bfa879b706b"
+  "publishHash": "0bb89f22346acde6"
 }

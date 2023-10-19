@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/nabla",
-  "version": "5.0.15",
+  "version": "5.0.16",
   "description": "Self-host the Nabla font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/nabla"
   },
-  "publishHash": "1d3317c18eec60cc"
+  "publishHash": "96f59ec07e9508f6"
 }

@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-psalter-pahlavi",
   "family": "Noto Sans Psalter Pahlavi",
-  "subsets": ["psalter-pahlavi"],
+  "subsets": ["latin", "latin-ext", "psalter-pahlavi"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "psalter-pahlavi",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-05-10",
-  "version": "v15",
+  "lastModified": "2023-06-22",
+  "version": "v16",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

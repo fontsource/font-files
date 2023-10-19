@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/biz-udpgothic",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the BIZ UDPGothic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/biz-udpgothic"
   },
-  "publishHash": "e067f078e96d6823"
+  "publishHash": "edf327a8c9a255c4"
 }

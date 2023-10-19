@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-adlam",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Noto Sans Adlam font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-adlam"
   },
-  "publishHash": "22b8d57616d2922f"
+  "publishHash": "5de23c67cff71412"
 }

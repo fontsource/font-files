@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/alfa-slab-one",
-  "version": "5.0.15",
+  "version": "5.0.16",
   "description": "Self-host the Alfa Slab One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/alfa-slab-one"
   },
-  "publishHash": "b6275c1cdf27a9ee"
+  "publishHash": "5368286ea4aaabba"
 }

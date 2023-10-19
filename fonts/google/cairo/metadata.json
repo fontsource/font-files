@@ -9,8 +9,8 @@
     "slnt": {"default": "0", "min": "-11", "max": "11", "step": "1"},
     "wght": {"default": "400", "min": "200", "max": "1000", "step": "1"}
   },
-  "lastModified": "2023-04-04",
-  "version": "v26",
+  "lastModified": "2023-05-02",
+  "version": "v28",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

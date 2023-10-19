@@ -6,8 +6,8 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-04-27",
-  "version": "v6",
+  "lastModified": "2023-05-31",
+  "version": "v7",
   "category": "display",
   "license": {
     "type": "OFL-1.1",

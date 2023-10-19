@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/devonshire",
-  "version": "5.0.15",
+  "version": "5.0.16",
   "description": "Self-host the Devonshire font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/devonshire"
   },
-  "publishHash": "13b6e22bc9709e47"
+  "publishHash": "77f7fa983a561bdd"
 }

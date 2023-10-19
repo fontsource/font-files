@@ -1,13 +1,13 @@
 {
   "id": "noto-serif-tangut",
   "family": "Noto Serif Tangut",
-  "subsets": ["tangut"],
+  "subsets": ["latin", "latin-ext", "tangut"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "tangut",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-05-10",
-  "version": "v15",
+  "lastModified": "2023-05-23",
+  "version": "v16",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",

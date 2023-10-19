@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-linear-a",
   "family": "Noto Sans Linear A",
-  "subsets": ["linear-a"],
+  "subsets": ["latin", "latin-ext", "linear-a"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "linear-a",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-05-10",
-  "version": "v16",
+  "lastModified": "2023-07-24",
+  "version": "v18",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

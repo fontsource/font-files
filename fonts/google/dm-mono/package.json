@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dm-mono",
-  "version": "5.0.15",
+  "version": "5.0.16",
   "description": "Self-host the DM Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/dm-mono"
   },
-  "publishHash": "34ca8f08339faa4a"
+  "publishHash": "f30ff18ccff7077e"
 }

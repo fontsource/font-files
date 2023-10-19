@@ -21,7 +21,7 @@ import "@fontsource/noto-serif/400-italic.css"; // Specify weight and style
 ```
 
 Supported variables:
-- Weights: `[400,700]`
+- Weights: `[100,200,300,400,500,600,700,800,900]`
 - Styles: `[italic,normal]`
 - Subsets: `[cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese]`
 
@@ -42,6 +42,6 @@ Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-gree
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v21`.
+Font version (provided by source): `v22`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

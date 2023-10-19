@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/roboto-slab",
-  "version": "5.0.15",
+  "version": "5.0.16",
   "description": "Self-host the Roboto Slab font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/roboto-slab"
   },
-  "publishHash": "47c38be09e0365f1"
+  "publishHash": "a35a3b39d3948e8a"
 }

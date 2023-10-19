@@ -1,15 +1,15 @@
 {
   "id": "noto-serif-yezidi",
   "family": "Noto Serif Yezidi",
-  "subsets": ["yezidi"],
+  "subsets": ["latin", "latin-ext", "yezidi"],
   "weights": [400, 500, 600, 700],
   "styles": ["normal"],
-  "defSubset": "yezidi",
+  "defSubset": "latin",
   "variable": {
     "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
   },
-  "lastModified": "2022-07-19",
-  "version": "v16",
+  "lastModified": "2023-07-24",
+  "version": "v21",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
