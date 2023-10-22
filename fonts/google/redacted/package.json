@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/redacted",
-  "version": "5.0.16",
+  "version": "5.0.17",
   "description": "Self-host the Redacted font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/redacted"
   },
-  "publishHash": "2fd32528a0925ca8"
+  "publishHash": "6e8fbc4b9e734270"
 }

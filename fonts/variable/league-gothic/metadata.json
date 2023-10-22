@@ -8,8 +8,8 @@
   "variable": {
     "wdth": {"default": "100", "min": "75", "max": "100", "step": "0.1"}
   },
-  "lastModified": "2023-08-25",
-  "version": "v11",
+  "lastModified": "2022-09-22",
+  "version": "v6",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

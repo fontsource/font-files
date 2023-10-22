@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/baloo-tammudu-2",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Baloo Tammudu 2 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/baloo-tammudu-2"
   },
-  "publishHash": "5dff57119aa054d8"
+  "publishHash": "4f6d6367b88a28c7"
 }

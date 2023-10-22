@@ -42,6 +42,6 @@ Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0
 [UFL-1.0](http://font.ubuntu.com/ufl/)
 
 ## Other Notes
-Font version (provided by source): `v17`.
+Font version (provided by source): `v15`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

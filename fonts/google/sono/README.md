@@ -42,6 +42,6 @@ Copyright 2020 The Sono Project Authors (https://github.com/sursly/sono)
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v6`.
+Font version (provided by source): `v4`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

@@ -1,13 +1,13 @@
 {
   "id": "mako",
   "family": "Mako",
-  "subsets": ["latin", "latin-ext"],
+  "subsets": ["latin"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-09-13",
-  "version": "v19",
+  "lastModified": "2022-09-22",
+  "version": "v18",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

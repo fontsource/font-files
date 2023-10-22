@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-deseret",
   "family": "Noto Sans Deseret",
-  "subsets": ["deseret", "latin", "latin-ext"],
+  "subsets": ["deseret"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "latin",
+  "defSubset": "deseret",
   "variable": false,
-  "lastModified": "2023-07-24",
-  "version": "v17",
+  "lastModified": "2022-05-10",
+  "version": "v15",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

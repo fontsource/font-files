@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sue-ellen-francisco",
-  "version": "5.0.16",
+  "version": "5.0.17",
   "description": "Self-host the Sue Ellen Francisco font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sue-ellen-francisco"
   },
-  "publishHash": "8e4168bc19313b21"
+  "publishHash": "2ece9569dc91af1e"
 }

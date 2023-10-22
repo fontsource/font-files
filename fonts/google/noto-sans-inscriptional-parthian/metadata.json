@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-inscriptional-parthian",
   "family": "Noto Sans Inscriptional Parthian",
-  "subsets": ["inscriptional-parthian", "latin", "latin-ext"],
+  "subsets": ["inscriptional-parthian"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "latin",
+  "defSubset": "inscriptional-parthian",
   "variable": false,
-  "lastModified": "2023-05-23",
-  "version": "v16",
+  "lastModified": "2022-05-10",
+  "version": "v15",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

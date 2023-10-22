@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/big-shoulders-inline-display",
-  "version": "5.0.16",
+  "version": "5.0.17",
   "description": "Self-host the Big Shoulders Inline Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/big-shoulders-inline-display"
   },
-  "publishHash": "f8c8446f899f7dd8"
+  "publishHash": "91438a8e1c0b7013"
 }

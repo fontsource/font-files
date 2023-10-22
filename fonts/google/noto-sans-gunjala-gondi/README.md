@@ -21,9 +21,9 @@ import "@fontsource/noto-sans-gunjala-gondi/400-italic.css"; // Specify weight a
 ```
 
 Supported variables:
-- Weights: `[400,500,600,700]`
+- Weights: `[400]`
 - Styles: `[normal]`
-- Subsets: `[gunjala-gondi,latin,latin-ext]`
+- Subsets: `[gunjala-gondi]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what weights and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/noto-sans-gunjala-gondi).
 
@@ -42,6 +42,6 @@ Copyright 2022 The Noto Project Authors (https://github.com/notofonts/gunjala-go
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v19`.
+Font version (provided by source): `v15`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

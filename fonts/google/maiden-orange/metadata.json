@@ -6,9 +6,9 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-08-25",
-  "version": "v29",
-  "category": "serif",
+  "lastModified": "2022-09-22",
+  "version": "v25",
+  "category": "display",
   "license": {
     "type": "Apache-2.0",
     "url": "http://www.apache.org/licenses/LICENSE-2.0.html",

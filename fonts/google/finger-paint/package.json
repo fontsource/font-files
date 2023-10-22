@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/finger-paint",
-  "version": "5.0.16",
+  "version": "5.0.17",
   "description": "Self-host the Finger Paint font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/finger-paint"
   },
-  "publishHash": "b118a0decd38c104"
+  "publishHash": "c3e102b41c89f203"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/big-shoulders-display",
-  "version": "5.0.16",
+  "version": "5.0.17",
   "description": "Self-host the Big Shoulders Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/big-shoulders-display"
   },
-  "publishHash": "8db3d9cec0ebab30"
+  "publishHash": "53db68c7080c8969"
 }

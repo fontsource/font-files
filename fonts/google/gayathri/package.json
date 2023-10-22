@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gayathri",
-  "version": "5.0.16",
+  "version": "5.0.17",
   "description": "Self-host the Gayathri font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gayathri"
   },
-  "publishHash": "3c9e5864d712c03b"
+  "publishHash": "83ec964a6727f9ee"
 }

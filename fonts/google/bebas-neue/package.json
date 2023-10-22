@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bebas-neue",
-  "version": "5.0.16",
+  "version": "5.0.17",
   "description": "Self-host the Bebas Neue font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bebas-neue"
   },
-  "publishHash": "8fd360cb01f77c7a"
+  "publishHash": "1ee4c9d69164db89"
 }

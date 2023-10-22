@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/crimson-pro",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Crimson Pro font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/crimson-pro"
   },
-  "publishHash": "e1391836897e4687"
+  "publishHash": "5638b93d8758fb4e"
 }
