@@ -9,6 +9,15 @@
     "precision": 0
   },
   {
+    "name": "Bleed",
+    "tag": "BLED",
+    "description": "Bleed adjusts the overall darkness in the typographic color of strokes or other forms, without any changes in overall width, line breaks, or page layout. Negative values make the font appearance lighter, while positive values make it darker, similarly to ink bleed or dot gain on paper.",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "precision": 0
+  },
+  {
     "name": "Bounce",
     "tag": "BNCE",
     "description": "Shift glyphs up and down in the Y dimension, resulting in an uneven, bouncy baseline.",
@@ -160,6 +169,24 @@
     "max": 100,
     "default": 0,
     "precision": 0
+  },
+  {
+    "name": "Scanlines",
+    "tag": "SCAN",
+    "description": "Break up shapes into horizontal segments without any changes in overall width, letter spacing, or kerning, so there are no line breaks or page layout changes. Negative values make the scanlines thinner, and positive values make them thicker.",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "precision": 0
+  },
+  {
+    "name": "Shadow Length",
+    "tag": "SHLN",
+    "description": "Adjusts the font's shadow length from no shadow visible (0 %) to a maximum shadow applied (100%) relative to each family design.",
+    "min": 0,
+    "max": 100,
+    "default": 50,
+    "precision": -1
   },
   {
     "name": "Sharpness",

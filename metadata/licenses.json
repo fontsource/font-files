@@ -151,6 +151,18 @@
     },
     "original": "Copyright 2018 The Advent Pro Project Authors (https://github.com/googlefonts/Advent)"
   },
+  "agbalumo": {
+    "id": "agbalumo",
+    "authors": {
+      "copyright": "Copyright 2023 The Agbalumo Project Authors",
+      "website": "https://github.com/SorkinType/Agbalumo"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Agbalumo Project Authors (https://github.com/SorkinType/Agbalumo)"
+  },
   "agdasima": {
     "id": "agdasima",
     "authors": {
@@ -2220,14 +2232,14 @@
   "biorhyme": {
     "id": "biorhyme",
     "authors": {
-      "copyright": "Copyright 2016 Aoife Mooney www.aoifemooney.org",
-      "email": "aoifemooney@gmail.com"
+      "copyright": "Copyright 2016 The BioRhyme Project Authors",
+      "website": "https://github.com/aoifemooney/makingbiorhyme"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2016 Aoife Mooney (aoifemooney@gmail.com www.aoifemooney.org)"
+    "original": "Copyright 2016 The BioRhyme Project Authors (https://github.com/aoifemooney/makingbiorhyme)"
   },
   "biorhyme-expanded": {
     "id": "biorhyme-expanded",
@@ -7518,6 +7530,17 @@
     },
     "original": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Kavoon'"
   },
+  "kay-pho-du": {
+    "id": "kay-pho-du",
+    "authors": {
+      "copyright": "Copyright 2019-2023 SIL International, based on the overall design of Karenni Copyright 2016-2019, Khu Oo Reh."
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright (c) 2019-2023 SIL International, based on the overall design of Karenni (Copyright (c) 2016-2019, Khu Oo Reh)."
+  },
   "kdam-thmor-pro": {
     "id": "kdam-thmor-pro",
     "authors": {
@@ -8446,6 +8469,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright (c) 2010, Barry Schwartz (chemoelectric@chemoelectric.org)"
+  },
+  "linefont": {
+    "id": "linefont",
+    "authors": {
+      "copyright": "Copyright 2022 The Linefont Project Authors",
+      "website": "https://github.com/dy/linefont"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Linefont Project Authors (https://github.com/dy/linefont)"
   },
   "lisu-bosa": {
     "id": "lisu-bosa",
@@ -10698,12 +10733,15 @@
   },
   "noto-sans-caucasian-albanian": {
     "id": "noto-sans-caucasian-albanian",
-    "authors": {"copyright": "Copyright 2018 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/caucasian-albanian"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2018 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/caucasian-albanian)"
   },
   "noto-sans-chakma": {
     "id": "noto-sans-chakma",
@@ -10868,12 +10906,15 @@
   },
   "noto-sans-elymaic": {
     "id": "noto-sans-elymaic",
-    "authors": {"copyright": "Copyright 2019 Google LLC. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/elymaic"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2019 Google LLC. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/elymaic)"
   },
   "noto-sans-ethiopic": {
     "id": "noto-sans-ethiopic",
@@ -11138,6 +11179,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/kannada)"
+  },
+  "noto-sans-kawi": {
+    "id": "noto-sans-kawi",
+    "authors": {
+      "copyright": "Copyright 2023 The Noto Project Authors",
+      "website": "https://github.com/notofonts/kawi"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Noto Project Authors (https://github.com/notofonts/kawi)"
   },
   "noto-sans-kayah-li": {
     "id": "noto-sans-kayah-li",
@@ -12653,6 +12706,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/nyiakeng-puachue-hmong)"
+  },
+  "noto-serif-old-uyghur": {
+    "id": "noto-serif-old-uyghur",
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/old-uyghur"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/old-uyghur)"
   },
   "noto-serif-oriya": {
     "id": "noto-serif-oriya",
@@ -15841,14 +15906,14 @@
   "shanti": {
     "id": "shanti",
     "authors": {
-      "copyright": "Copyright 2011, Vernon Adams with Reserved Font Names 'Shanti'. All rights reserved.",
-      "email": "vern@newtypography.co.uk"
+      "copyright": "Copyright 2011 The Shanti Project Authors",
+      "website": "https://github.com/googlefonts/ShantiFont"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Vernon Adams (vern@newtypography.co.uk) with Reserved Font Names 'Shanti'. All rights reserved."
+    "original": "Copyright 2011 The Shanti Project Authors (https://github.com/googlefonts/ShantiFont)"
   },
   "share": {
     "id": "share",
@@ -16431,14 +16496,14 @@
   "source-sans-3": {
     "id": "source-sans-3",
     "authors": {
-      "copyright": "© 2010 – 2021 Adobe with Reserved Font Name ‘Source’",
+      "copyright": "© 2023 Adobe with Reserved Font Name ‘Source’",
       "website": "http://www.adobe.com/"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "© 2010 – 2021 Adobe (http://www.adobe.com/), with Reserved Font Name ‘Source’"
+    "original": "© 2023 Adobe (http://www.adobe.com/), with Reserved Font Name ‘Source’"
   },
   "source-serif-4": {
     "id": "source-serif-4",
