@@ -10817,12 +10817,15 @@
   },
   "noto-sans-cypriot": {
     "id": "noto-sans-cypriot",
-    "authors": {"copyright": "Copyright 2017 Google Inc. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/cypriot"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/cypriot)"
   },
   "noto-sans-cypro-minoan": {
     "id": "noto-sans-cypro-minoan",
