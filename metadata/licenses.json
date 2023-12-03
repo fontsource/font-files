@@ -6348,6 +6348,30 @@
     },
     "original": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com), with Reserved Font Name \"Headland\""
   },
+  "hedvig-letters-sans": {
+    "id": "hedvig-letters-sans",
+    "authors": {
+      "copyright": "Copyright 2023 The Hedvig Letters Project Authors",
+      "website": "https://github.com/KanonFoundry/HedvigLetters"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Hedvig Letters Project Authors (https://github.com/KanonFoundry/HedvigLetters)"
+  },
+  "hedvig-letters-serif": {
+    "id": "hedvig-letters-serif",
+    "authors": {
+      "copyright": "Copyright 2023 The Hedvig Letters Project Authors",
+      "website": "https://github.com/KanonFoundry/HedvigLetters"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Hedvig Letters Project Authors (https://github.com/KanonFoundry/HedvigLetters)"
+  },
   "heebo": {
     "id": "heebo",
     "authors": {
@@ -10214,14 +10238,14 @@
     "id": "narnoor",
     "authors": {
       "copyright": "Original font copyright 2014-2017 CDAST, University of Hyderabad, Hyderabad and modifications copyright 2015-2023 SIL International glyphs copyright 2010, 2012, 2014, 2021 Adobe Systems with Reserved Font Name 'Source'.",
-      "website": "http://www.sil.org/.\nLatin, Incorporated\nhttp://www.adobe.com/",
+      "website": "https://www.sil.org/.\nLatin, Incorporated\nhttp://www.adobe.com/",
       "email": "cdast@uohyd.ernet.in.\nAdditions"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Original font copyright (c) 2014-2017 CDAST, University of Hyderabad, Hyderabad (cdast@uohyd.ernet.in).\nAdditions and modifications copyright (c) 2015-2023 SIL International (http://www.sil.org/).\nLatin glyphs copyright (c) 2010, 2012, 2014, 2021 Adobe Systems Incorporated\n(http://www.adobe.com/), with Reserved Font Name 'Source'."
+    "original": "Original font copyright (c) 2014-2017 CDAST, University of Hyderabad, Hyderabad (cdast@uohyd.ernet.in).\nAdditions and modifications copyright (c) 2015-2023 SIL International (https://www.sil.org/).\nLatin glyphs copyright (c) 2010, 2012, 2014, 2021 Adobe Systems Incorporated\n(http://www.adobe.com/), with Reserved Font Name 'Source'."
   },
   "neonderthaw": {
     "id": "neonderthaw",
@@ -10520,13 +10544,14 @@
   "noto-sans": {
     "id": "noto-sans",
     "authors": {
-      "copyright": "Copyright 2015-2021 Google LLC. All Rights Reserved."
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/latin-greek-cyrillic"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2015-2021 Google LLC. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)"
   },
   "noto-sans-adlam": {
     "id": "noto-sans-adlam",

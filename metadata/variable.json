@@ -4552,9 +4552,9 @@
     "variants": {
       "wght": {
         "normal": {
-          "cham": "https://fonts.gstatic.com/s/notosanscham/v29/pe03MIySN5pO62Z5YkFyQb_bbs5eU1EQVg.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notosanscham/v29/pe03MIySN5pO62Z5YkFyQb_bbs5jU1EQVg.woff2",
-          "latin": "https://fonts.gstatic.com/s/notosanscham/v29/pe03MIySN5pO62Z5YkFyQb_bbs5tU1E.woff2"
+          "cham": "https://fonts.gstatic.com/s/notosanscham/v30/pe03MIySN5pO62Z5YkFyQb_bbs5eU1EQVg.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notosanscham/v30/pe03MIySN5pO62Z5YkFyQb_bbs5jU1EQVg.woff2",
+          "latin": "https://fonts.gstatic.com/s/notosanscham/v30/pe03MIySN5pO62Z5YkFyQb_bbs5tU1E.woff2"
         }
       }
     }
@@ -4749,23 +4749,29 @@
     "variants": {
       "wdth": {
         "normal": {
-          "gujarati": "https://fonts.gstatic.com/s/notosansgujarati/v23/wlpsgx_HC1ti5ViekvcxnhMlCVo3f5pFwJBCR6s.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notosansgujarati/v23/wlpsgx_HC1ti5ViekvcxnhMlCVo3f5pF1ZBCR6s.woff2",
-          "latin": "https://fonts.gstatic.com/s/notosansgujarati/v23/wlpsgx_HC1ti5ViekvcxnhMlCVo3f5pF25BC.woff2"
+          "gujarati": "https://fonts.gstatic.com/s/notosansgujarati/v25/wlpsgx_HC1ti5ViekvcxnhMlCVo3f5pFwJBCR6s.woff2",
+          "math": "https://fonts.gstatic.com/s/notosansgujarati/v25/wlpsgx_HC1ti5ViekvcxnhMlCVo3f5pFp5BCR6s.woff2",
+          "symbols": "https://fonts.gstatic.com/s/notosansgujarati/v25/wlpsgx_HC1ti5ViekvcxnhMlCVo3f5pFtZBCR6s.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notosansgujarati/v25/wlpsgx_HC1ti5ViekvcxnhMlCVo3f5pF1ZBCR6s.woff2",
+          "latin": "https://fonts.gstatic.com/s/notosansgujarati/v25/wlpsgx_HC1ti5ViekvcxnhMlCVo3f5pF25BC.woff2"
         }
       },
       "wght": {
         "normal": {
-          "gujarati": "https://fonts.gstatic.com/s/notosansgujarati/v23/wlpZgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMbXaYEL-C.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notosansgujarati/v23/wlpZgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMbWOYEL-C.woff2",
-          "latin": "https://fonts.gstatic.com/s/notosansgujarati/v23/wlpZgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMbW2YEA.woff2"
+          "gujarati": "https://fonts.gstatic.com/s/notosansgujarati/v25/wlpZgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMbXaYEL-C.woff2",
+          "math": "https://fonts.gstatic.com/s/notosansgujarati/v25/wlpZgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMbRGYEL-C.woff2",
+          "symbols": "https://fonts.gstatic.com/s/notosansgujarati/v25/wlpZgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMbQOYEL-C.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notosansgujarati/v25/wlpZgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMbWOYEL-C.woff2",
+          "latin": "https://fonts.gstatic.com/s/notosansgujarati/v25/wlpZgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMbW2YEA.woff2"
         }
       },
       "standard": {
         "normal": {
-          "gujarati": "https://fonts.gstatic.com/s/notosansgujarati/v23/wlpsgx_HC1ti5ViekvcxnhMlCVo3f5pFwJBCR6s.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notosansgujarati/v23/wlpsgx_HC1ti5ViekvcxnhMlCVo3f5pF1ZBCR6s.woff2",
-          "latin": "https://fonts.gstatic.com/s/notosansgujarati/v23/wlpsgx_HC1ti5ViekvcxnhMlCVo3f5pF25BC.woff2"
+          "gujarati": "https://fonts.gstatic.com/s/notosansgujarati/v25/wlpsgx_HC1ti5ViekvcxnhMlCVo3f5pFwJBCR6s.woff2",
+          "math": "https://fonts.gstatic.com/s/notosansgujarati/v25/wlpsgx_HC1ti5ViekvcxnhMlCVo3f5pFp5BCR6s.woff2",
+          "symbols": "https://fonts.gstatic.com/s/notosansgujarati/v25/wlpsgx_HC1ti5ViekvcxnhMlCVo3f5pFtZBCR6s.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notosansgujarati/v25/wlpsgx_HC1ti5ViekvcxnhMlCVo3f5pF1ZBCR6s.woff2",
+          "latin": "https://fonts.gstatic.com/s/notosansgujarati/v25/wlpsgx_HC1ti5ViekvcxnhMlCVo3f5pF25BC.woff2"
         }
       }
     }
@@ -5767,23 +5773,23 @@
     "variants": {
       "wdth": {
         "normal": {
-          "georgian": "https://fonts.gstatic.com/s/notoserifgeorgian/v24/VEMtRpd8s4nv8hG_qOzL7HOAw4nt0Sl_dQ-y_Asd.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notoserifgeorgian/v24/VEMtRpd8s4nv8hG_qOzL7HOAw4nt0Sl_dR6y_Asd.woff2",
-          "latin": "https://fonts.gstatic.com/s/notoserifgeorgian/v24/VEMtRpd8s4nv8hG_qOzL7HOAw4nt0Sl_dRCy_A.woff2"
+          "georgian": "https://fonts.gstatic.com/s/notoserifgeorgian/v26/VEMtRpd8s4nv8hG_qOzL7HOAw4nt0Sl_dQ-y_Asd.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notoserifgeorgian/v26/VEMtRpd8s4nv8hG_qOzL7HOAw4nt0Sl_dR6y_Asd.woff2",
+          "latin": "https://fonts.gstatic.com/s/notoserifgeorgian/v26/VEMtRpd8s4nv8hG_qOzL7HOAw4nt0Sl_dRCy_A.woff2"
         }
       },
       "wght": {
         "normal": {
-          "georgian": "https://fonts.gstatic.com/s/notoserifgeorgian/v24/VEMaRpd8s4nv8hG_qOzL7HOAw4nt0Sl_XxyaEduNMvi7T6Y4ev50sJmasg.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notoserifgeorgian/v24/VEMaRpd8s4nv8hG_qOzL7HOAw4nt0Sl_XxyaEduNMvi7T6Y4ev5lsJmasg.woff2",
-          "latin": "https://fonts.gstatic.com/s/notoserifgeorgian/v24/VEMaRpd8s4nv8hG_qOzL7HOAw4nt0Sl_XxyaEduNMvi7T6Y4ev5rsJk.woff2"
+          "georgian": "https://fonts.gstatic.com/s/notoserifgeorgian/v26/VEMaRpd8s4nv8hG_qOzL7HOAw4nt0Sl_XxyaEduNMvi7T6Y4ev50sJmasg.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notoserifgeorgian/v26/VEMaRpd8s4nv8hG_qOzL7HOAw4nt0Sl_XxyaEduNMvi7T6Y4ev5lsJmasg.woff2",
+          "latin": "https://fonts.gstatic.com/s/notoserifgeorgian/v26/VEMaRpd8s4nv8hG_qOzL7HOAw4nt0Sl_XxyaEduNMvi7T6Y4ev5rsJk.woff2"
         }
       },
       "standard": {
         "normal": {
-          "georgian": "https://fonts.gstatic.com/s/notoserifgeorgian/v24/VEMtRpd8s4nv8hG_qOzL7HOAw4nt0Sl_dQ-y_Asd.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notoserifgeorgian/v24/VEMtRpd8s4nv8hG_qOzL7HOAw4nt0Sl_dR6y_Asd.woff2",
-          "latin": "https://fonts.gstatic.com/s/notoserifgeorgian/v24/VEMtRpd8s4nv8hG_qOzL7HOAw4nt0Sl_dRCy_A.woff2"
+          "georgian": "https://fonts.gstatic.com/s/notoserifgeorgian/v26/VEMtRpd8s4nv8hG_qOzL7HOAw4nt0Sl_dQ-y_Asd.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notoserifgeorgian/v26/VEMtRpd8s4nv8hG_qOzL7HOAw4nt0Sl_dR6y_Asd.woff2",
+          "latin": "https://fonts.gstatic.com/s/notoserifgeorgian/v26/VEMtRpd8s4nv8hG_qOzL7HOAw4nt0Sl_dRCy_A.woff2"
         }
       }
     }
@@ -5797,9 +5803,11 @@
     "variants": {
       "wght": {
         "normal": {
-          "gujarati": "https://fonts.gstatic.com/s/notoserifgujarati/v26/hESt6WBlOixO-3OJ1FTmTsmqlBRUJBVkWBRjVDOw.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notoserifgujarati/v26/hESt6WBlOixO-3OJ1FTmTsmqlBRUJBVkWAFjVDOw.woff2",
-          "latin": "https://fonts.gstatic.com/s/notoserifgujarati/v26/hESt6WBlOixO-3OJ1FTmTsmqlBRUJBVkWA9jVA.woff2"
+          "gujarati": "https://fonts.gstatic.com/s/notoserifgujarati/v27/hESt6WBlOixO-3OJ1FTmTsmqlBRUJBVkWBRjVDOw.woff2",
+          "math": "https://fonts.gstatic.com/s/notoserifgujarati/v27/hESt6WBlOixO-3OJ1FTmTsmqlBRUJBVkWHNjVDOw.woff2",
+          "symbols": "https://fonts.gstatic.com/s/notoserifgujarati/v27/hESt6WBlOixO-3OJ1FTmTsmqlBRUJBVkWGFjVDOw.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notoserifgujarati/v27/hESt6WBlOixO-3OJ1FTmTsmqlBRUJBVkWAFjVDOw.woff2",
+          "latin": "https://fonts.gstatic.com/s/notoserifgujarati/v27/hESt6WBlOixO-3OJ1FTmTsmqlBRUJBVkWA9jVA.woff2"
         }
       }
     }
