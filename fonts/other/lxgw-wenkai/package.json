@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/lxgw-wenkai",
+  "version": "5.0.0",
+  "description": "Self-host the LXGW WenKai font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "lxgw-wenkai",
+    "LXGW WenKai",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "lxgw",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/lxgw-wenkai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/other/lxgw-wenkai"
+  }
+}
