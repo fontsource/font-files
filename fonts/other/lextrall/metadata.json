@@ -1,19 +1,19 @@
 {
-	"id": "lextrall",
-	"family": "Lextrall",
-	"subsets": ["latin"],
-	"weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
-	"styles": ["normal"],
-	"defSubset": "latin",
-	"variable": false,
-	"lastModified": "2023-09-16",
-	"version": "v1.0",
-	"category": "sans-serif",
-	"license": {
-		"type": "OFL-1.1",
-		"url": "http://scripts.sil.org/OFL",
-		"attribution": "Copyright 2023 Amuzil (https://github.com/amuzil/lextrall) & Copyright 2019 The Lexend Project Authors (https://github.com/googlefonts/lexend)"
-	},
-	"source": "https://github.com/amuzil/lextrall",
-	"type": "other"
+  "id": "lextrall",
+  "family": "Lextrall",
+  "subsets": ["latin"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-09-16",
+  "version": "v1.0",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2023 Amuzil (https://github.com/amuzil/lextrall) & Copyright 2019 The Lexend Project Authors (https://github.com/googlefonts/lexend)"
+  },
+  "source": "https://github.com/amuzil/lextrall",
+  "type": "other"
 }

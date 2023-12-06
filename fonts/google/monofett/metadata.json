@@ -1,14 +1,14 @@
 {
   "id": "monofett",
   "family": "Monofett",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-09-22",
-  "version": "v22",
-  "category": "display",
+  "lastModified": "2023-05-23",
+  "version": "v23",
+  "category": "monospace",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",

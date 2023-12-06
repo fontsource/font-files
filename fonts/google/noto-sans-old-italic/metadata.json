@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-old-italic",
   "family": "Noto Sans Old Italic",
-  "subsets": ["old-italic"],
+  "subsets": ["latin", "latin-ext", "old-italic"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "old-italic",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-05-10",
-  "version": "v15",
+  "lastModified": "2023-07-13",
+  "version": "v16",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

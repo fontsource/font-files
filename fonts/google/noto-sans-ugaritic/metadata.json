@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-ugaritic",
   "family": "Noto Sans Ugaritic",
-  "subsets": ["ugaritic"],
+  "subsets": ["latin", "latin-ext", "ugaritic"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "ugaritic",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-05-10",
-  "version": "v15",
+  "lastModified": "2023-05-23",
+  "version": "v16",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

@@ -21,7 +21,7 @@ import "@fontsource/roboto-condensed/400-italic.css"; // Specify weight and styl
 ```
 
 Supported variables:
-- Weights: `[300,400,700]`
+- Weights: `[100,200,300,400,500,600,700,800,900]`
 - Styles: `[italic,normal]`
 - Subsets: `[cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese]`
 
@@ -42,6 +42,6 @@ Copyright 2011 Google Inc. All Rights Reserved.
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v25`.
+Font version (provided by source): `v27`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

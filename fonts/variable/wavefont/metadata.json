@@ -1,17 +1,17 @@
 {
   "id": "wavefont",
   "family": "Wavefont",
-  "subsets": ["latin", "latin-ext"],
+  "subsets": ["latin"],
   "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": {
-    "wght": {"default": "400", "min": "100", "max": "900", "step": "1"},
+    "wght": {"default": "400", "min": "4", "max": "1000", "step": "1"},
     "ROND": {"default": "100", "min": "0", "max": "100", "step": "1"},
     "YELA": {"default": "-100", "min": "-100", "max": "100", "step": "1"}
   },
-  "lastModified": "2023-09-13",
-  "version": "v3",
+  "lastModified": "2023-10-25",
+  "version": "v7",
   "category": "display",
   "license": {
     "type": "OFL-1.1",

@@ -7,6 +7,15 @@
   src: url(./files/noto-sans-tc-chinese-traditional-100-normal.woff2) format('woff2'), url(./files/noto-sans-tc-chinese-traditional-100-normal.woff) format('woff');
 }
 
+/* noto-sans-tc-chinese-traditional-200-normal */
+@font-face {
+  font-family: 'Noto Sans TC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: url(./files/noto-sans-tc-chinese-traditional-200-normal.woff2) format('woff2'), url(./files/noto-sans-tc-chinese-traditional-200-normal.woff) format('woff');
+}
+
 /* noto-sans-tc-chinese-traditional-300-normal */
 @font-face {
   font-family: 'Noto Sans TC';
@@ -34,6 +43,15 @@
   src: url(./files/noto-sans-tc-chinese-traditional-500-normal.woff2) format('woff2'), url(./files/noto-sans-tc-chinese-traditional-500-normal.woff) format('woff');
 }
 
+/* noto-sans-tc-chinese-traditional-600-normal */
+@font-face {
+  font-family: 'Noto Sans TC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(./files/noto-sans-tc-chinese-traditional-600-normal.woff2) format('woff2'), url(./files/noto-sans-tc-chinese-traditional-600-normal.woff) format('woff');
+}
+
 /* noto-sans-tc-chinese-traditional-700-normal */
 @font-face {
   font-family: 'Noto Sans TC';
@@ -41,6 +59,15 @@
   font-display: swap;
   font-weight: 700;
   src: url(./files/noto-sans-tc-chinese-traditional-700-normal.woff2) format('woff2'), url(./files/noto-sans-tc-chinese-traditional-700-normal.woff) format('woff');
+}
+
+/* noto-sans-tc-chinese-traditional-800-normal */
+@font-face {
+  font-family: 'Noto Sans TC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src: url(./files/noto-sans-tc-chinese-traditional-800-normal.woff2) format('woff2'), url(./files/noto-sans-tc-chinese-traditional-800-normal.woff) format('woff');
 }
 
 /* noto-sans-tc-chinese-traditional-900-normal */

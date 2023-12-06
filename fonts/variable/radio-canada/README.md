@@ -23,7 +23,7 @@ import "@fontsource-variable/radio-canada/wght-italic.css"; // Specify axis and 
 Supported variables:
 - Weights: `[300,400,500,600,700]`
 - Styles: `[italic,normal]`
-- Subsets: `[latin,latin-ext,vietnamese]`
+- Subsets: `[canadian-aboriginal,latin,latin-ext,vietnamese]`
 - Axes: `[wdth,wght]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what axes and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/radio-canada).
@@ -43,6 +43,6 @@ Copyright 2017 The Radio-Canada Project Authors (https://github.com/cbcrc/radioc
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v19`.
+Font version (provided by source): `v21`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

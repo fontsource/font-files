@@ -1,18 +1,18 @@
 {
   "id": "narnoor",
   "family": "Narnoor",
-  "subsets": ["gunjala-gondi", "latin", "latin-ext"],
-  "weights": [400],
+  "subsets": ["gunjala-gondi", "latin", "latin-ext", "math", "symbols"],
+  "weights": [400, 500, 600, 700, 800],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-08-25",
-  "version": "v6",
-  "category": "sans-serif",
+  "lastModified": "2023-11-28",
+  "version": "v7",
+  "category": "serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Original font copyright (c) 2014-2017 CDAST, University of Hyderabad, Hyderabad (cdast@uohyd.ernet.in).\nAdditions and modifications copyright (c) 2015-2023 SIL International (http://www.sil.org/).\nLatin glyphs copyright (c) 2010, 2012, 2014, 2021 Adobe Systems Incorporated\n(http://www.adobe.com/), with Reserved Font Name 'Source'."
+    "attribution": "Original font copyright (c) 2014-2017 CDAST, University of Hyderabad, Hyderabad (cdast@uohyd.ernet.in).\nAdditions and modifications copyright (c) 2015-2023 SIL International (https://www.sil.org/).\nLatin glyphs copyright (c) 2010, 2012, 2014, 2021 Adobe Systems Incorporated\n(http://www.adobe.com/), with Reserved Font Name 'Source'."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -23,7 +23,7 @@ import "@fontsource-variable/wavefont/wght-italic.css"; // Specify axis and styl
 Supported variables:
 - Weights: `[100,200,300,400,500,600,700,800,900]`
 - Styles: `[normal]`
-- Subsets: `[latin,latin-ext]`
+- Subsets: `[latin]`
 - Axes: `[wght,ROND,YELA]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what axes and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/wavefont).
@@ -43,6 +43,6 @@ Copyright 2022 The Wavefont Project Authors (https://github.com/dy/wavefont)
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v3`.
+Font version (provided by source): `v7`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

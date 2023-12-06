@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-imperial-aramaic",
   "family": "Noto Sans Imperial Aramaic",
-  "subsets": ["imperial-aramaic"],
+  "subsets": ["imperial-aramaic", "latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "imperial-aramaic",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-05-10",
-  "version": "v15",
+  "lastModified": "2023-08-08",
+  "version": "v16",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

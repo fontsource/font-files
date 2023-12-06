@@ -21,7 +21,7 @@ import "@fontsource/biorhyme/400-italic.css"; // Specify weight and style
 ```
 
 Supported variables:
-- Weights: `[200,300,400,700,800]`
+- Weights: `[200,300,400,500,600,700,800]`
 - Styles: `[normal]`
 - Subsets: `[latin,latin-ext]`
 
@@ -38,10 +38,10 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright 2016 Aoife Mooney (aoifemooney@gmail.com www.aoifemooney.org)
+Copyright 2016 The BioRhyme Project Authors (https://github.com/aoifemooney/makingbiorhyme)
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v12`.
+Font version (provided by source): `v17`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

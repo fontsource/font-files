@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-palmyrene",
   "family": "Noto Sans Palmyrene",
-  "subsets": ["palmyrene"],
+  "subsets": ["latin", "latin-ext", "palmyrene"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "palmyrene",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-05-10",
-  "version": "v15",
+  "lastModified": "2023-06-22",
+  "version": "v16",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

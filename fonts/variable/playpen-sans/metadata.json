@@ -1,15 +1,15 @@
 {
   "id": "playpen-sans",
   "family": "Playpen Sans",
-  "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
+  "subsets": ["emoji", "latin", "latin-ext", "math", "vietnamese"],
   "weights": [100, 200, 300, 400, 500, 600, 700, 800],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": {
     "wght": {"default": "400", "min": "100", "max": "800", "step": "1"}
   },
-  "lastModified": "2023-10-19",
-  "version": "v3",
+  "lastModified": "2023-12-04",
+  "version": "v6",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",

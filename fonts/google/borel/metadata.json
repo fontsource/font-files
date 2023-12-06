@@ -1,13 +1,13 @@
 {
   "id": "borel",
   "family": "Borel",
-  "subsets": ["latin", "latin-ext"],
+  "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-07-24",
-  "version": "v2",
+  "lastModified": "2023-11-09",
+  "version": "v3",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",

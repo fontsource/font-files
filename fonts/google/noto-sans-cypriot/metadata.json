@@ -1,18 +1,18 @@
 {
   "id": "noto-sans-cypriot",
   "family": "Noto Sans Cypriot",
-  "subsets": ["cypriot"],
+  "subsets": ["cypriot", "latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "cypriot",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-05-10",
-  "version": "v15",
+  "lastModified": "2023-11-09",
+  "version": "v19",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2017 Google Inc. All Rights Reserved."
+    "attribution": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/cypriot)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

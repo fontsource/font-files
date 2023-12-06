@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-bhaiksuki",
   "family": "Noto Sans Bhaiksuki",
-  "subsets": ["bhaiksuki"],
+  "subsets": ["bhaiksuki", "latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "bhaiksuki",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-05-10",
-  "version": "v15",
+  "lastModified": "2023-09-27",
+  "version": "v17",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
