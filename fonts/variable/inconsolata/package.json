@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/inconsolata",
-  "version": "5.0.15",
+  "version": "5.0.16",
   "description": "Self-host the Inconsolata font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/inconsolata"
   },
-  "publishHash": "1721b1941fc4c136"
+  "publishHash": "4c24af708c59472b"
 }

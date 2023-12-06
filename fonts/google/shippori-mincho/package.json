@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/shippori-mincho",
-  "version": "5.0.10",
+  "version": "5.0.11",
   "description": "Self-host the Shippori Mincho font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/shippori-mincho"
   },
-  "publishHash": "74ce8e21eaa5b093"
+  "publishHash": "cfc48e8a1e1faa5d"
 }

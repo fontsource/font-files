@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ibm-plex-sans-kr",
-  "version": "5.0.10",
+  "version": "5.0.11",
   "description": "Self-host the IBM Plex Sans KR font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ibm-plex-sans-kr"
   },
-  "publishHash": "ba7842abd649fbcb"
+  "publishHash": "5b0d0997ca3b8544"
 }

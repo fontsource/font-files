@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gotu",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Gotu font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gotu"
   },
-  "publishHash": "133a0bc35b54c69b"
+  "publishHash": "aea0c9c37450dcbd"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/margarine",
-  "version": "5.0.17",
+  "version": "5.0.18",
   "description": "Self-host the Margarine font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/margarine"
   },
-  "publishHash": "4a199ba6213d3d24"
+  "publishHash": "43ab190912b4fbc5"
 }

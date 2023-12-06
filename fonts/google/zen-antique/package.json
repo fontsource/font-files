@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/zen-antique",
-  "version": "5.0.10",
+  "version": "5.0.11",
   "description": "Self-host the Zen Antique font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/zen-antique"
   },
-  "publishHash": "c325b67164165f0d"
+  "publishHash": "ddbfdc464f3c8f1b"
 }

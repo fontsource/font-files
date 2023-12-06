@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sawarabi-mincho",
-  "version": "5.0.10",
+  "version": "5.0.11",
   "description": "Self-host the Sawarabi Mincho font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sawarabi-mincho"
   },
-  "publishHash": "09c521c13bd09831"
+  "publishHash": "7c58f6fa3f979143"
 }

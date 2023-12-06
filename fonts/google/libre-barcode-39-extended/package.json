@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/libre-barcode-39-extended",
-  "version": "5.0.17",
+  "version": "5.0.18",
   "description": "Self-host the Libre Barcode 39 Extended font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/libre-barcode-39-extended"
   },
-  "publishHash": "c32c10caa6e81b3e"
+  "publishHash": "0e15396f8167c6ed"
 }

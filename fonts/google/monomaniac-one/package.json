@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/monomaniac-one",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Monomaniac One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/monomaniac-one"
   },
-  "publishHash": "3e407194f5996b8e"
+  "publishHash": "3836759a52bef3ee"
 }

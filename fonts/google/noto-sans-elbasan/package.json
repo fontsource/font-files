@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-elbasan",
-  "version": "5.0.17",
+  "version": "5.0.18",
   "description": "Self-host the Noto Sans Elbasan font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-elbasan"
   },
-  "publishHash": "9739de4cbd514996"
+  "publishHash": "2df1c9ec3b75a5ea"
 }

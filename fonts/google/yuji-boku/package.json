@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/yuji-boku",
-  "version": "5.0.10",
+  "version": "5.0.11",
   "description": "Self-host the Yuji Boku font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/yuji-boku"
   },
-  "publishHash": "154063356376ac05"
+  "publishHash": "51e84de37c654255"
 }

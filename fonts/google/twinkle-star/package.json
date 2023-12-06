@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/twinkle-star",
-  "version": "5.0.17",
+  "version": "5.0.18",
   "description": "Self-host the Twinkle Star font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/twinkle-star"
   },
-  "publishHash": "7a9f00a89627223b"
+  "publishHash": "41ee30eb75763cf9"
 }

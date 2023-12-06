@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gamja-flower",
-  "version": "5.0.16",
+  "version": "5.0.17",
   "description": "Self-host the Gamja Flower font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gamja-flower"
   },
-  "publishHash": "9f98bf3ed844309b"
+  "publishHash": "ab0c344920a1d73b"
 }

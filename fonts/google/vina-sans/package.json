@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/vina-sans",
-  "version": "5.0.17",
+  "version": "5.0.18",
   "description": "Self-host the Vina Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/vina-sans"
   },
-  "publishHash": "f4d8b0a3bb0175b0"
+  "publishHash": "d55958ed8af5fb55"
 }

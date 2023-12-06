@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/manrope",
-  "version": "5.0.17",
+  "version": "5.0.18",
   "description": "Self-host the Manrope font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/manrope"
   },
-  "publishHash": "0bae63485c746ca8"
+  "publishHash": "e3a4db9c18c37147"
 }

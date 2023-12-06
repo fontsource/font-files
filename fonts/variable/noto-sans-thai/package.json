@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-thai",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Noto Sans Thai font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-thai"
   },
-  "publishHash": "9bb97c9dd9110f06"
+  "publishHash": "ec740a4cda635bdf"
 }
