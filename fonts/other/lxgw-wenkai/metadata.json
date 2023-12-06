@@ -1,0 +1,19 @@
+{
+  "id": "lxgw-wenkai",
+  "family": "LXGW WenKai",
+  "subsets": ["latin"],
+  "weights": [300, 500, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-12-05",
+  "version": "v1.311",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/lxgw/LxgwWenKai/blob/main/OFL.txt",
+    "attribution": "lxgw"
+  },
+  "source": "https://github.com/lxgw/LxgwWenKai",
+  "type": "other"
+}
