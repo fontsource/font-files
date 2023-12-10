@@ -151,6 +151,18 @@
     },
     "original": "Copyright 2018 The Advent Pro Project Authors (https://github.com/googlefonts/Advent)"
   },
+  "afacad": {
+    "id": "afacad",
+    "authors": {
+      "copyright": "Copyright 2023 The Afacad Project Authors",
+      "website": "https://github.com/Dicotype/Afacad"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Afacad Project Authors (https://github.com/Dicotype/Afacad)"
+  },
   "agbalumo": {
     "id": "agbalumo",
     "authors": {
@@ -7434,6 +7446,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)"
+  },
+  "kalnia": {
+    "id": "kalnia",
+    "authors": {
+      "copyright": "Copyright 2022 The Kalnia Project Authors",
+      "website": "https://github.com/fridamedrano/Kalnia-Typeface.git"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Kalnia Project Authors (https://github.com/fridamedrano/Kalnia-Typeface.git)"
   },
   "kameron": {
     "id": "kameron",
@@ -14804,6 +14828,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2020 The Reggae Project Authors (https://github.com/fontworks-fonts/Reggae/), all rights reserved."
+  },
+  "rethink-sans": {
+    "id": "rethink-sans",
+    "authors": {
+      "copyright": "Copyright 2022 The Rethink Sans Project Authors",
+      "website": "https://github.com/hans-thiessen/Rethink-Sans"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Rethink Sans Project Authors (https://github.com/hans-thiessen/Rethink-Sans)"
   },
   "revalia": {
     "id": "revalia",
