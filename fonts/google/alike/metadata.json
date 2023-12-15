@@ -1,18 +1,18 @@
 {
   "id": "alike",
   "family": "Alike",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext", "math", "symbols"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-04-20",
-  "version": "v20",
+  "lastModified": "2023-12-14",
+  "version": "v21",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name 'Alike'."
+    "attribution": "Copyright 2009 The Alike Project Authors (https://github.com/cyrealtype/Alike) with Reserved Font Name \"Alike\" and \"Alike Angular\"."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

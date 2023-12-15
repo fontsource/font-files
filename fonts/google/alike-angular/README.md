@@ -23,7 +23,7 @@ import "@fontsource/alike-angular/400-italic.css"; // Specify weight and style
 Supported variables:
 - Weights: `[400]`
 - Styles: `[normal]`
-- Subsets: `[latin]`
+- Subsets: `[latin,latin-ext,math,symbols]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what weights and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/alike-angular).
 
@@ -38,10 +38,10 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name "Alike" and "Alike Angular".
+Copyright 2009 The Alike Angular Project Authors (https://github.com/cyrealtype/Alike-Angular) with Reserved Font Name "Alike" and "Alike Angular".
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v24`.
+Font version (provided by source): `v25`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

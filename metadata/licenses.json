@@ -438,24 +438,26 @@
   "alike": {
     "id": "alike",
     "authors": {
-      "copyright": "Copyright 2011, Cyreal www.cyreal.org with Reserved Font Name 'Alike'."
+      "copyright": "Copyright 2009 The Alike Project Authors with Reserved Font Name \"Alike\" and \"Alike Angular\".",
+      "website": "https://github.com/cyrealtype/Alike"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name 'Alike'."
+    "original": "Copyright 2009 The Alike Project Authors (https://github.com/cyrealtype/Alike) with Reserved Font Name \"Alike\" and \"Alike Angular\"."
   },
   "alike-angular": {
     "id": "alike-angular",
     "authors": {
-      "copyright": "Copyright 2011, Cyreal www.cyreal.org with Reserved Font Name \"Alike\" and \"Alike Angular\"."
+      "copyright": "Copyright 2009 The Alike Angular Project Authors with Reserved Font Name \"Alike\" and \"Alike Angular\".",
+      "website": "https://github.com/cyrealtype/Alike-Angular"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Alike\" and \"Alike Angular\"."
+    "original": "Copyright 2009 The Alike Angular Project Authors (https://github.com/cyrealtype/Alike-Angular) with Reserved Font Name \"Alike\" and \"Alike Angular\"."
   },
   "alkalami": {
     "id": "alkalami",
@@ -15170,6 +15172,18 @@
     },
     "original": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)"
   },
+  "rubik-broken-fax": {
+    "id": "rubik-broken-fax",
+    "authors": {
+      "copyright": "Copyright 2020 The Rubik Filtered Project Authors",
+      "website": "https://github.com/NaN-xyz/Rubik-Filtered"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)"
+  },
   "rubik-bubbles": {
     "id": "rubik-bubbles",
     "authors": {
@@ -15218,6 +15232,30 @@
     },
     "original": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)"
   },
+  "rubik-doodle-shadow": {
+    "id": "rubik-doodle-shadow",
+    "authors": {
+      "copyright": "Copyright 2020 The Rubik Filtered Project Authors",
+      "website": "https://github.com/NaN-xyz/Rubik-Filtered"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)"
+  },
+  "rubik-doodle-triangles": {
+    "id": "rubik-doodle-triangles",
+    "authors": {
+      "copyright": "Copyright 2020 The Rubik Filtered Project Authors",
+      "website": "https://github.com/NaN-xyz/Rubik-Filtered"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)"
+  },
   "rubik-gemstones": {
     "id": "rubik-gemstones",
     "authors": {
@@ -15244,6 +15282,30 @@
   },
   "rubik-iso": {
     "id": "rubik-iso",
+    "authors": {
+      "copyright": "Copyright 2020 The Rubik Filtered Project Authors",
+      "website": "https://github.com/NaN-xyz/Rubik-Filtered"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)"
+  },
+  "rubik-lines": {
+    "id": "rubik-lines",
+    "authors": {
+      "copyright": "Copyright 2020 The Rubik Filtered Project Authors",
+      "website": "https://github.com/NaN-xyz/Rubik-Filtered"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)"
+  },
+  "rubik-maps": {
+    "id": "rubik-maps",
     "authors": {
       "copyright": "Copyright 2020 The Rubik Filtered Project Authors",
       "website": "https://github.com/NaN-xyz/Rubik-Filtered"
@@ -15328,6 +15390,18 @@
   },
   "rubik-puddles": {
     "id": "rubik-puddles",
+    "authors": {
+      "copyright": "Copyright 2020 The Rubik Filtered Project Authors",
+      "website": "https://github.com/NaN-xyz/Rubik-Filtered"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)"
+  },
+  "rubik-scribble": {
+    "id": "rubik-scribble",
     "authors": {
       "copyright": "Copyright 2020 The Rubik Filtered Project Authors",
       "website": "https://github.com/NaN-xyz/Rubik-Filtered"

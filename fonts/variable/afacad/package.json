@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource-variable/afacad",
+  "version": "5.0.1",
+  "description": "Self-host the Afacad font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "afacad",
+    "Afacad",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/afacad",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/variable/afacad"
+  },
+  "publishHash": "7daa1a7b41460214"
+}

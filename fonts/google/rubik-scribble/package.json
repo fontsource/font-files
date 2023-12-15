@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/rubik-scribble",
+  "version": "5.0.1",
+  "description": "Self-host the Rubik Scribble font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "rubik-scribble",
+    "Rubik Scribble",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/rubik-scribble",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/rubik-scribble"
+  },
+  "publishHash": "a9e052bb153a1ae1"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rubik-doodle-shadow",
+  "family": "Rubik Doodle Shadow",
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "hebrew",
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols"
+  ],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-12-14",
+  "version": "v1",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

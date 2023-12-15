@@ -1,0 +1,22 @@
+{
+  "id": "rethink-sans",
+  "family": "Rethink Sans",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400, 500, 600, 700, 800],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": {
+    "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
+    "wght": {"default": "400", "min": "400", "max": "800", "step": "1"}
+  },
+  "lastModified": "2023-12-07",
+  "version": "v3",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2022 The Rethink Sans Project Authors (https://github.com/hans-thiessen/Rethink-Sans)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}
