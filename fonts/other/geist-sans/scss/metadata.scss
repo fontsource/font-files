@@ -1,0 +1,14 @@
+$id: 'geist-sans' !default;
+$family: 'Geist Sans' !default;
+$category: sans-serif !default;
+$subsets: (latin) !default;
+$weights: (100, 200, 300, 400, 500, 600, 700, 800, 900) !default;
+$styles: (normal) !default;
+$axes: null !default;
+$defaults: (
+  subset: latin,
+  weight: 400,
+  style: normal,
+  axis: null,
+) !default;
+$unicode: null !default;
