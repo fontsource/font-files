@@ -58,34 +58,6 @@
       }
     }
   },
-  "afacad": {
-    "family": "Afacad",
-    "id": "afacad",
-    "axes": {
-      "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
-      "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
-    },
-    "variants": {
-      "wght": {
-        "normal": {
-          "cyrillic-ext": "https://fonts.gstatic.com/s/afacad/v1/6NUX8FKMIQOGaw6ajKwKjO0.woff2",
-          "math": "https://fonts.gstatic.com/s/afacad/v1/6NUX8FKMIQOGaw6a_awKjO0.woff2",
-          "symbols": "https://fonts.gstatic.com/s/afacad/v1/6NUX8FKMIQOGaw6a76wKjO0.woff2",
-          "vietnamese": "https://fonts.gstatic.com/s/afacad/v1/6NUX8FKMIQOGaw6ajqwKjO0.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/afacad/v1/6NUX8FKMIQOGaw6aj6wKjO0.woff2",
-          "latin": "https://fonts.gstatic.com/s/afacad/v1/6NUX8FKMIQOGaw6agawK.woff2"
-        },
-        "italic": {
-          "cyrillic-ext": "https://fonts.gstatic.com/s/afacad/v1/6NUV8FKMIQOGaw6ahJwFlOk8yA.woff2",
-          "math": "https://fonts.gstatic.com/s/afacad/v1/6NUV8FKMIQOGaw6ahJx0lOk8yA.woff2",
-          "symbols": "https://fonts.gstatic.com/s/afacad/v1/6NUV8FKMIQOGaw6ahJxmlOk8yA.woff2",
-          "vietnamese": "https://fonts.gstatic.com/s/afacad/v1/6NUV8FKMIQOGaw6ahJwHlOk8yA.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/afacad/v1/6NUV8FKMIQOGaw6ahJwGlOk8yA.woff2",
-          "latin": "https://fonts.gstatic.com/s/afacad/v1/6NUV8FKMIQOGaw6ahJwIlOk.woff2"
-        }
-      }
-    }
-  },
   "akshar": {
     "family": "Akshar",
     "id": "akshar",
@@ -3328,37 +3300,6 @@
           "vietnamese": "https://fonts.gstatic.com/s/kablammo/v1/bWt77fHPcgrhC-J3le_iWcdEWA.woff2",
           "latin-ext": "https://fonts.gstatic.com/s/kablammo/v1/bWt77fHPcgrhC-J3le_jWcdEWA.woff2",
           "latin": "https://fonts.gstatic.com/s/kablammo/v1/bWt77fHPcgrhC-J3le_tWcc.woff2"
-        }
-      }
-    }
-  },
-  "kalnia": {
-    "family": "Kalnia",
-    "id": "kalnia",
-    "axes": {
-      "wdth": {"default": "100", "min": "100", "max": "125", "step": "0.1"},
-      "wght": {"default": "400", "min": "100", "max": "700", "step": "1"}
-    },
-    "variants": {
-      "wdth": {
-        "normal": {
-          "math": "https://fonts.gstatic.com/s/kalnia/v2/11hAGpPCwUbbYwZzT2ysaKY.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/kalnia/v2/11hAGpPCwUbbYwZzPWysaKY.woff2",
-          "latin": "https://fonts.gstatic.com/s/kalnia/v2/11hAGpPCwUbbYwZzM2ys.woff2"
-        }
-      },
-      "wght": {
-        "normal": {
-          "math": "https://fonts.gstatic.com/s/kalnia/v2/11hdGpPCwUbbYwZZP0RBuDY62BQZhjvO4KMXQVR-.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/kalnia/v2/11hdGpPCwUbbYwZZP0RBuDY62BQZhjvO4NEXQVR-.woff2",
-          "latin": "https://fonts.gstatic.com/s/kalnia/v2/11hdGpPCwUbbYwZZP0RBuDY62BQZhjvO4N8XQQ.woff2"
-        }
-      },
-      "standard": {
-        "normal": {
-          "math": "https://fonts.gstatic.com/s/kalnia/v2/11hAGpPCwUbbYwZzT2ysaKY.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/kalnia/v2/11hAGpPCwUbbYwZzPWysaKY.woff2",
-          "latin": "https://fonts.gstatic.com/s/kalnia/v2/11hAGpPCwUbbYwZzM2ys.woff2"
         }
       }
     }
@@ -8706,26 +8647,6 @@
           "vietnamese": "https://fonts.gstatic.com/s/rem/v2/Wnz1HAIoSDytZAAjQRMlow.woff2",
           "latin-ext": "https://fonts.gstatic.com/s/rem/v2/Wnz1HAIoSDytZAAiQRMlow.woff2",
           "latin": "https://fonts.gstatic.com/s/rem/v2/Wnz1HAIoSDytZAAsQRM.woff2"
-        }
-      }
-    }
-  },
-  "rethink-sans": {
-    "family": "Rethink Sans",
-    "id": "rethink-sans",
-    "axes": {
-      "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
-      "wght": {"default": "400", "min": "400", "max": "800", "step": "1"}
-    },
-    "variants": {
-      "wght": {
-        "normal": {
-          "latin-ext": "https://fonts.gstatic.com/s/rethinksans/v3/AMOWz4SDuXOMCPfdoglY9JQEWli389k.woff2",
-          "latin": "https://fonts.gstatic.com/s/rethinksans/v3/AMOWz4SDuXOMCPfdoglY9JQEVFi3.woff2"
-        },
-        "italic": {
-          "latin-ext": "https://fonts.gstatic.com/s/rethinksans/v3/AMOIz4SDuXOMCPfdoglY9JQEUWi769174g.woff2",
-          "latin": "https://fonts.gstatic.com/s/rethinksans/v3/AMOIz4SDuXOMCPfdoglY9JQEUWi1690.woff2"
         }
       }
     }
