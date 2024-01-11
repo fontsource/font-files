@@ -54,11 +54,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-      - name: Trigger DB updates
-        uses: fjogeleit/http-request-action@v1
-        with:
-          url: "https://fontsource.org/actions/update"
-          method: "POST"
-          bearerToken: ${{ secrets.WEBSITE_UPDATE_TOKEN }}
-          data: '{"fonts": true, "algolia": true, "download": true, "axisRegistry": true, "docs": true}'
-          preventFailureOnNoResponse: true
+      - name: Update Algolia Index
+        run: pnpm run algolia
+        env:
+          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_ADMIN_KEY }}

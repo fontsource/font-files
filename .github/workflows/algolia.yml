@@ -1,0 +1,27 @@
+name: Update Algolia Index
+
+on: [workflow_dispatch]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: Enable PNPM
+        uses: pnpm/action-setup@v2
+
+      - name: Set node version to 20
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20"
+
+      - name: Install
+        run: pnpm install --frozen-lockfile
+
+      - name: Update Algolia Index
+        run: pnpm run algolia
+        env:
+          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_ADMIN_KEY }}
