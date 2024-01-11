@@ -5,6 +5,7 @@
 	"packageManager": "pnpm@8.3.1",
 	"private": true,
 	"scripts": {
+		"algolia": "tsx scripts/algolia.ts",
 		"check-duplicates": "tsx scripts/check-duplicates.ts",
 		"fontlist": "tsx scripts/fontlist.ts",
 		"gfm-metadata": "tsx scripts/gfm-metadata.ts",
@@ -18,6 +19,7 @@
 		"@fontsource-utils/cli": "0.4.1",
 		"@fontsource-utils/publish": "^0.2.8",
 		"@types/node": "^20.5.7",
+		"algoliasearch": "^4.22.1",
 		"consola": "^3.2.3",
 		"google-font-metadata": "^5.2.1",
 		"json-stringify-pretty-compact": "^4.0.0",
