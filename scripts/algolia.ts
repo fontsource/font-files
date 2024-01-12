@@ -46,9 +46,9 @@ const updateAlgoliaIndex = async (force?: boolean) => {
 			if (!metadata)
 				console.warn(`No metadata found for ${id} when updating Algolia index`);
 
-			const stats = (
+			const stats = (await (
 				await fetch(`https://api.fontsource.org/v1/stats/${id}`)
-			).json() as any;
+			).json()) as any;
 			const downloadCountMonthly = stats?.total?.npmDownloadMonthly;
 
 			const obj = {
@@ -85,4 +85,4 @@ const updateAlgoliaIndex = async (force?: boolean) => {
 	}
 };
 
-updateAlgoliaIndex();
+await updateAlgoliaIndex();
