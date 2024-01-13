@@ -59,7 +59,7 @@ const updateAlgoliaIndex = async (force?: boolean) => {
 				styles: metadata.styles,
 				category: metadata.category,
 				defSubset: metadata.defSubset,
-				variable: metadata.variable,
+				variable: Boolean(metadata.variable),
 				// Algolia sorts date using a unix timestamp instead
 				lastModified: Math.floor(
 					new Date(metadata.lastModified).getTime() / 1000
