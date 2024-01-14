@@ -23,7 +23,7 @@ import "@fontsource/alike/400-italic.css"; // Specify weight and style
 Supported variables:
 - Weights: `[400]`
 - Styles: `[normal]`
-- Subsets: `[latin,latin-ext,math,symbols]`
+- Subsets: `[latin]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what weights and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/alike).
 
@@ -42,6 +42,6 @@ Copyright 2009 The Alike Project Authors (https://github.com/cyrealtype/Alike) w
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v21`.
+Font version (provided by source): `v20`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).
