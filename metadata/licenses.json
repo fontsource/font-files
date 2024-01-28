@@ -6550,6 +6550,18 @@
     },
     "original": "Copyright 2016 The Homenaje Project Authors (https://github.com/googlefonts/Homenaje), with Reserved Font Name 'Homenaje."
   },
+  "honk": {
+    "id": "honk",
+    "authors": {
+      "copyright": "Copyright 2023 The Honk Project Authors",
+      "website": "https://github.com/EkType/Honk"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Honk Project Authors (https://github.com/EkType/Honk)"
+  },
   "hubballi": {
     "id": "hubballi",
     "authors": {
@@ -15280,6 +15292,18 @@
     },
     "original": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)"
   },
+  "rubik-glitch-pop": {
+    "id": "rubik-glitch-pop",
+    "authors": {
+      "copyright": "Copyright 2020 The Rubik Filtered Project Authors",
+      "website": "https://github.com/NaN-xyz/Rubik-Filtered"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)"
+  },
   "rubik-iso": {
     "id": "rubik-iso",
     "authors": {
@@ -15523,15 +15547,13 @@
   "ruslan-display": {
     "id": "ruslan-display",
     "authors": {
-      "copyright": "Copyright 2010, 2011, Denis Masharov Vladimir Rabdu. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at",
-      "website": "http://scripts.sil.org/OFL",
-      "email": "denis.masharov@gmail.com"
+      "copyright": "Copyright 2011 Oleg Snarsky, Denis Masharov, Vladimir Rabdu."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2010, 2011, Denis Masharov <denis.masharov@gmail.com>, Vladimir Rabdu. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+    "original": "Copyright 2011 Oleg Snarsky, Denis Masharov, Vladimir Rabdu."
   },
   "russo-one": {
     "id": "russo-one",
@@ -16316,6 +16338,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright (c) 2010 by vernon adams (vern@newtypography.co.uk) with Reserved Font Names 'Six Caps'. All rights reserved."
+  },
+  "sixtyfour": {
+    "id": "sixtyfour",
+    "authors": {
+      "copyright": "Copyright 2021 The Sixtyfour Project Authors",
+      "website": "https://github.com/jenskutilek/homecomputer-fonts"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2021 The Sixtyfour Project Authors (https://github.com/jenskutilek/homecomputer-fonts)"
   },
   "skranji": {
     "id": "skranji",
@@ -18356,6 +18390,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)"
+  },
+  "workbench": {
+    "id": "workbench",
+    "authors": {
+      "copyright": "Copyright 2021 The Workbench Project Authors",
+      "website": "https://github.com/jenskutilek/homecomputer-fonts"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2021 The Workbench Project Authors (https://github.com/jenskutilek/homecomputer-fonts)"
   },
   "xanh-mono": {
     "id": "xanh-mono",
