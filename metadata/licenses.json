@@ -1259,14 +1259,14 @@
   "asset": {
     "id": "asset",
     "authors": {
-      "copyright": "Copyright 2011, Sorkin Type Co www.sorkintype.com with Reserved Font Name \"Asset\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at",
-      "website": "http://scripts.sil.org/OFL"
+      "copyright": "Copyright 2023 The Asset Project Authors",
+      "website": "https://github.com/SorkinType/Asset"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Asset\".  This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+    "original": "Copyright 2023 The Asset Project Authors (https://github.com/SorkinType/Asset)"
   },
   "assistant": {
     "id": "assistant",
@@ -14273,6 +14273,54 @@
     },
     "original": "Copyright (c) 2012, Jovanny Lemonad (http://www.jovanny.ru), Copyright (c) 2012, Pavel Emelyanov (zakachka2006@mail.ru), with Reserved Font Name \"Prosto\" and \"Prosto One\"."
   },
+  "protest-guerrilla": {
+    "id": "protest-guerrilla",
+    "authors": {
+      "copyright": "Copyright 2020 The Protest Project Authors",
+      "website": "https://github.com/octaviopardo/Protest"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2020 The Protest Project Authors (https://github.com/octaviopardo/Protest)"
+  },
+  "protest-revolution": {
+    "id": "protest-revolution",
+    "authors": {
+      "copyright": "Copyright 2020 The Protest Project Authors",
+      "website": "https://github.com/octaviopardo/Protest"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2020 The Protest Project Authors (https://github.com/octaviopardo/Protest)"
+  },
+  "protest-riot": {
+    "id": "protest-riot",
+    "authors": {
+      "copyright": "Copyright 2020 The Protest Project Authors",
+      "website": "https://github.com/octaviopardo/Protest"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2020 The Protest Project Authors (https://github.com/octaviopardo/Protest)"
+  },
+  "protest-strike": {
+    "id": "protest-strike",
+    "authors": {
+      "copyright": "Copyright 2020 The Protest Project Authors",
+      "website": "https://github.com/octaviopardo/Protest"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2020 The Protest Project Authors (https://github.com/octaviopardo/Protest)"
+  },
   "proza-libre": {
     "id": "proza-libre",
     "authors": {
@@ -18431,13 +18479,13 @@
     "id": "yanone-kaffeesatz",
     "authors": {
       "copyright": "Copyright 2010 The Yanone Kaffeesatz Project Authors",
-      "website": "https://github.com/alexeiva/yanone-kaffeesatz"
+      "website": "https://github.com/yanone/kaffeesatz"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2010 The Yanone Kaffeesatz Project Authors (https://github.com/alexeiva/yanone-kaffeesatz)"
+    "original": "Copyright 2010 The Yanone Kaffeesatz Project Authors (https://github.com/yanone/kaffeesatz)"
   },
   "yantramanav": {
     "id": "yantramanav",
