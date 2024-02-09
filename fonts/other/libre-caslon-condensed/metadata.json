@@ -1,0 +1,19 @@
+{
+  "id": "libre-caslon-condensed",
+  "family": "Libre Caslon Condensed",
+  "subsets": ["latin"],
+  "weights": [400, 500, 600, 700],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-02-09",
+  "version": "v1.0",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/ertekinno/libre-caslon-condensed/blob/main/OFL.txt",
+    "attribution": "Ertekin Erdin"
+  },
+  "source": "https://github.com/ertekinno/libre-caslon-condensed",
+  "type": "other"
+}
