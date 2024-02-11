@@ -40,16 +40,20 @@ const updateAlgoliaIndex = async (force?: boolean) => {
 		// as Algolia does not support random sorting natively
 		const randomIndexArr = shuffleArray(list.length);
 
+		const statsResp = await fetch('https://api.fontsource.org/v1/stats');
+		if (!statsResp.ok) {
+			throw new Error('Failed to fetch stats');
+		}
+		const stats = (await statsResp.json()) as Record<
+			string,
+			{ total: { npmDownloadMonthly: number } }
+		>;
+
 		let index = 0;
 		for (const id of list) {
 			const metadata = metadataImport[id];
 			if (!metadata)
 				console.warn(`No metadata found for ${id} when updating Algolia index`);
-
-			const stats = (await (
-				await fetch(`https://api.fontsource.org/v1/stats/${id}`)
-			).json()) as any;
-			const downloadCountMonthly = stats?.total?.npmDownloadMonthly;
 
 			const obj = {
 				objectID: id,
@@ -64,7 +68,7 @@ const updateAlgoliaIndex = async (force?: boolean) => {
 				lastModified: Math.floor(
 					new Date(metadata.lastModified).getTime() / 1000
 				),
-				downloadMonth: downloadCountMonthly ?? 0,
+				downloadMonth: stats[id]?.total.npmDownloadMonthly ?? 0,
 				randomIndex: randomIndexArr[index],
 			};
 
