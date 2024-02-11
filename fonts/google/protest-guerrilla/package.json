@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/protest-guerrilla",
+  "version": "5.0.1",
+  "description": "Self-host the Protest Guerrilla font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "protest-guerrilla",
+    "Protest Guerrilla",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/protest-guerrilla",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/protest-guerrilla"
+  },
+  "publishHash": "4f4e422562d5ac0d"
+}

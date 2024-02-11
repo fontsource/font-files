@@ -1,7 +1,7 @@
 {
   "id": "kumbh-sans",
   "family": "Kumbh Sans",
-  "subsets": ["latin", "latin-ext", "math"],
+  "subsets": ["latin", "latin-ext", "math", "symbols"],
   "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
   "styles": ["normal"],
   "defSubset": "latin",
@@ -9,8 +9,8 @@
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"},
     "YOPQ": {"default": "300", "min": "40", "max": "300", "step": "1"}
   },
-  "lastModified": "2023-10-19",
-  "version": "v20",
+  "lastModified": "2024-01-26",
+  "version": "v22",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

@@ -1,0 +1,19 @@
+{
+  "id": "protest-guerrilla",
+  "family": "Protest Guerrilla",
+  "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-02-02",
+  "version": "v2",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2020 The Protest Project Authors (https://github.com/octaviopardo/Protest)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}
