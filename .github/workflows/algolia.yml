@@ -24,4 +24,4 @@ jobs:
       - name: Update Algolia Index
         run: pnpm run algolia
         env:
-          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_ADMIN_KEY }}
+          ALGOLIA_ADMIN_KEY: ${{ secrets.ALGOLIA_ADMIN_KEY }}
