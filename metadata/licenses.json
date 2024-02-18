@@ -893,6 +893,15 @@
     },
     "original": "Copyright 2020 The Angkor Project Authors (https://github.com/danhhong/Angkor)"
   },
+  "annapurna-sil": {
+    "id": "annapurna-sil",
+    "authors": {"copyright": "Copyright 2007-2023 by SIL International"},
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright (c) 2007-2023 by SIL International"
+  },
   "annie-use-your-telescope": {
     "id": "annie-use-your-telescope",
     "authors": {
@@ -914,6 +923,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright (c) Mark Simonson 2009-2010. All rights reserved."
+  },
+  "anta": {
+    "id": "anta",
+    "authors": {
+      "copyright": "Copyright 2019 The Anta Project Authors",
+      "website": "https://github.com/Typedesigners/Anta-Regular"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2019 The Anta Project Authors (https://github.com/Typedesigners/Anta-Regular)"
   },
   "antic": {
     "id": "antic",
@@ -7105,6 +7126,18 @@
     },
     "original": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com), Copyright (c) 2014, Pablo Impallari (www.impallari.com|impallari@gmail.com)"
   },
+  "jacquarda-bastarda-9": {
+    "id": "jacquarda-bastarda-9",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-jacquarda-bastarda"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jacquarda-bastarda)"
+  },
   "jacques-francois": {
     "id": "jacques-francois",
     "authors": {
@@ -7781,6 +7814,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan)"
+  },
+  "kode-mono": {
+    "id": "kode-mono",
+    "authors": {
+      "copyright": "Copyright 2023 The Kode Mono Project Authors",
+      "website": "https://github.com/isaozler/kode-mono"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Kode Mono Project Authors (https://github.com/isaozler/kode-mono)"
   },
   "koh-santepheap": {
     "id": "koh-santepheap",
@@ -9558,6 +9603,18 @@
     },
     "original": "Copyright 2011 The Michroma Project Authors (https://github.com/googlefonts/Michroma-font)"
   },
+  "micro-5": {
+    "id": "micro-5",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-micro"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-micro)"
+  },
   "milonga": {
     "id": "milonga",
     "authors": {
@@ -10216,6 +10273,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2022 The Nabla Project Authors (https://github.com/justvanrossum/nabla)"
+  },
+  "namdhinggo": {
+    "id": "namdhinggo",
+    "authors": {
+      "copyright": "Copyright 2002-2022, SIL International Reserved Font Names \"Namdhinggo\" and \"SIL\".",
+      "website": "http://www.sil.org/\nwith"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright (c) 2002-2022, SIL International (http://www.sil.org/),\nwith Reserved Font Names \"Namdhinggo\" and \"SIL\"."
   },
   "nanum-brush-script": {
     "id": "nanum-brush-script",
@@ -11591,14 +11660,14 @@
   "noto-sans-mongolian": {
     "id": "noto-sans-mongolian",
     "authors": {
-      "copyright": "Copyright 2022 The Noto Project Authors",
+      "copyright": "Copyright 2023 The Noto Project Authors",
       "website": "https://github.com/notofonts/mongolian"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/mongolian)"
+    "original": "Copyright 2023 The Noto Project Authors (https://github.com/notofonts/mongolian)"
   },
   "noto-sans-mono": {
     "id": "noto-sans-mono",
