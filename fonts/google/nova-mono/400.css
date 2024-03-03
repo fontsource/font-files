@@ -5,7 +5,7 @@
   font-display: swap;
   font-weight: 400;
   src: url(./files/nova-mono-greek-400-normal.woff2) format('woff2'), url(./files/nova-mono-greek-400-normal.woff) format('woff');
-  unicode-range: U+0370-03FF;
+  unicode-range: U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;
 }
 
 /* nova-mono-latin-400-normal */

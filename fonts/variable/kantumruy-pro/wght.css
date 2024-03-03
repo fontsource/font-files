@@ -5,7 +5,7 @@
   font-display: swap;
   font-weight: 100 700;
   src: url(./files/kantumruy-pro-khmer-wght-normal.woff2) format('woff2-variations');
-  unicode-range: U+1780-17FF,U+19E0-19FF,U+200C,U+25CC;
+  unicode-range: U+1780-17FF,U+19E0-19FF,U+200C-200D,U+25CC;
 }
 
 /* kantumruy-pro-latin-ext-wght-normal */
@@ -15,7 +15,7 @@
   font-display: swap;
   font-weight: 100 700;
   src: url(./files/kantumruy-pro-latin-ext-wght-normal.woff2) format('woff2-variations');
-  unicode-range: U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+  unicode-range: U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;
 }
 
 /* kantumruy-pro-latin-wght-normal */

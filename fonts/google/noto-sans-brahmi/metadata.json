@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-brahmi",
   "family": "Noto Sans Brahmi",
-  "subsets": ["brahmi", "latin", "latin-ext"],
+  "subsets": ["brahmi", "latin", "latin-ext", "math", "symbols"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-07-24",
-  "version": "v18",
+  "lastModified": "2024-02-29",
+  "version": "v19",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

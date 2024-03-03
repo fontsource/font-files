@@ -24,7 +24,7 @@ Supported variables:
 - Weights: `[400]`
 - Styles: `[normal]`
 - Subsets: `[cyrillic,cyrillic-ext,greek,latin,latin-ext,vietnamese]`
-- Axes: `[opsz,slnt,wdth,wght,GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC]`
+- Axes: `[opsz,slnt,wdth,wght,GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what axes and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/roboto-flex).
 
@@ -43,6 +43,6 @@ Copyright 2017 The Roboto Flex Project Authors (https://github.com/googlefonts/r
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v9`.
+Font version (provided by source): `v26`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

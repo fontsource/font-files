@@ -5,7 +5,7 @@
   font-display: swap;
   font-weight: 500;
   src: url(./files/noto-sans-tai-tham-tai-tham-500-normal.woff2) format('woff2'), url(./files/noto-sans-tai-tham-tai-tham-500-normal.woff) format('woff');
-  unicode-range: U+1A20-1AAF,U+200C-200D,U+2219;
+  unicode-range: U+1A20-1AAF,U+200C-200D,U+2219,U+25CC;
 }
 
 /* noto-sans-tai-tham-latin-ext-500-normal */
@@ -15,7 +15,7 @@
   font-display: swap;
   font-weight: 500;
   src: url(./files/noto-sans-tai-tham-latin-ext-500-normal.woff2) format('woff2'), url(./files/noto-sans-tai-tham-latin-ext-500-normal.woff) format('woff');
-  unicode-range: U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+  unicode-range: U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;
 }
 
 /* noto-sans-tai-tham-latin-500-normal */

@@ -6,7 +6,7 @@
   font-weight: 100 800;
   font-stretch: 75% 125%;
   src: url(./files/anek-telugu-telugu-wdth-normal.woff2) format('woff2-variations');
-  unicode-range: U+0951-0952,U+0964-0965,U+0C00-0C7F,U+1CDA,U+200C-200D,U+25CC;
+  unicode-range: U+0951-0952,U+0964-0965,U+0C00-0C7F,U+1CDA,U+1CF2,U+200C-200D,U+25CC;
 }
 
 /* anek-telugu-latin-ext-wdth-normal */
@@ -17,7 +17,7 @@
   font-weight: 100 800;
   font-stretch: 75% 125%;
   src: url(./files/anek-telugu-latin-ext-wdth-normal.woff2) format('woff2-variations');
-  unicode-range: U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+  unicode-range: U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;
 }
 
 /* anek-telugu-latin-wdth-normal */

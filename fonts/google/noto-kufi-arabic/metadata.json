@@ -1,20 +1,20 @@
 {
   "id": "noto-kufi-arabic",
   "family": "Noto Kufi Arabic",
-  "subsets": ["arabic"],
+  "subsets": ["arabic", "latin", "latin-ext", "math", "symbols"],
   "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
   "styles": ["normal"],
-  "defSubset": "arabic",
+  "defSubset": "latin",
   "variable": {
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
   },
-  "lastModified": "2023-09-14",
-  "version": "v17",
+  "lastModified": "2024-02-29",
+  "version": "v21",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2019 Google LLC. All Rights Reserved."
+    "attribution": "Copyright 2019-2022 Google LLC. All Rights Reserved."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

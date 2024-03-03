@@ -1,19 +1,19 @@
 {
-	"id": "geist-sans",
-	"family": "Geist Sans",
-	"subsets": ["latin"],
-	"weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
-	"styles": ["normal"],
-	"defSubset": "latin",
-	"variable": false,
-	"lastModified": "2023-11-10",
-	"version": "v1.0.1",
-	"category": "sans-serif",
-	"license": {
-		"type": "OFL-1.1",
-		"url": "https://github.com/vercel/geist-sans-font/blob/main/LICENSE.TXT",
-		"attribution": "Vercel"
-	},
-	"source": "https://github.com/vercel/geist-sans-font/tree/main/packages/next/dist/fonts/geist-sans",
-	"type": "other"
+  "id": "geist-sans",
+  "family": "Geist Sans",
+  "subsets": ["latin"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-11-10",
+  "version": "v1.0.1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/vercel/geist-sans-font/blob/main/LICENSE.TXT",
+    "attribution": "Vercel"
+  },
+  "source": "https://github.com/vercel/geist-sans-font/tree/main/packages/next/dist/fonts/geist-sans",
+  "type": "other"
 }

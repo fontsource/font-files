@@ -5,7 +5,7 @@
   font-display: swap;
   font-weight: 700;
   src: url(./files/gayathri-malayalam-700-normal.woff2) format('woff2'), url(./files/gayathri-malayalam-700-normal.woff) format('woff');
-  unicode-range: U+0307,U+0323,U+0964-0965,U+0D00-0D7F,U+200C-200D,U+20B9,U+25CC;
+  unicode-range: U+0307,U+0323,U+0951-0952,U+0964-0965,U+0D00-0D7F,U+1CDA,U+1CF2,U+200C-200D,U+20B9,U+25CC,U+A830-A832;
 }
 
 /* gayathri-latin-700-normal */

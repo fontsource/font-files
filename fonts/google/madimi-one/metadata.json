@@ -1,0 +1,19 @@
+{
+  "id": "madimi-one",
+  "family": "Madimi One",
+  "subsets": ["latin", "latin-ext", "math", "symbols"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-02-29",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2024 The Madimi One Project Authors (https://github.com/TaVaTake/madimi)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

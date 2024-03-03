@@ -1,0 +1,19 @@
+{
+  "id": "anta",
+  "family": "Anta",
+  "subsets": ["latin", "latin-ext", "math", "symbols"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-02-16",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2019 The Anta Project Authors (https://github.com/Typedesigners/Anta-Regular)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

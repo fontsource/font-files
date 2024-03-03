@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-chorasmian",
   "family": "Noto Sans Chorasmian",
-  "subsets": ["chorasmian", "latin", "latin-ext"],
+  "subsets": ["chorasmian", "latin", "latin-ext", "math", "symbols"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-05-23",
-  "version": "v1",
+  "lastModified": "2024-01-26",
+  "version": "v3",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

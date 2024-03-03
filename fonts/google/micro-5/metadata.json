@@ -1,0 +1,19 @@
+{
+  "id": "micro-5",
+  "family": "Micro 5",
+  "subsets": ["latin", "latin-ext", "math", "symbols"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-02-16",
+  "version": "v1",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-micro)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}
