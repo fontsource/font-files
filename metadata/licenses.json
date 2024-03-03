@@ -8992,6 +8992,18 @@
     },
     "original": "Copyright 2015-2022 The Mada Project Authors (https://github.com/aliftype/mada), with Reserved Font Name \"Source\"."
   },
+  "madimi-one": {
+    "id": "madimi-one",
+    "authors": {
+      "copyright": "Copyright 2024 The Madimi One Project Authors",
+      "website": "https://github.com/TaVaTake/madimi"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2024 The Madimi One Project Authors (https://github.com/TaVaTake/madimi)"
+  },
   "magra": {
     "id": "magra",
     "authors": {
@@ -10593,12 +10605,14 @@
   },
   "noto-kufi-arabic": {
     "id": "noto-kufi-arabic",
-    "authors": {"copyright": "Copyright 2019 Google LLC. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2019-2022 Google LLC. All Rights Reserved."
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2019 Google LLC. All Rights Reserved."
+    "original": "Copyright 2019-2022 Google LLC. All Rights Reserved."
   },
   "noto-music": {
     "id": "noto-music",
@@ -13211,6 +13225,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2019 The Oi Project Authors (github.com/kosbarts/Oi)"
+  },
+  "ojuju": {
+    "id": "ojuju",
+    "authors": {
+      "copyright": "Copyright 2024 The Ojuju Project Authors",
+      "website": "https://github.com/jobosonchisa/ojuju"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2024 The Ojuju Project Authors (https://github.com/jobosonchisa/ojuju)"
   },
   "old-standard-tt": {
     "id": "old-standard-tt",
