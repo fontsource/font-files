@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lemonada",
-  "version": "5.0.18",
+  "version": "5.0.19",
   "description": "Self-host the Lemonada font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lemonada"
   },
-  "publishHash": "8b51c83d87bad503"
+  "publishHash": "abc0f3934982148c"
 }

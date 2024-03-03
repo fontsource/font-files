@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/eb-garamond",
-  "version": "5.0.17",
+  "version": "5.0.18",
   "description": "Self-host the EB Garamond font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/eb-garamond"
   },
-  "publishHash": "6a7bf8ae349c4abc"
+  "publishHash": "b3a457c1152ddcae"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/afacad",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Afacad font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/afacad"
   },
-  "publishHash": "7daa1a7b41460214"
+  "publishHash": "828a946e47e8d460"
 }

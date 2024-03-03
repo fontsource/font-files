@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/zen-kaku-gothic-new",
-  "version": "5.0.17",
+  "version": "5.0.18",
   "description": "Self-host the Zen Kaku Gothic New font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/zen-kaku-gothic-new"
   },
-  "publishHash": "f4fff4dd5f34b4c2"
+  "publishHash": "05c7566e82a5acdb"
 }

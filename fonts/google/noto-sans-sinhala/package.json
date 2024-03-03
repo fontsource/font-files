@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-sinhala",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Noto Sans Sinhala font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-sinhala"
   },
-  "publishHash": "103a55ffd6f32010"
+  "publishHash": "4d6374ead02e2586"
 }

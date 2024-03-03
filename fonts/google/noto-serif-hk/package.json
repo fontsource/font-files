@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-hk",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Noto Serif HK font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-hk"
   },
-  "publishHash": "54485185fbab5658"
+  "publishHash": "b9409464820a7195"
 }

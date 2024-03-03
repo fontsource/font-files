@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-bamum",
-  "version": "5.0.16",
+  "version": "5.0.17",
   "description": "Self-host the Noto Sans Bamum font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-bamum"
   },
-  "publishHash": "f1f5e28841d6c932"
+  "publishHash": "34eb3e8f819b424c"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-meroitic",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Noto Sans Meroitic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-meroitic"
   },
-  "publishHash": "18af2b17a41e5d6a"
+  "publishHash": "78e3786fc7c471f1"
 }

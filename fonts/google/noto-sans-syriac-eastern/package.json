@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-syriac-eastern",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Noto Sans Syriac Eastern font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-syriac-eastern"
   },
-  "publishHash": "d53c32aa2c2d3de9"
+  "publishHash": "6c99008f686b8524"
 }

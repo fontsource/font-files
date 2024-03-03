@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tinos",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Tinos font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tinos"
   },
-  "publishHash": "83d19ca33d0b5d17"
+  "publishHash": "9a3e744124f67e0d"
 }

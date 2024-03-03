@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rokkitt",
-  "version": "5.0.18",
+  "version": "5.0.19",
   "description": "Self-host the Rokkitt font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rokkitt"
   },
-  "publishHash": "c9f2f257c0ac5019"
+  "publishHash": "3ac51d1cf1a184c1"
 }

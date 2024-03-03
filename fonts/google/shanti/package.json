@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/shanti",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Shanti font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/shanti"
   },
-  "publishHash": "f9c3de3bacd7368e"
+  "publishHash": "ac1ff559ef465a54"
 }

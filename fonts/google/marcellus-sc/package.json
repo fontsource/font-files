@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/marcellus-sc",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Marcellus SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/marcellus-sc"
   },
-  "publishHash": "e8faf33c41639a47"
+  "publishHash": "75d9fbb2517dfd3a"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-glagolitic",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Noto Sans Glagolitic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-glagolitic"
   },
-  "publishHash": "79d74121a801d473"
+  "publishHash": "745c68404844096b"
 }

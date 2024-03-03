@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/nokora",
-  "version": "5.0.18",
+  "version": "5.0.19",
   "description": "Self-host the Nokora font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/nokora"
   },
-  "publishHash": "f3f3d7004d32f01a"
+  "publishHash": "f6d8919fe39a1e41"
 }

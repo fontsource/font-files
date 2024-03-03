@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/advent-pro",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Advent Pro font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/advent-pro"
   },
-  "publishHash": "5aa315c09ac90a51"
+  "publishHash": "5ac21cf186a69068"
 }

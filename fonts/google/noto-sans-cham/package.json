@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-cham",
-  "version": "5.0.16",
+  "version": "5.0.17",
   "description": "Self-host the Noto Sans Cham font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-cham"
   },
-  "publishHash": "3e3f3e34ef0e44a5"
+  "publishHash": "ca5745ff605d352a"
 }

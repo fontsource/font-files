@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rem",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the REM font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rem"
   },
-  "publishHash": "f93cd0d4f7adc488"
+  "publishHash": "3dd0cde86c138481"
 }

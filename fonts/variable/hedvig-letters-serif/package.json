@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/hedvig-letters-serif",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "Self-host the Hedvig Letters Serif font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/hedvig-letters-serif"
   },
-  "publishHash": "0299b6a69e9b7b86"
+  "publishHash": "73666f628848b8f3"
 }

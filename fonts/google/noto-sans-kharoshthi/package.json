@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-kharoshthi",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Noto Sans Kharoshthi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-kharoshthi"
   },
-  "publishHash": "f6c40fe7c84f4048"
+  "publishHash": "3a6cf32673881759"
 }

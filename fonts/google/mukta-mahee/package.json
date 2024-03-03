@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mukta-mahee",
-  "version": "5.0.18",
+  "version": "5.0.19",
   "description": "Self-host the Mukta Mahee font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mukta-mahee"
   },
-  "publishHash": "a56e665da7a921ca"
+  "publishHash": "43a6782ed7f872dc"
 }

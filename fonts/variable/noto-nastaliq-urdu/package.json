@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-nastaliq-urdu",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Noto Nastaliq Urdu font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-nastaliq-urdu"
   },
-  "publishHash": "650da98bb46d717f"
+  "publishHash": "ebb7b37e8886d003"
 }

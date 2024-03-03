@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/martel",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Martel font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/martel"
   },
-  "publishHash": "0ce3f286d1a13291"
+  "publishHash": "ef2e77c64639c20e"
 }

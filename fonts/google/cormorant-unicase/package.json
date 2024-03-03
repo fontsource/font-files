@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cormorant-unicase",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Cormorant Unicase font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cormorant-unicase"
   },
-  "publishHash": "2d9b42e61641ed12"
+  "publishHash": "e59dc006f60c0559"
 }

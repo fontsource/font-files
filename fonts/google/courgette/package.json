@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/courgette",
-  "version": "5.0.18",
+  "version": "5.0.19",
   "description": "Self-host the Courgette font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/courgette"
   },
-  "publishHash": "bf1c64560fb1efa0"
+  "publishHash": "da55b160f30a22ea"
 }

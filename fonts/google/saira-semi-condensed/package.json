@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/saira-semi-condensed",
-  "version": "5.0.18",
+  "version": "5.0.19",
   "description": "Self-host the Saira Semi Condensed font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/saira-semi-condensed"
   },
-  "publishHash": "8d66163e06d5f9b9"
+  "publishHash": "7436eb6bb274e039"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-jp",
-  "version": "5.0.17",
+  "version": "5.0.18",
   "description": "Self-host the Noto Sans JP font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-jp"
   },
-  "publishHash": "2c152c848d16a2e3"
+  "publishHash": "cf08825c3d2f359f"
 }

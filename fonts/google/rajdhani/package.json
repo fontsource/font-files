@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rajdhani",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Rajdhani font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rajdhani"
   },
-  "publishHash": "28b56c13b654b95b"
+  "publishHash": "7b4f0514eabbde36"
 }

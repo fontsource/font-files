@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fira-sans-condensed",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Fira Sans Condensed font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fira-sans-condensed"
   },
-  "publishHash": "e919f0362a9b744a"
+  "publishHash": "11bf3322ab30ed9a"
 }

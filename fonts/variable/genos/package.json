@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/genos",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Genos font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/genos"
   },
-  "publishHash": "6c348a99782e9c5c"
+  "publishHash": "d0e34ef701896bb5"
 }

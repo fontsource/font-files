@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/biorhyme",
-  "version": "5.0.18",
+  "version": "5.0.19",
   "description": "Self-host the BioRhyme font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/biorhyme"
   },
-  "publishHash": "3ab3b37c1dd4d80b"
+  "publishHash": "fcb85a20a9e6cc0a"
 }

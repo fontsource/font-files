@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-gurmukhi",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Noto Sans Gurmukhi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-gurmukhi"
   },
-  "publishHash": "6129c7c65308ade0"
+  "publishHash": "f9bd5dab254a7de6"
 }

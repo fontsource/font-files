@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-ottoman-siyaq",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Noto Serif Ottoman Siyaq font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-ottoman-siyaq"
   },
-  "publishHash": "d04fcfd09fbfe3eb"
+  "publishHash": "606c939a9732eff1"
 }

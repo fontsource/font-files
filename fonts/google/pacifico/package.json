@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/pacifico",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Pacifico font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/pacifico"
   },
-  "publishHash": "0d765c186aa57f81"
+  "publishHash": "dc1da88052dcb51e"
 }

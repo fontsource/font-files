@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/itim",
-  "version": "5.0.18",
+  "version": "5.0.19",
   "description": "Self-host the Itim font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/itim"
   },
-  "publishHash": "e809b033a5b61d3f"
+  "publishHash": "ad14f7067c7f2bdd"
 }

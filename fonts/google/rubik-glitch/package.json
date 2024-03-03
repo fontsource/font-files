@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rubik-glitch",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Rubik Glitch font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rubik-glitch"
   },
-  "publishHash": "c2ccf82173ccc7ca"
+  "publishHash": "583b0a3ad5c5d5bb"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/alumni-sans-collegiate-one",
-  "version": "5.0.18",
+  "version": "5.0.19",
   "description": "Self-host the Alumni Sans Collegiate One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/alumni-sans-collegiate-one"
   },
-  "publishHash": "8e77f1fecd372177"
+  "publishHash": "e29ad0417835b40e"
 }

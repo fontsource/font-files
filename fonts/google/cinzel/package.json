@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cinzel",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Cinzel font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cinzel"
   },
-  "publishHash": "4ee8ed6bb4a9e76b"
+  "publishHash": "c05f8e11b2712ae8"
 }

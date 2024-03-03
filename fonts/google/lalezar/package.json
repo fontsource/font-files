@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lalezar",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Lalezar font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lalezar"
   },
-  "publishHash": "7a806e7f1b141b8f"
+  "publishHash": "0d366bf079d8bb0f"
 }
