@@ -1,13 +1,13 @@
 {
   "id": "ruslan-display",
   "family": "Ruslan Display",
-  "subsets": ["cyrillic", "latin", "latin-ext", "math", "symbols"],
+  "subsets": ["cyrillic", "latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-01-26",
-  "version": "v26",
+  "lastModified": "2023-11-28",
+  "version": "v25",
   "category": "display",
   "license": {
     "type": "OFL-1.1",

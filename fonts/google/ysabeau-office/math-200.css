@@ -1,8 +1,0 @@
-/* ysabeau-office-math-200-normal */
-@font-face {
-  font-family: 'Ysabeau Office';
-  font-style: normal;
-  font-display: swap;
-  font-weight: 200;
-  src: url(./files/ysabeau-office-math-200-normal.woff2) format('woff2'), url(./files/ysabeau-office-math-200-normal.woff) format('woff');
-}

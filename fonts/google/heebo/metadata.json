@@ -1,15 +1,15 @@
 {
   "id": "heebo",
   "family": "Heebo",
-  "subsets": ["hebrew", "latin", "latin-ext", "math", "symbols"],
+  "subsets": ["hebrew", "latin"],
   "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": {
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
   },
-  "lastModified": "2024-02-02",
-  "version": "v26",
+  "lastModified": "2023-09-14",
+  "version": "v22",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

@@ -1,13 +1,13 @@
 {
   "id": "alike",
   "family": "Alike",
-  "subsets": ["latin", "latin-ext", "math", "symbols"],
+  "subsets": ["latin"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-12-14",
-  "version": "v21",
+  "lastModified": "2022-04-20",
+  "version": "v20",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
