@@ -1,13 +1,13 @@
 {
   "id": "alike-angular",
   "family": "Alike Angular",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext", "math", "symbols"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-08-25",
-  "version": "v24",
+  "lastModified": "2023-12-14",
+  "version": "v25",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",

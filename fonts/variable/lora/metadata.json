@@ -1,7 +1,15 @@
 {
   "id": "lora",
   "family": "Lora",
-  "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols",
+    "vietnamese"
+  ],
   "weights": [400, 500, 600, 700],
   "styles": ["italic", "normal"],
   "defSubset": "latin",
@@ -9,8 +17,8 @@
     "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
     "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
   },
-  "lastModified": "2023-02-22",
-  "version": "v32",
+  "lastModified": "2024-02-02",
+  "version": "v35",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
