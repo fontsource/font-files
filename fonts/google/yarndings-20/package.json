@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/yarndings-20",
+  "version": "5.0.1",
+  "description": "Self-host the Yarndings 20 font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "yarndings-20",
+    "Yarndings 20",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/yarndings-20",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/yarndings-20"
+  },
+  "publishHash": "88b991ba172ab18c"
+}

@@ -1256,32 +1256,44 @@
     "variants": {
       "opsz": {
         "normal": {
-          "latin-ext": "https://fonts.gstatic.com/s/bodonimoda/v23/aFTQ7PxzY382XsXX63LUYJSESKjEXw.woff2",
-          "latin": "https://fonts.gstatic.com/s/bodonimoda/v23/aFTQ7PxzY382XsXX63LUYJSKSKg.woff2"
+          "math": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTQ7PxzY382XsXX63LUYJT2SKjEXw.woff2",
+          "symbols": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTQ7PxzY382XsXX63LUYJTkSKjEXw.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTQ7PxzY382XsXX63LUYJSESKjEXw.woff2",
+          "latin": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTQ7PxzY382XsXX63LUYJSKSKg.woff2"
         },
         "italic": {
-          "latin-ext": "https://fonts.gstatic.com/s/bodonimoda/v23/aFTS7PxzY382XsXX63LUYJSPeKTcW2BO.woff2",
-          "latin": "https://fonts.gstatic.com/s/bodonimoda/v23/aFTS7PxzY382XsXX63LUYJSPeKrcWw.woff2"
+          "math": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTS7PxzY382XsXX63LUYJSPeNbcW2BO.woff2",
+          "symbols": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTS7PxzY382XsXX63LUYJSPeMTcW2BO.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTS7PxzY382XsXX63LUYJSPeKTcW2BO.woff2",
+          "latin": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTS7PxzY382XsXX63LUYJSPeKrcWw.woff2"
         }
       },
       "wght": {
         "normal": {
-          "latin-ext": "https://fonts.gstatic.com/s/bodonimoda/v23/aFTH7PxzY382XsXX63LUYL6GYFcan6NJrKp-VPj1JuxQRgc.woff2",
-          "latin": "https://fonts.gstatic.com/s/bodonimoda/v23/aFTH7PxzY382XsXX63LUYL6GYFcan6NJrKp-VPj1KOxQ.woff2"
+          "math": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTH7PxzY382XsXX63LUYL6GYFcan6NJrKp-VPj1VOxQRgc.woff2",
+          "symbols": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTH7PxzY382XsXX63LUYL6GYFcan6NJrKp-VPj1RuxQRgc.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTH7PxzY382XsXX63LUYL6GYFcan6NJrKp-VPj1JuxQRgc.woff2",
+          "latin": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTH7PxzY382XsXX63LUYL6GYFcan6NJrKp-VPj1KOxQ.woff2"
         },
         "italic": {
-          "latin-ext": "https://fonts.gstatic.com/s/bodonimoda/v23/aFTB7PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbtxcXgOFEw.woff2",
-          "latin": "https://fonts.gstatic.com/s/bodonimoda/v23/aFTB7PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbtxSXgM.woff2"
+          "math": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTB7PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbtwuXgOFEw.woff2",
+          "symbols": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTB7PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbtw8XgOFEw.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTB7PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbtxcXgOFEw.woff2",
+          "latin": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTB7PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbtxSXgM.woff2"
         }
       },
       "standard": {
         "normal": {
-          "latin-ext": "https://fonts.gstatic.com/s/bodonimoda/v23/aFTQ7PxzY382XsXX63LUYJSESKjEXw.woff2",
-          "latin": "https://fonts.gstatic.com/s/bodonimoda/v23/aFTQ7PxzY382XsXX63LUYJSKSKg.woff2"
+          "math": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTQ7PxzY382XsXX63LUYJT2SKjEXw.woff2",
+          "symbols": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTQ7PxzY382XsXX63LUYJTkSKjEXw.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTQ7PxzY382XsXX63LUYJSESKjEXw.woff2",
+          "latin": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTQ7PxzY382XsXX63LUYJSKSKg.woff2"
         },
         "italic": {
-          "latin-ext": "https://fonts.gstatic.com/s/bodonimoda/v23/aFTS7PxzY382XsXX63LUYJSPeKTcW2BO.woff2",
-          "latin": "https://fonts.gstatic.com/s/bodonimoda/v23/aFTS7PxzY382XsXX63LUYJSPeKrcWw.woff2"
+          "math": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTS7PxzY382XsXX63LUYJSPeNbcW2BO.woff2",
+          "symbols": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTS7PxzY382XsXX63LUYJSPeMTcW2BO.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTS7PxzY382XsXX63LUYJSPeKTcW2BO.woff2",
+          "latin": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTS7PxzY382XsXX63LUYJSPeKrcWw.woff2"
         }
       }
     }
@@ -1818,32 +1830,32 @@
     "variants": {
       "opsz": {
         "normal": {
-          "latin-ext": "https://fonts.gstatic.com/s/dmsans/v14/rP2Hp2ywxg089UriCZ2IHSeH.woff2",
-          "latin": "https://fonts.gstatic.com/s/dmsans/v14/rP2Hp2ywxg089UriCZOIHQ.woff2"
+          "latin-ext": "https://fonts.gstatic.com/s/dmsans/v15/rP2Hp2ywxg089UriCZ2IHSeH.woff2",
+          "latin": "https://fonts.gstatic.com/s/dmsans/v15/rP2Hp2ywxg089UriCZOIHQ.woff2"
         },
         "italic": {
-          "latin-ext": "https://fonts.gstatic.com/s/dmsans/v14/rP2Fp2ywxg089UriCZa4ET-DNl0.woff2",
-          "latin": "https://fonts.gstatic.com/s/dmsans/v14/rP2Fp2ywxg089UriCZa4Hz-D.woff2"
+          "latin-ext": "https://fonts.gstatic.com/s/dmsans/v15/rP2Fp2ywxg089UriCZa4ET-DNl0.woff2",
+          "latin": "https://fonts.gstatic.com/s/dmsans/v15/rP2Fp2ywxg089UriCZa4Hz-D.woff2"
         }
       },
       "wght": {
         "normal": {
-          "latin-ext": "https://fonts.gstatic.com/s/dmsans/v14/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2",
-          "latin": "https://fonts.gstatic.com/s/dmsans/v14/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2"
+          "latin-ext": "https://fonts.gstatic.com/s/dmsans/v15/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2",
+          "latin": "https://fonts.gstatic.com/s/dmsans/v15/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2"
         },
         "italic": {
-          "latin-ext": "https://fonts.gstatic.com/s/dmsans/v14/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKK58VXh.woff2",
-          "latin": "https://fonts.gstatic.com/s/dmsans/v14/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKy58Q.woff2"
+          "latin-ext": "https://fonts.gstatic.com/s/dmsans/v15/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKK58VXh.woff2",
+          "latin": "https://fonts.gstatic.com/s/dmsans/v15/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKy58Q.woff2"
         }
       },
       "standard": {
         "normal": {
-          "latin-ext": "https://fonts.gstatic.com/s/dmsans/v14/rP2Hp2ywxg089UriCZ2IHSeH.woff2",
-          "latin": "https://fonts.gstatic.com/s/dmsans/v14/rP2Hp2ywxg089UriCZOIHQ.woff2"
+          "latin-ext": "https://fonts.gstatic.com/s/dmsans/v15/rP2Hp2ywxg089UriCZ2IHSeH.woff2",
+          "latin": "https://fonts.gstatic.com/s/dmsans/v15/rP2Hp2ywxg089UriCZOIHQ.woff2"
         },
         "italic": {
-          "latin-ext": "https://fonts.gstatic.com/s/dmsans/v14/rP2Fp2ywxg089UriCZa4ET-DNl0.woff2",
-          "latin": "https://fonts.gstatic.com/s/dmsans/v14/rP2Fp2ywxg089UriCZa4Hz-D.woff2"
+          "latin-ext": "https://fonts.gstatic.com/s/dmsans/v15/rP2Fp2ywxg089UriCZa4ET-DNl0.woff2",
+          "latin": "https://fonts.gstatic.com/s/dmsans/v15/rP2Fp2ywxg089UriCZa4Hz-D.woff2"
         }
       }
     }
@@ -6532,9 +6544,9 @@
     "variants": {
       "wght": {
         "normal": {
-          "symbols": "https://fonts.gstatic.com/s/notosanssymbols/v41/rP2dp3q65FkAtHfwd-eIS2brbDN6gzmVyK6L2Q.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notosanssymbols/v41/rP2dp3q65FkAtHfwd-eIS2brbDN6gzn1yK6L2Q.woff2",
-          "latin": "https://fonts.gstatic.com/s/notosanssymbols/v41/rP2dp3q65FkAtHfwd-eIS2brbDN6gzn7yK4.woff2"
+          "symbols": "https://fonts.gstatic.com/s/notosanssymbols/v42/rP2dp3q65FkAtHfwd-eIS2brbDN6gzmVyK6L2Q.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notosanssymbols/v42/rP2dp3q65FkAtHfwd-eIS2brbDN6gzn1yK6L2Q.woff2",
+          "latin": "https://fonts.gstatic.com/s/notosanssymbols/v42/rP2dp3q65FkAtHfwd-eIS2brbDN6gzn7yK4.woff2"
         }
       }
     }
@@ -8750,6 +8762,22 @@
       }
     }
   },
+  "reddit-mono": {
+    "family": "Reddit Mono",
+    "id": "reddit-mono",
+    "axes": {
+      "wght": {"default": "400", "min": "200", "max": "900", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "vietnamese": "https://fonts.gstatic.com/s/redditmono/v1/oPWL_kRmmu4oQ88oo13o4-rERjtPRw.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/redditmono/v1/oPWL_kRmmu4oQ88oo13o4-rFRjtPRw.woff2",
+          "latin": "https://fonts.gstatic.com/s/redditmono/v1/oPWL_kRmmu4oQ88oo13o4-rLRjs.woff2"
+        }
+      }
+    }
+  },
   "reem-kufi": {
     "family": "Reem Kufi",
     "id": "reem-kufi",
@@ -8816,12 +8844,12 @@
     "variants": {
       "wght": {
         "normal": {
-          "latin-ext": "https://fonts.gstatic.com/s/rethinksans/v3/AMOWz4SDuXOMCPfdoglY9JQEWli389k.woff2",
-          "latin": "https://fonts.gstatic.com/s/rethinksans/v3/AMOWz4SDuXOMCPfdoglY9JQEVFi3.woff2"
+          "latin-ext": "https://fonts.gstatic.com/s/rethinksans/v4/AMOWz4SDuXOMCPfdoglY9JQEWli389k.woff2",
+          "latin": "https://fonts.gstatic.com/s/rethinksans/v4/AMOWz4SDuXOMCPfdoglY9JQEVFi3.woff2"
         },
         "italic": {
-          "latin-ext": "https://fonts.gstatic.com/s/rethinksans/v3/AMOIz4SDuXOMCPfdoglY9JQEUWi769174g.woff2",
-          "latin": "https://fonts.gstatic.com/s/rethinksans/v3/AMOIz4SDuXOMCPfdoglY9JQEUWi1690.woff2"
+          "latin-ext": "https://fonts.gstatic.com/s/rethinksans/v4/AMOIz4SDuXOMCPfdoglY9JQEUWi769174g.woff2",
+          "latin": "https://fonts.gstatic.com/s/rethinksans/v4/AMOIz4SDuXOMCPfdoglY9JQEUWi1690.woff2"
         }
       }
     }

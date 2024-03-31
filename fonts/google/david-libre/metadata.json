@@ -1,18 +1,18 @@
 {
   "id": "david-libre",
   "family": "David Libre",
-  "subsets": ["hebrew", "latin", "latin-ext", "vietnamese"],
+  "subsets": ["hebrew", "latin", "latin-ext", "math", "symbols", "vietnamese"],
   "weights": [400, 500, 700],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-05-02",
-  "version": "v14",
+  "lastModified": "2024-03-25",
+  "version": "v16",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2014 Monotype Imaging Inc. (licensing@monotype.com). All Rights Reserved. David Hadash is a trademark of Monotype Imaging Inc. Reserved Font Name 'Hadash'. Copyright (c) 2003-2008 SIL International (http://www.sil.org/), with Reserved Font Names 'Gentium' and 'SIL'. Copyright (c) 2015-2016 Meir Sadan (meir@sadan.com)."
+    "attribution": "Copyright 2016 The David Libre Project Authors (https://github.com/meirsadan/david-libre), with reserved font name \"Hadash\", \"Gentium\" and 'SIL'."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

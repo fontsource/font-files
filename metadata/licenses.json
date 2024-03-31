@@ -2419,13 +2419,13 @@
     "id": "bodoni-moda",
     "authors": {
       "copyright": "Copyright 2020 The Bodoni Moda Project Authors",
-      "website": "https://github.com/indestructible-type"
+      "website": "https://github.com/indestructible-type/Bodoni"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2020 The Bodoni Moda Project Authors (https://github.com/indestructible-type)"
+    "original": "Copyright 2020 The Bodoni Moda Project Authors (https://github.com/indestructible-type/Bodoni)"
   },
   "bokor": {
     "id": "bokor",
@@ -4074,15 +4074,14 @@
   "david-libre": {
     "id": "david-libre",
     "authors": {
-      "copyright": "Copyright 2014 Monotype Imaging Inc. All Rights Reserved. David Hadash is a trademark of Monotype Imaging Inc. Reserved Font Name 'Hadash'. Copyright 2003-2008 SIL International with Reserved Font Names 'Gentium' and 'SIL'. Copyright 2015-2016 Meir Sadan",
-      "website": "http://www.sil.org/",
-      "email": "licensing@monotype.com., meir@sadan.com."
+      "copyright": "Copyright 2016 The David Libre Project Authors with reserved font name \"Hadash\", \"Gentium\" and 'SIL'.",
+      "website": "https://github.com/meirsadan/david-libre"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2014 Monotype Imaging Inc. (licensing@monotype.com). All Rights Reserved. David Hadash is a trademark of Monotype Imaging Inc. Reserved Font Name 'Hadash'. Copyright (c) 2003-2008 SIL International (http://www.sil.org/), with Reserved Font Names 'Gentium' and 'SIL'. Copyright (c) 2015-2016 Meir Sadan (meir@sadan.com)."
+    "original": "Copyright 2016 The David Libre Project Authors (https://github.com/meirsadan/david-libre), with reserved font name \"Hadash\", \"Gentium\" and 'SIL'."
   },
   "dawning-of-a-new-day": {
     "id": "dawning-of-a-new-day",
@@ -14914,6 +14913,18 @@
     },
     "original": "Copyright 2013 The Redacted Project Authors (https://github.com/christiannaths/redacted-font)"
   },
+  "reddit-mono": {
+    "id": "reddit-mono",
+    "authors": {
+      "copyright": "Copyright 2020-2023, Reddit, Inc.",
+      "website": "https://github.com/reddit/redditsans"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)"
+  },
   "redressed": {
     "id": "redressed",
     "authors": {
@@ -17347,6 +17358,18 @@
     },
     "original": "Copyright 2019 The Syne Project Authors (https://gitlab.com/bonjour-monde/fonderie/syne-typeface)"
   },
+  "tac-one": {
+    "id": "tac-one",
+    "authors": {
+      "copyright": "Copyright 2024 The Tac One Project Authors",
+      "website": "https://github.com/Afrotype/tac"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2024 The Tac One Project Authors (https://github.com/Afrotype/tac)"
+  },
   "tai-heritage-pro": {
     "id": "tai-heritage-pro",
     "authors": {
@@ -18593,6 +18616,54 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2014, Erin McLaughlin (hello@erinmclaughlin.com). Copyright 2010, Google Inc. All Rights Reserved."
+  },
+  "yarndings-12": {
+    "id": "yarndings-12",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-yarndings"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-yarndings)"
+  },
+  "yarndings-12-charted": {
+    "id": "yarndings-12-charted",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-yarndings"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-yarndings)"
+  },
+  "yarndings-20": {
+    "id": "yarndings-20",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-yarndings"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-yarndings)"
+  },
+  "yarndings-20-charted": {
+    "id": "yarndings-20-charted",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-yarndings"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-yarndings)"
   },
   "yatra-one": {
     "id": "yatra-one",

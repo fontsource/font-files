@@ -1,7 +1,7 @@
 {
   "id": "bodoni-moda",
   "family": "Bodoni Moda",
-  "subsets": ["latin", "latin-ext"],
+  "subsets": ["latin", "latin-ext", "math", "symbols"],
   "weights": [400, 500, 600, 700, 800, 900],
   "styles": ["italic", "normal"],
   "defSubset": "latin",
@@ -10,13 +10,13 @@
     "opsz": {"default": "11", "min": "6", "max": "96", "step": "0.1"},
     "wght": {"default": "400", "min": "400", "max": "900", "step": "1"}
   },
-  "lastModified": "2023-03-21",
-  "version": "v23",
+  "lastModified": "2024-03-25",
+  "version": "v25",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2020 The Bodoni Moda Project Authors (https://github.com/indestructible-type)"
+    "attribution": "Copyright 2020 The Bodoni Moda Project Authors (https://github.com/indestructible-type/Bodoni)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

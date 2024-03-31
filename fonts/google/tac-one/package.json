@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/tac-one",
+  "version": "5.0.1",
+  "description": "Self-host the Tac One font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "tac-one",
+    "Tac One",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/tac-one",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/tac-one"
+  },
+  "publishHash": "e077acb19eb96755"
+}

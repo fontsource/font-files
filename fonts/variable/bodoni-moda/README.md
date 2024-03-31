@@ -23,7 +23,7 @@ import "@fontsource-variable/bodoni-moda/wght-italic.css"; // Specify axis and s
 Supported variables:
 - Weights: `[400,500,600,700,800,900]`
 - Styles: `[italic,normal]`
-- Subsets: `[latin,latin-ext]`
+- Subsets: `[latin,latin-ext,math,symbols]`
 - Axes: `[opsz,wght]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what axes and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/bodoni-moda).
@@ -39,10 +39,10 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright 2020 The Bodoni Moda Project Authors (https://github.com/indestructible-type)
+Copyright 2020 The Bodoni Moda Project Authors (https://github.com/indestructible-type/Bodoni)
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v23`.
+Font version (provided by source): `v25`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

@@ -1,0 +1,19 @@
+{
+  "id": "tac-one",
+  "family": "Tac One",
+  "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-03-25",
+  "version": "v2",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2024 The Tac One Project Authors (https://github.com/Afrotype/tac)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

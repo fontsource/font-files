@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/yarndings-12",
+  "version": "5.0.1",
+  "description": "Self-host the Yarndings 12 font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "yarndings-12",
+    "Yarndings 12",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/yarndings-12",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/yarndings-12"
+  },
+  "publishHash": "023524e7b1b81b41"
+}
