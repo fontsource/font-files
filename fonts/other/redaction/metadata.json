@@ -1,0 +1,19 @@
+{
+  "id": "redaction",
+  "family": "Redaction",
+  "subsets": ["latin"],
+  "weights": [400, 700],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-04-06",
+  "version": "v1.0",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://www.redaction.us/",
+    "attribution": "Jeremy Mickel"
+  },
+  "source": "https://www.redaction.us/static/redaction.zip",
+  "type": "other"
+}
