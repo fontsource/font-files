@@ -1,0 +1,8 @@
+/* redaction-100-latin-400-normal */
+@font-face {
+  font-family: 'Redaction 100';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/redaction-100-latin-400-normal.woff2) format('woff2'), url(./files/redaction-100-latin-400-normal.woff) format('woff');
+}
