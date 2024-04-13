@@ -25,6 +25,7 @@
 		"google-font-metadata": "^5.2.1",
 		"json-stringify-pretty-compact": "^4.0.0",
 		"pathe": "^1.1.1",
+		"smol-string": "^1.0.0",
 		"tsx": "^3.12.7"
 	},
 	"homepage": "https://fontsource.org",

@@ -1,5 +1,6 @@
 import algoliasearch from 'algoliasearch';
 import metadataImport from '../metadata/fontsource.json';
+import { compress } from 'smol-string';
 
 interface AlgoliaMetadata {
 	objectID: string;
@@ -64,6 +65,8 @@ const updateAlgoliaIndex = async (force?: boolean) => {
 				category: metadata.category,
 				defSubset: metadata.defSubset,
 				variable: Boolean(metadata.variable),
+				// We need to compress the unicode range to fit in Algolia's 10kb limit
+				unicodeRange: compress(JSON.stringify(metadata.unicodeRange)),
 				// Algolia sorts date using a unix timestamp instead
 				lastModified: Math.floor(
 					new Date(metadata.lastModified).getTime() / 1000
