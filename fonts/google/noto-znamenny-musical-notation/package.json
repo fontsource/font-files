@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/noto-znamenny-musical-notation",
+  "version": "5.0.1",
+  "description": "Self-host the Noto Znamenny Musical Notation font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "noto-znamenny-musical-notation",
+    "Noto Znamenny Musical Notation",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/noto-znamenny-musical-notation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/noto-znamenny-musical-notation"
+  },
+  "publishHash": "9c464dc0d35321c5"
+}

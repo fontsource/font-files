@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/jersey-10",
+  "version": "5.0.1",
+  "description": "Self-host the Jersey 10 font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "jersey-10",
+    "Jersey 10",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/jersey-10",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/jersey-10"
+  },
+  "publishHash": "ce3e910d3a01045b"
+}

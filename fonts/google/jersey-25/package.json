@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/jersey-25",
+  "version": "5.0.1",
+  "description": "Self-host the Jersey 25 font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "jersey-25",
+    "Jersey 25",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/jersey-25",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/jersey-25"
+  },
+  "publishHash": "8e532f22bc9212fd"
+}

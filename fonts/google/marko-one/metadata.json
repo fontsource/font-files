@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-04-26",
-  "version": "v22",
+  "lastModified": "2024-04-12",
+  "version": "v23",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Marko\" and \"Marko One\"."
+    "attribution": "Copyright (c) 2011, Cyreal (www.cyreal.org a@cyreal.org) with Reserved Font Name \"Marko\" and \"Marko One\"."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

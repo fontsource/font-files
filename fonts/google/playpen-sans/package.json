@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playpen-sans",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Playpen Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playpen-sans"
   },
-  "publishHash": "1c52a667f215394b"
+  "publishHash": "ac30e21901f89cf1"
 }

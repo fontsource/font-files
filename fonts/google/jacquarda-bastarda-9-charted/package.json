@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/jacquarda-bastarda-9-charted",
+  "version": "5.0.1",
+  "description": "Self-host the Jacquarda Bastarda 9 Charted font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "jacquarda-bastarda-9-charted",
+    "Jacquarda Bastarda 9 Charted",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/jacquarda-bastarda-9-charted",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/jacquarda-bastarda-9-charted"
+  },
+  "publishHash": "a9e0807cb57af308"
+}

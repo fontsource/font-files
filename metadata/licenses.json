@@ -3851,13 +3851,14 @@
   "crete-round": {
     "id": "crete-round",
     "authors": {
-      "copyright": "Copyright 2011, TypeTogether www.type-together.com, with Reserved Font Names \"Crete\" and \"Crete Round\""
+      "copyright": "Copyright 2011, TypeTogether www.type-together.com with Reserved Font Names \"Crete\" and \"Crete Round\"",
+      "email": "info@type-together.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names \"Crete\" and \"Crete Round\""
+    "original": "Copyright (c) 2011, TypeTogether (www.type-together.com info@type-together.com), with Reserved Font Names \"Crete\" and \"Crete Round\""
   },
   "crimson-pro": {
     "id": "crimson-pro",
@@ -5453,13 +5454,14 @@
   "gfs-didot": {
     "id": "gfs-didot",
     "authors": {
-      "copyright": "Copyright Takis Katsoulidis and George D. Matthiopoulos, 2001. All rights reserved."
+      "copyright": "Copyright Takis Katsoulidis and George D. Matthiopoulos 2001. All rights reserved.",
+      "email": "gfs@greekfontsociety.gr"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) Takis Katsoulidis and George D. Matthiopoulos, 2001. All rights reserved."
+    "original": "Copyright (c) Takis Katsoulidis and George D. Matthiopoulos (gfs@greekfontsociety.gr), 2001. All rights reserved."
   },
   "gfs-neohellenic": {
     "id": "gfs-neohellenic",
@@ -7125,8 +7127,44 @@
     },
     "original": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com), Copyright (c) 2014, Pablo Impallari (www.impallari.com|impallari@gmail.com)"
   },
+  "jacquard-12-charted": {
+    "id": "jacquard-12-charted",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-jacquard"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jacquard)"
+  },
+  "jacquard-24": {
+    "id": "jacquard-24",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-jacquard"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jacquard)"
+  },
   "jacquarda-bastarda-9": {
     "id": "jacquarda-bastarda-9",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-jacquarda-bastarda"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jacquarda-bastarda)"
+  },
+  "jacquarda-bastarda-9-charted": {
+    "id": "jacquarda-bastarda-9-charted",
     "authors": {
       "copyright": "Copyright 2023 The Soft Type Project Authors",
       "website": "https://github.com/scfried/soft-type-jacquarda-bastarda"
@@ -7172,6 +7210,90 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright (c) 2011-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Jaldi' and 'Asap'"
+  },
+  "jersey-10": {
+    "id": "jersey-10",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-jersey"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jersey)"
+  },
+  "jersey-10-charted": {
+    "id": "jersey-10-charted",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-jersey"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jersey)"
+  },
+  "jersey-15": {
+    "id": "jersey-15",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-jersey"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jersey)"
+  },
+  "jersey-15-charted": {
+    "id": "jersey-15-charted",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-jersey"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jersey)"
+  },
+  "jersey-20": {
+    "id": "jersey-20",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-jersey"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jersey)"
+  },
+  "jersey-20-charted": {
+    "id": "jersey-20-charted",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-jersey"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jersey)"
+  },
+  "jersey-25": {
+    "id": "jersey-25",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-jersey"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jersey)"
   },
   "jetbrains-mono": {
     "id": "jetbrains-mono",
@@ -9221,13 +9343,14 @@
   "marko-one": {
     "id": "marko-one",
     "authors": {
-      "copyright": "Copyright 2011, Cyreal www.cyreal.org with Reserved Font Name \"Marko\" and \"Marko One\"."
+      "copyright": "Copyright 2011, Cyreal www.cyreal.org with Reserved Font Name \"Marko\" and \"Marko One\".",
+      "email": "a@cyreal.org"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Marko\" and \"Marko One\"."
+    "original": "Copyright (c) 2011, Cyreal (www.cyreal.org a@cyreal.org) with Reserved Font Name \"Marko\" and \"Marko One\"."
   },
   "marmelad": {
     "id": "marmelad",
@@ -9616,6 +9739,18 @@
   },
   "micro-5": {
     "id": "micro-5",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-micro"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-micro)"
+  },
+  "micro-5-charted": {
+    "id": "micro-5-charted",
     "authors": {
       "copyright": "Copyright 2023 The Soft Type Project Authors",
       "website": "https://github.com/scfried/soft-type-micro"
@@ -13032,6 +13167,18 @@
     },
     "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/nushu)"
   },
+  "noto-znamenny-musical-notation": {
+    "id": "noto-znamenny-musical-notation",
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/znamenny"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/znamenny)"
+  },
   "nova-cut": {
     "id": "nova-cut",
     "authors": {
@@ -14018,6 +14165,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Plaster\""
+  },
+  "platypi": {
+    "id": "platypi",
+    "authors": {
+      "copyright": "Copyright 2024 The Platypi Project Authors",
+      "website": "https://github.com/d-sargent/platypi"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2024 The Platypi Project Authors (https://github.com/d-sargent/platypi)"
   },
   "play": {
     "id": "play",
@@ -16096,6 +16255,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2016 The Secular One Project Authors (https://github.com/googlefonts/secular)"
+  },
+  "sedan": {
+    "id": "sedan",
+    "authors": {
+      "copyright": "Copyright 2023 The Sedan Project Authors",
+      "website": "https://github.com/googlefonts/sedan"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Sedan Project Authors (https://github.com/googlefonts/sedan)"
   },
   "sedgwick-ave": {
     "id": "sedgwick-ave",

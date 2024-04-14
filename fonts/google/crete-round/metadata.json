@@ -6,13 +6,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-09-22",
-  "version": "v14",
+  "lastModified": "2024-04-12",
+  "version": "v15",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names \"Crete\" and \"Crete Round\""
+    "attribution": "Copyright (c) 2011, TypeTogether (www.type-together.com info@type-together.com), with Reserved Font Names \"Crete\" and \"Crete Round\""
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "greek",
   "variable": false,
-  "lastModified": "2022-09-22",
-  "version": "v15",
+  "lastModified": "2024-04-12",
+  "version": "v16",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) Takis Katsoulidis and George D. Matthiopoulos, 2001. All rights reserved."
+    "attribution": "Copyright (c) Takis Katsoulidis and George D. Matthiopoulos (gfs@greekfontsociety.gr), 2001. All rights reserved."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

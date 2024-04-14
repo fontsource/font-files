@@ -1,0 +1,8 @@
+/* jacquard-12-charted-math-400-normal */
+@font-face {
+  font-family: 'Jacquard 12 Charted';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/jacquard-12-charted-math-400-normal.woff2) format('woff2'), url(./files/jacquard-12-charted-math-400-normal.woff) format('woff');
+}
