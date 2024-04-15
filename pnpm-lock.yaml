@@ -29,9 +29,6 @@ dependencies:
   pathe:
     specifier: ^1.1.1
     version: 1.1.1
-  smol-string:
-    specifier: ^1.0.0
-    version: 1.0.0
   tsx:
     specifier: ^3.12.7
     version: 3.12.7
@@ -1886,10 +1883,6 @@ packages:
   /smart-buffer@4.2.0:
     resolution: {integrity: sha512-94hK0Hh8rPqQl2xXc3HsaBoOXKV20MToPkcXvwbISWLEs+64sBq5kFgn2kJDHb1Pry9yrP0dxrCI9RRci7RXKg==}
     engines: {node: '>= 6.0.0', npm: '>= 3.0.0'}
-    dev: false
-
-  /smol-string@1.0.0:
-    resolution: {integrity: sha512-rfStKm6kcqIqjWbBqhA6vvjJoVloy+dRqBzo+IA2qdCZgi/qmEEkBxJ6UjQsW8sTQ+IK4EVBBrSobSMPbL7qkA==}
     dev: false
 
   /socks-proxy-agent@8.0.2:
