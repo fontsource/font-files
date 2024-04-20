@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-lycian",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Noto Sans Lycian font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-lycian"
   },
-  "publishHash": "4613abe953c1f6b6"
+  "publishHash": "063f57d6e657c1a4"
 }

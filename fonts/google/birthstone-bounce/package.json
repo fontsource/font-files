@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/birthstone-bounce",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Birthstone Bounce font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/birthstone-bounce"
   },
-  "publishHash": "41f599ddd85e6b66"
+  "publishHash": "fd142ff751bac1aa"
 }

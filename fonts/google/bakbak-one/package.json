@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bakbak-one",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Bakbak One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bakbak-one"
   },
-  "publishHash": "fa15c44487b9fc8a"
+  "publishHash": "9b45817a4969ac5a"
 }

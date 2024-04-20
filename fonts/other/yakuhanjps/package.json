@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/yakuhanjps",
-  "version": "5.0.10",
+  "version": "5.0.11",
   "description": "Self-host the YakuHanJPs font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/yakuhanjps"
   },
-  "publishHash": "20cde11f1a3178df"
+  "publishHash": "f7d0927326335808"
 }

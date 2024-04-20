@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/open-sauce-one",
-  "version": "5.0.10",
+  "version": "5.0.11",
   "description": "Self-host the Open Sauce One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/open-sauce-one"
   },
-  "publishHash": "d3b6d8a5229ea3f9"
+  "publishHash": "600ee98cd835f898"
 }

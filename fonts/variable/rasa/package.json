@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/rasa",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Rasa font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/rasa"
   },
-  "publishHash": "da3a8018b75c5883"
+  "publishHash": "161d366b2456165d"
 }

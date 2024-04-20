@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/didact-gothic",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Didact Gothic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/didact-gothic"
   },
-  "publishHash": "b2ff75928f67385d"
+  "publishHash": "7105d6adce3e4275"
 }

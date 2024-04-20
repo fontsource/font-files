@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ovo",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Ovo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ovo"
   },
-  "publishHash": "c01f12f23e827f3e"
+  "publishHash": "c0364b78ed14e9b4"
 }

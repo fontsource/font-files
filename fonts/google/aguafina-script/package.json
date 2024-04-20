@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/aguafina-script",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Aguafina Script font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/aguafina-script"
   },
-  "publishHash": "71dcca359449fc27"
+  "publishHash": "d990a4198b76f36c"
 }

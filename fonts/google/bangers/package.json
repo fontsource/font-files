@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bangers",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Bangers font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bangers"
   },
-  "publishHash": "b0b49465ced24d55"
+  "publishHash": "3e77414487c5d25f"
 }

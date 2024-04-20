@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/major-mono-display",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Major Mono Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/major-mono-display"
   },
-  "publishHash": "e59f91f71ef0e2fb"
+  "publishHash": "b10705a28d6cc63a"
 }

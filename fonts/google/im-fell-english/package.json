@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/im-fell-english",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the IM Fell English font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/im-fell-english"
   },
-  "publishHash": "b0764f678c8e1f17"
+  "publishHash": "e07b8d2cfa005c80"
 }

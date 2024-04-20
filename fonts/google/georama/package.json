@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/georama",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Georama font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/georama"
   },
-  "publishHash": "382f86fd9a81fa26"
+  "publishHash": "6839943f198c85c8"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/prompt",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Prompt font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/prompt"
   },
-  "publishHash": "68e2e59c2e417f26"
+  "publishHash": "f6ca51c9f345f163"
 }

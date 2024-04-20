@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kelly-slab",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Kelly Slab font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kelly-slab"
   },
-  "publishHash": "d9dd87d80de88d2d"
+  "publishHash": "601e873b9b4c36b5"
 }

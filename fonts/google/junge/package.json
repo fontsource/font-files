@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/junge",
-  "version": "5.0.18",
+  "version": "5.0.19",
   "description": "Self-host the Junge font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/junge"
   },
-  "publishHash": "dbcec66fc1f7aba3"
+  "publishHash": "20dd148824e29d82"
 }

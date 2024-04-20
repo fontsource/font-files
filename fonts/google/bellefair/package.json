@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bellefair",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Bellefair font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bellefair"
   },
-  "publishHash": "b097105ebc8fc8d8"
+  "publishHash": "67056b1e268603cf"
 }

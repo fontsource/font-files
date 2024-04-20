@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/moo-lah-lah",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Moo Lah Lah font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/moo-lah-lah"
   },
-  "publishHash": "789f18515248c072"
+  "publishHash": "69e805786bda7fd6"
 }

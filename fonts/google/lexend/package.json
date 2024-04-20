@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lexend",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Lexend font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lexend"
   },
-  "publishHash": "567a0c484a3a9e12"
+  "publishHash": "204c8d5a420aac2c"
 }

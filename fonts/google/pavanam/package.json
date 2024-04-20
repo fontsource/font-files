@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/pavanam",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Pavanam font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/pavanam"
   },
-  "publishHash": "943828562b4447d4"
+  "publishHash": "d6e834be382a21c7"
 }

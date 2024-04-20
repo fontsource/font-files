@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mohave",
-  "version": "5.0.17",
+  "version": "5.0.18",
   "description": "Self-host the Mohave font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mohave"
   },
-  "publishHash": "6b862a551cbf9bb3"
+  "publishHash": "258a041f104623a9"
 }

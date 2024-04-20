@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rancho",
-  "version": "5.0.18",
+  "version": "5.0.19",
   "description": "Self-host the Rancho font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rancho"
   },
-  "publishHash": "d0d1be90f0874135"
+  "publishHash": "6f898a7430c4dfd8"
 }

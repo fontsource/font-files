@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/corben",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Corben font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/corben"
   },
-  "publishHash": "858479e08fb788d5"
+  "publishHash": "6454646987e1d6a4"
 }

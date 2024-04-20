@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/chewy",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Chewy font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/chewy"
   },
-  "publishHash": "eaf0c20a0b2ce262"
+  "publishHash": "581028ba498c7a31"
 }

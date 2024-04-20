@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/vujahday-script",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Vujahday Script font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/vujahday-script"
   },
-  "publishHash": "c7a0c8c2ad8ed710"
+  "publishHash": "87ac48c70d818f82"
 }

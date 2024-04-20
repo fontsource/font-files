@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/eagle-lake",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Eagle Lake font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/eagle-lake"
   },
-  "publishHash": "1b8b2fae1b7b9d0f"
+  "publishHash": "25409749cd7e0c8e"
 }

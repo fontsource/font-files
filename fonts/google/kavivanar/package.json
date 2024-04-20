@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kavivanar",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Kavivanar font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kavivanar"
   },
-  "publishHash": "5094c189e2c9936f"
+  "publishHash": "0029a0328bdce2b6"
 }

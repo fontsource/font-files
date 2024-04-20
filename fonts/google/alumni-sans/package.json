@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/alumni-sans",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Alumni Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/alumni-sans"
   },
-  "publishHash": "600e316c4c745881"
+  "publishHash": "71b1eda088238f38"
 }

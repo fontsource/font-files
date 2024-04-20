@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/atma",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Atma font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/atma"
   },
-  "publishHash": "a87e5d141141c07d"
+  "publishHash": "6a20ec516e9db49b"
 }

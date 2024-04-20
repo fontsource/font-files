@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/antic",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Antic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/antic"
   },
-  "publishHash": "94c474c11b40b915"
+  "publishHash": "f992d6cecb5a56c0"
 }

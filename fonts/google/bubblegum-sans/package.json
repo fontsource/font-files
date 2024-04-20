@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bubblegum-sans",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Bubblegum Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bubblegum-sans"
   },
-  "publishHash": "73547240fa954279"
+  "publishHash": "559fe0d2aeebd0bd"
 }

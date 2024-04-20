@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/hahmlet",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Hahmlet font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/hahmlet"
   },
-  "publishHash": "4d3711447ab21461"
+  "publishHash": "26a85b266b91e758"
 }

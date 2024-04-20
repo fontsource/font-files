@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/redaction-35",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Redaction 35 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/redaction-35"
   },
-  "publishHash": "4a4a1b8ad29b3d77"
+  "publishHash": "b96b9f2749c00300"
 }

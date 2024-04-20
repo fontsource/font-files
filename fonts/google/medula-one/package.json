@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/medula-one",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Medula One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/medula-one"
   },
-  "publishHash": "5ba5a7280e818495"
+  "publishHash": "c532b2ec5c54f43f"
 }

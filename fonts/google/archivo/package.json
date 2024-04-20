@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/archivo",
-  "version": "5.0.17",
+  "version": "5.0.18",
   "description": "Self-host the Archivo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/archivo"
   },
-  "publishHash": "b4174b6b1afc2a24"
+  "publishHash": "0aa243bb66a654ac"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/doppio-one",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Doppio One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/doppio-one"
   },
-  "publishHash": "f2638b9c486195de"
+  "publishHash": "592119323cd27643"
 }

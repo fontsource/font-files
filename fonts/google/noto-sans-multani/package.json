@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-multani",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Noto Sans Multani font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-multani"
   },
-  "publishHash": "df777b38d37bf351"
+  "publishHash": "6d34477985324d71"
 }

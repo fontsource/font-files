@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/metal-mania",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Metal Mania font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/metal-mania"
   },
-  "publishHash": "59d1b45ed9b1de44"
+  "publishHash": "4c233d77da299fb1"
 }

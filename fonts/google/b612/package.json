@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/b612",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the B612 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/b612"
   },
-  "publishHash": "4a128d89207b7620"
+  "publishHash": "6cf37b1de21cf559"
 }

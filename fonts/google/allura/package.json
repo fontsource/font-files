@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/allura",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Allura font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/allura"
   },
-  "publishHash": "a4a668e91624fb01"
+  "publishHash": "5674719a81f1a113"
 }

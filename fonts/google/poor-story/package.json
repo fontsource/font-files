@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/poor-story",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Poor Story font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/poor-story"
   },
-  "publishHash": "a1afc10294558f30"
+  "publishHash": "e738608811001ea0"
 }

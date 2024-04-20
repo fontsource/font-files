@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/solway",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Solway font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/solway"
   },
-  "publishHash": "1f6364a8340645fc"
+  "publishHash": "4c6e4d4bc5186dd2"
 }

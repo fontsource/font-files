@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tapestry",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Tapestry font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tapestry"
   },
-  "publishHash": "898dbf704d456d2c"
+  "publishHash": "bb7265fa08f1e841"
 }

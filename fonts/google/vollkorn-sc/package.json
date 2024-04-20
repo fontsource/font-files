@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/vollkorn-sc",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Vollkorn SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/vollkorn-sc"
   },
-  "publishHash": "40f65aa1063d52b5"
+  "publishHash": "c60052a23d12a50f"
 }

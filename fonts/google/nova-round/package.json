@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/nova-round",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Nova Round font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/nova-round"
   },
-  "publishHash": "82f6bcbb91134af4"
+  "publishHash": "0fedc360cb6ed88a"
 }

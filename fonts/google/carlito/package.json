@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/carlito",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Carlito font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/carlito"
   },
-  "publishHash": "9cc5c1efc25a3abb"
+  "publishHash": "a9499b0e2889c2fd"
 }

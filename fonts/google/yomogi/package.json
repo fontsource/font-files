@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/yomogi",
-  "version": "5.0.18",
+  "version": "5.0.19",
   "description": "Self-host the Yomogi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/yomogi"
   },
-  "publishHash": "734cf1954ba916e4"
+  "publishHash": "73a2f25beddd15b4"
 }

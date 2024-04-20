@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/red-hat-text",
-  "version": "5.0.17",
+  "version": "5.0.18",
   "description": "Self-host the Red Hat Text font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/red-hat-text"
   },
-  "publishHash": "c5fbd3919ff0a3b7"
+  "publishHash": "25255d77d9c821ea"
 }

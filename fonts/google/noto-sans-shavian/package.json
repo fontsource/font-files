@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-shavian",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Noto Sans Shavian font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-shavian"
   },
-  "publishHash": "5817b800cad20b62"
+  "publishHash": "a7d10252faebe8a9"
 }

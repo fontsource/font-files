@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-phags-pa",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Noto Sans Phags Pa font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-phags-pa"
   },
-  "publishHash": "d429c22e0980335b"
+  "publishHash": "2ed4aedc2eeda016"
 }

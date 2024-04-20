@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tiro-telugu",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Tiro Telugu font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tiro-telugu"
   },
-  "publishHash": "eec997ed8efaa7a0"
+  "publishHash": "dd4db94dde5044a5"
 }

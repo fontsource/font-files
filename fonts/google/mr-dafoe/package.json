@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mr-dafoe",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Mr Dafoe font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mr-dafoe"
   },
-  "publishHash": "68b31e46b89be2cb"
+  "publishHash": "dd8a83d60aba05ac"
 }

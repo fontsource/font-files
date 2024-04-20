@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/monofett",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Monofett font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/monofett"
   },
-  "publishHash": "e39ee6e7c261f29b"
+  "publishHash": "1fae59c1ec861e18"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-devanagari",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Noto Serif Devanagari font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-devanagari"
   },
-  "publishHash": "b1be6b4c208f1821"
+  "publishHash": "40544203bada76aa"
 }

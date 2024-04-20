@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mulish",
-  "version": "5.0.17",
+  "version": "5.0.18",
   "description": "Self-host the Mulish font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mulish"
   },
-  "publishHash": "c5bb2ed937795859"
+  "publishHash": "b430d66a3a83c22d"
 }

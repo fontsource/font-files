@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-serif-sinhala",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Noto Serif Sinhala font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-serif-sinhala"
   },
-  "publishHash": "d62b642b58f42c1d"
+  "publishHash": "a1f03d365a6cd0bc"
 }

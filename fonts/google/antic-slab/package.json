@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/antic-slab",
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Self-host the Antic Slab font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/antic-slab"
   },
-  "publishHash": "e4140fa819dc5a30"
+  "publishHash": "d7f95b4c4db31e2c"
 }

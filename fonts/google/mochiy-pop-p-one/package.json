@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mochiy-pop-p-one",
-  "version": "5.0.17",
+  "version": "5.0.18",
   "description": "Self-host the Mochiy Pop P One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mochiy-pop-p-one"
   },
-  "publishHash": "2230af6e67e3a40e"
+  "publishHash": "ac4da6163cf08d3f"
 }

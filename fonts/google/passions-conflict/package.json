@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/passions-conflict",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Passions Conflict font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/passions-conflict"
   },
-  "publishHash": "52c992800c5eacd2"
+  "publishHash": "9c4740a8e0aa9f22"
 }

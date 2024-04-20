@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/monsieur-la-doulaise",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Monsieur La Doulaise font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/monsieur-la-doulaise"
   },
-  "publishHash": "bed5788171633ffe"
+  "publishHash": "7ab911d49885b79c"
 }

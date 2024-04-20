@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rubik-gemstones",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Rubik Gemstones font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rubik-gemstones"
   },
-  "publishHash": "808cf5de9c44ae06"
+  "publishHash": "38c1ecda94aca12b"
 }

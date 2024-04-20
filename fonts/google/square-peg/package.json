@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/square-peg",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Square Peg font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/square-peg"
   },
-  "publishHash": "274023abbc20e1dc"
+  "publishHash": "9a65f64120d1ad94"
 }

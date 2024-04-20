@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/magra",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Magra font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/magra"
   },
-  "publishHash": "e667830c466f47cb"
+  "publishHash": "0322aa217404a4f4"
 }

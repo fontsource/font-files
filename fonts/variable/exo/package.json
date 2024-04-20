@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/exo",
-  "version": "5.0.18",
+  "version": "5.0.19",
   "description": "Self-host the Exo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/exo"
   },
-  "publishHash": "4fb4e5e95fd93edf"
+  "publishHash": "9389ebecec19b7cd"
 }

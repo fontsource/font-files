@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/albert-sans",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Albert Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/albert-sans"
   },
-  "publishHash": "261cc15614ed5777"
+  "publishHash": "8abd330034f0ea17"
 }

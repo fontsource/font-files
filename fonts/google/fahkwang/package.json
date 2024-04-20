@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fahkwang",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Fahkwang font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fahkwang"
   },
-  "publishHash": "0a9ae0c1d913d934"
+  "publishHash": "aba998ded3e9d63f"
 }

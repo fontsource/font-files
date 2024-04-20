@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kirang-haerang",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Kirang Haerang font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kirang-haerang"
   },
-  "publishHash": "66493a9615ded0d1"
+  "publishHash": "f2bffa4ac97b0761"
 }

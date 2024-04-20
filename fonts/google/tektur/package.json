@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tektur",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Tektur font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tektur"
   },
-  "publishHash": "5060b9a190ceed32"
+  "publishHash": "575c7856bcce8af6"
 }

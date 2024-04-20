@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-pau-cin-hau",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Noto Sans Pau Cin Hau font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-pau-cin-hau"
   },
-  "publishHash": "c2f3ce511c3e5155"
+  "publishHash": "d2e57751bcbac5ad"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ropa-sans",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Ropa Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ropa-sans"
   },
-  "publishHash": "61afcaa8dfcaa07e"
+  "publishHash": "5796d3fb6b4c8d9d"
 }

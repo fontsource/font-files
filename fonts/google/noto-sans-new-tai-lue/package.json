@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-new-tai-lue",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Noto Sans New Tai Lue font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-new-tai-lue"
   },
-  "publishHash": "cf31d45d4ae15a8c"
+  "publishHash": "0c5edf0f6dadf01d"
 }

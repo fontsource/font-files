@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/erica-one",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Erica One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/erica-one"
   },
-  "publishHash": "fb3378b2870616aa"
+  "publishHash": "8f23ce2b4546f730"
 }

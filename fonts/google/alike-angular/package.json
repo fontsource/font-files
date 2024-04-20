@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/alike-angular",
-  "version": "5.0.27",
+  "version": "5.0.28",
   "description": "Self-host the Alike Angular font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/alike-angular"
   },
-  "publishHash": "6506979e3430f005"
+  "publishHash": "49ba7ea72cd5bd60"
 }

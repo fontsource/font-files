@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/hind-madurai",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Hind Madurai font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/hind-madurai"
   },
-  "publishHash": "627327c702285bf5"
+  "publishHash": "f1912f8798776a8b"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/patrick-hand",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Patrick Hand font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/patrick-hand"
   },
-  "publishHash": "4b7ff889ee334347"
+  "publishHash": "b88481b9e0cdf240"
 }

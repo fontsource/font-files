@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/share",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Share font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/share"
   },
-  "publishHash": "c49f35384b5a1187"
+  "publishHash": "50123518f4629988"
 }

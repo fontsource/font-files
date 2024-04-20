@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/proza-libre",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Proza Libre font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/proza-libre"
   },
-  "publishHash": "d962072f87521f8f"
+  "publishHash": "5895e137800284b2"
 }

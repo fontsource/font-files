@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/kablammo",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Self-host the Kablammo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/kablammo"
   },
-  "publishHash": "9b64317f9c65d9b4"
+  "publishHash": "b698a326308fffc9"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kaisei-opti",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Kaisei Opti font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kaisei-opti"
   },
-  "publishHash": "4638efa25f65b047"
+  "publishHash": "70886f33d5269439"
 }

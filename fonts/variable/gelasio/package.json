@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/gelasio",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Gelasio font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/gelasio"
   },
-  "publishHash": "b84f8daca67b7486"
+  "publishHash": "ad1bae7b69d6b6ce"
 }

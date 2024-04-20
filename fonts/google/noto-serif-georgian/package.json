@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-georgian",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Noto Serif Georgian font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-georgian"
   },
-  "publishHash": "b07fa1ea3e898ac2"
+  "publishHash": "3ecce85596a10a62"
 }

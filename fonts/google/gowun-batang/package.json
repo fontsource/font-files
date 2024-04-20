@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gowun-batang",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Gowun Batang font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gowun-batang"
   },
-  "publishHash": "1d9582387d2fbd1c"
+  "publishHash": "f2151fff15bd7ce3"
 }

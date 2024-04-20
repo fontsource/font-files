@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/combo",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Combo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/combo"
   },
-  "publishHash": "468820832646ba06"
+  "publishHash": "56103a651e6bb288"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bungee",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Bungee font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bungee"
   },
-  "publishHash": "7dca9330909fdadb"
+  "publishHash": "2a1955ef9d02062d"
 }
