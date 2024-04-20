@@ -2509,14 +2509,14 @@
     "variants": {
       "wght": {
         "normal": {
-          "vietnamese": "https://fonts.gstatic.com/s/gelasio/v11/cIf9MaFfvUQxTTqS9CGhYVkH.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/gelasio/v11/cIf9MaFfvUQxTTqS9CChYVkH.woff2",
-          "latin": "https://fonts.gstatic.com/s/gelasio/v11/cIf9MaFfvUQxTTqS9C6hYQ.woff2"
+          "vietnamese": "https://fonts.gstatic.com/s/gelasio/v12/cIf9MaFfvUQxTTqS9CGhYVkH.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/gelasio/v12/cIf9MaFfvUQxTTqS9CChYVkH.woff2",
+          "latin": "https://fonts.gstatic.com/s/gelasio/v12/cIf9MaFfvUQxTTqS9C6hYQ.woff2"
         },
         "italic": {
-          "vietnamese": "https://fonts.gstatic.com/s/gelasio/v11/cIf_MaFfvUQxTTqS9CuRbEEDoIs.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/gelasio/v11/cIf_MaFfvUQxTTqS9CuRbUEDoIs.woff2",
-          "latin": "https://fonts.gstatic.com/s/gelasio/v11/cIf_MaFfvUQxTTqS9CuRY0ED.woff2"
+          "vietnamese": "https://fonts.gstatic.com/s/gelasio/v12/cIf_MaFfvUQxTTqS9CuRbEEDoIs.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/gelasio/v12/cIf_MaFfvUQxTTqS9CuRbUEDoIs.woff2",
+          "latin": "https://fonts.gstatic.com/s/gelasio/v12/cIf_MaFfvUQxTTqS9CuRY0ED.woff2"
         }
       }
     }
