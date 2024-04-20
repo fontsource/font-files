@@ -17,15 +17,15 @@
 	"author": "Ayuhito <hello@ayuhito.com>",
 	"license": "MIT",
 	"dependencies": {
-		"@fontsource-utils/cli": "0.4.1",
+		"@fontsource-utils/cli": "0.4.2",
 		"@fontsource-utils/publish": "^0.2.8",
-		"@types/node": "^20.5.7",
-		"algoliasearch": "^4.22.1",
+		"@types/node": "^20.12.7",
+		"algoliasearch": "^4.23.3",
 		"consola": "^3.2.3",
 		"google-font-metadata": "^5.2.1",
 		"json-stringify-pretty-compact": "^4.0.0",
-		"pathe": "^1.1.1",
-		"tsx": "^3.12.7"
+		"pathe": "^1.1.2",
+		"tsx": "^4.7.2"
 	},
 	"homepage": "https://fontsource.org",
 	"repository": {
