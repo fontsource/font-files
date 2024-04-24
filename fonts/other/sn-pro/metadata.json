@@ -1,0 +1,19 @@
+{
+  "id": "sn-pro",
+  "family": "SN Pro",
+  "subsets": ["latin"],
+  "weights": [200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-04-24",
+  "version": "v1.1.0",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/supernotes/sn-pro",
+    "attribution": "SN Pro Authors"
+  },
+  "source": "https://github.com/supernotes/sn-pro",
+  "type": "other"
+}
