@@ -1,0 +1,22 @@
+{
+  "id": "radio-canada-big",
+  "family": "Radio Canada Big",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400, 500, 600, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": {
+    "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
+    "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
+  },
+  "lastModified": "2024-05-02",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2022 The Radio Canada Big Project Authors (https://github.com/googlefonts/radiocanadadisplay)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

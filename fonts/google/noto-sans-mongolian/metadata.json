@@ -1,20 +1,13 @@
 {
   "id": "noto-sans-mongolian",
   "family": "Noto Sans Mongolian",
-  "subsets": [
-    "chinese-simplified",
-    "latin",
-    "latin-ext",
-    "math",
-    "mongolian",
-    "symbols"
-  ],
+  "subsets": ["latin", "latin-ext", "math", "mongolian", "symbols"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-02-16",
-  "version": "v19",
+  "lastModified": "2024-05-02",
+  "version": "v21",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

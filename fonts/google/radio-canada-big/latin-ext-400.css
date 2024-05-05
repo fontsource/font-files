@@ -1,0 +1,8 @@
+/* radio-canada-big-latin-ext-400-normal */
+@font-face {
+  font-family: 'Radio Canada Big';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/radio-canada-big-latin-ext-400-normal.woff2) format('woff2'), url(./files/radio-canada-big-latin-ext-400-normal.woff) format('woff');
+}

@@ -1,0 +1,19 @@
+{
+  "id": "jaini",
+  "family": "Jaini",
+  "subsets": ["devanagari", "latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-05-02",
+  "version": "v1",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2023 The Jaini Project Authors (https://github.com/EkType/Jaini)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -1,13 +1,20 @@
 {
   "id": "great-vibes",
   "family": "Great Vibes",
-  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-08-25",
-  "version": "v18",
+  "lastModified": "2024-05-02",
+  "version": "v19",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",

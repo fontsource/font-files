@@ -2571,6 +2571,18 @@
     },
     "original": "Copyright 2022 The Bricolage Grotesque Project Authors (https://github.com/ateliertriay/bricolage)"
   },
+  "briem-hand": {
+    "id": "briem-hand",
+    "authors": {
+      "copyright": "Copyright 2019 The Briem Hand Project Authors",
+      "website": "https://github.com/SorkinType/Briem-Hand"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2019 The Briem Hand Project Authors (https://github.com/SorkinType/Briem-Hand)"
+  },
   "bruno-ace": {
     "id": "bruno-ace",
     "authors": {
@@ -5379,6 +5391,18 @@
     },
     "original": "Copyright 2020 The Freehand Project Authors (https://github.com/danhhong/Freehand)"
   },
+  "freeman": {
+    "id": "freeman",
+    "authors": {
+      "copyright": "Copyright 2023 The Freeman Project Authors",
+      "website": "https://github.com/rfuenzalida/Freeman"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Freeman Project Authors (https://github.com/rfuenzalida/Freeman)"
+  },
   "fresca": {
     "id": "fresca",
     "authors": {
@@ -7151,6 +7175,18 @@
     },
     "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jacquard)"
   },
+  "jacquard-24-charted": {
+    "id": "jacquard-24-charted",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-jacquard"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jacquard)"
+  },
   "jacquarda-bastarda-9": {
     "id": "jacquarda-bastarda-9",
     "authors": {
@@ -7199,6 +7235,30 @@
     },
     "original": "Copyright (c) 2011, Cyreal (www.cyreal.org a@cyreal.org) with Reserved Font Name 'Jacques Francois'"
   },
+  "jaini": {
+    "id": "jaini",
+    "authors": {
+      "copyright": "Copyright 2023 The Jaini Project Authors",
+      "website": "https://github.com/EkType/Jaini"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Jaini Project Authors (https://github.com/EkType/Jaini)"
+  },
+  "jaini-purva": {
+    "id": "jaini-purva",
+    "authors": {
+      "copyright": "Copyright 2023 The Jaini Project Authors",
+      "website": "https://github.com/EkType/Jaini"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Jaini Project Authors (https://github.com/EkType/Jaini)"
+  },
   "jaldi": {
     "id": "jaldi",
     "authors": {
@@ -7210,6 +7270,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright (c) 2011-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Jaldi' and 'Asap'"
+  },
+  "jaro": {
+    "id": "jaro",
+    "authors": {
+      "copyright": "Copyright 2023 The Jaro Project Authors",
+      "website": "https://github.com/agyeiarcher/Jaro"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Jaro Project Authors (https://github.com/agyeiarcher/Jaro)"
   },
   "jersey-10": {
     "id": "jersey-10",
@@ -7285,6 +7357,18 @@
   },
   "jersey-25": {
     "id": "jersey-25",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-jersey"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jersey)"
+  },
+  "jersey-25-charted": {
+    "id": "jersey-25-charted",
     "authors": {
       "copyright": "Copyright 2023 The Soft Type Project Authors",
       "website": "https://github.com/scfried/soft-type-jersey"
@@ -14274,6 +14358,18 @@
     },
     "original": "Copyright 2011 The Podkova Project Authors (https://github.com/cyrealtype/Podkova)"
   },
+  "poetsen-one": {
+    "id": "poetsen-one",
+    "authors": {
+      "copyright": "Copyright 2012, Pablo Impallari and Rodrigo Fuenzalida www.rfuenzalida.com, with Reserved Font Name Poetsen.",
+      "email": "www.impallari.comimpallari@gmail.com"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com) and Rodrigo Fuenzalida (www.rfuenzalida.com), with Reserved Font Name Poetsen."
+  },
   "poiret-one": {
     "id": "poiret-one",
     "authors": {
@@ -14790,6 +14886,18 @@
     },
     "original": "Copyright 2017 The Radio-Canada Project Authors (https://github.com/cbcrc/radiocanadafonts)"
   },
+  "radio-canada-big": {
+    "id": "radio-canada-big",
+    "authors": {
+      "copyright": "Copyright 2022 The Radio Canada Big Project Authors",
+      "website": "https://github.com/googlefonts/radiocanadadisplay"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Radio Canada Big Project Authors (https://github.com/googlefonts/radiocanadadisplay)"
+  },
   "radley": {
     "id": "radley",
     "authors": {
@@ -15074,6 +15182,30 @@
   },
   "reddit-mono": {
     "id": "reddit-mono",
+    "authors": {
+      "copyright": "Copyright 2020-2023, Reddit, Inc.",
+      "website": "https://github.com/reddit/redditsans"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)"
+  },
+  "reddit-sans": {
+    "id": "reddit-sans",
+    "authors": {
+      "copyright": "Copyright 2020-2023, Reddit, Inc.",
+      "website": "https://github.com/reddit/redditsans"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)"
+  },
+  "reddit-sans-condensed": {
+    "id": "reddit-sans-condensed",
     "authors": {
       "copyright": "Copyright 2020-2023, Reddit, Inc.",
       "website": "https://github.com/reddit/redditsans"
@@ -16267,6 +16399,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2023 The Sedan Project Authors (https://github.com/googlefonts/sedan)"
+  },
+  "sedan-sc": {
+    "id": "sedan-sc",
+    "authors": {
+      "copyright": "Copyright 2023 The Sedan SC Project Authors",
+      "website": "https://github.com/googlefonts/sedan"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Sedan SC Project Authors (https://github.com/googlefonts/sedan)"
   },
   "sedgwick-ave": {
     "id": "sedgwick-ave",
@@ -17622,6 +17766,18 @@
     },
     "original": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)"
   },
+  "teachers": {
+    "id": "teachers",
+    "authors": {
+      "copyright": "Copyright 2023 The Teachers Project Authors",
+      "website": "https://github.com/chankfonts/Teachers-fonts"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Teachers Project Authors (https://github.com/chankfonts/Teachers-fonts)"
+  },
   "teko": {
     "id": "teko",
     "authors": {
@@ -18144,6 +18300,28 @@
       "url": "http://font.ubuntu.com/ufl/"
     },
     "original": "Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0"
+  },
+  "ubuntu-sans": {
+    "id": "ubuntu-sans",
+    "authors": {
+      "copyright": "Copyright 2011, 2022, 2023 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0"
+    },
+    "license": {
+      "type": "Ubuntu Font License, 1.0",
+      "url": "http://font.ubuntu.com/ufl/"
+    },
+    "original": "Copyright 2011, 2022, 2023 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0"
+  },
+  "ubuntu-sans-mono": {
+    "id": "ubuntu-sans-mono",
+    "authors": {
+      "copyright": "Copyright 2011, 2022, 2023 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0"
+    },
+    "license": {
+      "type": "Ubuntu Font License, 1.0",
+      "url": "http://font.ubuntu.com/ufl/"
+    },
+    "original": "Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0"
   },
   "uchen": {
     "id": "uchen",

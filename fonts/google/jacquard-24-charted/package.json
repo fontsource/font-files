@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/jacquard-24-charted",
+  "version": "5.0.1",
+  "description": "Self-host the Jacquard 24 Charted font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "jacquard-24-charted",
+    "Jacquard 24 Charted",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/jacquard-24-charted",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/jacquard-24-charted"
+  },
+  "publishHash": "2b1e5d050b6813a7"
+}

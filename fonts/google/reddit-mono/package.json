@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/reddit-mono",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Reddit Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/reddit-mono"
   },
-  "publishHash": "98d117da2bc868c2"
+  "publishHash": "db52ef7e20566f38"
 }

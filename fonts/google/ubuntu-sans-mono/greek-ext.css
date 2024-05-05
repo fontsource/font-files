@@ -1,0 +1,35 @@
+/* ubuntu-sans-mono-greek-ext-400-normal */
+@font-face {
+  font-family: 'Ubuntu Sans Mono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/ubuntu-sans-mono-greek-ext-400-normal.woff2) format('woff2'), url(./files/ubuntu-sans-mono-greek-ext-400-normal.woff) format('woff');
+}
+
+/* ubuntu-sans-mono-greek-ext-500-normal */
+@font-face {
+  font-family: 'Ubuntu Sans Mono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(./files/ubuntu-sans-mono-greek-ext-500-normal.woff2) format('woff2'), url(./files/ubuntu-sans-mono-greek-ext-500-normal.woff) format('woff');
+}
+
+/* ubuntu-sans-mono-greek-ext-600-normal */
+@font-face {
+  font-family: 'Ubuntu Sans Mono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(./files/ubuntu-sans-mono-greek-ext-600-normal.woff2) format('woff2'), url(./files/ubuntu-sans-mono-greek-ext-600-normal.woff) format('woff');
+}
+
+/* ubuntu-sans-mono-greek-ext-700-normal */
+@font-face {
+  font-family: 'Ubuntu Sans Mono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./files/ubuntu-sans-mono-greek-ext-700-normal.woff2) format('woff2'), url(./files/ubuntu-sans-mono-greek-ext-700-normal.woff) format('woff');
+}

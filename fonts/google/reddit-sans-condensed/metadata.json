@@ -1,0 +1,21 @@
+{
+  "id": "reddit-sans-condensed",
+  "family": "Reddit Sans Condensed",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "wght": {"default": "400", "min": "200", "max": "900", "step": "1"}
+  },
+  "lastModified": "2024-05-02",
+  "version": "v3",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "freeman",
+  "family": "Freeman",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-05-02",
+  "version": "v1",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2023 The Freeman Project Authors (https://github.com/rfuenzalida/Freeman)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

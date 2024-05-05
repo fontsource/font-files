@@ -1,0 +1,19 @@
+{
+  "id": "jersey-25-charted",
+  "family": "Jersey 25 Charted",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-05-02",
+  "version": "v2",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jersey)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}
