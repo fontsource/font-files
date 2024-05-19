@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource-variable/noto-serif-kr",
+  "version": "5.0.1",
+  "description": "Self-host the Noto Serif KR font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "noto-serif-kr",
+    "Noto Serif KR",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/noto-serif-kr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/variable/noto-serif-kr"
+  },
+  "publishHash": "96902b2234665917"
+}

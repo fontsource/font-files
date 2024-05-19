@@ -2571,18 +2571,6 @@
     },
     "original": "Copyright 2022 The Bricolage Grotesque Project Authors (https://github.com/ateliertriay/bricolage)"
   },
-  "briem-hand": {
-    "id": "briem-hand",
-    "authors": {
-      "copyright": "Copyright 2019 The Briem Hand Project Authors",
-      "website": "https://github.com/SorkinType/Briem-Hand"
-    },
-    "license": {
-      "type": "SIL Open Font License, 1.1",
-      "url": "http://scripts.sil.org/OFL"
-    },
-    "original": "Copyright 2019 The Briem Hand Project Authors (https://github.com/SorkinType/Briem-Hand)"
-  },
   "bruno-ace": {
     "id": "bruno-ace",
     "authors": {
@@ -4047,6 +4035,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2016 The Dancing Script Project Authors (https://github.com/googlefonts/DancingScript), with Reserved Font Name 'Dancing Script'."
+  },
+  "danfo": {
+    "id": "danfo",
+    "authors": {
+      "copyright": "Copyright 2024 The Tac Project Authors",
+      "website": "https://github.com/Afrotype/Danfo"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2024 The Tac Project Authors (https://github.com/Afrotype/Danfo)"
   },
   "dangrek": {
     "id": "dangrek",
@@ -7150,6 +7150,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com), Copyright (c) 2014, Pablo Impallari (www.impallari.com|impallari@gmail.com)"
+  },
+  "jacquard-12": {
+    "id": "jacquard-12",
+    "authors": {
+      "copyright": "Copyright 2023 The Soft Type Project Authors",
+      "website": "https://github.com/scfried/soft-type-jacquard"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jacquard)"
   },
   "jacquard-12-charted": {
     "id": "jacquard-12-charted",
@@ -12927,14 +12939,14 @@
   "noto-serif-hk": {
     "id": "noto-serif-hk",
     "authors": {
-      "copyright": "2017-2022 Adobe",
+      "copyright": "2017-2023 Adobe",
       "website": "http://www.adobe.com/."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "(c) 2017-2022 Adobe (http://www.adobe.com/)."
+    "original": "(c) 2017-2023 Adobe (http://www.adobe.com/)."
   },
   "noto-serif-hebrew": {
     "id": "noto-serif-hebrew",
@@ -12951,26 +12963,26 @@
   "noto-serif-jp": {
     "id": "noto-serif-jp",
     "authors": {
-      "copyright": "Copyright 2017 Adobe Systems Incorporated",
+      "copyright": "2017-2023 Adobe",
       "website": "http://www.adobe.com/."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Adobe Systems Incorporated (http://www.adobe.com/)."
+    "original": "(c) 2017-2023 Adobe (http://www.adobe.com/)."
   },
   "noto-serif-kr": {
     "id": "noto-serif-kr",
     "authors": {
-      "copyright": "Copyright 2017 Adobe Systems Incorporated",
+      "copyright": "2017-2023 Adobe",
       "website": "http://www.adobe.com/."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Adobe Systems Incorporated (http://www.adobe.com/)."
+    "original": "(c) 2017-2023 Adobe (http://www.adobe.com/)."
   },
   "noto-serif-kannada": {
     "id": "noto-serif-kannada",
@@ -13110,14 +13122,14 @@
   "noto-serif-sc": {
     "id": "noto-serif-sc",
     "authors": {
-      "copyright": "Copyright 2017 Adobe Systems Incorporated",
+      "copyright": "2017-2023 Adobe",
       "website": "http://www.adobe.com/."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Adobe Systems Incorporated (http://www.adobe.com/)."
+    "original": "(c) 2017-2023 Adobe (http://www.adobe.com/)."
   },
   "noto-serif-sinhala": {
     "id": "noto-serif-sinhala",
@@ -13134,14 +13146,14 @@
   "noto-serif-tc": {
     "id": "noto-serif-tc",
     "authors": {
-      "copyright": "Copyright 2017 Adobe Systems Incorporated",
+      "copyright": "2017-2023 Adobe",
       "website": "http://www.adobe.com/."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2017 Adobe Systems Incorporated (http://www.adobe.com/)."
+    "original": "(c) 2017-2023 Adobe (http://www.adobe.com/)."
   },
   "noto-serif-tamil": {
     "id": "noto-serif-tamil",

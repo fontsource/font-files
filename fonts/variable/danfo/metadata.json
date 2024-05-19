@@ -1,0 +1,21 @@
+{
+  "id": "danfo",
+  "family": "Danfo",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "ELSH": {"default": "0", "min": "0", "max": "100", "step": "0.1"}
+  },
+  "lastModified": "2024-05-13",
+  "version": "v2",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2024 The Tac Project Authors (https://github.com/Afrotype/Danfo)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

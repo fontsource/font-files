@@ -1,0 +1,19 @@
+{
+  "id": "jacquard-12",
+  "family": "Jacquard 12",
+  "subsets": ["latin", "latin-ext", "math", "symbols"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-05-13",
+  "version": "v6",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jacquard)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}
