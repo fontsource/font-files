@@ -1,0 +1,29 @@
+{
+  "id": "lxgw-wenkai-tc",
+  "family": "LXGW WenKai TC",
+  "subsets": [
+    "chinese-traditional",
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "lisu",
+    "vietnamese"
+  ],
+  "weights": [300, 400, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-05-29",
+  "version": "v2",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

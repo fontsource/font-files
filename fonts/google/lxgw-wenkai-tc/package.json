@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/lxgw-wenkai-tc",
+  "version": "5.0.1",
+  "description": "Self-host the LXGW WenKai TC font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "lxgw-wenkai-tc",
+    "LXGW WenKai TC",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/lxgw-wenkai-tc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/lxgw-wenkai-tc"
+  },
+  "publishHash": "219958d3e7c3d81c"
+}

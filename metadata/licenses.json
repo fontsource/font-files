@@ -2783,6 +2783,18 @@
     },
     "original": "Copyright 2011 The Cabin Project Authors (impallari@gmail.com), with Reserved Font Name \"Cabin\", \"Cabin Sketch\"."
   },
+  "cactus-classical-serif": {
+    "id": "cactus-classical-serif",
+    "authors": {
+      "copyright": "Copyright 2024 The Cactus Classical Serif Project Authors",
+      "website": "https://github.com/MoonlitOwen/CactusSerif"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2024 The Cactus Classical Serif Project Authors (https://github.com/MoonlitOwen/CactusSerif)"
+  },
   "caesar-dressing": {
     "id": "caesar-dressing",
     "authors": {
@@ -3389,6 +3401,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2018 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)"
+  },
+  "chocolate-classical-sans": {
+    "id": "chocolate-classical-sans",
+    "authors": {
+      "copyright": "Copyright 2024 The Chocolate Classical Sans Project Authors",
+      "website": "https://github.com/MoonlitOwen/ChocolateSans"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2024 The Chocolate Classical Sans Project Authors (https://github.com/MoonlitOwen/ChocolateSans)"
   },
   "chokokutai": {
     "id": "chokokutai",
@@ -8257,6 +8281,30 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2013 The Kurale Project Authors (edu@tipo.net.ar)"
+  },
+  "lxgw-wenkai-mono-tc": {
+    "id": "lxgw-wenkai-mono-tc",
+    "authors": {
+      "copyright": "Copyright 2024 The LXGW WenKai Project Authors",
+      "website": "https://github.com/lxgw/LxgwWenkaiTC"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)"
+  },
+  "lxgw-wenkai-tc": {
+    "id": "lxgw-wenkai-tc",
+    "authors": {
+      "copyright": "Copyright 2024 The LXGW WenKai Project Authors",
+      "website": "https://github.com/lxgw/LxgwWenkaiTC"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)"
   },
   "la-belle-aurore": {
     "id": "la-belle-aurore",
