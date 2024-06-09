@@ -1,15 +1,15 @@
 {
   "id": "noto-rashi-hebrew",
   "family": "Noto Rashi Hebrew",
-  "subsets": ["hebrew", "latin", "latin-ext"],
+  "subsets": ["greek-ext", "hebrew", "latin", "latin-ext"],
   "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": {
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
   },
-  "lastModified": "2023-03-09",
-  "version": "v25",
+  "lastModified": "2024-06-05",
+  "version": "v26",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",

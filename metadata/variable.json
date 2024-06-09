@@ -5033,9 +5033,10 @@
     "variants": {
       "wght": {
         "normal": {
-          "hebrew": "https://fonts.gstatic.com/s/notorashihebrew/v25/EJRMQh82XsIK-QFmqXk4zvLwFVya0ttF0Iiirw.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notorashihebrew/v25/EJRMQh82XsIK-QFmqXk4zvLwFVya0ttJ0Iiirw.woff2",
-          "latin": "https://fonts.gstatic.com/s/notorashihebrew/v25/EJRMQh82XsIK-QFmqXk4zvLwFVya0ttH0Ig.woff2"
+          "greek-ext": "https://fonts.gstatic.com/s/notorashihebrew/v26/EJRMQh82XsIK-QFmqXk4zvLwFVya0ttL0Iiirw.woff2",
+          "hebrew": "https://fonts.gstatic.com/s/notorashihebrew/v26/EJRMQh82XsIK-QFmqXk4zvLwFVya0ttF0Iiirw.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notorashihebrew/v26/EJRMQh82XsIK-QFmqXk4zvLwFVya0ttJ0Iiirw.woff2",
+          "latin": "https://fonts.gstatic.com/s/notorashihebrew/v26/EJRMQh82XsIK-QFmqXk4zvLwFVya0ttH0Ig.woff2"
         }
       }
     }

@@ -1,18 +1,18 @@
 {
   "id": "damion",
   "family": "Damion",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-09-22",
-  "version": "v14",
+  "lastModified": "2024-06-05",
+  "version": "v15",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2011 by vernon adams. All rights reserved."
+    "attribution": "Copyright 2014 The Damion Project Authors (https://github.com/googlefonts/damionFont)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

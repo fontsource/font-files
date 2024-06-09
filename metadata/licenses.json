@@ -4040,13 +4040,14 @@
   "damion": {
     "id": "damion",
     "authors": {
-      "copyright": "Copyright 2011 by vernon adams. All rights reserved."
+      "copyright": "Copyright 2014 The Damion Project Authors",
+      "website": "https://github.com/googlefonts/damionFont"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011 by vernon adams. All rights reserved."
+    "original": "Copyright 2014 The Damion Project Authors (https://github.com/googlefonts/damionFont)"
   },
   "dancing-script": {
     "id": "dancing-script",
@@ -18041,6 +18042,18 @@
       "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
     },
     "original": "Digitized data copyright (c) 2010-2012 Google Corporation."
+  },
+  "tiny5": {
+    "id": "tiny5",
+    "authors": {
+      "copyright": "Copyright 2024 The tiny5 Project Authors",
+      "website": "https://github.com/Gissio/font_tiny5"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2024 The tiny5 Project Authors (https://github.com/Gissio/font_tiny5)"
   },
   "tiro-bangla": {
     "id": "tiro-bangla",

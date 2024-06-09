@@ -1,3 +1,13 @@
+/* noto-rashi-hebrew-greek-ext-wght-normal */
+@font-face {
+  font-family: 'Noto Rashi Hebrew Variable';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 900;
+  src: url(./files/noto-rashi-hebrew-greek-ext-wght-normal.woff2) format('woff2-variations');
+  unicode-range: U+1F00-1FFF;
+}
+
 /* noto-rashi-hebrew-hebrew-wght-normal */
 @font-face {
   font-family: 'Noto Rashi Hebrew Variable';

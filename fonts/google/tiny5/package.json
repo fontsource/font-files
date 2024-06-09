@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/tiny5",
+  "version": "5.0.1",
+  "description": "Self-host the Tiny5 font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "tiny5",
+    "Tiny5",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/tiny5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/tiny5"
+  },
+  "publishHash": "ac0f9ea59df00622"
+}
