@@ -731,14 +731,14 @@
   "anaheim": {
     "id": "anaheim",
     "authors": {
-      "copyright": "Copyright 2012, vernon adams with Reserved Font Names 'Anaheim'",
-      "email": "vern@newtypography.co.uk"
+      "copyright": "Copyright 2012 The Anaheim Project Authors",
+      "website": "https://github.com/googlefonts/anaheimFont"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Names 'Anaheim'"
+    "original": "Copyright 2012 The Anaheim Project Authors (https://github.com/googlefonts/anaheimFont)"
   },
   "andada-pro": {
     "id": "andada-pro",
@@ -3972,13 +3972,13 @@
     "id": "cutive-mono",
     "authors": {
       "copyright": "Copyright 2012 The Cutive Project Authors",
-      "email": "vern@newtypography.co.uk"
+      "website": "https://github.com/googlefonts/cutivemono"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2012 The Cutive Project Authors (vern@newtypography.co.uk)"
+    "original": "Copyright 2012 The Cutive Project Authors (https://github.com/googlefonts/cutivemono)"
   },
   "dm-mono": {
     "id": "dm-mono",
@@ -6589,14 +6589,14 @@
   "holtwood-one-sc": {
     "id": "holtwood-one-sc",
     "authors": {
-      "copyright": "Copyright 2011, Vernon Adams with Reserved Font Name 'Holtwood'. All rights reserved.",
-      "email": "vern@newtypography.co.uk"
+      "copyright": "Copyright 2011 The Holtwood Project Authors",
+      "website": "https://github.com/googlefonts/HoltwoodFont"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011, Vernon Adams (vern@newtypography.co.uk) with Reserved Font Name 'Holtwood'. All rights reserved."
+    "original": "Copyright 2011 The Holtwood Project Authors (https://github.com/googlefonts/HoltwoodFont)"
   },
   "homemade-apple": {
     "id": "homemade-apple",
@@ -14394,6 +14394,462 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2023 The Playpen Sans Project Authors (https://github.com/TypeTogether/Playpen-Sans)"
+  },
+  "playwrite-au-nsw": {
+    "id": "playwrite-au-nsw",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-au-qld": {
+    "id": "playwrite-au-qld",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-au-sa": {
+    "id": "playwrite-au-sa",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-au-tas": {
+    "id": "playwrite-au-tas",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-au-vic": {
+    "id": "playwrite-au-vic",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-br": {
+    "id": "playwrite-br",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-ca": {
+    "id": "playwrite-ca",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-co": {
+    "id": "playwrite-co",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-de-grund": {
+    "id": "playwrite-de-grund",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-de-la": {
+    "id": "playwrite-de-la",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-de-sas": {
+    "id": "playwrite-de-sas",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-de-va": {
+    "id": "playwrite-de-va",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-es": {
+    "id": "playwrite-es",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-es-deco": {
+    "id": "playwrite-es-deco",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-fr-moderne": {
+    "id": "playwrite-fr-moderne",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-fr-trad": {
+    "id": "playwrite-fr-trad",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-gb-j": {
+    "id": "playwrite-gb-j",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-gb-s": {
+    "id": "playwrite-gb-s",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-id": {
+    "id": "playwrite-id",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-ie": {
+    "id": "playwrite-ie",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-in": {
+    "id": "playwrite-in",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-is": {
+    "id": "playwrite-is",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-it-moderna": {
+    "id": "playwrite-it-moderna",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-it-trad": {
+    "id": "playwrite-it-trad",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-mx": {
+    "id": "playwrite-mx",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-ng-modern": {
+    "id": "playwrite-ng-modern",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-nl": {
+    "id": "playwrite-nl",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-no": {
+    "id": "playwrite-no",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-nz": {
+    "id": "playwrite-nz",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-pl": {
+    "id": "playwrite-pl",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-pt": {
+    "id": "playwrite-pt",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-ro": {
+    "id": "playwrite-ro",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-sk": {
+    "id": "playwrite-sk",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-tz": {
+    "id": "playwrite-tz",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-us-modern": {
+    "id": "playwrite-us-modern",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-us-trad": {
+    "id": "playwrite-us-trad",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-vn": {
+    "id": "playwrite-vn",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-za": {
+    "id": "playwrite-za",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
   },
   "plus-jakarta-sans": {
     "id": "plus-jakarta-sans",

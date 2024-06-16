@@ -1,0 +1,21 @@
+{
+  "id": "playwrite-it-trad",
+  "family": "Playwrite IT Trad",
+  "subsets": ["latin"],
+  "weights": [100, 200, 300, 400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+  },
+  "lastModified": "2024-06-14",
+  "version": "v4",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -1,0 +1,8 @@
+/* playwrite-gb-j-latin-400-italic */
+@font-face {
+  font-family: 'Playwrite GB J';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/playwrite-gb-j-latin-400-italic.woff2) format('woff2'), url(./files/playwrite-gb-j-latin-400-italic.woff) format('woff');
+}

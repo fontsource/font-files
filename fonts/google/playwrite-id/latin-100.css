@@ -1,0 +1,8 @@
+/* playwrite-id-latin-100-normal */
+@font-face {
+  font-family: 'Playwrite ID';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src: url(./files/playwrite-id-latin-100-normal.woff2) format('woff2'), url(./files/playwrite-id-latin-100-normal.woff) format('woff');
+}

@@ -23,7 +23,7 @@ import "@fontsource-variable/noto-sans-hebrew/wght-italic.css"; // Specify axis 
 Supported variables:
 - Weights: `[100,200,300,400,500,600,700,800,900]`
 - Styles: `[normal]`
-- Subsets: `[hebrew,latin,latin-ext]`
+- Subsets: `[cyrillic-ext,greek-ext,hebrew,latin,latin-ext]`
 - Axes: `[wdth,wght]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what axes and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/noto-sans-hebrew).
@@ -43,6 +43,6 @@ Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hebrew)
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v43`.
+Font version (provided by source): `v45`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

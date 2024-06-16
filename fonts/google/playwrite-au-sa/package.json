@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/playwrite-au-sa",
+  "version": "5.0.1",
+  "description": "Self-host the Playwrite AU SA font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "playwrite-au-sa",
+    "Playwrite AU SA",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/playwrite-au-sa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/playwrite-au-sa"
+  },
+  "publishHash": "83158f81ca0a2f60"
+}

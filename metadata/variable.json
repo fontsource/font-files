@@ -235,6 +235,22 @@
       }
     }
   },
+  "anaheim": {
+    "family": "Anaheim",
+    "id": "anaheim",
+    "axes": {
+      "wght": {"default": "400", "min": "400", "max": "800", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "vietnamese": "https://fonts.gstatic.com/s/anaheim/v15/8vII7w042Wp87g4G4UzeEX5e.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/anaheim/v15/8vII7w042Wp87g4G4U3eEX5e.woff2",
+          "latin": "https://fonts.gstatic.com/s/anaheim/v15/8vII7w042Wp87g4G4UPeEQ.woff2"
+        }
+      }
+    }
+  },
   "andada-pro": {
     "family": "Andada Pro",
     "id": "andada-pro",
@@ -4626,6 +4642,22 @@
       }
     }
   },
+  "monda": {
+    "family": "Monda",
+    "id": "monda",
+    "axes": {
+      "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "vietnamese": "https://fonts.gstatic.com/s/monda/v17/TK3tWkYFABsmjspuPho7vA.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/monda/v17/TK3tWkYFABsmjspvPho7vA.woff2",
+          "latin": "https://fonts.gstatic.com/s/monda/v17/TK3tWkYFABsmjsphPho.woff2"
+        }
+      }
+    }
+  },
   "montagu-slab": {
     "family": "Montagu Slab",
     "id": "montagu-slab",
@@ -4957,17 +4989,17 @@
     "variants": {
       "wght": {
         "normal": {
-          "[0]": "https://fonts.gstatic.com/s/notoemoji/v47/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.0.woff2",
-          "[1]": "https://fonts.gstatic.com/s/notoemoji/v47/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.1.woff2",
-          "[2]": "https://fonts.gstatic.com/s/notoemoji/v47/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.2.woff2",
-          "[3]": "https://fonts.gstatic.com/s/notoemoji/v47/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.3.woff2",
-          "[4]": "https://fonts.gstatic.com/s/notoemoji/v47/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.4.woff2",
-          "[5]": "https://fonts.gstatic.com/s/notoemoji/v47/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.5.woff2",
-          "[6]": "https://fonts.gstatic.com/s/notoemoji/v47/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.6.woff2",
-          "[7]": "https://fonts.gstatic.com/s/notoemoji/v47/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.7.woff2",
-          "[8]": "https://fonts.gstatic.com/s/notoemoji/v47/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.8.woff2",
-          "[9]": "https://fonts.gstatic.com/s/notoemoji/v47/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.9.woff2",
-          "[10]": "https://fonts.gstatic.com/s/notoemoji/v47/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.10.woff2"
+          "[0]": "https://fonts.gstatic.com/s/notoemoji/v50/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.0.woff2",
+          "[1]": "https://fonts.gstatic.com/s/notoemoji/v50/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.1.woff2",
+          "[2]": "https://fonts.gstatic.com/s/notoemoji/v50/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.2.woff2",
+          "[3]": "https://fonts.gstatic.com/s/notoemoji/v50/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.3.woff2",
+          "[4]": "https://fonts.gstatic.com/s/notoemoji/v50/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.4.woff2",
+          "[5]": "https://fonts.gstatic.com/s/notoemoji/v50/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.5.woff2",
+          "[6]": "https://fonts.gstatic.com/s/notoemoji/v50/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.6.woff2",
+          "[7]": "https://fonts.gstatic.com/s/notoemoji/v50/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.7.woff2",
+          "[8]": "https://fonts.gstatic.com/s/notoemoji/v50/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.8.woff2",
+          "[9]": "https://fonts.gstatic.com/s/notoemoji/v50/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.9.woff2",
+          "[10]": "https://fonts.gstatic.com/s/notoemoji/v50/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.10.woff2"
         }
       }
     }
@@ -5621,23 +5653,29 @@
     "variants": {
       "wdth": {
         "normal": {
-          "hebrew": "https://fonts.gstatic.com/s/notosanshebrew/v43/or35Q7v33eiDljA1IufXTtVf7V6Rlk81aNn0.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notosanshebrew/v43/or35Q7v33eiDljA1IufXTtVf7V6RlkM1aNn0.woff2",
-          "latin": "https://fonts.gstatic.com/s/notosanshebrew/v43/or35Q7v33eiDljA1IufXTtVf7V6Rlk01aA.woff2"
+          "cyrillic-ext": "https://fonts.gstatic.com/s/notosanshebrew/v45/or35Q7v33eiDljA1IufXTtVf7V6RlkA1aNn0.woff2",
+          "greek-ext": "https://fonts.gstatic.com/s/notosanshebrew/v45/or35Q7v33eiDljA1IufXTtVf7V6RlkE1aNn0.woff2",
+          "hebrew": "https://fonts.gstatic.com/s/notosanshebrew/v45/or35Q7v33eiDljA1IufXTtVf7V6Rlk81aNn0.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notosanshebrew/v45/or35Q7v33eiDljA1IufXTtVf7V6RlkM1aNn0.woff2",
+          "latin": "https://fonts.gstatic.com/s/notosanshebrew/v45/or35Q7v33eiDljA1IufXTtVf7V6Rlk01aA.woff2"
         }
       },
       "wght": {
         "normal": {
-          "hebrew": "https://fonts.gstatic.com/s/notosanshebrew/v43/or30Q7v33eiDljA1IufXTtVf7V6RvEEdhQlk0LlGxCyaePiWTNzENg.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notosanshebrew/v43/or30Q7v33eiDljA1IufXTtVf7V6RvEEdhQlk0LlGxCyaePiaTNzENg.woff2",
-          "latin": "https://fonts.gstatic.com/s/notosanshebrew/v43/or30Q7v33eiDljA1IufXTtVf7V6RvEEdhQlk0LlGxCyaePiUTNw.woff2"
+          "cyrillic-ext": "https://fonts.gstatic.com/s/notosanshebrew/v45/or30Q7v33eiDljA1IufXTtVf7V6RvEEdhQlk0LlGxCyaePiZTNzENg.woff2",
+          "greek-ext": "https://fonts.gstatic.com/s/notosanshebrew/v45/or30Q7v33eiDljA1IufXTtVf7V6RvEEdhQlk0LlGxCyaePiYTNzENg.woff2",
+          "hebrew": "https://fonts.gstatic.com/s/notosanshebrew/v45/or30Q7v33eiDljA1IufXTtVf7V6RvEEdhQlk0LlGxCyaePiWTNzENg.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notosanshebrew/v45/or30Q7v33eiDljA1IufXTtVf7V6RvEEdhQlk0LlGxCyaePiaTNzENg.woff2",
+          "latin": "https://fonts.gstatic.com/s/notosanshebrew/v45/or30Q7v33eiDljA1IufXTtVf7V6RvEEdhQlk0LlGxCyaePiUTNw.woff2"
         }
       },
       "standard": {
         "normal": {
-          "hebrew": "https://fonts.gstatic.com/s/notosanshebrew/v43/or35Q7v33eiDljA1IufXTtVf7V6Rlk81aNn0.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notosanshebrew/v43/or35Q7v33eiDljA1IufXTtVf7V6RlkM1aNn0.woff2",
-          "latin": "https://fonts.gstatic.com/s/notosanshebrew/v43/or35Q7v33eiDljA1IufXTtVf7V6Rlk01aA.woff2"
+          "cyrillic-ext": "https://fonts.gstatic.com/s/notosanshebrew/v45/or35Q7v33eiDljA1IufXTtVf7V6RlkA1aNn0.woff2",
+          "greek-ext": "https://fonts.gstatic.com/s/notosanshebrew/v45/or35Q7v33eiDljA1IufXTtVf7V6RlkE1aNn0.woff2",
+          "hebrew": "https://fonts.gstatic.com/s/notosanshebrew/v45/or35Q7v33eiDljA1IufXTtVf7V6Rlk81aNn0.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notosanshebrew/v45/or35Q7v33eiDljA1IufXTtVf7V6RlkM1aNn0.woff2",
+          "latin": "https://fonts.gstatic.com/s/notosanshebrew/v45/or35Q7v33eiDljA1IufXTtVf7V6Rlk01aA.woff2"
         }
       }
     }
@@ -7268,23 +7306,23 @@
     "variants": {
       "wdth": {
         "normal": {
-          "hebrew": "https://fonts.gstatic.com/s/notoserifhebrew/v25/k3kKo9MMPvpLmixYH7euCwmkS9Dohh_70qmiGg.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notoserifhebrew/v25/k3kKo9MMPvpLmixYH7euCwmkS9Dohh_30qmiGg.woff2",
-          "latin": "https://fonts.gstatic.com/s/notoserifhebrew/v25/k3kKo9MMPvpLmixYH7euCwmkS9Dohh_50qk.woff2"
+          "hebrew": "https://fonts.gstatic.com/s/notoserifhebrew/v28/k3kKo9MMPvpLmixYH7euCwmkS9Dohh_70qmiGg.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notoserifhebrew/v28/k3kKo9MMPvpLmixYH7euCwmkS9Dohh_30qmiGg.woff2",
+          "latin": "https://fonts.gstatic.com/s/notoserifhebrew/v28/k3kKo9MMPvpLmixYH7euCwmkS9Dohh_50qk.woff2"
         }
       },
       "wght": {
         "normal": {
-          "hebrew": "https://fonts.gstatic.com/s/notoserifhebrew/v25/k3k5o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbD-VBMyDY.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notoserifhebrew/v25/k3k5o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbD9VBMyDY.woff2",
-          "latin": "https://fonts.gstatic.com/s/notoserifhebrew/v25/k3k5o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbD-1BM.woff2"
+          "hebrew": "https://fonts.gstatic.com/s/notoserifhebrew/v28/k3k5o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbD-VBMyDY.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notoserifhebrew/v28/k3k5o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbD9VBMyDY.woff2",
+          "latin": "https://fonts.gstatic.com/s/notoserifhebrew/v28/k3k5o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbD-1BM.woff2"
         }
       },
       "standard": {
         "normal": {
-          "hebrew": "https://fonts.gstatic.com/s/notoserifhebrew/v25/k3kKo9MMPvpLmixYH7euCwmkS9Dohh_70qmiGg.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notoserifhebrew/v25/k3kKo9MMPvpLmixYH7euCwmkS9Dohh_30qmiGg.woff2",
-          "latin": "https://fonts.gstatic.com/s/notoserifhebrew/v25/k3kKo9MMPvpLmixYH7euCwmkS9Dohh_50qk.woff2"
+          "hebrew": "https://fonts.gstatic.com/s/notoserifhebrew/v28/k3kKo9MMPvpLmixYH7euCwmkS9Dohh_70qmiGg.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notoserifhebrew/v28/k3kKo9MMPvpLmixYH7euCwmkS9Dohh_30qmiGg.woff2",
+          "latin": "https://fonts.gstatic.com/s/notoserifhebrew/v28/k3kKo9MMPvpLmixYH7euCwmkS9Dohh_50qk.woff2"
         }
       }
     }
@@ -8958,6 +8996,546 @@
           "vietnamese": "https://fonts.gstatic.com/s/playpensans/v13/dg4i_pj1p6gXP0gzAZgm4c89QyIjuyw.woff2",
           "latin-ext": "https://fonts.gstatic.com/s/playpensans/v13/dg4i_pj1p6gXP0gzAZgm4c89QiIjuyw.woff2",
           "latin": "https://fonts.gstatic.com/s/playpensans/v13/dg4i_pj1p6gXP0gzAZgm4c89TCIj.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-au-nsw": {
+    "family": "Playwrite AU NSW",
+    "id": "playwrite-au-nsw",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwriteaunsw/v4/6qLbKY4NtxD-qVlIPUIPenElWCCEQxY.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-au-qld": {
+    "family": "Playwrite AU QLD",
+    "id": "playwrite-au-qld",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwriteauqld/v4/SlGLmR-Yo5oYZX5BFVcEwSFSOXBRQg4.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-au-sa": {
+    "family": "Playwrite AU SA",
+    "id": "playwrite-au-sa",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwriteausa/v4/YcmusZpNS1SdgmHbGgtRuUElnR3Ylw.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-au-tas": {
+    "family": "Playwrite AU TAS",
+    "id": "playwrite-au-tas",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwriteautas/v4/Gfte7u9QuxsdI_QuuctXue3Elxxmahg.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-au-vic": {
+    "family": "Playwrite AU VIC",
+    "id": "playwrite-au-vic",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwriteauvic/v4/bWtj7enUfwn0Hf1zjprKOJdcDy8r3Q4.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-br": {
+    "family": "Playwrite BR",
+    "id": "playwrite-br",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritebr/v4/kJE0BuMK4Q07lDHc2Xp9vYgSqQ.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-ca": {
+    "family": "Playwrite CA",
+    "id": "playwrite-ca",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwriteca/v4/z7NTdR_4cT0NOrEAIElil930SQ.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-co": {
+    "family": "Playwrite CO",
+    "id": "playwrite-co",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwriteco/v6/0FlTVP2Hl1iH-fv2BH4kJkgB_A.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-de-grund": {
+    "family": "Playwrite DE Grund",
+    "id": "playwrite-de-grund",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritedegrund/v4/EJRLQhwoXdccriFurnRxqv-1MFyKy69g9Q.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-de-la": {
+    "family": "Playwrite DE LA",
+    "id": "playwrite-de-la",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritedela/v4/oY1G8e3fprboJ2HN4ogXTpFVJ8Q5Kw.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-de-sas": {
+    "family": "Playwrite DE SAS",
+    "id": "playwrite-de-sas",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritedesas/v4/1Pt1g9vaRvmWghDdrE8IDuRPVrHN5V4.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-de-va": {
+    "family": "Playwrite DE VA",
+    "id": "playwrite-de-va",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritedeva/v4/VuJpdNPb2p7tvoFGLMPdeMxGN1p9ug.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-es": {
+    "family": "Playwrite ES",
+    "id": "playwrite-es",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritees/v4/kJE0BuMK4Q07lDHc2Xp9uokSqQ.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-es-deco": {
+    "family": "Playwrite ES Deco",
+    "id": "playwrite-es-deco",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwriteesdeco/v4/7Aulp-g3kjKKGkePXEf2jxctfDxlvHk1.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-fr-moderne": {
+    "family": "Playwrite FR Moderne",
+    "id": "playwrite-fr-moderne",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritefrmoderne/v4/3y9-6awucz3w5m4FFTzKolJRXhUk_u1yWs-o.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-fr-trad": {
+    "family": "Playwrite FR Trad",
+    "id": "playwrite-fr-trad",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritefrtrad/v6/sJoe3KxJjdGLJV3vyatrJE2pkQisWXkP.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-gb-j": {
+    "family": "Playwrite GB J",
+    "id": "playwrite-gb-j",
+    "axes": {
+      "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritegbj/v4/k3kJo8wSPe9dzQ1UGbvobAPhY4KI.woff2"
+        },
+        "italic": {
+          "fallback": "https://fonts.gstatic.com/s/playwritegbj/v4/k3kLo8wSPe9dzQ1UGbvobAPhY7KP0Qo.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-gb-s": {
+    "family": "Playwrite GB S",
+    "id": "playwrite-gb-s",
+    "axes": {
+      "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritegbs/v5/oPWW_kFkk-s1Xclhmlemy7jsNR5y.woff2"
+        },
+        "italic": {
+          "fallback": "https://fonts.gstatic.com/s/playwritegbs/v5/oPWU_kFkk-s1Xclhmlemy7jsNS51Znk.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-id": {
+    "family": "Playwrite ID",
+    "id": "playwrite-id",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwriteid/v4/Cn-xJt2YWhlY2oC4KxifKQJ8oA.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-ie": {
+    "family": "Playwrite IE",
+    "id": "playwrite-ie",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwriteie/v4/fC1mPYtWYWnH0hvndYd6GCGMUg.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-in": {
+    "family": "Playwrite IN",
+    "id": "playwrite-in",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritein/v4/uk-kEGGpoLQ97mfv2J3cZzup4g.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-is": {
+    "family": "Playwrite IS",
+    "id": "playwrite-is",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwriteis/v3/JTUQjI4o_SGg9lecLGptrD1hyw.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-it-moderna": {
+    "family": "Playwrite IT Moderna",
+    "id": "playwrite-it-moderna",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwriteitmoderna/v4/mFTuWaYCwKPK5cx6W8jy2kwDnSUe9q45vR4s.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-it-trad": {
+    "family": "Playwrite IT Trad",
+    "id": "playwrite-it-trad",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwriteittrad/v4/SlGKmR6Yo5oYZX5BFVcEySBSPE50BivN.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-mx": {
+    "family": "Playwrite MX",
+    "id": "playwrite-mx",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritemx/v4/6xKodSNbKtCe7KfhXg7RYSwoTQ.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-ng-modern": {
+    "family": "Playwrite NG Modern",
+    "id": "playwrite-ng-modern",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritengmodern/v4/ijwJs4b2R9Qve5V5lNJb_yRhEfSep5NbDiw.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-nl": {
+    "family": "Playwrite NL",
+    "id": "playwrite-nl",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritenl/v3/k3kXo84SPe9dzQ1UGbvoZQ3hLA.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-no": {
+    "family": "Playwrite NO",
+    "id": "playwrite-no",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwriteno/v3/nuF-D_fYSZviRJYb-P2TrQOvAw.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-nz": {
+    "family": "Playwrite NZ",
+    "id": "playwrite-nz",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritenz/v4/d6lPkaOxRsyr_zZDmUYvh2TM0g.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-pl": {
+    "family": "Playwrite PL",
+    "id": "playwrite-pl",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritepl/v3/0QInMXVf_4C2VH-yUr5uz72O9g.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-pt": {
+    "family": "Playwrite PT",
+    "id": "playwrite-pt",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritept/v3/6NUR8FidKwOcfRjj8ukv5LgkzA.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-ro": {
+    "family": "Playwrite RO",
+    "id": "playwrite-ro",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritero/v3/gokpH6fuA1J7QPJ04HFTGSWHnQ.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-sk": {
+    "family": "Playwrite SK",
+    "id": "playwrite-sk",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritesk/v3/9XUilJp0klrZDw3AZHcsJTBowQ.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-tz": {
+    "family": "Playwrite TZ",
+    "id": "playwrite-tz",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritetz/v4/RLp4K5rs6au7bzABmVQAOwnOYA.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-us-modern": {
+    "family": "Playwrite US Modern",
+    "id": "playwrite-us-modern",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwriteusmodern/v4/H4c7BWmRlMXPhla3hmMaveiYz8nSDkIFNtw.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-us-trad": {
+    "family": "Playwrite US Trad",
+    "id": "playwrite-us-trad",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwriteustrad/v4/fdNk9tyHsnVPjW9trmV7wQ0stdwRBZ0r.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-vn": {
+    "family": "Playwrite VN",
+    "id": "playwrite-vn",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritevn/v4/mtG94_hXJqPSu8nf5RBY5i0w3Q.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-za": {
+    "family": "Playwrite ZA",
+    "id": "playwrite-za",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwriteza/v4/Noa16Uzhw5CTOhXKt5-vwvhxOQ.woff2"
         }
       }
     }

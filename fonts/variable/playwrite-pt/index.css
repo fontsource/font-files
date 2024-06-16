@@ -1,0 +1,8 @@
+/* playwrite-pt-fallback-wght-normal */
+@font-face {
+  font-family: 'Playwrite PT Variable';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 400;
+  src: url(./files/playwrite-pt-fallback-wght-normal.woff2) format('woff2-variations');
+}

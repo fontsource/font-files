@@ -1,0 +1,8 @@
+/* playwrite-au-sa-latin-400-normal */
+@font-face {
+  font-family: 'Playwrite AU SA';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/playwrite-au-sa-latin-400-normal.woff2) format('woff2'), url(./files/playwrite-au-sa-latin-400-normal.woff) format('woff');
+}

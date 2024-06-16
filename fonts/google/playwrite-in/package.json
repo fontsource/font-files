@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/playwrite-in",
+  "version": "5.0.1",
+  "description": "Self-host the Playwrite IN font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "playwrite-in",
+    "Playwrite IN",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/playwrite-in",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/playwrite-in"
+  },
+  "publishHash": "844be842534fc5f4"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/playwrite-au-qld",
+  "version": "5.0.1",
+  "description": "Self-host the Playwrite AU QLD font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "playwrite-au-qld",
+    "Playwrite AU QLD",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/playwrite-au-qld",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/playwrite-au-qld"
+  },
+  "publishHash": "a0cafa4b2ce6cf3d"
+}

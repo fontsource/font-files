@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/playwrite-no",
+  "version": "5.0.1",
+  "description": "Self-host the Playwrite NO font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "playwrite-no",
+    "Playwrite NO",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/playwrite-no",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/playwrite-no"
+  },
+  "publishHash": "d2e1d984f6a9bfaf"
+}

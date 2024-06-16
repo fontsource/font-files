@@ -1,0 +1,8 @@
+/* playwrite-de-sas-latin-200-normal */
+@font-face {
+  font-family: 'Playwrite DE SAS';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: url(./files/playwrite-de-sas-latin-200-normal.woff2) format('woff2'), url(./files/playwrite-de-sas-latin-200-normal.woff) format('woff');
+}

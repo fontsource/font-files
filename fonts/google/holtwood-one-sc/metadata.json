@@ -1,18 +1,18 @@
 {
   "id": "holtwood-one-sc",
   "family": "Holtwood One SC",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-08-25",
-  "version": "v20",
+  "lastModified": "2024-06-10",
+  "version": "v21",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2011, Vernon Adams (vern@newtypography.co.uk) with Reserved Font Name 'Holtwood'. All rights reserved."
+    "attribution": "Copyright 2011 The Holtwood Project Authors (https://github.com/googlefonts/HoltwoodFont)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

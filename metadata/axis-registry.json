@@ -54,6 +54,15 @@
     "precision": 0
   },
   {
+    "name": "Element Expansion",
+    "tag": "ELXP",
+    "description": "As the Element Expansion axis progresses, the elements move apart.",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "precision": 0
+  },
+  {
     "name": "Element Grid",
     "tag": "ELGR",
     "description": "In modular fonts, where glyphs are composed using multiple copies of the same element, this axis controls how many elements are used per one grid unit.",
@@ -198,6 +207,24 @@
     "precision": 0
   },
   {
+    "name": "Size of Paint 1",
+    "tag": "SZP1",
+    "description": "Modifies the size of a paint element going from an initial size (0) to positive values that increase the size (100%) or negative values that shrink it down (-100%). Reducing the size can create transparency.",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "precision": 0
+  },
+  {
+    "name": "Size of Paint 2",
+    "tag": "SZP2",
+    "description": "Modifies the size of a paint element going from an initial size (0) to positive values that increase the size (100%) or negative values that shrink it down (-100%). Reducing the size can create transparency. Paint 2 is in front of Paint 1.",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "precision": 0
+  },
+  {
     "name": "Slant",
     "tag": "slnt",
     "description": "Adjust the style from upright to slanted, also known to typographers as an 'oblique' style. Rarely, slant can work in the other direction, called a 'backslanted' or 'reverse oblique' style.",
@@ -261,12 +288,39 @@
     "precision": 0
   },
   {
+    "name": "Horizontal Element Alignment",
+    "tag": "XELA",
+    "description": "Align glyph elements from their default position (0%), usually the baseline, to a rightmost (100%) or leftmost (-100%) position.",
+    "min": -100,
+    "max": 100,
+    "default": -1,
+    "precision": 0
+  },
+  {
     "name": "Thick Stroke",
     "tag": "XOPQ",
     "description": "A parametric axis for varying thick stroke weights, such as stems.",
     "min": -1000,
     "max": 2000,
     "default": 88,
+    "precision": 0
+  },
+  {
+    "name": "Horizontal Position of Paint 1",
+    "tag": "XPN1",
+    "description": "The position of the paint moves left and right. Negative values move to the left and positive values move to the right, in the X dimension. Paint 1 is behind Paint 2.",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "precision": 0
+  },
+  {
+    "name": "Horizontal Position of Paint 2",
+    "tag": "XPN2",
+    "description": "The position of the paint moves left and right. Negative values move to the left and positive values move to the right, in the X dimension. Paint 2 is in front of Paint 1.",
+    "min": -100,
+    "max": 100,
+    "default": 0,
     "precision": 0
   },
   {
@@ -299,7 +353,7 @@
   {
     "name": "Vertical Element Alignment",
     "tag": "YELA",
-    "description": "Align glyphs from their default position (0%), usually the baseline, to an upper (100%) or lower (-100%) position.",
+    "description": "Align glyphs elements from their default position (0%), usually the baseline, to an upper (100%) or lower (-100%) position.",
     "min": -100,
     "max": 100,
     "default": 0,
@@ -312,6 +366,24 @@
     "min": -1000,
     "max": 2000,
     "default": 116,
+    "precision": 0
+  },
+  {
+    "name": "Vertical Position of Paint 1",
+    "tag": "YPN1",
+    "description": "The position of the paint moves up and down. Negative values move down and positive values move up. Paint 1 is behind Paint 2.",
+    "min": -100,
+    "max": 100,
+    "default": 0,
+    "precision": 0
+  },
+  {
+    "name": "Vertical Position of Paint 2",
+    "tag": "YPN2",
+    "description": "The position of the paint moves up and down. Negative values move down and positive values move up. Paint 2 is in front of Paint 1.",
+    "min": -100,
+    "max": 100,
+    "default": 0,
     "precision": 0
   },
   {

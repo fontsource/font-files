@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource-variable/playwrite-fr-trad",
+  "version": "5.0.1",
+  "description": "Self-host the Playwrite FR Trad font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "playwrite-fr-trad",
+    "Playwrite FR Trad",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/playwrite-fr-trad",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/variable/playwrite-fr-trad"
+  },
+  "publishHash": "af70ce5debd836d0"
+}

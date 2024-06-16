@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/anaheim",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Anaheim font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/anaheim"
   },
-  "publishHash": "b56d3b1e8d5c13d4"
+  "publishHash": "d79e2da0aec1cb55"
 }

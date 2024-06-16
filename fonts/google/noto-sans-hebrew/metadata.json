@@ -1,7 +1,7 @@
 {
   "id": "noto-sans-hebrew",
   "family": "Noto Sans Hebrew",
-  "subsets": ["hebrew", "latin", "latin-ext"],
+  "subsets": ["cyrillic-ext", "greek-ext", "hebrew", "latin", "latin-ext"],
   "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
   "styles": ["normal"],
   "defSubset": "latin",
@@ -9,8 +9,8 @@
     "wdth": {"default": "100", "min": "62.5", "max": "100", "step": "0.1"},
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
   },
-  "lastModified": "2023-05-02",
-  "version": "v43",
+  "lastModified": "2024-06-10",
+  "version": "v45",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

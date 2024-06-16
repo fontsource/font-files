@@ -1,0 +1,8 @@
+/* playwrite-au-tas-fallback-wght-normal */
+@font-face {
+  font-family: 'Playwrite AU TAS Variable';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 400;
+  src: url(./files/playwrite-au-tas-fallback-wght-normal.woff2) format('woff2-variations');
+}

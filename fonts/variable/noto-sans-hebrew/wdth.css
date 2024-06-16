@@ -1,3 +1,25 @@
+/* noto-sans-hebrew-cyrillic-ext-wdth-normal */
+@font-face {
+  font-family: 'Noto Sans Hebrew Variable';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 900;
+  font-stretch: 62.5% 100%;
+  src: url(./files/noto-sans-hebrew-cyrillic-ext-wdth-normal.woff2) format('woff2-variations');
+  unicode-range: U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;
+}
+
+/* noto-sans-hebrew-greek-ext-wdth-normal */
+@font-face {
+  font-family: 'Noto Sans Hebrew Variable';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 900;
+  font-stretch: 62.5% 100%;
+  src: url(./files/noto-sans-hebrew-greek-ext-wdth-normal.woff2) format('woff2-variations');
+  unicode-range: U+1F00-1FFF;
+}
+
 /* noto-sans-hebrew-hebrew-wdth-normal */
 @font-face {
   font-family: 'Noto Sans Hebrew Variable';

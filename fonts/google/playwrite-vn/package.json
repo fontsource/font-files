@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/playwrite-vn",
+  "version": "5.0.1",
+  "description": "Self-host the Playwrite VN font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "playwrite-vn",
+    "Playwrite VN",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/playwrite-vn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/playwrite-vn"
+  },
+  "publishHash": "bcc99247b8c35c2e"
+}
