@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/beiruti",
+  "version": "5.0.1",
+  "description": "Self-host the Beiruti font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "beiruti",
+    "Beiruti",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/beiruti",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/beiruti"
+  },
+  "publishHash": "f0c72356e6fe3e0d"
+}

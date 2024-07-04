@@ -8,8 +8,8 @@
   "variable": {
     "wght": {"default": "400", "min": "400", "max": "900", "step": "1"}
   },
-  "lastModified": "2023-11-28",
-  "version": "v4",
+  "lastModified": "2024-07-01",
+  "version": "v7",
   "category": "display",
   "license": {
     "type": "OFL-1.1",

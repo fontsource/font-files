@@ -17,7 +17,7 @@
     "slnt": {"default": "0", "min": "-10", "max": "0", "step": "1"},
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
   },
-  "lastModified": "2023-09-14",
+  "lastModified": "2024-07-01",
   "version": "v13",
   "category": "sans-serif",
   "license": {

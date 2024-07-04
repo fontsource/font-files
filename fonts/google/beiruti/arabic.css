@@ -1,0 +1,71 @@
+/* beiruti-arabic-200-normal */
+@font-face {
+  font-family: 'Beiruti';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: url(./files/beiruti-arabic-200-normal.woff2) format('woff2'), url(./files/beiruti-arabic-200-normal.woff) format('woff');
+}
+
+/* beiruti-arabic-300-normal */
+@font-face {
+  font-family: 'Beiruti';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url(./files/beiruti-arabic-300-normal.woff2) format('woff2'), url(./files/beiruti-arabic-300-normal.woff) format('woff');
+}
+
+/* beiruti-arabic-400-normal */
+@font-face {
+  font-family: 'Beiruti';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/beiruti-arabic-400-normal.woff2) format('woff2'), url(./files/beiruti-arabic-400-normal.woff) format('woff');
+}
+
+/* beiruti-arabic-500-normal */
+@font-face {
+  font-family: 'Beiruti';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(./files/beiruti-arabic-500-normal.woff2) format('woff2'), url(./files/beiruti-arabic-500-normal.woff) format('woff');
+}
+
+/* beiruti-arabic-600-normal */
+@font-face {
+  font-family: 'Beiruti';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(./files/beiruti-arabic-600-normal.woff2) format('woff2'), url(./files/beiruti-arabic-600-normal.woff) format('woff');
+}
+
+/* beiruti-arabic-700-normal */
+@font-face {
+  font-family: 'Beiruti';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./files/beiruti-arabic-700-normal.woff2) format('woff2'), url(./files/beiruti-arabic-700-normal.woff) format('woff');
+}
+
+/* beiruti-arabic-800-normal */
+@font-face {
+  font-family: 'Beiruti';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src: url(./files/beiruti-arabic-800-normal.woff2) format('woff2'), url(./files/beiruti-arabic-800-normal.woff) format('woff');
+}
+
+/* beiruti-arabic-900-normal */
+@font-face {
+  font-family: 'Beiruti';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url(./files/beiruti-arabic-900-normal.woff2) format('woff2'), url(./files/beiruti-arabic-900-normal.woff) format('woff');
+}

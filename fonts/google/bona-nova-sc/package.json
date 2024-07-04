@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/bona-nova-sc",
+  "version": "5.0.1",
+  "description": "Self-host the Bona Nova SC font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "bona-nova-sc",
+    "Bona Nova SC",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/bona-nova-sc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/bona-nova-sc"
+  },
+  "publishHash": "86df406b0de04a42"
+}
