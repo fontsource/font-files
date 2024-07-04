@@ -1,0 +1,19 @@
+{
+  "id": "monaspace-xenon",
+  "family": "Monaspace Xenon",
+  "subsets": ["latin"],
+  "weights": [200, 300, 400, 500, 600, 700, 800],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-07-04",
+  "version": "v1.101",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/githubnext/monaspace/blob/main/LICENSE",
+    "attribution": "githubnext"
+  },
+  "source": "https://github.com/githubnext/monaspace",
+  "type": "other"
+}
