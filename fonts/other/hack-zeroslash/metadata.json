@@ -1,0 +1,19 @@
+{
+  "id": "hack-zeroslash",
+  "family": "Hack-ZeroSlash",
+  "subsets": ["latin"],
+  "weights": [400, 700],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-07-06",
+  "version": "v1.0",
+  "category": "monospace",
+  "license": {
+    "type": "mit",
+    "url": "https://github.com/atariq11700/HackFSlashedZeros/blob/master/LICENSE",
+    "attribution": "atariq11700"
+  },
+  "source": "https://github.com/atariq11700/HackFSlashedZeros",
+  "type": "other"
+}
