@@ -293,7 +293,7 @@
     "description": "Align glyph elements from their default position (0%), usually the baseline, to a rightmost (100%) or leftmost (-100%) position.",
     "min": -100,
     "max": 100,
-    "default": -1,
+    "default": 0,
     "precision": 0
   },
   {

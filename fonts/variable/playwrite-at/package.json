@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource-variable/playwrite-at",
+  "version": "5.0.1",
+  "description": "Self-host the Playwrite AT font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "playwrite-at",
+    "Playwrite AT",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/playwrite-at",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/variable/playwrite-at"
+  },
+  "publishHash": "c708a3f0391c6b99"
+}

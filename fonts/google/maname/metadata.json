@@ -1,0 +1,19 @@
+{
+  "id": "maname",
+  "family": "Maname",
+  "subsets": ["latin", "latin-ext", "sinhala", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-07-08",
+  "version": "v1",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2015-2023 The Maname Project Authors (https://github.com/mooniak/maname-font)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -9086,6 +9086,38 @@
       }
     }
   },
+  "playwrite-ar": {
+    "family": "Playwrite AR",
+    "id": "playwrite-ar",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritear/v1/VEM2RohisJz5pTCzruCNjWbFqQ.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-at": {
+    "family": "Playwrite AT",
+    "id": "playwrite-at",
+    "axes": {
+      "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwriteat/v1/Gw69wc7n6kfJN4fVoKON7HIeCw.woff2"
+        },
+        "italic": {
+          "fallback": "https://fonts.gstatic.com/s/playwriteat/v1/Gw6jwc7n6kfJN4fVoKON7HIuDDxu.woff2"
+        }
+      }
+    }
+  },
   "playwrite-au-nsw": {
     "family": "Playwrite AU NSW",
     "id": "playwrite-au-nsw",
@@ -9156,6 +9188,34 @@
       }
     }
   },
+  "playwrite-be-vlg": {
+    "family": "Playwrite BE VLG",
+    "id": "playwrite-be-vlg",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritebevlg/v1/GFDxWBdug3mQSvrAT9AL6fd4ZkB-cWU.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-be-wal": {
+    "family": "Playwrite BE WAL",
+    "id": "playwrite-be-wal",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritebewal/v1/DtV4Jwq5QbIzyrA6DHdJ2BksuUmahwU.woff2"
+        }
+      }
+    }
+  },
   "playwrite-br": {
     "family": "Playwrite BR",
     "id": "playwrite-br",
@@ -9184,6 +9244,20 @@
       }
     }
   },
+  "playwrite-cl": {
+    "family": "Playwrite CL",
+    "id": "playwrite-cl",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritecl/v1/-zki91m7wssz_XLkGgu8hy33pA.woff2"
+        }
+      }
+    }
+  },
   "playwrite-co": {
     "family": "Playwrite CO",
     "id": "playwrite-co",
@@ -9194,6 +9268,34 @@
       "wght": {
         "normal": {
           "fallback": "https://fonts.gstatic.com/s/playwriteco/v6/0FlTVP2Hl1iH-fv2BH4kJkgB_A.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-cu": {
+    "family": "Playwrite CU",
+    "id": "playwrite-cu",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritecu/v1/VuJ2dNDb2p7tvoFGLMPdf9xGZA.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-cz": {
+    "family": "Playwrite CZ",
+    "id": "playwrite-cz",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritecz/v1/8vIP7wYp22pt_BUChSHeVxx_Ng.woff2"
         }
       }
     }
@@ -9250,6 +9352,34 @@
       "wght": {
         "normal": {
           "fallback": "https://fonts.gstatic.com/s/playwritedeva/v4/VuJpdNPb2p7tvoFGLMPdeMxGN1p9ug.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-dk-loopet": {
+    "family": "Playwrite DK Loopet",
+    "id": "playwrite-dk-loopet",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritedkloopet/v1/memiYbuzy2qb3rtJGfM1FvY-GacDcsPvr64.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-dk-uloopet": {
+    "family": "Playwrite DK Uloopet",
+    "id": "playwrite-dk-uloopet",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritedkuloopet/v1/bWtn7e3Ufwn0Hf1zjprKPYlcDAoHknvYFiCG.woff2"
         }
       }
     }
@@ -9342,6 +9472,48 @@
         },
         "italic": {
           "fallback": "https://fonts.gstatic.com/s/playwritegbs/v5/oPWU_kFkk-s1Xclhmlemy7jsNS51Znk.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-hr": {
+    "family": "Playwrite HR",
+    "id": "playwrite-hr",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritehr/v1/WWXVljmQYQCZM5qaU_dwQYcoYg.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-hr-lijeva": {
+    "family": "Playwrite HR Lijeva",
+    "id": "playwrite-hr-lijeva",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritehrlijeva/v1/gNMYW2dhS5-p7HvxrBYiWN2SsKqLWCrYkj4.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-hu": {
+    "family": "Playwrite HU",
+    "id": "playwrite-hu",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritehu/v1/A2Bdn59A0g0xA3zDhFw-0vfVVg.woff2"
         }
       }
     }
@@ -9496,6 +9668,20 @@
       "wght": {
         "normal": {
           "fallback": "https://fonts.gstatic.com/s/playwritenz/v4/d6lPkaOxRsyr_zZDmUYvh2TM0g.woff2"
+        }
+      }
+    }
+  },
+  "playwrite-pe": {
+    "family": "Playwrite PE",
+    "id": "playwrite-pe",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "fallback": "https://fonts.gstatic.com/s/playwritepe/v1/FwZc7-Amxlw-50y5PJugmImLoA.woff2"
         }
       }
     }

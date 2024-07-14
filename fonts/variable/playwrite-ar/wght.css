@@ -1,0 +1,8 @@
+/* playwrite-ar-fallback-wght-normal */
+@font-face {
+  font-family: 'Playwrite AR Variable';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 400;
+  src: url(./files/playwrite-ar-fallback-wght-normal.woff2) format('woff2-variations');
+}
