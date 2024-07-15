@@ -1,0 +1,8 @@
+/* commit-mono-latin-300-normal */
+@font-face {
+  font-family: 'Commit Mono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url(./files/commit-mono-latin-300-normal.woff2) format('woff2'), url(./files/commit-mono-latin-300-normal.woff) format('woff');
+}
