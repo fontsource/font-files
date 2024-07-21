@@ -4604,6 +4604,18 @@
     },
     "original": "Copyright 2014 The Eczar Project Authors (https://github.com/rosettatype/eczar)"
   },
+  "edu-au-vic-wa-nt-hand": {
+    "id": "edu-au-vic-wa-nt-hand",
+    "authors": {
+      "copyright": "Copyright 2023 The VIC WA NT School Hand Australia Project Authors",
+      "website": "https://github.com/SorkinType/VICWANTSchoolhandAustralia"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The VIC WA NT School Hand Australia Project Authors (https://github.com/SorkinType/VICWANTSchoolhandAustralia)"
+  },
   "edu-nsw-act-foundation": {
     "id": "edu-nsw-act-foundation",
     "authors": {
@@ -7847,6 +7859,18 @@
     },
     "original": "Copyright 2022 The Kalnia Project Authors (https://github.com/fridamedrano/Kalnia-Typeface.git)"
   },
+  "kalnia-glaze": {
+    "id": "kalnia-glaze",
+    "authors": {
+      "copyright": "Copyright 2022 The Kalnia Glaze Project Authors",
+      "website": "https://github.com/fridamedrano/Kalnia-Glaze"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2022 The Kalnia Glaze Project Authors (https://github.com/fridamedrano/Kalnia-Glaze)"
+  },
   "kameron": {
     "id": "kameron",
     "authors": {
@@ -8884,14 +8908,14 @@
   "life-savers": {
     "id": "life-savers",
     "authors": {
-      "copyright": "Copyright 2012, Pablo Impallari Copyright 2012, Rodrigo Fuenzalida Copyright 2012, Igino Marini. with Reserved Font Name Life Savers.",
-      "email": "www.impallari.comimpallari@gmail.com, www.rfuenzalida.comhello@rfuenzalida.com, www.ikern.commail@iginomarini.com"
+      "copyright": "Copyright 2012 The Life Savers Project Authors",
+      "website": "https://github.com/googlefonts/life-savers"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com),  Copyright (c) 2012, Igino Marini. (www.ikern.com|mail@iginomarini.com), with Reserved Font Name Life Savers."
+    "original": "Copyright 2012 The Life Savers Project Authors (https://github.com/googlefonts/life-savers)"
   },
   "lilita-one": {
     "id": "lilita-one",
@@ -15780,14 +15804,14 @@
   "rammetto-one": {
     "id": "rammetto-one",
     "authors": {
-      "copyright": "Copyright 2011 by vernon adams with Reserved Font Names \"Rammetto\"",
-      "email": "vern@newtypography.co.uk"
+      "copyright": "Copyright 2011 The Rammetto Project Authors with Reserved Font Name Rammetto.",
+      "website": "https://github.com/googlefonts/RammettoFont"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright (c) 2011 by vernon adams (vern@newtypography.co.uk), with Reserved Font Names \"Rammetto\""
+    "original": "Copyright 2011 The Rammetto Project Authors (https://github.com/googlefonts/RammettoFont), with Reserved Font Name Rammetto."
   },
   "rampart-one": {
     "id": "rampart-one",
@@ -20067,6 +20091,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2018 The ZCOOL XiaoWei Project Authors (https://www.github.com/googlefonts/xiaowei)"
+  },
+  "zain": {
+    "id": "zain",
+    "authors": {
+      "copyright": "Copyright 2024 The Zain Project Authors",
+      "website": "https://github.com/googlefonts/zain"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2024 The Zain Project Authors (https://github.com/googlefonts/zain)"
   },
   "zen-antique": {
     "id": "zen-antique",

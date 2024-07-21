@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-serif-toto",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Noto Serif Toto font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-serif-toto"
   },
-  "publishHash": "2d4c49276951bff4"
+  "publishHash": "d0e37cf0d8c42457"
 }

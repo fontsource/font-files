@@ -2077,6 +2077,21 @@
       }
     }
   },
+  "edu-au-vic-wa-nt-hand": {
+    "family": "Edu AU VIC WA NT Hand",
+    "id": "edu-au-vic-wa-nt-hand",
+    "axes": {
+      "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "latin-ext": "https://fonts.gstatic.com/s/eduauvicwanthand/v1/C8c94dY1tX2x0uuiUHFS4y7ERV-jfqJ6x06dH9MtW4Q.woff2",
+          "latin": "https://fonts.gstatic.com/s/eduauvicwanthand/v1/C8c94dY1tX2x0uuiUHFS4y7ERV-jfqJ6x06dEdMt.woff2"
+        }
+      }
+    }
+  },
   "edu-nsw-act-foundation": {
     "family": "Edu NSW ACT Foundation",
     "id": "edu-nsw-act-foundation",
@@ -3400,16 +3415,16 @@
     "variants": {
       "opsz": {
         "normal": {
-          "vietnamese": "https://fonts.gstatic.com/s/jaro/v1/ea8WadQwV_r_bP7WEOiM.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/jaro/v1/ea8WadQwV_r_bP_WEOiM.woff2",
-          "latin": "https://fonts.gstatic.com/s/jaro/v1/ea8WadQwV_r_bPHWEA.woff2"
+          "vietnamese": "https://fonts.gstatic.com/s/jaro/v5/ea8WadQwV_r_bP7WEOiM.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/jaro/v5/ea8WadQwV_r_bP_WEOiM.woff2",
+          "latin": "https://fonts.gstatic.com/s/jaro/v5/ea8WadQwV_r_bPHWEA.woff2"
         }
       },
       "standard": {
         "normal": {
-          "vietnamese": "https://fonts.gstatic.com/s/jaro/v1/ea8WadQwV_r_bP7WEOiM.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/jaro/v1/ea8WadQwV_r_bP_WEOiM.woff2",
-          "latin": "https://fonts.gstatic.com/s/jaro/v1/ea8WadQwV_r_bPHWEA.woff2"
+          "vietnamese": "https://fonts.gstatic.com/s/jaro/v5/ea8WadQwV_r_bP7WEOiM.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/jaro/v5/ea8WadQwV_r_bP_WEOiM.woff2",
+          "latin": "https://fonts.gstatic.com/s/jaro/v5/ea8WadQwV_r_bPHWEA.woff2"
         }
       }
     }
@@ -3577,6 +3592,34 @@
           "math": "https://fonts.gstatic.com/s/kalnia/v2/11hAGpPCwUbbYwZzT2ysaKY.woff2",
           "latin-ext": "https://fonts.gstatic.com/s/kalnia/v2/11hAGpPCwUbbYwZzPWysaKY.woff2",
           "latin": "https://fonts.gstatic.com/s/kalnia/v2/11hAGpPCwUbbYwZzM2ys.woff2"
+        }
+      }
+    }
+  },
+  "kalnia-glaze": {
+    "family": "Kalnia Glaze",
+    "id": "kalnia-glaze",
+    "axes": {
+      "wdth": {"default": "100", "min": "100", "max": "125", "step": "0.1"},
+      "wght": {"default": "400", "min": "100", "max": "700", "step": "1"}
+    },
+    "variants": {
+      "wdth": {
+        "normal": {
+          "latin-ext": "https://fonts.gstatic.com/s/kalniaglaze/v1/wlp2gwHCBUNjrGrfu-hwowNfYQhTM_I.woff2",
+          "latin": "https://fonts.gstatic.com/s/kalniaglaze/v1/wlp2gwHCBUNjrGrfu-hwowNfbwhT.woff2"
+        }
+      },
+      "wght": {
+        "normal": {
+          "latin-ext": "https://fonts.gstatic.com/s/kalniaglaze/v1/wlpjgwHCBUNjrGrfu-hwowN1YyC-42Lu26VHf2LtEEIAhqSP.woff2",
+          "latin": "https://fonts.gstatic.com/s/kalniaglaze/v1/wlpjgwHCBUNjrGrfu-hwowN1YyC-42Lu26VHf2LtEEwAhg.woff2"
+        }
+      },
+      "standard": {
+        "normal": {
+          "latin-ext": "https://fonts.gstatic.com/s/kalniaglaze/v1/wlp2gwHCBUNjrGrfu-hwowNfYQhTM_I.woff2",
+          "latin": "https://fonts.gstatic.com/s/kalniaglaze/v1/wlp2gwHCBUNjrGrfu-hwowNfbwhT.woff2"
         }
       }
     }
@@ -8332,9 +8375,9 @@
     "variants": {
       "wght": {
         "normal": {
-          "toto": "https://fonts.gstatic.com/s/notoseriftoto/v4/Ktk1ALSMeZjqPnXk1rCkHYHNtwvHsoK9WLZB.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notoseriftoto/v4/Ktk1ALSMeZjqPnXk1rCkHYHNtwvHHqOYZY8.woff2",
-          "latin": "https://fonts.gstatic.com/s/notoseriftoto/v4/Ktk1ALSMeZjqPnXk1rCkHYHNtwvHEKOY.woff2"
+          "toto": "https://fonts.gstatic.com/s/notoseriftoto/v5/Ktk1ALSMeZjqPnXk1rCkHYHNtwvHsoK9WLZB.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notoseriftoto/v5/Ktk1ALSMeZjqPnXk1rCkHYHNtwvHHqOYZY8.woff2",
+          "latin": "https://fonts.gstatic.com/s/notoseriftoto/v5/Ktk1ALSMeZjqPnXk1rCkHYHNtwvHEKOY.woff2"
         }
       }
     }

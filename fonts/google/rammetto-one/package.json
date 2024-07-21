@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rammetto-one",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Rammetto One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rammetto-one"
   },
-  "publishHash": "1fb6f6d0ff8c9c69"
+  "publishHash": "d97baa7e3d29a1c7"
 }

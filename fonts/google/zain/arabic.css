@@ -1,0 +1,53 @@
+/* zain-arabic-200-normal */
+@font-face {
+  font-family: 'Zain';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: url(./files/zain-arabic-200-normal.woff2) format('woff2'), url(./files/zain-arabic-200-normal.woff) format('woff');
+}
+
+/* zain-arabic-300-normal */
+@font-face {
+  font-family: 'Zain';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url(./files/zain-arabic-300-normal.woff2) format('woff2'), url(./files/zain-arabic-300-normal.woff) format('woff');
+}
+
+/* zain-arabic-400-normal */
+@font-face {
+  font-family: 'Zain';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/zain-arabic-400-normal.woff2) format('woff2'), url(./files/zain-arabic-400-normal.woff) format('woff');
+}
+
+/* zain-arabic-700-normal */
+@font-face {
+  font-family: 'Zain';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./files/zain-arabic-700-normal.woff2) format('woff2'), url(./files/zain-arabic-700-normal.woff) format('woff');
+}
+
+/* zain-arabic-800-normal */
+@font-face {
+  font-family: 'Zain';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src: url(./files/zain-arabic-800-normal.woff2) format('woff2'), url(./files/zain-arabic-800-normal.woff) format('woff');
+}
+
+/* zain-arabic-900-normal */
+@font-face {
+  font-family: 'Zain';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url(./files/zain-arabic-900-normal.woff2) format('woff2'), url(./files/zain-arabic-900-normal.woff) format('woff');
+}
