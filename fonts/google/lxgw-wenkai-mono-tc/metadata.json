@@ -2,7 +2,7 @@
   "id": "lxgw-wenkai-mono-tc",
   "family": "LXGW WenKai Mono TC",
   "subsets": [
-    "chinese-traditional",
+    "chinese-hongkong",
     "cyrillic",
     "cyrillic-ext",
     "greek",
@@ -16,8 +16,8 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-05-29",
-  "version": "v2",
+  "lastModified": "2024-07-30",
+  "version": "v4",
   "category": "monospace",
   "license": {
     "type": "OFL-1.1",

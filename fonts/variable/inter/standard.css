@@ -1,7 +1,7 @@
 /* inter-cyrillic-ext-standard-normal */
 @font-face {
   font-family: 'Inter Variable';
-  font-style: oblique 0deg 10deg;
+  font-style: normal;
   font-display: swap;
   font-weight: 100 900;
   src: url(./files/inter-cyrillic-ext-standard-normal.woff2) format('woff2-variations');
@@ -11,7 +11,7 @@
 /* inter-cyrillic-standard-normal */
 @font-face {
   font-family: 'Inter Variable';
-  font-style: oblique 0deg 10deg;
+  font-style: normal;
   font-display: swap;
   font-weight: 100 900;
   src: url(./files/inter-cyrillic-standard-normal.woff2) format('woff2-variations');
@@ -21,7 +21,7 @@
 /* inter-greek-ext-standard-normal */
 @font-face {
   font-family: 'Inter Variable';
-  font-style: oblique 0deg 10deg;
+  font-style: normal;
   font-display: swap;
   font-weight: 100 900;
   src: url(./files/inter-greek-ext-standard-normal.woff2) format('woff2-variations');
@@ -31,7 +31,7 @@
 /* inter-greek-standard-normal */
 @font-face {
   font-family: 'Inter Variable';
-  font-style: oblique 0deg 10deg;
+  font-style: normal;
   font-display: swap;
   font-weight: 100 900;
   src: url(./files/inter-greek-standard-normal.woff2) format('woff2-variations');
@@ -41,7 +41,7 @@
 /* inter-vietnamese-standard-normal */
 @font-face {
   font-family: 'Inter Variable';
-  font-style: oblique 0deg 10deg;
+  font-style: normal;
   font-display: swap;
   font-weight: 100 900;
   src: url(./files/inter-vietnamese-standard-normal.woff2) format('woff2-variations');
@@ -51,7 +51,7 @@
 /* inter-latin-ext-standard-normal */
 @font-face {
   font-family: 'Inter Variable';
-  font-style: oblique 0deg 10deg;
+  font-style: normal;
   font-display: swap;
   font-weight: 100 900;
   src: url(./files/inter-latin-ext-standard-normal.woff2) format('woff2-variations');
@@ -61,7 +61,7 @@
 /* inter-latin-standard-normal */
 @font-face {
   font-family: 'Inter Variable';
-  font-style: oblique 0deg 10deg;
+  font-style: normal;
   font-display: swap;
   font-weight: 100 900;
   src: url(./files/inter-latin-standard-normal.woff2) format('woff2-variations');

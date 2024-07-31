@@ -1,14 +1,3 @@
-/* bricolage-grotesque-cyrillic-ext-wdth-normal */
-@font-face {
-  font-family: 'Bricolage Grotesque Variable';
-  font-style: normal;
-  font-display: swap;
-  font-weight: 200 800;
-  font-stretch: 75% 100%;
-  src: url(./files/bricolage-grotesque-cyrillic-ext-wdth-normal.woff2) format('woff2-variations');
-  unicode-range: U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;
-}
-
 /* bricolage-grotesque-vietnamese-wdth-normal */
 @font-face {
   font-family: 'Bricolage Grotesque Variable';

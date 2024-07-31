@@ -1,18 +1,18 @@
 {
   "id": "philosopher",
   "family": "Philosopher",
-  "subsets": ["cyrillic", "cyrillic-ext", "latin", "vietnamese"],
+  "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
   "weights": [400, 700],
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-09-22",
-  "version": "v19",
+  "lastModified": "2024-07-30",
+  "version": "v20",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2011 The Philosopher Project Authors (lemonad@jovanny.ru)"
+    "attribution": "Copyright 2011 The Philosopher Project Authors (https://github.com/alexeiva/philosopher)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

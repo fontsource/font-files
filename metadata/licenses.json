@@ -7195,14 +7195,14 @@
   "inter": {
     "id": "inter",
     "authors": {
-      "copyright": "Copyright 2020 The Inter Project Authors",
+      "copyright": "Copyright 2016 The Inter Project Authors",
       "website": "https://github.com/rsms/inter"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter)"
+    "original": "Copyright 2016 The Inter Project Authors (https://github.com/rsms/inter)"
   },
   "inter-tight": {
     "id": "inter-tight",
@@ -14355,13 +14355,13 @@
     "id": "philosopher",
     "authors": {
       "copyright": "Copyright 2011 The Philosopher Project Authors",
-      "email": "lemonad@jovanny.ru"
+      "website": "https://github.com/alexeiva/philosopher"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2011 The Philosopher Project Authors (lemonad@jovanny.ru)"
+    "original": "Copyright 2011 The Philosopher Project Authors (https://github.com/alexeiva/philosopher)"
   },
   "phudu": {
     "id": "phudu",
@@ -16996,6 +16996,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright (c) 2011 by vernon adams (vern@newtypography.co.uk), with Reserved Font Names \"Sancreek\""
+  },
+  "sankofa-display": {
+    "id": "sankofa-display",
+    "authors": {
+      "copyright": "Copyright 2024 The Sankofa Display Project Authors",
+      "website": "https://github.com/batsimadz/Sankofa-Display"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2024 The Sankofa Display Project Authors (https://github.com/batsimadz/Sankofa-Display)"
   },
   "sansita": {
     "id": "sansita",

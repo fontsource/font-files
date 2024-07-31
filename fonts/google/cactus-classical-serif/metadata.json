@@ -2,7 +2,7 @@
   "id": "cactus-classical-serif",
   "family": "Cactus Classical Serif",
   "subsets": [
-    "chinese-traditional",
+    "chinese-hongkong",
     "cyrillic",
     "latin",
     "latin-ext",
@@ -12,8 +12,8 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-05-29",
-  "version": "v2",
+  "lastModified": "2024-07-30",
+  "version": "v4",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",

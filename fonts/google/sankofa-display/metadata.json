@@ -1,0 +1,19 @@
+{
+  "id": "sankofa-display",
+  "family": "Sankofa Display",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-07-30",
+  "version": "v2",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2024 The Sankofa Display Project Authors (https://github.com/batsimadz/Sankofa-Display)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -11,19 +11,20 @@
     "vietnamese"
   ],
   "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
-  "styles": ["normal"],
+  "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": {
-    "slnt": {"default": "0", "min": "-10", "max": "0", "step": "1"},
+    "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
+    "opsz": {"default": "14", "min": "14", "max": "32", "step": "0.1"},
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
   },
-  "lastModified": "2024-07-01",
-  "version": "v13",
+  "lastModified": "2024-07-30",
+  "version": "v18",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter)"
+    "attribution": "Copyright 2016 The Inter Project Authors (https://github.com/rsms/inter)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

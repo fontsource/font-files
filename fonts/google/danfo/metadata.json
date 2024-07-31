@@ -8,8 +8,8 @@
   "variable": {
     "ELSH": {"default": "0", "min": "0", "max": "100", "step": "0.1"}
   },
-  "lastModified": "2024-05-13",
-  "version": "v2",
+  "lastModified": "2024-07-30",
+  "version": "v3",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",

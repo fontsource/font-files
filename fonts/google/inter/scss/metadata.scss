@@ -3,7 +3,7 @@ $family: 'Inter' !default;
 $category: sans-serif !default;
 $subsets: (cyrillic, cyrillic-ext, greek, greek-ext, latin, latin-ext, vietnamese) !default;
 $weights: (100, 200, 300, 400, 500, 600, 700, 800, 900) !default;
-$styles: (normal) !default;
+$styles: (italic, normal) !default;
 $axes: null !default;
 $defaults: (
   subset: latin,
