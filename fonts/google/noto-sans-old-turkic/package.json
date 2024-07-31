@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-old-turkic",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Noto Sans Old Turkic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-old-turkic"
   },
-  "publishHash": "584510cdf5f2d6db"
+  "publishHash": "51997da3857f42cd"
 }
