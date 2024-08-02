@@ -10,9 +10,9 @@
   "version": "v1.0",
   "category": "monospace",
   "license": {
-    "type": "mit",
+    "type": "MIT",
     "url": "https://github.com/atariq11700/HackFSlashedZeros/blob/master/LICENSE",
-    "attribution": "atariq11700"
+    "attribution": "Copyright 2018 Source Foundry Authors and atariq11700"
   },
   "source": "https://github.com/atariq11700/HackFSlashedZeros",
   "type": "other"
