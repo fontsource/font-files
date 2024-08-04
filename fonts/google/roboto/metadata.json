@@ -14,8 +14,8 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-09-22",
-  "version": "v30",
+  "lastModified": "2024-08-01",
+  "version": "v32",
   "category": "sans-serif",
   "license": {
     "type": "Apache-2.0",

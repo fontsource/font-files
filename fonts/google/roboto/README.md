@@ -42,6 +42,6 @@ Copyright 2011 Google Inc. All Rights Reserved.
 [Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ## Other Notes
-Font version (provided by source): `v30`.
+Font version (provided by source): `v32`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).
