@@ -38,8 +38,8 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright 2018 Source Foundry Authors and atariq11700
-[MIT](https://github.com/atariq11700/HackFSlashedZeros/blob/master/LICENSE)
+atariq11700
+[mit](https://github.com/atariq11700/HackFSlashedZeros/blob/master/LICENSE)
 
 ## Other Notes
 Font version (provided by source): `v1.0`.
