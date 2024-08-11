@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/aoboshi-one",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Aoboshi One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/aoboshi-one"
   },
-  "publishHash": "0204417d69c0976b"
+  "publishHash": "dc35ece581bbe308"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rampart-one",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Rampart One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rampart-one"
   },
-  "publishHash": "f8164879aa23ced5"
+  "publishHash": "e413e22e07052edf"
 }

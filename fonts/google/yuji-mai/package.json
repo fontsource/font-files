@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/yuji-mai",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Yuji Mai font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/yuji-mai"
   },
-  "publishHash": "32df043a85403c19"
+  "publishHash": "40f2aa0408fd72a9"
 }

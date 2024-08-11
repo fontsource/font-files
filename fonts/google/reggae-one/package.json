@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/reggae-one",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Reggae One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/reggae-one"
   },
-  "publishHash": "e56cde7cb212a573"
+  "publishHash": "242cafd084b7e4ed"
 }
