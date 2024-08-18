@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/charm",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Charm font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/charm"
   },
-  "publishHash": "3727d24998b12ad0"
+  "publishHash": "3d117bf241c88eb9"
 }

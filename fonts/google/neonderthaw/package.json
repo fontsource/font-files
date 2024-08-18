@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/neonderthaw",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Neonderthaw font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/neonderthaw"
   },
-  "publishHash": "e92c693f5cf710f2"
+  "publishHash": "5f276cf65e4ed5cc"
 }

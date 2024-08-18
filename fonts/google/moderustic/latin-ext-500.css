@@ -1,0 +1,8 @@
+/* moderustic-latin-ext-500-normal */
+@font-face {
+  font-family: 'Moderustic';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(./files/moderustic-latin-ext-500-normal.woff2) format('woff2'), url(./files/moderustic-latin-ext-500-normal.woff) format('woff');
+}

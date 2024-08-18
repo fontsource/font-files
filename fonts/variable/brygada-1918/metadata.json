@@ -16,7 +16,7 @@
     "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
     "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
   },
-  "lastModified": "2023-09-14",
+  "lastModified": "2024-08-12",
   "version": "v22",
   "category": "serif",
   "license": {

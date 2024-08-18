@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/zcool-kuaile",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the ZCOOL KuaiLe font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/zcool-kuaile"
   },
-  "publishHash": "19c7aeb84999548a"
+  "publishHash": "84ff079c73c35b43"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/black-ops-one",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Black Ops One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/black-ops-one"
   },
-  "publishHash": "6d20ea0de582a5a4"
+  "publishHash": "c11b7b44ba5c989b"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dekko",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Dekko font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/dekko"
   },
-  "publishHash": "8644a7795ad048e1"
+  "publishHash": "5a875f7cf6d3c046"
 }

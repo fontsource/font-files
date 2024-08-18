@@ -227,7 +227,7 @@
   {
     "name": "Slant",
     "tag": "slnt",
-    "description": "Adjust the style from upright to slanted, also known to typographers as an 'oblique' style. Rarely, slant can work in the other direction, called a 'backslanted' or 'reverse oblique' style.",
+    "description": "Adjust the style from upright to slanted. Negative values produce right-leaning forms, also known to typographers as an 'oblique' style. Positive values produce left-leaning forms, also called a 'backslanted' or 'reverse oblique' style.",
     "min": -90,
     "max": 90,
     "default": 0,

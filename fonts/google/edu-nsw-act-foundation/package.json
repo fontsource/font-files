@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/edu-nsw-act-foundation",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Edu NSW ACT Foundation font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/edu-nsw-act-foundation"
   },
-  "publishHash": "2df9be142b9a9e69"
+  "publishHash": "e2c064c3849e9c08"
 }

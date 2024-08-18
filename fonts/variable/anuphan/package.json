@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/anuphan",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Anuphan font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/anuphan"
   },
-  "publishHash": "b59ecb9675bd3ea6"
+  "publishHash": "01c42539a87db2b5"
 }

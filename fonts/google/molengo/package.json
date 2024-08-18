@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/molengo",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Molengo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/molengo"
   },
-  "publishHash": "9f2bb2f01c7acc4d"
+  "publishHash": "b9e42dea6ce6eb6d"
 }

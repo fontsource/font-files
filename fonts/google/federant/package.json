@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/federant",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Federant font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/federant"
   },
-  "publishHash": "9e72205ee6ce511a"
+  "publishHash": "4de34a935eb0abb4"
 }

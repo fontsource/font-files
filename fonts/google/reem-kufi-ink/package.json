@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/reem-kufi-ink",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Reem Kufi Ink font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/reem-kufi-ink"
   },
-  "publishHash": "de8146713ef5d996"
+  "publishHash": "867c89a9f2d38d7d"
 }

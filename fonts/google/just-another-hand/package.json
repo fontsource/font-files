@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/just-another-hand",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Just Another Hand font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/just-another-hand"
   },
-  "publishHash": "8f91d41f647242b9"
+  "publishHash": "97d57757d98a6987"
 }

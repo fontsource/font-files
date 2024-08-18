@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-it-moderna",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Playwrite IT Moderna font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-it-moderna"
   },
-  "publishHash": "377678c6279d1fbf"
+  "publishHash": "4ab004a23bc07563"
 }

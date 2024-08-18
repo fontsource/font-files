@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/encode-sans-expanded",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Encode Sans Expanded font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/encode-sans-expanded"
   },
-  "publishHash": "af8b66e2fbae7684"
+  "publishHash": "f743c0735315bb22"
 }

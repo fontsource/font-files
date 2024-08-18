@@ -12,7 +12,7 @@
     "SOFT": {"default": "0", "min": "0", "max": "100", "step": "0.1"},
     "WONK": {"default": "0", "min": "0", "max": "1", "step": "1"}
   },
-  "lastModified": "2023-05-02",
+  "lastModified": "2024-08-12",
   "version": "v31",
   "category": "serif",
   "license": {

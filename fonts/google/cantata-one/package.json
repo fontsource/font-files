@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cantata-one",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Cantata One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cantata-one"
   },
-  "publishHash": "838c24c24a831429"
+  "publishHash": "cb71a442001b2ec1"
 }

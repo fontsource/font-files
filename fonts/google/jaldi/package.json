@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/jaldi",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Jaldi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/jaldi"
   },
-  "publishHash": "75b69181cfd99a0b"
+  "publishHash": "b543b4d5c4e224d5"
 }

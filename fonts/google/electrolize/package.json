@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/electrolize",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Electrolize font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/electrolize"
   },
-  "publishHash": "dc7fdb215d0dbf80"
+  "publishHash": "a5b0c52eeb2bf3d7"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/agdasima",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Agdasima font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/agdasima"
   },
-  "publishHash": "f87ac128317d5670"
+  "publishHash": "48b072b7e51e8615"
 }

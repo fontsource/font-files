@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mandali",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Mandali font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mandali"
   },
-  "publishHash": "5b1e834fbb9cbeec"
+  "publishHash": "60f532150bd57aa5"
 }

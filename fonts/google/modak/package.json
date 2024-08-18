@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/modak",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Modak font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/modak"
   },
-  "publishHash": "93cee75a2e9adbd0"
+  "publishHash": "03836057af76a7ba"
 }

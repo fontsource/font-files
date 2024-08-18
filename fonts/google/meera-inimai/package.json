@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/meera-inimai",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the Meera Inimai font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/meera-inimai"
   },
-  "publishHash": "9d228b9b1a5abe87"
+  "publishHash": "10e5d9d451aeee5c"
 }

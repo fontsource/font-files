@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/damion",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Damion font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/damion"
   },
-  "publishHash": "9fb0828487bf3883"
+  "publishHash": "889d09b00c6ddef3"
 }

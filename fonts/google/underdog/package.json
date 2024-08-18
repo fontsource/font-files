@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/underdog",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Underdog font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/underdog"
   },
-  "publishHash": "cd43b8f43ce7e04d"
+  "publishHash": "1b765ead3e84641a"
 }

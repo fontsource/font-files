@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/platypi",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Platypi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/platypi"
   },
-  "publishHash": "547b76f93c0a2e46"
+  "publishHash": "b279a8c7a6bc8346"
 }

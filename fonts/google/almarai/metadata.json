@@ -1,13 +1,13 @@
 {
   "id": "almarai",
   "family": "Almarai",
-  "subsets": ["arabic"],
+  "subsets": ["arabic", "latin"],
   "weights": [300, 400, 700, 800],
   "styles": ["normal"],
-  "defSubset": "arabic",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2022-09-22",
-  "version": "v12",
+  "lastModified": "2024-08-12",
+  "version": "v13",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

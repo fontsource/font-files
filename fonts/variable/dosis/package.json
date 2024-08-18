@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/dosis",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Dosis font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/dosis"
   },
-  "publishHash": "e3842d7649188a6c"
+  "publishHash": "464d5adced8427c7"
 }

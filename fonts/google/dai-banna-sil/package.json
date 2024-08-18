@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dai-banna-sil",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Dai Banna SIL font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/dai-banna-sil"
   },
-  "publishHash": "f4ec5a86fde9fe43"
+  "publishHash": "943135aa7a764737"
 }

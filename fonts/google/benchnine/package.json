@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/benchnine",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the BenchNine font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/benchnine"
   },
-  "publishHash": "e2334f5762e5db4d"
+  "publishHash": "62e934ec2c138f5b"
 }

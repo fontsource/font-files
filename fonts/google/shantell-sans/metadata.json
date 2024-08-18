@@ -12,7 +12,7 @@
     "INFM": {"default": "0", "min": "0", "max": "100", "step": "1"},
     "SPAC": {"default": "0", "min": "0", "max": "100", "step": "0.1"}
   },
-  "lastModified": "2024-07-01",
+  "lastModified": "2024-08-12",
   "version": "v10",
   "category": "display",
   "license": {

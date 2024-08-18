@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ramaraja",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Ramaraja font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ramaraja"
   },
-  "publishHash": "8dbadd665f22efc3"
+  "publishHash": "1ab4985175c35a02"
 }

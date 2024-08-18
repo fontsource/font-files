@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/league-spartan",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the League Spartan font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/league-spartan"
   },
-  "publishHash": "e671dbc4459e04e9"
+  "publishHash": "96d9aa139104832a"
 }

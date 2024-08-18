@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/playwrite-za",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Playwrite ZA font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/playwrite-za"
   },
-  "publishHash": "379b4becbfa58e02"
+  "publishHash": "a1125b33372e3e16"
 }

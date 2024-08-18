@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/squada-one",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Squada One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/squada-one"
   },
-  "publishHash": "9ec46191e88cd6b9"
+  "publishHash": "d1b94677c2fe31de"
 }

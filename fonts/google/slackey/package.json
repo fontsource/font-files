@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/slackey",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Slackey font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/slackey"
   },
-  "publishHash": "a559704ee9b55a5c"
+  "publishHash": "51ed0c9e08ce613d"
 }

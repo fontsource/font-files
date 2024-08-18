@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/skranji",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Skranji font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/skranji"
   },
-  "publishHash": "bf67c513035fde99"
+  "publishHash": "001a69f701392cc1"
 }

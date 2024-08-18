@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/phudu",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Phudu font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/phudu"
   },
-  "publishHash": "851d7f828a2a41e0"
+  "publishHash": "e0c55d2e082bb30c"
 }

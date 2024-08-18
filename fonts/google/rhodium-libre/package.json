@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rhodium-libre",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Rhodium Libre font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rhodium-libre"
   },
-  "publishHash": "e94c803b503b7e12"
+  "publishHash": "75b24a8a1cfca9f2"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/protest-guerrilla",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Protest Guerrilla font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/protest-guerrilla"
   },
-  "publishHash": "01390b0b2a3a3056"
+  "publishHash": "d84b3009d644a462"
 }

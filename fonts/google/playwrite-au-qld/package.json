@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-au-qld",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Playwrite AU QLD font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-au-qld"
   },
-  "publishHash": "a0cafa4b2ce6cf3d"
+  "publishHash": "8351f730a9e5413f"
 }

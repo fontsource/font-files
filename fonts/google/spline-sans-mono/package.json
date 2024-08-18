@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/spline-sans-mono",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Spline Sans Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/spline-sans-mono"
   },
-  "publishHash": "316f9a2cdf6d1440"
+  "publishHash": "39a3af205887f039"
 }

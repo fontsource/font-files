@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/coda",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Coda font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/coda"
   },
-  "publishHash": "f999b92ca639dff6"
+  "publishHash": "6810441dc9867091"
 }

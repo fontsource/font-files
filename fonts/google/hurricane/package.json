@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/hurricane",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Hurricane font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/hurricane"
   },
-  "publishHash": "46bfc5aa2297751e"
+  "publishHash": "f2f85939e47a9709"
 }

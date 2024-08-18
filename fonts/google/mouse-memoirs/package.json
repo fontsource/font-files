@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mouse-memoirs",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Mouse Memoirs font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mouse-memoirs"
   },
-  "publishHash": "ca1b32351818d2df"
+  "publishHash": "bfbbec7b32e64d6b"
 }

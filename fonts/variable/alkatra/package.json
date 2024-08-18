@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/alkatra",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Alkatra font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/alkatra"
   },
-  "publishHash": "31816d85e3cb0b11"
+  "publishHash": "74c25c4d7dd9c1f2"
 }

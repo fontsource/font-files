@@ -1,0 +1,19 @@
+{
+  "id": "matemasie",
+  "family": "Matemasie",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-08-12",
+  "version": "v2",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2024 The Matemasie Project Authors (https://github.com/YADAMSS/Matemasie-Font/)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

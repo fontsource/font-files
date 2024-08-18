@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kameron",
-  "version": "5.0.18",
+  "version": "5.0.19",
   "description": "Self-host the Kameron font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kameron"
   },
-  "publishHash": "110fd2587d7fb400"
+  "publishHash": "6653d544aeb02eb1"
 }

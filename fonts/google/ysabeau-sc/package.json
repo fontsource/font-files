@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ysabeau-sc",
-  "version": "5.0.9",
+  "version": "5.0.10",
   "description": "Self-host the Ysabeau SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ysabeau-sc"
   },
-  "publishHash": "4e1e880688e69232"
+  "publishHash": "13d3fe3c8b6ded53"
 }

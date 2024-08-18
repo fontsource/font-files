@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/jim-nightshade",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Jim Nightshade font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/jim-nightshade"
   },
-  "publishHash": "15b557460ba13229"
+  "publishHash": "b6facd026fcd2ca6"
 }

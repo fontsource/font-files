@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/red-hat-display",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Red Hat Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/red-hat-display"
   },
-  "publishHash": "c2b8bbefd3ea7b4f"
+  "publishHash": "8d1c0000a3c1f53b"
 }

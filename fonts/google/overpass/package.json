@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/overpass",
-  "version": "5.0.18",
+  "version": "5.0.19",
   "description": "Self-host the Overpass font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/overpass"
   },
-  "publishHash": "8ee264ff18c92107"
+  "publishHash": "c2b00a450351b0f1"
 }

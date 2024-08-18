@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/instrument-sans",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Self-host the Instrument Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/instrument-sans"
   },
-  "publishHash": "6d9ed69614befca9"
+  "publishHash": "9ca20f2235c499c6"
 }

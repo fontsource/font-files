@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/arima",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Arima font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/arima"
   },
-  "publishHash": "72ab106ff414cffa"
+  "publishHash": "edd4370dbc9e2db2"
 }

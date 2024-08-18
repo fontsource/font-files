@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rubik-doodle-triangles",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Rubik Doodle Triangles font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rubik-doodle-triangles"
   },
-  "publishHash": "7501877245811a4d"
+  "publishHash": "d2b69df3ee2b255a"
 }

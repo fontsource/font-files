@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/suez-one",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Suez One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/suez-one"
   },
-  "publishHash": "b21d3629a76d06ed"
+  "publishHash": "e5d0fd19d591d72d"
 }

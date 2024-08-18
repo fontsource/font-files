@@ -9,7 +9,7 @@
     "EDPT": {"default": "100", "min": "0", "max": "200", "step": "1"},
     "EHLT": {"default": "12", "min": "0", "max": "24", "step": "1"}
   },
-  "lastModified": "2023-06-07",
+  "lastModified": "2024-08-12",
   "version": "v10",
   "category": "display",
   "license": {

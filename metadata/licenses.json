@@ -2799,6 +2799,18 @@
     },
     "original": "Copyright 2023 The Bungee Project Authors (https://github.com/djrrb/Bungee)"
   },
+  "bungee-tint": {
+    "id": "bungee-tint",
+    "authors": {
+      "copyright": "Copyright 2023 The Bungee Project Authors",
+      "website": "https://github.com/djrrb/Bungee"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Bungee Project Authors (https://github.com/djrrb/Bungee)"
+  },
   "butcherman": {
     "id": "butcherman",
     "authors": {
@@ -9714,6 +9726,18 @@
     },
     "original": "Copyright 2011 The Mate Project Authors (https://github.com/etunni/mate) with Reserved Font Name \"Mate\""
   },
+  "matemasie": {
+    "id": "matemasie",
+    "authors": {
+      "copyright": "Copyright 2024 The Matemasie Project Authors",
+      "website": "https://github.com/YADAMSS/Matemasie-Font/"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2024 The Matemasie Project Authors (https://github.com/YADAMSS/Matemasie-Font/)"
+  },
   "material-icons": {
     "id": "material-icons",
     "authors": {
@@ -10204,6 +10228,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright (c) 2011, wmk69, (wmk69@o2.pl), with Reserved Font Names 'ModernAntiqua' and 'Modern Antiqua'. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+  },
+  "moderustic": {
+    "id": "moderustic",
+    "authors": {
+      "copyright": "Copyright 2021 The Moderustic Project Authors",
+      "website": "https://github.com/Tural/Moderustic"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2021 The Moderustic Project Authors (https://github.com/Tural/Moderustic)"
   },
   "mogra": {
     "id": "mogra",
@@ -10827,6 +10863,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2010 The Neuton Project Authors (http://www.21326.info/), with Reserved Font Name \"Neuton\"."
+  },
+  "new-amsterdam": {
+    "id": "new-amsterdam",
+    "authors": {
+      "copyright": "Copyright 2024 The New Amsterdam Project Authors",
+      "website": "https://github.com/vladimirnikolic1/NewAmsterdam"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2024 The New Amsterdam Project Authors (https://github.com/vladimirnikolic1/NewAmsterdam)"
   },
   "new-rocker": {
     "id": "new-rocker",

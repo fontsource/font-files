@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bodoni-moda",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Bodoni Moda font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bodoni-moda"
   },
-  "publishHash": "4207c03f22e0032d"
+  "publishHash": "91c206f985137476"
 }

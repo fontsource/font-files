@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/peddana",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Peddana font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/peddana"
   },
-  "publishHash": "3c7c20fcf3a9840f"
+  "publishHash": "0985e7fc21f2ecca"
 }

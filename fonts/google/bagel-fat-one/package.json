@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bagel-fat-one",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Self-host the Bagel Fat One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bagel-fat-one"
   },
-  "publishHash": "1b19b5c53924d26a"
+  "publishHash": "f34ebfca8a6275a5"
 }

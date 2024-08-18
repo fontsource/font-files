@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/montez",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Montez font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/montez"
   },
-  "publishHash": "04f8cbd46c5894d9"
+  "publishHash": "eb51a5004486ea8b"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/literata",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Literata font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/literata"
   },
-  "publishHash": "c7fa55f3b425d1de"
+  "publishHash": "bb0ddb5212938581"
 }

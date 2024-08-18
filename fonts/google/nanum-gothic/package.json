@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/nanum-gothic",
-  "version": "5.0.18",
+  "version": "5.0.19",
   "description": "Self-host the Nanum Gothic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/nanum-gothic"
   },
-  "publishHash": "02b73cd8443857e9"
+  "publishHash": "0e2ef95ccc7944cd"
 }

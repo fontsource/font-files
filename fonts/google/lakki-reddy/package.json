@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lakki-reddy",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Lakki Reddy font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lakki-reddy"
   },
-  "publishHash": "9ed13cc753635453"
+  "publishHash": "6dde61dded1c673c"
 }

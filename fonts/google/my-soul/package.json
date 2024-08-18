@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/my-soul",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the My Soul font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/my-soul"
   },
-  "publishHash": "7017b6706eeff1f9"
+  "publishHash": "5ba78f9893fe9c98"
 }

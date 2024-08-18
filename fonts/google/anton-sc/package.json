@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/anton-sc",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Anton SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/anton-sc"
   },
-  "publishHash": "6147db29aa71eb82"
+  "publishHash": "c8e81eb796eadb06"
 }

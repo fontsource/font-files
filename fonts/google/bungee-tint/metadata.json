@@ -1,0 +1,19 @@
+{
+  "id": "bungee-tint",
+  "family": "Bungee Tint",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-08-12",
+  "version": "v1",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2023 The Bungee Project Authors (https://github.com/djrrb/Bungee)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

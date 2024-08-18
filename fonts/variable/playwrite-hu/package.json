@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/playwrite-hu",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Playwrite HU font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/playwrite-hu"
   },
-  "publishHash": "98b0c76a1d06f00f"
+  "publishHash": "5bf1bbbfd9dba07e"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/carattere",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Carattere font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/carattere"
   },
-  "publishHash": "da7b52d371308537"
+  "publishHash": "4ada31da4d0a2f67"
 }

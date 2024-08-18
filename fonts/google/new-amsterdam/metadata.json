@@ -1,0 +1,19 @@
+{
+  "id": "new-amsterdam",
+  "family": "New Amsterdam",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-08-12",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2024 The New Amsterdam Project Authors (https://github.com/vladimirnikolic1/NewAmsterdam)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

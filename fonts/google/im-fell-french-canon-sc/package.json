@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/im-fell-french-canon-sc",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "description": "Self-host the IM Fell French Canon SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/im-fell-french-canon-sc"
   },
-  "publishHash": "1e753dac1640dbfd"
+  "publishHash": "3512edfdbc4ae74f"
 }

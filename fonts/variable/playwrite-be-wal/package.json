@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/playwrite-be-wal",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Playwrite BE WAL font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/playwrite-be-wal"
   },
-  "publishHash": "a2ed401ea72e3e80"
+  "publishHash": "07c9074050d1cdf4"
 }
