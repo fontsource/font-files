@@ -1,0 +1,19 @@
+{
+  "id": "unifontex",
+  "family": "UnifontEX",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-08-25",
+  "version": "v1.0",
+  "category": "monospace",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+    "attribution": "stgiga"
+  },
+  "source": "https://github.com/stgiga/UnifontEX",
+  "type": "other"
+}
