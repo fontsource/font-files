@@ -16913,6 +16913,18 @@
     },
     "original": "Copyright 2001-2021 The STIX Fonts Project Authors (https://github.com/stipub/stixfonts)"
   },
+  "suse": {
+    "id": "suse",
+    "authors": {
+      "copyright": "Copyright 2024 The SUSE Project Authors",
+      "website": "https://github.com/SUSE/suse-font"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2024 The SUSE Project Authors (https://github.com/SUSE/suse-font)"
+  },
   "sacramento": {
     "id": "sacramento",
     "authors": {

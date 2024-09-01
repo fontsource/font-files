@@ -11570,6 +11570,21 @@
       }
     }
   },
+  "suse": {
+    "family": "SUSE",
+    "id": "suse",
+    "axes": {
+      "wght": {"default": "400", "min": "100", "max": "800", "step": "1"}
+    },
+    "variants": {
+      "wght": {
+        "normal": {
+          "latin-ext": "https://fonts.gstatic.com/s/suse/v1/MwQ5bhb078Wt2VFBPap6.woff2",
+          "latin": "https://fonts.gstatic.com/s/suse/v1/MwQ5bhb078Wt2V9BPQ.woff2"
+        }
+      }
+    }
+  },
   "syne": {
     "family": "Syne",
     "id": "syne",

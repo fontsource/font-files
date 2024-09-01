@@ -1,0 +1,30 @@
+{
+  "name": "@fontsource/suse",
+  "version": "5.0.1",
+  "description": "Self-host the SUSE font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "suse",
+    "SUSE",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/suse",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/suse"
+  },
+  "publishHash": "4566fbacae5dd3ed"
+}
