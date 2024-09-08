@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ruda",
-  "version": "5.0.21",
+  "version": "5.0.22",
   "description": "Self-host the Ruda font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ruda"
   },
-  "publishHash": "37f65567a049b2e5"
+  "publishHash": "4204c703276825fd"
 }

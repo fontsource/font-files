@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rocknroll-one",
-  "version": "5.0.15",
+  "version": "5.0.16",
   "description": "Self-host the RocknRoll One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rocknroll-one"
   },
-  "publishHash": "345858dc41e11d78"
+  "publishHash": "0725c6720954e361"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/jersey-20",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Jersey 20 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/jersey-20"
   },
-  "publishHash": "125359c5175b202f"
+  "publishHash": "ab902acc08acd5c6"
 }

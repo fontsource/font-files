@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/baloo-da-2",
-  "version": "5.0.21",
+  "version": "5.0.22",
   "description": "Self-host the Baloo Da 2 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/baloo-da-2"
   },
-  "publishHash": "453c105dece0b44d"
+  "publishHash": "b51ffdd5528ef167"
 }

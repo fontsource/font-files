@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/shadows-into-light",
-  "version": "5.0.20",
+  "version": "5.0.21",
   "description": "Self-host the Shadows Into Light font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/shadows-into-light"
   },
-  "publishHash": "068532542c2c0e17"
+  "publishHash": "9291f35a95b6101a"
 }

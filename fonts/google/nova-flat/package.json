@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/nova-flat",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Nova Flat font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/nova-flat"
   },
-  "publishHash": "3b683f49b04aac38"
+  "publishHash": "0be65bbf186c647c"
 }

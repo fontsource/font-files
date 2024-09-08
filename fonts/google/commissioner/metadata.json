@@ -18,7 +18,7 @@
     "FLAR": {"default": "0", "min": "0", "max": "100", "step": "1"},
     "VOLM": {"default": "0", "min": "0", "max": "100", "step": "1"}
   },
-  "lastModified": "2024-08-12",
+  "lastModified": "2024-09-04",
   "version": "v20",
   "category": "sans-serif",
   "license": {

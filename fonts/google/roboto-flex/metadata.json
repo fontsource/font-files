@@ -27,7 +27,7 @@
     "YTLC": {"default": "514", "min": "416", "max": "570", "step": "1"},
     "YTUC": {"default": "712", "min": "528", "max": "760", "step": "1"}
   },
-  "lastModified": "2024-08-12",
+  "lastModified": "2024-09-04",
   "version": "v26",
   "category": "sans-serif",
   "license": {

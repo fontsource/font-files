@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/newsreader",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Newsreader font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/newsreader"
   },
-  "publishHash": "5bc719094b03b452"
+  "publishHash": "b3b25c1d8c6e6134"
 }

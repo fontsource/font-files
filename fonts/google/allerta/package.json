@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/allerta",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Allerta font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/allerta"
   },
-  "publishHash": "a712057989858c38"
+  "publishHash": "8832db20c875aabc"
 }

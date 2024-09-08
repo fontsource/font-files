@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/roboto-flex",
-  "version": "5.0.16",
+  "version": "5.0.17",
   "description": "Self-host the Roboto Flex font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/roboto-flex"
   },
-  "publishHash": "7c2484ef0e14fc5c"
+  "publishHash": "29ebbec0e20be52c"
 }

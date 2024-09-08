@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/caesar-dressing",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Caesar Dressing font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/caesar-dressing"
   },
-  "publishHash": "4aa5ad788aee034b"
+  "publishHash": "048895f9acad58bd"
 }

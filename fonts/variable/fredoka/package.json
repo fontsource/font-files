@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/fredoka",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Fredoka font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/fredoka"
   },
-  "publishHash": "f04644d940fd4e9a"
+  "publishHash": "38c8e29bbca83013"
 }

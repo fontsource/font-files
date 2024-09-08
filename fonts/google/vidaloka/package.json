@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/vidaloka",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Vidaloka font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/vidaloka"
   },
-  "publishHash": "ea4f01946da24a50"
+  "publishHash": "6b4ab591099921d7"
 }

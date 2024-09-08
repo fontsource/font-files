@@ -11056,14 +11056,12 @@
   },
   "noto-emoji": {
     "id": "noto-emoji",
-    "authors": {
-      "copyright": "Copyright 2013, 2022 Google Inc. All Rights Reserved."
-    },
+    "authors": {"copyright": "Copyright 2013 Google LLC"},
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2013, 2022 Google Inc. All Rights Reserved."
+    "original": "Copyright 2013 Google LLC"
   },
   "noto-kufi-arabic": {
     "id": "noto-kufi-arabic",

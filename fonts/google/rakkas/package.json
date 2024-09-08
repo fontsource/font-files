@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rakkas",
-  "version": "5.0.21",
+  "version": "5.0.22",
   "description": "Self-host the Rakkas font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rakkas"
   },
-  "publishHash": "19308b940bfd5f58"
+  "publishHash": "90fe3b56a0913ff5"
 }

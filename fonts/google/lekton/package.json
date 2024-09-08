@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lekton",
-  "version": "5.0.15",
+  "version": "5.0.16",
   "description": "Self-host the Lekton font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lekton"
   },
-  "publishHash": "42b8c8004388e600"
+  "publishHash": "955d1043513c849c"
 }

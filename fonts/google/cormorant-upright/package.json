@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cormorant-upright",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Cormorant Upright font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cormorant-upright"
   },
-  "publishHash": "c5a009b7b1655aef"
+  "publishHash": "7c90d36358cdf21c"
 }

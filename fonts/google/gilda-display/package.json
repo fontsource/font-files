@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gilda-display",
-  "version": "5.0.21",
+  "version": "5.0.22",
   "description": "Self-host the Gilda Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gilda-display"
   },
-  "publishHash": "770a4e13729813f7"
+  "publishHash": "80a2d977bf4977a1"
 }

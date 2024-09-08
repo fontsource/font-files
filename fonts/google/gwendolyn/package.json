@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gwendolyn",
-  "version": "5.0.21",
+  "version": "5.0.22",
   "description": "Self-host the Gwendolyn font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gwendolyn"
   },
-  "publishHash": "84715dd89ca7981c"
+  "publishHash": "6b1f79945384daf8"
 }

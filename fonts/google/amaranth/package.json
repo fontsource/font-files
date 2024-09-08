@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/amaranth",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Amaranth font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/amaranth"
   },
-  "publishHash": "247dab2676db96f8"
+  "publishHash": "693b1bfa108d3e12"
 }

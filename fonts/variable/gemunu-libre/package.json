@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/gemunu-libre",
-  "version": "5.0.21",
+  "version": "5.0.22",
   "description": "Self-host the Gemunu Libre font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/gemunu-libre"
   },
-  "publishHash": "2efb6727ca6e42c0"
+  "publishHash": "7c64fc25df5e04b1"
 }

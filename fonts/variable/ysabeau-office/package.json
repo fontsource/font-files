@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/ysabeau-office",
-  "version": "5.0.10",
+  "version": "5.0.11",
   "description": "Self-host the Ysabeau Office font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/ysabeau-office"
   },
-  "publishHash": "d6ca22298f8e8b40"
+  "publishHash": "362dc39dac93ba04"
 }

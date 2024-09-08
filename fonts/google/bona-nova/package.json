@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bona-nova",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Bona Nova font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bona-nova"
   },
-  "publishHash": "7dfab7d09ddbc357"
+  "publishHash": "50b172eb3e52ba54"
 }

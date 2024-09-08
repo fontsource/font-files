@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/shippori-antique",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Shippori Antique font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/shippori-antique"
   },
-  "publishHash": "1b4d37173ecf44d2"
+  "publishHash": "54d4a1e3c2638c4d"
 }

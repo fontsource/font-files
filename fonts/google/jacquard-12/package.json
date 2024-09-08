@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/jacquard-12",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Self-host the Jacquard 12 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/jacquard-12"
   },
-  "publishHash": "ce173c627cabd089"
+  "publishHash": "853077a211c6af71"
 }

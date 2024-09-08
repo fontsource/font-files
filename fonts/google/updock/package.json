@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/updock",
-  "version": "5.0.21",
+  "version": "5.0.22",
   "description": "Self-host the Updock font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/updock"
   },
-  "publishHash": "9042d0911746dbdf"
+  "publishHash": "de1f463a545924ee"
 }

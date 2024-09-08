@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/yuji-syuku",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Yuji Syuku font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/yuji-syuku"
   },
-  "publishHash": "40040514a8ae734f"
+  "publishHash": "dc065de7c4016291"
 }

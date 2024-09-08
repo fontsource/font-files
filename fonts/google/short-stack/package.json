@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/short-stack",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Short Stack font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/short-stack"
   },
-  "publishHash": "7a75a0e7404dadac"
+  "publishHash": "fb4f638e1b77586e"
 }

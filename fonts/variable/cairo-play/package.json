@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/cairo-play",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Cairo Play font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/cairo-play"
   },
-  "publishHash": "dffd6d583fdc0b7c"
+  "publishHash": "b4469d54ae0ce10f"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/big-shoulders-stencil-display",
-  "version": "5.0.21",
+  "version": "5.0.22",
   "description": "Self-host the Big Shoulders Stencil Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/big-shoulders-stencil-display"
   },
-  "publishHash": "1522fa1cbb2edc3e"
+  "publishHash": "6973cab8752514da"
 }

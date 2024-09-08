@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/varta",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Varta font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/varta"
   },
-  "publishHash": "964fe600b42a8125"
+  "publishHash": "675e2bfe8d1a093c"
 }

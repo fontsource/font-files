@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/alegreya",
-  "version": "5.0.15",
+  "version": "5.0.16",
   "description": "Self-host the Alegreya font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/alegreya"
   },
-  "publishHash": "8c9b771e6c3c339b"
+  "publishHash": "1046a740b48b9b96"
 }

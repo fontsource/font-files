@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/caveat",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Caveat font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/caveat"
   },
-  "publishHash": "0dfa6c2c854b2d66"
+  "publishHash": "e6e94d106833dc05"
 }

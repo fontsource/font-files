@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sansita",
-  "version": "5.0.21",
+  "version": "5.0.22",
   "description": "Self-host the Sansita font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sansita"
   },
-  "publishHash": "ef5e6a538c091569"
+  "publishHash": "b812699bfc3b2b5c"
 }

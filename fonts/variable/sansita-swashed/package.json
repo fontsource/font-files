@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/sansita-swashed",
-  "version": "5.0.19",
+  "version": "5.0.20",
   "description": "Self-host the Sansita Swashed font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/sansita-swashed"
   },
-  "publishHash": "f6a73072c00a9178"
+  "publishHash": "3bb5840e95d3fca4"
 }

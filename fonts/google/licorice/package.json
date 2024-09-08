@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/licorice",
-  "version": "5.0.21",
+  "version": "5.0.22",
   "description": "Self-host the Licorice font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/licorice"
   },
-  "publishHash": "7f3e04b47bcc51b8"
+  "publishHash": "f298e300e0198785"
 }

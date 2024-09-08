@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/grey-qo",
-  "version": "5.0.21",
+  "version": "5.0.22",
   "description": "Self-host the Grey Qo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/grey-qo"
   },
-  "publishHash": "3e3df7b5253010ef"
+  "publishHash": "2e6a352b6352f6ae"
 }

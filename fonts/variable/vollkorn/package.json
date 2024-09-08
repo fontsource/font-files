@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/vollkorn",
-  "version": "5.0.22",
+  "version": "5.0.23",
   "description": "Self-host the Vollkorn font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/vollkorn"
   },
-  "publishHash": "5e2dc34a6d0d309f"
+  "publishHash": "63c28e2253012c81"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/radio-canada",
-  "version": "5.0.21",
+  "version": "5.0.22",
   "description": "Self-host the Radio Canada font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/radio-canada"
   },
-  "publishHash": "979fb1c31ef67b06"
+  "publishHash": "6bc3e87ba85a880a"
 }

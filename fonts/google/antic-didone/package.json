@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/antic-didone",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Antic Didone font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/antic-didone"
   },
-  "publishHash": "9b7a46c53e757c70"
+  "publishHash": "760685e5f497a289"
 }

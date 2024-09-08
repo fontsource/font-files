@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/chicle",
-  "version": "5.0.21",
+  "version": "5.0.22",
   "description": "Self-host the Chicle font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/chicle"
   },
-  "publishHash": "374d71e96ed131f8"
+  "publishHash": "dfc8ee3f45bf0c6f"
 }

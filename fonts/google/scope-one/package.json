@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/scope-one",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Scope One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/scope-one"
   },
-  "publishHash": "bf3b8bdbc4f87a04"
+  "publishHash": "da1136b340f25458"
 }

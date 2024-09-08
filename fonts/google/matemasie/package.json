@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/matemasie",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Self-host the Matemasie font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/matemasie"
   },
-  "publishHash": "674847b5d2e548b9"
+  "publishHash": "a0bd21e9d1634af9"
 }

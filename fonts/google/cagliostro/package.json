@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cagliostro",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Cagliostro font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cagliostro"
   },
-  "publishHash": "542db86948f111c2"
+  "publishHash": "cc5206932a96302d"
 }

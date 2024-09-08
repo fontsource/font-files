@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/solitreo",
-  "version": "5.0.21",
+  "version": "5.0.22",
   "description": "Self-host the Solitreo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/solitreo"
   },
-  "publishHash": "4a33263ba0e7ec85"
+  "publishHash": "d59ecee798a94df8"
 }

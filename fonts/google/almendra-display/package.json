@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/almendra-display",
-  "version": "5.0.21",
+  "version": "5.0.22",
   "description": "Self-host the Almendra Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/almendra-display"
   },
-  "publishHash": "407bd9510b9a8191"
+  "publishHash": "721a2b2d1b17234e"
 }

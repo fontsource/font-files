@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/workbench",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Self-host the Workbench font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/workbench"
   },
-  "publishHash": "8d8f036302153756"
+  "publishHash": "0399773e8b5efa49"
 }

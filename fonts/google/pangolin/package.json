@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/pangolin",
-  "version": "5.0.14",
+  "version": "5.0.15",
   "description": "Self-host the Pangolin font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/pangolin"
   },
-  "publishHash": "cf3aff2da9cbdc81"
+  "publishHash": "754050a571a04750"
 }

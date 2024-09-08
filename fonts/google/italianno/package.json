@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/italianno",
-  "version": "5.0.21",
+  "version": "5.0.22",
   "description": "Self-host the Italianno font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/italianno"
   },
-  "publishHash": "45d6d77c4ddf9086"
+  "publishHash": "6d611698da9870fe"
 }

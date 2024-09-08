@@ -10,7 +10,7 @@
     "opsz": {"default": "11", "min": "6", "max": "96", "step": "0.1"},
     "wght": {"default": "400", "min": "400", "max": "900", "step": "1"}
   },
-  "lastModified": "2024-08-12",
+  "lastModified": "2024-09-04",
   "version": "v1",
   "category": "serif",
   "license": {

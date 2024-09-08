@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/give-you-glory",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "Self-host the Give You Glory font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/give-you-glory"
   },
-  "publishHash": "b78e2f0f3be578f3"
+  "publishHash": "695272f9fc29c541"
 }
