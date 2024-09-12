@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/win95fa",
-  "version": "5.0.2",
+  "version": "5.1.0",
   "description": "Self-host the WIN95FA font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},

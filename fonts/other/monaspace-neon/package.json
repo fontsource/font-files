@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/monaspace-neon",
-  "version": "5.0.1",
+  "version": "5.1.0",
   "description": "Self-host the Monaspace Neon font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-be-vlg",
-  "version": "5.0.2",
+  "version": "5.1.0",
   "description": "Self-host the Playwrite BE VLG font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},

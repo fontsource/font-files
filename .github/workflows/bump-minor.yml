@@ -46,7 +46,7 @@ jobs:
           git config --global user.name "fontsource-bot"
 
       - name: Publish to NPM
-        run: bunx @fontsource-utils/publish publish minor --force --yes --provenance
+        run: npx @fontsource-utils/publish publish minor --force --yes --provenance
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/raleway",
-  "version": "5.0.22",
+  "version": "5.1.0",
   "description": "Self-host the Raleway font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
