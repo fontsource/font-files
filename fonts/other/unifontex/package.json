@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/unifontex",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the UnifontEX font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/unifontex"
-  }
+  },
+  "publishHash": "7fbc1325c4f55dfd"
 }
