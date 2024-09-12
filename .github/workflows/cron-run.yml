@@ -21,7 +21,7 @@ jobs:
           bun-version: latest
 
       - name: Install
-        run: bun install --frozen-lockfile
+        run: bun install
 
       - name: Fetch API # Calls Google Font Metadata to fetch the latest data from Google's Developer API
         run: bunx gfm generate $GOOGLE_API_KEY

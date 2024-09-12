@@ -3,7 +3,6 @@
 	"version": "5.1.0",
 	"description": "1500+ open-source fonts bundled into neat packages.",
 	"type": "module",
-	"packageManager": "pnpm@8.3.1",
 	"private": true,
 	"scripts": {
 		"algolia": "tsx scripts/algolia.ts",
