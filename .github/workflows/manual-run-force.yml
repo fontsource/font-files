@@ -2,6 +2,9 @@ name: Build and Release [Force Rebuild No Deploy] [Manual]
 
 on: [workflow_dispatch]
 
+permissions:
+  id-token: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -10,16 +13,12 @@ jobs:
       - name: checkout
         uses: actions/checkout@v4
 
-      - name: Enable PNPM
-        uses: pnpm/action-setup@v4
-
-      - name: Set node version to 20
-        uses: actions/setup-node@v4
+      - uses: oven-sh/setup-bun@v2
         with:
-          node-version: "20"
+          bun-version: latest
 
       - name: Install
-        run: pnpm install --frozen-lockfile
+        run: bun install --frozen-lockfile
 
       - name: Fetch API # Calls Google Font Metadata to fetch the latest data from Google's Developer API
         run: npx gfm generate $GOOGLE_API_KEY
@@ -33,13 +32,13 @@ jobs:
         run: npx fontsource build --force
 
       - name: Generate fontlist
-        run: pnpm run fontlist
+        run: bun run fontlist
 
       - name: Save GFM metadata
-        run: pnpm run gfm-metadata
+        run: bun run gfm-metadata
 
       - name: Save Fontsource metadata
-        run: pnpm run metadata
+        run: bun run metadata
 
       - name: Stage, commit and push files
         uses: stefanzweifel/git-auto-commit-action@v4
