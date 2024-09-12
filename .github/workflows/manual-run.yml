@@ -21,15 +21,15 @@ jobs:
         run: bun install --frozen-lockfile
 
       - name: Fetch API # Calls Google Font Metadata to fetch the latest data from Google's Developer API
-        run: npx gfm generate $GOOGLE_API_KEY
+        run: bunx gfm generate $GOOGLE_API_KEY
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
 
       - name: Parse API
-        run: npx gfm parse
+        run: bunx gfm parse
 
       - name: Build fonts # Build all updated Google Fonts in repository
-        run: npx fontsource build
+        run: bunx fontsource build
 
       - name: Remove Duplicates
         run: bun run check-duplicates
