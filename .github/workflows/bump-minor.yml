@@ -1,8 +1,6 @@
-name: Build and Release [Weekly]
+name: Build and Release [Bump Minor] [Manual]
 
-on:
-  schedule:
-    - cron: "0 0 * * 0"
+on: [workflow_dispatch]
 
 permissions:
   id-token: write
@@ -28,13 +26,10 @@ jobs:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
 
       - name: Parse API
-        run: bunx gfm parse
+        run: bunx gfm parse --force
 
       - name: Build fonts # Build all updated Google Fonts in repository
-        run: bunx fontsource build
-
-      - name: Remove Duplicates
-        run: bun run check-duplicates
+        run: bunx fontsource build --force
 
       - name: Generate fontlist
         run: bun run fontlist
@@ -51,7 +46,7 @@ jobs:
           git config --global user.name "fontsource-bot"
 
       - name: Publish to NPM
-        run: bunx @fontsource-utils/publish publish patch --yes --provenance
+        run: bunx @fontsource-utils/publish publish minor --force --yes --provenance
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}

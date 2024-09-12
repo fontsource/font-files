@@ -8,17 +8,12 @@ jobs:
       - name: checkout
         uses: actions/checkout@v4
 
-      - name: Enable PNPM
-        uses: pnpm/action-setup@v4
-
-      - name: Set node version to 20
-        uses: actions/setup-node@v4
+      - uses: oven-sh/setup-bun@v2
         with:
-          node-version: "20"
-          cache: "pnpm"
+          bun-version: latest
 
       - name: Install
-        run: pnpm install --frozen-lockfile
+        run: bun install --frozen-lockfile
 
       - name: Run Tests
-        run: pnpm test
+        run: bun run test

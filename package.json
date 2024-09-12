@@ -1,6 +1,6 @@
 {
 	"name": "font-files",
-	"version": "5.0.0",
+	"version": "5.1.0",
 	"description": "1500+ open-source fonts bundled into neat packages.",
 	"type": "module",
 	"packageManager": "pnpm@8.3.1",
@@ -11,14 +11,13 @@
 		"fontlist": "tsx scripts/fontlist.ts",
 		"gfm-metadata": "tsx scripts/gfm-metadata.ts",
 		"metadata": "tsx scripts/metadata.ts",
-		"test": "fontsource create-verify --all",
-		"ci:publish": "npx @fontsource-utils/publish publish patch --yes"
+		"test": "fontsource create-verify --all"
 	},
 	"author": "Ayuhito <hello@ayuhito.com>",
 	"license": "MIT",
 	"dependencies": {
 		"@fontsource-utils/cli": "0.4.2",
-		"@fontsource-utils/publish": "^0.2.8",
+		"@fontsource-utils/publish": "^0.3.0",
 		"@types/node": "^20.12.7",
 		"algoliasearch": "^4.23.3",
 		"consola": "^3.2.3",
