@@ -11,8 +11,7 @@
 		"fontlist": "tsx scripts/fontlist.ts",
 		"gfm-metadata": "tsx scripts/gfm-metadata.ts",
 		"metadata": "tsx scripts/metadata.ts",
-		"test": "fontsource create-verify --all",
-		"ci:publish": "npx @fontsource-utils/publish publish patch --yes --provenance"
+		"test": "fontsource create-verify --all"
 	},
 	"author": "Ayuhito <hello@ayuhito.com>",
 	"license": "MIT",
