@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-serif-tc",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Noto Serif TC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-serif-tc"
   },
-  "publishHash": "2bd14bc04b9adb8f"
+  "publishHash": "d7ab9ac259ca14af"
 }

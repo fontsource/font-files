@@ -4616,6 +4616,30 @@
     },
     "original": "Copyright 2014 The Eczar Project Authors (https://github.com/rosettatype/eczar)"
   },
+  "edu-au-vic-wa-nt-dots": {
+    "id": "edu-au-vic-wa-nt-dots",
+    "authors": {
+      "copyright": "Copyright 2023 The VIC WA NT School Hand Australia Project Authors",
+      "website": "https://github.com/SorkinType/VICWANTSchoolhandAustralia"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The VIC WA NT School Hand Australia Project Authors (https://github.com/SorkinType/VICWANTSchoolhandAustralia)"
+  },
+  "edu-au-vic-wa-nt-guides": {
+    "id": "edu-au-vic-wa-nt-guides",
+    "authors": {
+      "copyright": "Copyright 2023 The VIC WA NT School Hand Australia Project Authors",
+      "website": "https://github.com/SorkinType/VICWANTSchoolhandAustralia"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The VIC WA NT School Hand Australia Project Authors (https://github.com/SorkinType/VICWANTSchoolhandAustralia)"
+  },
   "edu-au-vic-wa-nt-hand": {
     "id": "edu-au-vic-wa-nt-hand",
     "authors": {
@@ -13169,14 +13193,14 @@
   "noto-serif-hk": {
     "id": "noto-serif-hk",
     "authors": {
-      "copyright": "2017-2023 Adobe",
+      "copyright": "2017-2024 Adobe",
       "website": "http://www.adobe.com/."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "(c) 2017-2023 Adobe (http://www.adobe.com/)."
+    "original": "(c) 2017-2024 Adobe (http://www.adobe.com/)."
   },
   "noto-serif-hebrew": {
     "id": "noto-serif-hebrew",
@@ -13193,26 +13217,26 @@
   "noto-serif-jp": {
     "id": "noto-serif-jp",
     "authors": {
-      "copyright": "2017-2023 Adobe",
+      "copyright": "2017-2024 Adobe",
       "website": "http://www.adobe.com/."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "(c) 2017-2023 Adobe (http://www.adobe.com/)."
+    "original": "(c) 2017-2024 Adobe (http://www.adobe.com/)."
   },
   "noto-serif-kr": {
     "id": "noto-serif-kr",
     "authors": {
-      "copyright": "2017-2023 Adobe",
+      "copyright": "2017-2024 Adobe",
       "website": "http://www.adobe.com/."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "(c) 2017-2023 Adobe (http://www.adobe.com/)."
+    "original": "(c) 2017-2024 Adobe (http://www.adobe.com/)."
   },
   "noto-serif-kannada": {
     "id": "noto-serif-kannada",
@@ -13376,14 +13400,14 @@
   "noto-serif-tc": {
     "id": "noto-serif-tc",
     "authors": {
-      "copyright": "2017-2023 Adobe",
+      "copyright": "2017-2024 Adobe",
       "website": "http://www.adobe.com/."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "(c) 2017-2023 Adobe (http://www.adobe.com/)."
+    "original": "(c) 2017-2024 Adobe (http://www.adobe.com/)."
   },
   "noto-serif-tamil": {
     "id": "noto-serif-tamil",
