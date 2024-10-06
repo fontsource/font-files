@@ -163,6 +163,18 @@
     },
     "original": "Copyright 2023 The Afacad Project Authors (https://github.com/Dicotype/Afacad)"
   },
+  "afacad-flux": {
+    "id": "afacad-flux",
+    "authors": {
+      "copyright": "Copyright 2023 The Afacad Project Authors",
+      "website": "https://github.com/Dicotype/Afacad"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2023 The Afacad Project Authors (https://github.com/Dicotype/Afacad)"
+  },
   "agbalumo": {
     "id": "agbalumo",
     "authors": {
@@ -8920,14 +8932,14 @@
   "libre-franklin": {
     "id": "libre-franklin",
     "authors": {
-      "copyright": "Copyright 2020 The LibreFranklin Project Authors",
-      "website": "https://github.com/impallari/Libre-Franklin"
+      "copyright": "Copyright 2020 The Libre Franklin Project Authors",
+      "website": "https://github.com/googlefonts/Libre-Franklin"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "http://scripts.sil.org/OFL"
     },
-    "original": "Copyright 2020 The LibreFranklin Project Authors (https://github.com/impallari/Libre-Franklin)"
+    "original": "Copyright 2020 The Libre Franklin Project Authors (https://github.com/googlefonts/Libre-Franklin)"
   },
   "licorice": {
     "id": "licorice",
@@ -17721,6 +17733,18 @@
       "url": "http://scripts.sil.org/OFL"
     },
     "original": "Copyright 2021 The Sixtyfour Project Authors (https://github.com/jenskutilek/homecomputer-fonts)"
+  },
+  "sixtyfour-convergence": {
+    "id": "sixtyfour-convergence",
+    "authors": {
+      "copyright": "Copyright 2021 The Sixtyfour Convergence Project Authors",
+      "website": "https://github.com/jenskutilek/homecomputer-fonts"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    "original": "Copyright 2021 The Sixtyfour Convergence Project Authors (https://github.com/jenskutilek/homecomputer-fonts)"
   },
   "skranji": {
     "id": "skranji",

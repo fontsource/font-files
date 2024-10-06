@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/libre-franklin",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Libre Franklin font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/libre-franklin"
   },
-  "publishHash": "35c5b95079a98add"
+  "publishHash": "caa2dff853e3f440"
 }

@@ -1,0 +1,22 @@
+{
+  "id": "afacad-flux",
+  "family": "Afacad Flux",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "slnt": {"default": "0", "min": "-14", "max": "14", "step": "1"},
+    "wght": {"default": "400", "min": "100", "max": "1000", "step": "1"}
+  },
+  "lastModified": "2024-09-30",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright 2023 The Afacad Project Authors (https://github.com/Dicotype/Afacad)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

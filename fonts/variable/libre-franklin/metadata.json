@@ -1,7 +1,7 @@
 {
   "id": "libre-franklin",
   "family": "Libre Franklin",
-  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
   "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
   "styles": ["italic", "normal"],
   "defSubset": "latin",
@@ -9,13 +9,13 @@
     "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v14",
+  "lastModified": "2024-09-30",
+  "version": "v18",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2020 The LibreFranklin Project Authors (https://github.com/impallari/Libre-Franklin)"
+    "attribution": "Copyright 2020 The Libre Franklin Project Authors (https://github.com/googlefonts/Libre-Franklin)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"
