@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/national-park",
+  "version": "5.0.0",
+  "description": "Self-host the National Park font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "national-park",
+    "National Park",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Andrea Herstowski, Ben Hoepner, & Jeremy Shellhorn",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/national-park",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/other/national-park"
+  }
+}
