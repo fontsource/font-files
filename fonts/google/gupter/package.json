@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gupter",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Gupter font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gupter"
   },
-  "publishHash": "5c4c168d01c9eb6a"
+  "publishHash": "ff57aa6ea959adc8"
 }
