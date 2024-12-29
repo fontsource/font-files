@@ -1,41 +1,19 @@
 {
-  "id": "commit-mono",
-  "family": "Commit Mono",
-  "subsets": ["latin"],
-  "weights": [
-    200,
-    225,
-    250,
-    275,
-    300,
-    325,
-    350,
-    375,
-    400,
-    425,
-    450,
-    475,
-    500,
-    525,
-    550,
-    575,
-    600,
-    625,
-    650,
-    675,
-    700
-  ],
-  "styles": ["normal", "italic"],
-  "defSubset": "latin",
-  "variable": false,
-  "lastModified": "2024-07-15",
-  "version": "v1.132",
-  "category": "monospace",
-  "license": {
-    "type": "OFL-1.1",
-    "url": "https://github.com/eigilnikolajsen/commit-mono/blob/v1.143/src/txt/license.txt",
-    "attribution": "Eigil Nikolajsen"
-  },
-  "source": "https://github.com/eigilnikolajsen/commit-mono",
-  "type": "other"
+	"id": "commit-mono",
+	"family": "Commit Mono",
+	"subsets": ["latin"],
+	"weights": [200, 300, 400, 500, 600, 700],
+	"styles": ["normal", "italic"],
+	"defSubset": "latin",
+	"variable": false,
+	"lastModified": "2024-07-15",
+	"version": "v1.132",
+	"category": "monospace",
+	"license": {
+		"type": "OFL-1.1",
+		"url": "https://github.com/eigilnikolajsen/commit-mono/blob/v1.143/src/txt/license.txt",
+		"attribution": "Eigil Nikolajsen"
+	},
+	"source": "https://github.com/eigilnikolajsen/commit-mono",
+	"type": "other"
 }

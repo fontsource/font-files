@@ -21,7 +21,7 @@ import "@fontsource/commit-mono/400-italic.css"; // Specify weight and style
 ```
 
 Supported variables:
-- Weights: `[200,225,250,275,300,325,350,375,400,425,450,475,500,525,550,575,600,625,650,675,700]`
+- Weights: `[200,300,400,500,600,700]`
 - Styles: `[normal,italic]`
 - Subsets: `[latin]`
 

@@ -7,33 +7,6 @@
   src: url(./files/commit-mono-latin-200-italic.woff2) format('woff2'), url(./files/commit-mono-latin-200-italic.woff) format('woff');
 }
 
-/* commit-mono-latin-225-italic */
-@font-face {
-  font-family: 'Commit Mono';
-  font-style: italic;
-  font-display: swap;
-  font-weight: 225;
-  src: url(./files/commit-mono-latin-225-italic.woff2) format('woff2'), url(./files/commit-mono-latin-225-italic.woff) format('woff');
-}
-
-/* commit-mono-latin-250-italic */
-@font-face {
-  font-family: 'Commit Mono';
-  font-style: italic;
-  font-display: swap;
-  font-weight: 250;
-  src: url(./files/commit-mono-latin-250-italic.woff2) format('woff2'), url(./files/commit-mono-latin-250-italic.woff) format('woff');
-}
-
-/* commit-mono-latin-275-italic */
-@font-face {
-  font-family: 'Commit Mono';
-  font-style: italic;
-  font-display: swap;
-  font-weight: 275;
-  src: url(./files/commit-mono-latin-275-italic.woff2) format('woff2'), url(./files/commit-mono-latin-275-italic.woff) format('woff');
-}
-
 /* commit-mono-latin-300-italic */
 @font-face {
   font-family: 'Commit Mono';
@@ -41,33 +14,6 @@
   font-display: swap;
   font-weight: 300;
   src: url(./files/commit-mono-latin-300-italic.woff2) format('woff2'), url(./files/commit-mono-latin-300-italic.woff) format('woff');
-}
-
-/* commit-mono-latin-325-italic */
-@font-face {
-  font-family: 'Commit Mono';
-  font-style: italic;
-  font-display: swap;
-  font-weight: 325;
-  src: url(./files/commit-mono-latin-325-italic.woff2) format('woff2'), url(./files/commit-mono-latin-325-italic.woff) format('woff');
-}
-
-/* commit-mono-latin-350-italic */
-@font-face {
-  font-family: 'Commit Mono';
-  font-style: italic;
-  font-display: swap;
-  font-weight: 350;
-  src: url(./files/commit-mono-latin-350-italic.woff2) format('woff2'), url(./files/commit-mono-latin-350-italic.woff) format('woff');
-}
-
-/* commit-mono-latin-375-italic */
-@font-face {
-  font-family: 'Commit Mono';
-  font-style: italic;
-  font-display: swap;
-  font-weight: 375;
-  src: url(./files/commit-mono-latin-375-italic.woff2) format('woff2'), url(./files/commit-mono-latin-375-italic.woff) format('woff');
 }
 
 /* commit-mono-latin-400-italic */
@@ -79,33 +25,6 @@
   src: url(./files/commit-mono-latin-400-italic.woff2) format('woff2'), url(./files/commit-mono-latin-400-italic.woff) format('woff');
 }
 
-/* commit-mono-latin-425-italic */
-@font-face {
-  font-family: 'Commit Mono';
-  font-style: italic;
-  font-display: swap;
-  font-weight: 425;
-  src: url(./files/commit-mono-latin-425-italic.woff2) format('woff2'), url(./files/commit-mono-latin-425-italic.woff) format('woff');
-}
-
-/* commit-mono-latin-450-italic */
-@font-face {
-  font-family: 'Commit Mono';
-  font-style: italic;
-  font-display: swap;
-  font-weight: 450;
-  src: url(./files/commit-mono-latin-450-italic.woff2) format('woff2'), url(./files/commit-mono-latin-450-italic.woff) format('woff');
-}
-
-/* commit-mono-latin-475-italic */
-@font-face {
-  font-family: 'Commit Mono';
-  font-style: italic;
-  font-display: swap;
-  font-weight: 475;
-  src: url(./files/commit-mono-latin-475-italic.woff2) format('woff2'), url(./files/commit-mono-latin-475-italic.woff) format('woff');
-}
-
 /* commit-mono-latin-500-italic */
 @font-face {
   font-family: 'Commit Mono';
@@ -115,33 +34,6 @@
   src: url(./files/commit-mono-latin-500-italic.woff2) format('woff2'), url(./files/commit-mono-latin-500-italic.woff) format('woff');
 }
 
-/* commit-mono-latin-525-italic */
-@font-face {
-  font-family: 'Commit Mono';
-  font-style: italic;
-  font-display: swap;
-  font-weight: 525;
-  src: url(./files/commit-mono-latin-525-italic.woff2) format('woff2'), url(./files/commit-mono-latin-525-italic.woff) format('woff');
-}
-
-/* commit-mono-latin-550-italic */
-@font-face {
-  font-family: 'Commit Mono';
-  font-style: italic;
-  font-display: swap;
-  font-weight: 550;
-  src: url(./files/commit-mono-latin-550-italic.woff2) format('woff2'), url(./files/commit-mono-latin-550-italic.woff) format('woff');
-}
-
-/* commit-mono-latin-575-italic */
-@font-face {
-  font-family: 'Commit Mono';
-  font-style: italic;
-  font-display: swap;
-  font-weight: 575;
-  src: url(./files/commit-mono-latin-575-italic.woff2) format('woff2'), url(./files/commit-mono-latin-575-italic.woff) format('woff');
-}
-
 /* commit-mono-latin-600-italic */
 @font-face {
   font-family: 'Commit Mono';
@@ -149,33 +41,6 @@
   font-display: swap;
   font-weight: 600;
   src: url(./files/commit-mono-latin-600-italic.woff2) format('woff2'), url(./files/commit-mono-latin-600-italic.woff) format('woff');
-}
-
-/* commit-mono-latin-625-italic */
-@font-face {
-  font-family: 'Commit Mono';
-  font-style: italic;
-  font-display: swap;
-  font-weight: 625;
-  src: url(./files/commit-mono-latin-625-italic.woff2) format('woff2'), url(./files/commit-mono-latin-625-italic.woff) format('woff');
-}
-
-/* commit-mono-latin-650-italic */
-@font-face {
-  font-family: 'Commit Mono';
-  font-style: italic;
-  font-display: swap;
-  font-weight: 650;
-  src: url(./files/commit-mono-latin-650-italic.woff2) format('woff2'), url(./files/commit-mono-latin-650-italic.woff) format('woff');
-}
-
-/* commit-mono-latin-675-italic */
-@font-face {
-  font-family: 'Commit Mono';
-  font-style: italic;
-  font-display: swap;
-  font-weight: 675;
-  src: url(./files/commit-mono-latin-675-italic.woff2) format('woff2'), url(./files/commit-mono-latin-675-italic.woff) format('woff');
 }
 
 /* commit-mono-latin-700-italic */

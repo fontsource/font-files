@@ -1,8 +1,0 @@
-/* commit-mono-latin-650-italic */
-@font-face {
-  font-family: 'Commit Mono';
-  font-style: italic;
-  font-display: swap;
-  font-weight: 650;
-  src: url(./files/commit-mono-latin-650-italic.woff2) format('woff2'), url(./files/commit-mono-latin-650-italic.woff) format('woff');
-}
