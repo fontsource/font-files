@@ -1,0 +1,19 @@
+{
+  "id": "genjyuu-gothic",
+  "family": "Genjyuu Gothic",
+  "subsets": ["latin"],
+  "weights": [100, 200, 300, 400, 500, 700, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-11-01",
+  "version": "v1.002.20150607",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://jikasei.me/info/license.html",
+    "attribution": "自家製フォント工房"
+  },
+  "source": "http://jikasei.me/font/genjyuu/",
+  "type": "other"
+}
