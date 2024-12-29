@@ -1,5 +1,5 @@
-import algoliasearch from 'algoliasearch';
-import metadataImport from '../metadata/fontsource.json';
+import algoliasearch from "algoliasearch";
+import metadataImport from "../metadata/fontsource.json";
 
 interface AlgoliaMetadata {
 	objectID: string;
@@ -15,8 +15,7 @@ interface AlgoliaMetadata {
 	randomIndex: number;
 }
 
-// eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-const client = algoliasearch('WNATE69PVR', process.env.ALGOLIA_ADMIN_KEY!);
+const client = algoliasearch("WNATE69PVR", process.env.ALGOLIA_ADMIN_KEY ?? "");
 
 const shuffleArray = (size: number) => {
 	// Generate array of numbers from 0 to size
@@ -40,9 +39,9 @@ const updateAlgoliaIndex = async (force?: boolean) => {
 		// as Algolia does not support random sorting natively
 		const randomIndexArr = shuffleArray(list.length);
 
-		const statsResp = await fetch('https://api.fontsource.org/v1/stats');
+		const statsResp = await fetch("https://api.fontsource.org/v1/stats");
 		if (!statsResp.ok) {
-			throw new Error('Failed to fetch stats');
+			throw new Error("Failed to fetch stats");
 		}
 		const stats = (await statsResp.json()) as Record<
 			string,
@@ -66,7 +65,7 @@ const updateAlgoliaIndex = async (force?: boolean) => {
 				variable: Boolean(metadata.variable),
 				// Algolia sorts date using a unix timestamp instead
 				lastModified: Math.floor(
-					new Date(metadata.lastModified).getTime() / 1000
+					new Date(metadata.lastModified).getTime() / 1000,
 				),
 				downloadMonth: stats[id]?.total.npmDownloadMonthly ?? 0,
 				randomIndex: randomIndexArr[index],
@@ -76,13 +75,13 @@ const updateAlgoliaIndex = async (force?: boolean) => {
 			index++;
 		}
 
-		const searchIndex = client.initIndex('prod_NAME');
+		const searchIndex = client.initIndex("prod_NAME");
 		if (force) {
 			await searchIndex.replaceAllObjects(indexArray);
-			console.log('Replaced Algolia index');
+			console.log("Replaced Algolia index");
 		} else {
 			await searchIndex.saveObjects(indexArray);
-			console.log('Updated Algolia index');
+			console.log("Updated Algolia index");
 		}
 	} catch (error) {
 		console.error(error);
