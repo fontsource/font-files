@@ -1,0 +1,19 @@
+{
+  "id": "maple-mono",
+  "family": "Maple Mono",
+  "subsets": ["latin"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-12-05",
+  "version": "v7.0",
+  "category": "monospace",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://scripts.sil.org/OFL",
+    "attribution": "Subframe7536"
+  },
+  "source": "https://github.com/subframe7536/maple-font",
+  "type": "other"
+}
