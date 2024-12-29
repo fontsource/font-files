@@ -1,0 +1,19 @@
+{
+  "id": "phetsarath",
+  "family": "Phetsarath",
+  "subsets": ["lao"],
+  "weights": [400, 700],
+  "styles": ["normal"],
+  "defSubset": "lao",
+  "variable": false,
+  "lastModified": "2024-11-20",
+  "version": "v1",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2010-2012, Ministry of Posts and Telecommunications, Laos (www.phetsarath.gov.la)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

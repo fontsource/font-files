@@ -14,7 +14,7 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2011 The Andada Pro Project Authors (https://github.com/huertatipografica/Andada)"
   },
   "source": "https://github.com/google/fonts",

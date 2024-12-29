@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-08-12",
-  "version": "v11",
+  "lastModified": "2024-11-20",
+  "version": "v14",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2020 The Koh Santepheap Project Authors (https://github.com/danhhong/KohSantepheap)"
   },
   "source": "https://github.com/google/fonts",

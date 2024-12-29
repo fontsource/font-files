@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-08-12",
-  "version": "v27",
+  "lastModified": "2024-11-20",
+  "version": "v30",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2019 The Odor Mean Chey Project Authors (https://github.com/danhhong/OdorMeanChey)"
   },
   "source": "https://github.com/google/fonts",

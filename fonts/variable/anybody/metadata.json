@@ -15,7 +15,7 @@
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2020 The Anybody Project Authors (https://github.com/Etcetera-Type-Co/Anybody)"
   },
   "source": "https://github.com/google/fonts",

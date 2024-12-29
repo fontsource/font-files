@@ -1,17 +1,17 @@
 {
   "id": "nova-mono",
   "family": "Nova Mono",
-  "subsets": ["greek", "latin"],
+  "subsets": ["greek", "latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v20",
+  "lastModified": "2024-11-20",
+  "version": "v21",
   "category": "monospace",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright (c) 2011, Wojciech 'wmk69' Kalinowski (wmk69@o2.pl)"
   },
   "source": "https://github.com/google/fonts",

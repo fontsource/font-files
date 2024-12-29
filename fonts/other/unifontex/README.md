@@ -42,6 +42,6 @@ stgiga
 [OFL-1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 
 ## Other Notes
-Font version (provided by source): `v1.0`.
+Font version (provided by source): `v1.1`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

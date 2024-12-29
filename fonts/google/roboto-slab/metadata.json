@@ -21,7 +21,7 @@
   "category": "serif",
   "license": {
     "type": "Apache-2.0",
-    "url": "http://www.apache.org/licenses/LICENSE-2.0.html",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0",
     "attribution": "Copyright 2018 The Roboto Slab Project Authors (https://github.com/googlefonts/robotoslab)"
   },
   "source": "https://github.com/google/fonts",

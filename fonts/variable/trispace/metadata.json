@@ -14,7 +14,7 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2020 The Trispace Project Authors (https://github.com/Etcetera-Type-Co/Trispace)"
   },
   "source": "https://github.com/google/fonts",

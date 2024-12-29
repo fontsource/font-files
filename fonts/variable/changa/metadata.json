@@ -13,7 +13,7 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2018 The Changa Project Authors (https://github.com/eliheuer/changa-vf)"
   },
   "source": "https://github.com/google/fonts",

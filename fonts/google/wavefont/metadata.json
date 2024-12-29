@@ -10,12 +10,12 @@
     "ROND": {"default": "100", "min": "0", "max": "100", "step": "1"},
     "YELA": {"default": "-100", "min": "-100", "max": "100", "step": "1"}
   },
-  "lastModified": "2024-08-12",
-  "version": "v10",
+  "lastModified": "2024-11-14",
+  "version": "v12",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2022 The Wavefont Project Authors (https://github.com/dy/wavefont)"
   },
   "source": "https://github.com/google/fonts",

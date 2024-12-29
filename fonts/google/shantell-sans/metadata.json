@@ -17,7 +17,7 @@
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2022 The Shantell Sans Project Authors (https://github.com/arrowtype/shantell-sans)"
   },
   "source": "https://github.com/google/fonts",

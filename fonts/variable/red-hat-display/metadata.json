@@ -9,13 +9,13 @@
     "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
     "wght": {"default": "400", "min": "300", "max": "900", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v19",
+  "lastModified": "2024-12-04",
+  "version": "v20",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2021 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2024 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

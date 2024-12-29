@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-08-12",
-  "version": "v15",
+  "lastModified": "2024-12-04",
+  "version": "v20",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright (c) 2017 by TAE System & Typefaces Co.. All rights reserved."
   },
   "source": "https://github.com/google/fonts",

@@ -1,17 +1,17 @@
 {
   "id": "crushed",
   "family": "Crushed",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v29",
+  "lastModified": "2024-11-20",
+  "version": "v30",
   "category": "display",
   "license": {
     "type": "Apache-2.0",
-    "url": "http://www.apache.org/licenses/LICENSE-2.0.html",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0",
     "attribution": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence. http://www.apache.org/licenses/LICENSE-2.0.html"
   },
   "source": "https://github.com/google/fonts",

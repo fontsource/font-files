@@ -20,7 +20,7 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2023 The Lunasima Project Authors (https://github.com/docrepair-fonts/lunasima-fonts)."
   },
   "source": "https://github.com/google/fonts",

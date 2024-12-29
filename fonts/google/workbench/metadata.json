@@ -14,7 +14,7 @@
   "category": "monospace",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2021 The Workbench Project Authors (https://github.com/jenskutilek/homecomputer-fonts)"
   },
   "source": "https://github.com/google/fonts",

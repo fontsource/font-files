@@ -13,7 +13,7 @@
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2020 The Ballet Project Authors (https://github.com/Omnibus-Type/Ballet)"
   },
   "source": "https://github.com/google/fonts",

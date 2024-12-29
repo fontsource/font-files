@@ -11,7 +11,7 @@
   "category": "monospace",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2011, The VT323 Project Authors (peter.hull@oikoi.com)"
   },
   "source": "https://github.com/google/fonts",

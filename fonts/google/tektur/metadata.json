@@ -21,7 +21,7 @@
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2023 The Tektur Project Authors (https://www.github.com/hyvyys/Tektur)"
   },
   "source": "https://github.com/google/fonts",

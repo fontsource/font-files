@@ -13,7 +13,7 @@
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2022 The Phudu Project Authors (https://github.com/duongtrtype/DTPhudu)"
   },
   "source": "https://github.com/google/fonts",

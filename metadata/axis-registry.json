@@ -441,6 +441,15 @@
     "precision": 0
   },
   {
+    "name": "Vertical Extension",
+    "tag": "YEXT",
+    "description": "The axis extends glyphs in the Y dimension, such as the Cap Height, Ascender and Descender lengths. This is a relative axis, starting at 0% and going to the typeface's individual maximum extent at 100%.",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "precision": 0
+  },
+  {
     "name": "Year",
     "tag": "YEAR",
     "description": "Axis that shows in a metaphoric way the effect of time on a chosen topic.",

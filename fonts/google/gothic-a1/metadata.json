@@ -1,17 +1,26 @@
 {
   "id": "gothic-a1",
   "family": "Gothic A1",
-  "subsets": ["korean", "latin"],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "korean",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
   "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v13",
+  "lastModified": "2024-11-20",
+  "version": "v17",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "(C) Copyright HanYang I&C Co.,Ltd. All rights reserved."
   },
   "source": "https://github.com/google/fonts",

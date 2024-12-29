@@ -1,18 +1,18 @@
 {
   "id": "spectral-sc",
   "family": "Spectral SC",
-  "subsets": ["cyrillic", "latin", "latin-ext", "vietnamese"],
+  "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
   "weights": [200, 300, 400, 500, 600, 700, 800],
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v12",
+  "lastModified": "2024-11-05",
+  "version": "v14",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2017 The Spectral Project Authors (http://github.com/productiontype/spectral)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2017 The Spectral Project Authors (https://github.com/productiontype/Spectral)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

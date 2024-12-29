@@ -11,7 +11,7 @@
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2021 The Dots Project Authors (https://github.com/googlefonts/zen-dots)"
   },
   "source": "https://github.com/google/fonts",

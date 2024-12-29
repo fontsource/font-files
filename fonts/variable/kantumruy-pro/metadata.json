@@ -9,12 +9,12 @@
     "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
     "wght": {"default": "400", "min": "100", "max": "700", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v8",
+  "lastModified": "2024-10-29",
+  "version": "v9",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2022 The Kantumruy Project Authors (https://www.github.com/sovichet/kantumruy-pro)"
   },
   "source": "https://github.com/google/fonts",

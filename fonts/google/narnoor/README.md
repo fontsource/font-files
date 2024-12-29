@@ -42,7 +42,7 @@ Original font copyright (c) 2014-2017 CDAST, University of Hyderabad, Hyderabad 
 Additions and modifications copyright (c) 2015-2023 SIL International (https://www.sil.org/).
 Latin glyphs copyright (c) 2010, 2012, 2014, 2021 Adobe Systems Incorporated
 (http://www.adobe.com/), with Reserved Font Name 'Source'.
-[OFL-1.1](http://scripts.sil.org/OFL)
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
 Font version (provided by source): `v7`.

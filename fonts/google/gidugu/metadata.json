@@ -1,17 +1,17 @@
 {
   "id": "gidugu",
   "family": "Gidugu",
-  "subsets": ["latin", "telugu"],
+  "subsets": ["latin", "latin-ext", "telugu"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v25",
+  "lastModified": "2024-11-20",
+  "version": "v26",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright (c) 2012 Silicon Andhra (fonts.siliconandhra.org). Copyright (c) 2014 Eduardo Tunni (http://www.tipo.net.ar)"
   },
   "source": "https://github.com/google/fonts",

@@ -14,7 +14,7 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito)"
   },
   "source": "https://github.com/google/fonts",

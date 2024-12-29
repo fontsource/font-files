@@ -23,7 +23,7 @@ import "@fontsource/fusion-pixel-10px-monospaced-sc/400-italic.css"; // Specify 
 Supported variables:
 - Weights: `[400]`
 - Styles: `[normal]`
-- Subsets: `[latin, chinese-simplified, chinese-traditional, japanese, korean]`
+- Subsets: `[latin]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what weights and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/fusion-pixel-10px-monospaced-sc).
 

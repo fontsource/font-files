@@ -11,7 +11,7 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright (c) 1998-2019 David Morse (original regular), Copyright (c) 2019-2023 SIL International (revised regular, bold, italic, bold italic), Copyright (c) 2014-2019 Adobe (http://www.adobe.com/) (Latin glyphs)"
   },
   "source": "https://github.com/google/fonts",

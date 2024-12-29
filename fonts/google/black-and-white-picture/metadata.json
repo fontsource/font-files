@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-08-12",
-  "version": "v24",
+  "lastModified": "2024-12-04",
+  "version": "v29",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright (c) 1992-2018 AsiaSoft Inc. Seoul Korea All Rights Reserved."
   },
   "source": "https://github.com/google/fonts",

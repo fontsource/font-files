@@ -1,0 +1,19 @@
+{
+  "id": "karla-tamil-upright",
+  "family": "Karla Tamil Upright",
+  "subsets": ["tamil"],
+  "weights": [400, 700],
+  "styles": ["normal"],
+  "defSubset": "tamil",
+  "variable": false,
+  "lastModified": "2024-10-29",
+  "version": "v2",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2011-2012, Jonathan Pinhorn (jonpinhorn.typedesign@gmail.com), with Reserved Font Names 'Karla'"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ponnala",
+  "family": "Ponnala",
+  "subsets": ["latin", "telugu"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-11-20",
+  "version": "v2",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2012 Silicon Andhra (fonts.siliconandhra.org)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

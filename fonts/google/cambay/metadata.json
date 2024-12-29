@@ -6,12 +6,12 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v12",
+  "lastModified": "2024-12-04",
+  "version": "v13",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright (c) 2014 Pooja Saxena (www.poojasaxena.in)"
   },
   "source": "https://github.com/google/fonts",

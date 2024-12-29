@@ -1,17 +1,17 @@
 {
   "id": "covered-by-your-grace",
   "family": "Covered By Your Grace",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v15",
+  "lastModified": "2024-11-20",
+  "version": "v16",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)"
   },
   "source": "https://github.com/google/fonts",

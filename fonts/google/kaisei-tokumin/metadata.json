@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v9",
+  "lastModified": "2024-10-29",
+  "version": "v10",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei)"
   },
   "source": "https://github.com/google/fonts",

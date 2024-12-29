@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v18",
+  "lastModified": "2024-12-04",
+  "version": "v19",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright (c) 2006 by Christopher Fynn. All rights reserved."
   },
   "source": "https://github.com/google/fonts",

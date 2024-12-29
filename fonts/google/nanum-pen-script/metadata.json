@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-08-12",
-  "version": "v19",
+  "lastModified": "2024-12-04",
+  "version": "v25",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright  2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

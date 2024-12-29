@@ -11,7 +11,7 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/old-sogdian)"
   },
   "source": "https://github.com/google/fonts",

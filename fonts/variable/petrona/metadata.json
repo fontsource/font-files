@@ -14,7 +14,7 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2019 The Petrona Project Authors (https://github.com/RingoSeeber/Petrona)"
   },
   "source": "https://github.com/google/fonts",

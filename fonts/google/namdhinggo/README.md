@@ -40,7 +40,7 @@ Always make sure to read the license for each font you use. Most of the fonts in
 
 Copyright (c) 2002-2022, SIL International (http://www.sil.org/),
 with Reserved Font Names "Namdhinggo" and "SIL".
-[OFL-1.1](http://scripts.sil.org/OFL)
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
 Font version (provided by source): `v2`.

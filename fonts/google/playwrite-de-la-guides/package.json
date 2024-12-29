@@ -1,0 +1,29 @@
+{
+  "name": "@fontsource/playwrite-de-la-guides",
+  "version": "5.0.0",
+  "description": "Self-host the Playwrite DE LA Guides font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "playwrite-de-la-guides",
+    "Playwrite DE LA Guides",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/playwrite-de-la-guides",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/playwrite-de-la-guides"
+  }
+}

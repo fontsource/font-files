@@ -11,7 +11,7 @@
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2011 The Alex Brush Project Authors (https://github.com/googlefonts/alex-brush)"
   },
   "source": "https://github.com/google/fonts",

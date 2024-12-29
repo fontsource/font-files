@@ -14,7 +14,7 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2024 The Platypi Project Authors (https://github.com/d-sargent/platypi)"
   },
   "source": "https://github.com/google/fonts",

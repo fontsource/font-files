@@ -16,7 +16,7 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2005 The Playfair Project Authors (https://github.com/googlefonts/Playfair)"
   },
   "source": "https://github.com/google/fonts",
