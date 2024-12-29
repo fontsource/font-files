@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sometype-mono",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Sometype Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sometype-mono"
   },
-  "publishHash": "64ca0854137b096c"
+  "publishHash": "445a8994bfb90903"
 }

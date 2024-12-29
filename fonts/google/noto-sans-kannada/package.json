@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-kannada",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Noto Sans Kannada font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-kannada"
   },
-  "publishHash": "e575ed6ece6c37a5"
+  "publishHash": "4ad4d854af447dd0"
 }

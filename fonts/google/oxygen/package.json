@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/oxygen",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Oxygen font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/oxygen"
   },
-  "publishHash": "163b378c4a668528"
+  "publishHash": "3b914039a5a688d6"
 }

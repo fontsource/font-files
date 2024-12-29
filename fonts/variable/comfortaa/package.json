@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/comfortaa",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Comfortaa font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/comfortaa"
   },
-  "publishHash": "2ae21d5ab30fd5fd"
+  "publishHash": "aed05d6395cae1c7"
 }

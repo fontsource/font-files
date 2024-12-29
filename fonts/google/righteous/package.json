@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/righteous",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Righteous font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/righteous"
   },
-  "publishHash": "0988e6a06968cf0d"
+  "publishHash": "8d82038b178a16e4"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kdam-thmor-pro",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Kdam Thmor Pro font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kdam-thmor-pro"
   },
-  "publishHash": "417bc7571848b029"
+  "publishHash": "26c1275baca31f48"
 }

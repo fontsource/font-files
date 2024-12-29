@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/varela-round",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Varela Round font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/varela-round"
   },
-  "publishHash": "7465678da97286f6"
+  "publishHash": "2a1cc5ad3a8f4241"
 }

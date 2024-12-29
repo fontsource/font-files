@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/meie-script",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Meie Script font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/meie-script"
   },
-  "publishHash": "55e86197366bbdbf"
+  "publishHash": "c417361f8d039b4c"
 }

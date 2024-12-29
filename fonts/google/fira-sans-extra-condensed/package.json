@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fira-sans-extra-condensed",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Fira Sans Extra Condensed font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fira-sans-extra-condensed"
   },
-  "publishHash": "b16de4c2dd9a366a"
+  "publishHash": "084698e1817242d4"
 }

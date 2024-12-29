@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/farro",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Farro font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/farro"
   },
-  "publishHash": "7deef92ea353eea1"
+  "publishHash": "31b961ff3852e6d7"
 }

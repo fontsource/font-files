@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ibm-plex-sans-arabic",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the IBM Plex Sans Arabic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ibm-plex-sans-arabic"
   },
-  "publishHash": "7abf6d41da4a3bd2"
+  "publishHash": "4d3a57997b277593"
 }

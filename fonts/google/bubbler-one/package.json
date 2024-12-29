@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bubbler-one",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Bubbler One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bubbler-one"
   },
-  "publishHash": "b791e0fb9b786bcd"
+  "publishHash": "ee9db7aab30f7826"
 }

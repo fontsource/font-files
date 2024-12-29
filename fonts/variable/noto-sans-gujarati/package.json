@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-gujarati",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Noto Sans Gujarati font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-gujarati"
   },
-  "publishHash": "994d50b144708361"
+  "publishHash": "29f425c7b96e9a07"
 }

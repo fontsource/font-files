@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/flow-rounded",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Flow Rounded font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/flow-rounded"
   },
-  "publishHash": "76b8f060d2d27f3a"
+  "publishHash": "74781b1a60891191"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/faustina",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Faustina font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/faustina"
   },
-  "publishHash": "76825957f18b6a98"
+  "publishHash": "2f362fc9e6fdae3a"
 }

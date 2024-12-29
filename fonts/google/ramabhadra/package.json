@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ramabhadra",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Ramabhadra font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ramabhadra"
   },
-  "publishHash": "b3c36b22655fd890"
+  "publishHash": "7d1e08e8cf5d707e"
 }

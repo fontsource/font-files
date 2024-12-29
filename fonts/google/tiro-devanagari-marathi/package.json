@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tiro-devanagari-marathi",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Tiro Devanagari Marathi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tiro-devanagari-marathi"
   },
-  "publishHash": "ce5e0026877faf5a"
+  "publishHash": "347fc839658a76d8"
 }

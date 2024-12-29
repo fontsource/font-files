@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/vesper-libre",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Vesper Libre font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/vesper-libre"
   },
-  "publishHash": "fd354af041882db9"
+  "publishHash": "b30d02537201a35c"
 }

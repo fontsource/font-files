@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-inscriptional-parthian",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Noto Sans Inscriptional Parthian font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-inscriptional-parthian"
   },
-  "publishHash": "9b18ea0a84444df0"
+  "publishHash": "846f47c062e60721"
 }

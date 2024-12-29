@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/jetbrains-mono",
-  "version": "5.1.1",
+  "version": "5.1.2",
   "description": "Self-host the JetBrains Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/jetbrains-mono"
   },
-  "publishHash": "0e77835b948277fa"
+  "publishHash": "a4acbd25db4286b9"
 }

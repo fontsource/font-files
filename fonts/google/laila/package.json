@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/laila",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Laila font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/laila"
   },
-  "publishHash": "5a97e5197220ff7d"
+  "publishHash": "ac665a9f16cbe4e9"
 }

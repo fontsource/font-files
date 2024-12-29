@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-phoenician",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Noto Sans Phoenician font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-phoenician"
   },
-  "publishHash": "3967bc9d18dda160"
+  "publishHash": "6d11b55b8a03ede9"
 }

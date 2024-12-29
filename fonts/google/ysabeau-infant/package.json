@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ysabeau-infant",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Ysabeau Infant font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ysabeau-infant"
   },
-  "publishHash": "eb2f2035cbcb2522"
+  "publishHash": "c1cb53889648819f"
 }

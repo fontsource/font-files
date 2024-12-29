@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rubik-dirt",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Rubik Dirt font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rubik-dirt"
   },
-  "publishHash": "0c4e890ee16202f5"
+  "publishHash": "ebbb91093f62867f"
 }

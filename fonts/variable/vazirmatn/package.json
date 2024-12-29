@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/vazirmatn",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Vazirmatn font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/vazirmatn"
   },
-  "publishHash": "3a8f483d0dd059e8"
+  "publishHash": "88d2277b6e3a6918"
 }

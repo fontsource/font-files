@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/hind-guntur",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Hind Guntur font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/hind-guntur"
   },
-  "publishHash": "e2e6543f14a04c65"
+  "publishHash": "b70a1b9760c0ddba"
 }

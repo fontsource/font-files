@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ibm-plex-sans-thai",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the IBM Plex Sans Thai font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ibm-plex-sans-thai"
   },
-  "publishHash": "79b2465c7324534c"
+  "publishHash": "21ef3f51585b944e"
 }

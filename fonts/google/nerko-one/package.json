@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/nerko-one",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Nerko One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/nerko-one"
   },
-  "publishHash": "4c85a14742eed566"
+  "publishHash": "482a798cd6b0ff3d"
 }

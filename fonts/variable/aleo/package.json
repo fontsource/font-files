@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/aleo",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Aleo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/aleo"
   },
-  "publishHash": "8299224115842425"
+  "publishHash": "7397b564d3f99e36"
 }

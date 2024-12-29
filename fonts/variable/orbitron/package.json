@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/orbitron",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Orbitron font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/orbitron"
   },
-  "publishHash": "28711c01e0f4e7b9"
+  "publishHash": "6df61ba61082d5e6"
 }

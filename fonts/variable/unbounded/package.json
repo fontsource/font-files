@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/unbounded",
-  "version": "5.1.1",
+  "version": "5.1.2",
   "description": "Self-host the Unbounded font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/unbounded"
   },
-  "publishHash": "bfc19e78d4b7c8e4"
+  "publishHash": "e0c9a9e1512504e2"
 }

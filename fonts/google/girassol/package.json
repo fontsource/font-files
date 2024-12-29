@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/girassol",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Girassol font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/girassol"
   },
-  "publishHash": "bc593c2ba5e55f1c"
+  "publishHash": "1ade6bd3db15039e"
 }

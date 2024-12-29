@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/beth-ellen",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Beth Ellen font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/beth-ellen"
   },
-  "publishHash": "874de065941c7ae8"
+  "publishHash": "2d314489841e652b"
 }

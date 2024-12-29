@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/chathura",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Chathura font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/chathura"
   },
-  "publishHash": "6e34a78076367127"
+  "publishHash": "40ef529a31e87ef1"
 }

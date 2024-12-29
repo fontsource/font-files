@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/arizonia",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Arizonia font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/arizonia"
   },
-  "publishHash": "6200c89d4f4cce5b"
+  "publishHash": "df549acea5599126"
 }

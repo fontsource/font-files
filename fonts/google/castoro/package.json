@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/castoro",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Castoro font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/castoro"
   },
-  "publishHash": "5bb6a99b9facda41"
+  "publishHash": "69d6ea257670e197"
 }

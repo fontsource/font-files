@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-dk-uloopet-guides",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Playwrite DK Uloopet Guides font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-dk-uloopet-guides"
-  }
+  },
+  "publishHash": "2c3493c7d80ce702"
 }

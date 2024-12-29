@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/contrail-one",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Contrail One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/contrail-one"
   },
-  "publishHash": "597505094eb1b74b"
+  "publishHash": "3c10b800b2eb027d"
 }

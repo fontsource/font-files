@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-de-grund-guides",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Self-host the Playwrite DE Grund Guides font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-de-grund-guides"
-  }
+  },
+  "publishHash": "a7ccc7a4f24a382e"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gabriela",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Gabriela font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gabriela"
   },
-  "publishHash": "474c5755cb5c1d51"
+  "publishHash": "f63a391a1683f608"
 }

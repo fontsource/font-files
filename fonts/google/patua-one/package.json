@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/patua-one",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Patua One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/patua-one"
   },
-  "publishHash": "3531645f7ab396b7"
+  "publishHash": "c78c085e3b9382a6"
 }

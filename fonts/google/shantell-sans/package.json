@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/shantell-sans",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Shantell Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/shantell-sans"
   },
-  "publishHash": "d5a602ea6b01284b"
+  "publishHash": "284e3887de5e535d"
 }

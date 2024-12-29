@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/baloo-2",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Baloo 2 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/baloo-2"
   },
-  "publishHash": "39ec2bb4998772f6"
+  "publishHash": "8f4c5421727705ef"
 }

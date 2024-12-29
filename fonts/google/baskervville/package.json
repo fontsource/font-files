@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/baskervville",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Baskervville font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/baskervville"
   },
-  "publishHash": "602af776a7b44401"
+  "publishHash": "4decbb1b13aff421"
 }

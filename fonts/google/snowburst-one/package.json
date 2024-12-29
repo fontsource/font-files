@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/snowburst-one",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Snowburst One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/snowburst-one"
   },
-  "publishHash": "544324636a54e310"
+  "publishHash": "45113421c63c695a"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-devanagari",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Noto Sans Devanagari font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-devanagari"
   },
-  "publishHash": "17acb8e32f9749f1"
+  "publishHash": "db6e4459ba8ce8a9"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-ethiopic",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Noto Sans Ethiopic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-ethiopic"
   },
-  "publishHash": "881f1f304e1620b9"
+  "publishHash": "3490f38144b6e5a7"
 }

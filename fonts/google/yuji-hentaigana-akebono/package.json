@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/yuji-hentaigana-akebono",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Yuji Hentaigana Akebono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/yuji-hentaigana-akebono"
   },
-  "publishHash": "99884f8a8d9bd810"
+  "publishHash": "6c520b59bc199868"
 }

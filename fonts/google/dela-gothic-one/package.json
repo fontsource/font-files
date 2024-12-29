@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dela-gothic-one",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Dela Gothic One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/dela-gothic-one"
   },
-  "publishHash": "7070839d0158cde8"
+  "publishHash": "ba724b9c7a059ac3"
 }

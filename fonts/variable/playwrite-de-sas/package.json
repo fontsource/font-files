@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/playwrite-de-sas",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Playwrite DE SAS font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/playwrite-de-sas"
   },
-  "publishHash": "8b7e172650710758"
+  "publishHash": "c996ffbca0999396"
 }

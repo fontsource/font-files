@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mr-bedfort",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Mr Bedfort font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mr-bedfort"
   },
-  "publishHash": "1a115bb04986911c"
+  "publishHash": "8f7d022279bb8ad5"
 }

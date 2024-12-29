@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/readex-pro",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Readex Pro font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/readex-pro"
   },
-  "publishHash": "926fbb8206b1607d"
+  "publishHash": "2ae2d1fccc94a5cd"
 }

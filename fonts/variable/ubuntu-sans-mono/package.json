@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/ubuntu-sans-mono",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Ubuntu Sans Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/ubuntu-sans-mono"
   },
-  "publishHash": "ef0700c3d414ffb5"
+  "publishHash": "136549b4a5f65bdc"
 }

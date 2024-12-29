@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/suwannaphum",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Suwannaphum font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/suwannaphum"
   },
-  "publishHash": "5f4eeee841c8f4dc"
+  "publishHash": "044b75fd944282a3"
 }

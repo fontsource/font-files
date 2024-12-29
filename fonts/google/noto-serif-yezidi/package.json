@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-yezidi",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Noto Serif Yezidi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-yezidi"
   },
-  "publishHash": "95010ba4f702d43f"
+  "publishHash": "2700beebae227eec"
 }

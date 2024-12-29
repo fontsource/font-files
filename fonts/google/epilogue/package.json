@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/epilogue",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Epilogue font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/epilogue"
   },
-  "publishHash": "485ec17b139902d8"
+  "publishHash": "3b23ab81ea8bbd0d"
 }

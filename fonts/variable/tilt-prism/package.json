@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/tilt-prism",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Tilt Prism font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/tilt-prism"
   },
-  "publishHash": "19e48a4f876b0017"
+  "publishHash": "d5ee2cae3eb3271e"
 }

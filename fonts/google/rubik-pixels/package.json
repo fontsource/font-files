@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rubik-pixels",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Rubik Pixels font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rubik-pixels"
   },
-  "publishHash": "569aea98eb4736bd"
+  "publishHash": "876f4eeb3ac0f7a9"
 }

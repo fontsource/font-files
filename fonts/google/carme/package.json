@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/carme",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Carme font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/carme"
   },
-  "publishHash": "93c0f39062f13ffa"
+  "publishHash": "95252cec1e513759"
 }

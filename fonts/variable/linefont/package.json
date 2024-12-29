@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/linefont",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Linefont font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/linefont"
   },
-  "publishHash": "9c673e6fe543257b"
+  "publishHash": "33e742a62f42348e"
 }

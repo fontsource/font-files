@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/radio-canada-big",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Radio Canada Big font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/radio-canada-big"
   },
-  "publishHash": "df64ef70fab065fd"
+  "publishHash": "c37efed7bad5d4a9"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-gunjala-gondi",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Noto Sans Gunjala Gondi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-gunjala-gondi"
   },
-  "publishHash": "c758c363b42f70c6"
+  "publishHash": "d97fdbe2b21d4162"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ga-maamli",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Ga Maamli font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ga-maamli"
   },
-  "publishHash": "8660321699081f0c"
+  "publishHash": "2b3db06315f099aa"
 }

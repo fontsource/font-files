@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/francois-one",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Francois One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/francois-one"
   },
-  "publishHash": "b6c97c15a9529284"
+  "publishHash": "60c359edf1a14d11"
 }

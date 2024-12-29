@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/maname",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Maname font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/maname"
   },
-  "publishHash": "19b3da058ffdb4b8"
+  "publishHash": "05b79f2dce9bbb2c"
 }

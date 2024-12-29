@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/anek-malayalam",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Anek Malayalam font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/anek-malayalam"
   },
-  "publishHash": "c8fcb3933d538d36"
+  "publishHash": "ae0c26cc16f007ca"
 }

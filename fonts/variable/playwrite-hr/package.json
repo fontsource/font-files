@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/playwrite-hr",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Playwrite HR font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/playwrite-hr"
   },
-  "publishHash": "a8342b85f37f64a7"
+  "publishHash": "7d7f72382d7640b5"
 }

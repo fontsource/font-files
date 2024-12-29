@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/akaya-kanadaka",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Akaya Kanadaka font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/akaya-kanadaka"
   },
-  "publishHash": "ce1c5a5e20ddb019"
+  "publishHash": "06856a42daf1b471"
 }

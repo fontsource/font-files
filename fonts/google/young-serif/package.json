@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/young-serif",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Young Serif font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/young-serif"
   },
-  "publishHash": "55b0eba0a7538fc8"
+  "publishHash": "17e75d764e3fd69c"
 }

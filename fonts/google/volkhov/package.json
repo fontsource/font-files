@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/volkhov",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Volkhov font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/volkhov"
   },
-  "publishHash": "6a1979b869cfa821"
+  "publishHash": "cb9ef3d608b09376"
 }

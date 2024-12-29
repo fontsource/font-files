@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-siddham",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Noto Sans Siddham font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-siddham"
   },
-  "publishHash": "e61eecb8aed1d179"
+  "publishHash": "487d2c4da7077e2c"
 }

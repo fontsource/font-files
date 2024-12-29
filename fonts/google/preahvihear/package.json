@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/preahvihear",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Preahvihear font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/preahvihear"
   },
-  "publishHash": "a4dcca37b4268c4a"
+  "publishHash": "46b3be9f6b6a4ace"
 }

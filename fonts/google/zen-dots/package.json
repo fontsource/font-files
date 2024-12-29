@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/zen-dots",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Zen Dots font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/zen-dots"
   },
-  "publishHash": "acb625c4d41b1ad0"
+  "publishHash": "862674ca2f0c9790"
 }

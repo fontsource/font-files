@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/chocolate-classical-sans",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Chocolate Classical Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/chocolate-classical-sans"
   },
-  "publishHash": "e06a8057af521706"
+  "publishHash": "ab4108cc0cb3f2ed"
 }

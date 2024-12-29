@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/xanh-mono",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Xanh Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/xanh-mono"
   },
-  "publishHash": "cd65d2096de667bb"
+  "publishHash": "d5bcd7280b27f974"
 }

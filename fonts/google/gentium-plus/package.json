@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gentium-plus",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Gentium Plus font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gentium-plus"
   },
-  "publishHash": "63496a1e9214ed11"
+  "publishHash": "21ec0e0197802035"
 }

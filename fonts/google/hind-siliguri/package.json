@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/hind-siliguri",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Hind Siliguri font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/hind-siliguri"
   },
-  "publishHash": "daa0ca2ef965806d"
+  "publishHash": "b32653b9955d08a2"
 }

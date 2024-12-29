@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/zen-kurenaido",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Zen Kurenaido font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/zen-kurenaido"
   },
-  "publishHash": "f3319c255237d0be"
+  "publishHash": "07cc4de53376558f"
 }

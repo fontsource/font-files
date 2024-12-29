@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/passion-one",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Passion One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/passion-one"
   },
-  "publishHash": "642a3f4c53eafe94"
+  "publishHash": "b6c0b4ecda136ca1"
 }

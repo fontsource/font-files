@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/playwrite-fr-moderne",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Playwrite FR Moderne font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/playwrite-fr-moderne"
   },
-  "publishHash": "5fa53b13085d8cb6"
+  "publishHash": "7e81568806c96754"
 }

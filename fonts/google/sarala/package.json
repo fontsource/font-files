@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sarala",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Sarala font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sarala"
   },
-  "publishHash": "3d0c5451e0e92e68"
+  "publishHash": "b02281595dbf4aa4"
 }

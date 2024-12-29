@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fugaz-one",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Fugaz One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fugaz-one"
   },
-  "publishHash": "216e164e9fb04235"
+  "publishHash": "b541a0b72a6c85c8"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/freeman",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Freeman font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/freeman"
   },
-  "publishHash": "37ee053c07b202ba"
+  "publishHash": "814796579910b7dd"
 }

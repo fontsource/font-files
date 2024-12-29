@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lusitana",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Lusitana font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lusitana"
   },
-  "publishHash": "724ebbe6817cb5ca"
+  "publishHash": "7a91b03b276b8800"
 }

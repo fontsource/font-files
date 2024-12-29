@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kavoon",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Self-host the Kavoon font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -26,5 +26,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kavoon"
   },
-  "publishHash": "1cf1bea4b6110896"
+  "publishHash": "7975c4c663f92f52"
 }
