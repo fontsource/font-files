@@ -1,0 +1,14 @@
+$id: 'commit-mono' !default;
+$family: 'Commit Mono' !default;
+$category: monospace !default;
+$subsets: (latin) !default;
+$weights: (200, 225, 250, 275, 300, 325, 350, 375, 400, 425, 450, 475, 500, 525, 550, 575, 600, 625, 650, 675, 700) !default;
+$styles: (normal, italic) !default;
+$axes: null !default;
+$defaults: (
+  subset: latin,
+  weight: 400,
+  style: normal,
+  axis: null,
+) !default;
+$unicode: null !default;
