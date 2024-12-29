@@ -1,0 +1,8 @@
+/* fusion-pixel-8px-monospaced-sc-latin-400-normal */
+@font-face {
+  font-family: 'Fusion Pixel 8px Monospaced SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/fusion-pixel-8px-monospaced-sc-latin-400-normal.woff2) format('woff2'), url(./files/fusion-pixel-8px-monospaced-sc-latin-400-normal.woff) format('woff');
+}
