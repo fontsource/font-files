@@ -1,14 +1,16 @@
-$id: 'monaspace-xenon' !default;
-$family: 'Monaspace Xenon' !default;
-$category: serif !default;
-$subsets: (latin) !default;
-$weights: (200, 300, 400, 500, 600, 700, 800) !default;
-$styles: (normal, italic) !default;
-$axes: null !default;
-$defaults: (
-  subset: latin,
-  weight: 400,
-  style: normal,
-  axis: null,
+$metadata: (
+  id: 'monaspace-xenon',
+  family: 'Monaspace Xenon',
+  category: serif,
+  subsets: (latin),
+  weights: (200, 300, 400, 500, 600, 700, 800),
+  styles: (normal, italic),
+  axes: null,
+  defaults: (
+    subset: latin,
+    weight: 400,
+    style: normal,
+    axis: null,
+  ),
+  unicode: null
 ) !default;
-$unicode: null !default;

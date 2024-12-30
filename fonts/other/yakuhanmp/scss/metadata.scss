@@ -1,14 +1,16 @@
-$id: 'yakuhanmp' !default;
-$family: 'YakuHanMP' !default;
-$category: other !default;
-$subsets: (latin) !default;
-$weights: (100, 200, 300, 400, 500, 700, 900) !default;
-$styles: (normal) !default;
-$axes: null !default;
-$defaults: (
-  subset: latin,
-  weight: 400,
-  style: normal,
-  axis: null,
+$metadata: (
+  id: 'yakuhanmp',
+  family: 'YakuHanMP',
+  category: other,
+  subsets: (latin),
+  weights: (100, 200, 300, 400, 500, 700, 900),
+  styles: (normal),
+  axes: null,
+  defaults: (
+    subset: latin,
+    weight: 400,
+    style: normal,
+    axis: null,
+  ),
+  unicode: null
 ) !default;
-$unicode: null !default;

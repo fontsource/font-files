@@ -18,6 +18,7 @@
     "typeface",
     "variable"
   ],
+  "exports": {".": {"sass": "./scss/metadata.scss"}},
   "author": "Chris Simpson",
   "license": "Unlicense",
   "homepage": "https://fontsource.org/fonts/metropolis",

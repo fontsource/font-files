@@ -18,6 +18,7 @@
     "typeface",
     "variable"
   ],
+  "exports": {".": {"sass": "./scss/metadata.scss"}},
   "author": "Sora Sagano",
   "license": "CC0-1.0",
   "homepage": "https://fontsource.org/fonts/aileron",

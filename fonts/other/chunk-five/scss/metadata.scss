@@ -1,14 +1,16 @@
-$id: 'chunk-five' !default;
-$family: 'Chunk Five' !default;
-$category: serif !default;
-$subsets: (latin) !default;
-$weights: (800) !default;
-$styles: (normal) !default;
-$axes: null !default;
-$defaults: (
-  subset: latin,
-  weight: 800,
-  style: normal,
-  axis: null,
+$metadata: (
+  id: 'chunk-five',
+  family: 'Chunk Five',
+  category: serif,
+  subsets: (latin),
+  weights: (800),
+  styles: (normal),
+  axes: null,
+  defaults: (
+    subset: latin,
+    weight: 800,
+    style: normal,
+    axis: null,
+  ),
+  unicode: null
 ) !default;
-$unicode: null !default;

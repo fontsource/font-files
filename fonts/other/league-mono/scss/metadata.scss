@@ -1,14 +1,16 @@
-$id: 'league-mono' !default;
-$family: 'League Mono' !default;
-$category: monospace !default;
-$subsets: (latin) !default;
-$weights: (100, 200, 300, 400, 500, 600, 700, 800) !default;
-$styles: (normal) !default;
-$axes: null !default;
-$defaults: (
-  subset: latin,
-  weight: 400,
-  style: normal,
-  axis: null,
+$metadata: (
+  id: 'league-mono',
+  family: 'League Mono',
+  category: monospace,
+  subsets: (latin),
+  weights: (100, 200, 300, 400, 500, 600, 700, 800),
+  styles: (normal),
+  axes: null,
+  defaults: (
+    subset: latin,
+    weight: 400,
+    style: normal,
+    axis: null,
+  ),
+  unicode: null
 ) !default;
-$unicode: null !default;

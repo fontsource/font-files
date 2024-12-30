@@ -1,14 +1,16 @@
-$id: 'fusion-kai-t' !default;
-$family: 'Fusion Kai T' !default;
-$category: handwriting !default;
-$subsets: (latin) !default;
-$weights: (400) !default;
-$styles: (normal) !default;
-$axes: null !default;
-$defaults: (
-  subset: latin,
-  weight: 400,
-  style: normal,
-  axis: null,
+$metadata: (
+  id: 'fusion-kai-t',
+  family: 'Fusion Kai T',
+  category: handwriting,
+  subsets: (latin),
+  weights: (400),
+  styles: (normal),
+  axes: null,
+  defaults: (
+    subset: latin,
+    weight: 400,
+    style: normal,
+    axis: null,
+  ),
+  unicode: null
 ) !default;
-$unicode: null !default;

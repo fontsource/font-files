@@ -18,6 +18,7 @@
     "typeface",
     "variable"
   ],
+  "exports": {".": {"sass": "./scss/metadata.scss"}},
   "author": "Google Inc.",
   "license": "UFL-1.0",
   "homepage": "https://fontsource.org/fonts/ubuntu-condensed",

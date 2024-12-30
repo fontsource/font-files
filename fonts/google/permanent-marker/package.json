@@ -18,6 +18,7 @@
     "typeface",
     "variable"
   ],
+  "exports": {".": {"sass": "./scss/metadata.scss"}},
   "author": "Google Inc.",
   "license": "Apache-2.0",
   "homepage": "https://fontsource.org/fonts/permanent-marker",

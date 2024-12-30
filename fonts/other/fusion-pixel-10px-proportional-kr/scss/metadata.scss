@@ -1,14 +1,16 @@
-$id: 'fusion-pixel-10px-proportional-kr' !default;
-$family: 'Fusion Pixel 10px Proportional KR' !default;
-$category: sans-serif !default;
-$subsets: (latin) !default;
-$weights: (400) !default;
-$styles: (normal) !default;
-$axes: null !default;
-$defaults: (
-  subset: latin,
-  weight: 400,
-  style: normal,
-  axis: null,
+$metadata: (
+  id: 'fusion-pixel-10px-proportional-kr',
+  family: 'Fusion Pixel 10px Proportional KR',
+  category: sans-serif,
+  subsets: (latin),
+  weights: (400),
+  styles: (normal),
+  axes: null,
+  defaults: (
+    subset: latin,
+    weight: 400,
+    style: normal,
+    axis: null,
+  ),
+  unicode: null
 ) !default;
-$unicode: null !default;

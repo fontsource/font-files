@@ -1,14 +1,16 @@
-$id: 'lxgw-wenkai' !default;
-$family: 'LXGW WenKai' !default;
-$category: sans-serif !default;
-$subsets: (latin) !default;
-$weights: (300, 500, 700) !default;
-$styles: (normal) !default;
-$axes: null !default;
-$defaults: (
-  subset: latin,
-  weight: 300,
-  style: normal,
-  axis: null,
+$metadata: (
+  id: 'lxgw-wenkai',
+  family: 'LXGW WenKai',
+  category: sans-serif,
+  subsets: (latin),
+  weights: (300, 500, 700),
+  styles: (normal),
+  axes: null,
+  defaults: (
+    subset: latin,
+    weight: 300,
+    style: normal,
+    axis: null,
+  ),
+  unicode: null
 ) !default;
-$unicode: null !default;

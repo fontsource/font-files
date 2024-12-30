@@ -18,6 +18,7 @@
     "typeface",
     "variable"
   ],
+  "exports": {".": {"sass": "./scss/metadata.scss"}},
   "author": "Copyright 2023 Amuzil (https://github.com/amuzil/lextrall) & Copyright 2019 The Lexend Project Authors (https://github.com/googlefonts/lexend)",
   "license": "OFL-1.1",
   "homepage": "https://fontsource.org/fonts/lextrall",

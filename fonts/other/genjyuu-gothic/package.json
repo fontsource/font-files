@@ -18,6 +18,7 @@
     "typeface",
     "variable"
   ],
+  "exports": {".": {"sass": "./scss/metadata.scss"}},
   "author": "自家製フォント工房",
   "license": "OFL-1.1",
   "homepage": "https://fontsource.org/fonts/genjyuu-gothic",

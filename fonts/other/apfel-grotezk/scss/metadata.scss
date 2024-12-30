@@ -1,14 +1,16 @@
-$id: 'apfel-grotezk' !default;
-$family: 'Apfel Grotezk' !default;
-$category: sans-serif !default;
-$subsets: (latin) !default;
-$weights: (400, 700) !default;
-$styles: (normal) !default;
-$axes: null !default;
-$defaults: (
-  subset: latin,
-  weight: 400,
-  style: normal,
-  axis: null,
+$metadata: (
+  id: 'apfel-grotezk',
+  family: 'Apfel Grotezk',
+  category: sans-serif,
+  subsets: (latin),
+  weights: (400, 700),
+  styles: (normal),
+  axes: null,
+  defaults: (
+    subset: latin,
+    weight: 400,
+    style: normal,
+    axis: null,
+  ),
+  unicode: null
 ) !default;
-$unicode: null !default;

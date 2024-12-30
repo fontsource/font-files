@@ -18,6 +18,7 @@
     "typeface",
     "variable"
   ],
+  "exports": {".": {"sass": "./scss/metadata.scss"}},
   "author": "Jean-Baptiste Morizot, (http://cargocollective.com/jbmrz)",
   "license": "OFL-1.1",
   "homepage": "https://fontsource.org/fonts/bluu-next",

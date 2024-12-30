@@ -18,6 +18,7 @@
     "typeface",
     "variable"
   ],
+  "exports": {".": {"sass": "./scss/metadata.scss"}},
   "author": "Google Inc.",
   "license": "OFL-1.1",
   "homepage": "https://fontsource.org/fonts/alumni-sans-pinstripe",

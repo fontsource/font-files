@@ -18,6 +18,7 @@
     "typeface",
     "variable"
   ],
+  "exports": {".": {"sass": "./scss/metadata.scss"}},
   "author": "Belleve Invis",
   "license": "OFL-1.1",
   "homepage": "https://fontsource.org/fonts/iosevka-curly",
