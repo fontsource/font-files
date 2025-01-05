@@ -15,12 +15,12 @@
 	"author": "Ayuhito <hello@ayuhito.com>",
 	"license": "MIT",
 	"dependencies": {
-		"@fontsource-utils/cli": "0.6.1",
+		"@fontsource-utils/cli": "0.6.2",
 		"@fontsource-utils/publish": "^0.3.1",
-		"@types/node": "^22.10.2",
+		"@types/node": "^22.10.5",
 		"algoliasearch": "4",
 		"consola": "^3.3.3",
-		"google-font-metadata": "^6.0.0",
+		"google-font-metadata": "^6.0.2",
 		"json-stringify-pretty-compact": "^4.0.0",
 		"pathe": "^1.1.2"
 	},
