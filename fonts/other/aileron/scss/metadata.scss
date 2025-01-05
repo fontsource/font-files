@@ -1,16 +1,26 @@
+$id: 'aileron';
+$family: 'Aileron';
+$category: sans-serif;
+$subsets: (latin);
+$weights: (100, 300, 400, 600, 700, 800);
+$styles: (normal, italic);
+$axes: null;
+$defaults: (
+	subset: latin,
+	weight: 400,
+	style: normal,
+	axis: null,
+);
+$unicode: null;
+
 $metadata: (
-  id: 'aileron',
-  family: 'Aileron',
-  category: sans-serif,
-  subsets: (latin),
-  weights: (100, 300, 400, 600, 700, 800),
-  styles: (normal, italic),
-  axes: null,
-  defaults: (
-    subset: latin,
-    weight: 400,
-    style: normal,
-    axis: null,
-  ),
-  unicode: null
+  id: $id,
+  family: $family,
+  category: $category,
+  subsets: $subsets,
+  weights: $weights,
+  styles: $styles,
+  axes: $axes,
+  defaults: $defaults,
+  unicode: $unicode,
 ) !default;

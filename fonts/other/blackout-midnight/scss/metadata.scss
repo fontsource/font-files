@@ -1,16 +1,26 @@
+$id: 'blackout-midnight';
+$family: 'Blackout Midnight';
+$category: display;
+$subsets: (latin);
+$weights: (400);
+$styles: (normal);
+$axes: null;
+$defaults: (
+	subset: latin,
+	weight: 400,
+	style: normal,
+	axis: null,
+);
+$unicode: null;
+
 $metadata: (
-  id: 'blackout-midnight',
-  family: 'Blackout Midnight',
-  category: display,
-  subsets: (latin),
-  weights: (400),
-  styles: (normal),
-  axes: null,
-  defaults: (
-    subset: latin,
-    weight: 400,
-    style: normal,
-    axis: null,
-  ),
-  unicode: null
+  id: $id,
+  family: $family,
+  category: $category,
+  subsets: $subsets,
+  weights: $weights,
+  styles: $styles,
+  axes: $axes,
+  defaults: $defaults,
+  unicode: $unicode,
 ) !default;

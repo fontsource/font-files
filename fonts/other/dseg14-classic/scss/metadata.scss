@@ -1,16 +1,26 @@
+$id: 'dseg14-classic';
+$family: 'DSEG14 Classic';
+$category: other;
+$subsets: (latin);
+$weights: (300, 400, 700);
+$styles: (normal, italic);
+$axes: null;
+$defaults: (
+	subset: latin,
+	weight: 400,
+	style: normal,
+	axis: null,
+);
+$unicode: null;
+
 $metadata: (
-  id: 'dseg14-classic',
-  family: 'DSEG14 Classic',
-  category: other,
-  subsets: (latin),
-  weights: (300, 400, 700),
-  styles: (normal, italic),
-  axes: null,
-  defaults: (
-    subset: latin,
-    weight: 400,
-    style: normal,
-    axis: null,
-  ),
-  unicode: null
+  id: $id,
+  family: $family,
+  category: $category,
+  subsets: $subsets,
+  weights: $weights,
+  styles: $styles,
+  axes: $axes,
+  defaults: $defaults,
+  unicode: $unicode,
 ) !default;

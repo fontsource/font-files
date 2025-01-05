@@ -1,16 +1,26 @@
+$id: 'ia-writer-duo';
+$family: 'iA Writer Duo';
+$category: monospace;
+$subsets: (latin);
+$weights: (400, 700);
+$styles: (normal, italic);
+$axes: null;
+$defaults: (
+	subset: latin,
+	weight: 400,
+	style: normal,
+	axis: null,
+);
+$unicode: null;
+
 $metadata: (
-  id: 'ia-writer-duo',
-  family: 'iA Writer Duo',
-  category: monospace,
-  subsets: (latin),
-  weights: (400, 700),
-  styles: (normal, italic),
-  axes: null,
-  defaults: (
-    subset: latin,
-    weight: 400,
-    style: normal,
-    axis: null,
-  ),
-  unicode: null
+  id: $id,
+  family: $family,
+  category: $category,
+  subsets: $subsets,
+  weights: $weights,
+  styles: $styles,
+  axes: $axes,
+  defaults: $defaults,
+  unicode: $unicode,
 ) !default;

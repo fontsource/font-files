@@ -1,18 +1,17 @@
-$metadata: (
-  id: 'chokokutai',
-  family: 'Chokokutai',
-  category: display,
-  subsets: (japanese, latin, latin-ext, vietnamese),
-  weights: (400),
-  styles: (normal),
-  axes: null,
-  defaults: (
-    subset: latin,
-    weight: 400,
-    style: normal,
-    axis: null,
-  ),
-  unicode: (
+$id: 'chokokutai';
+$family: 'Chokokutai';
+$category: display;
+$subsets: (japanese, latin, latin-ext, vietnamese);
+$weights: (400);
+$styles: (normal);
+$axes: null;
+$defaults: (
+	subset: latin,
+	weight: 400,
+	style: normal,
+	axis: null,
+);
+$unicode: (
     3: (U+fa10,U+fa12-fa6d,U+fb00-fb04,U+fe10-fe19,U+fe30-fe42,U+fe44-fe52,U+fe54-fe66,U+fe68-fe6b,U+ff02,U+ff04,U+ff07,U+ff51,U+ff5b,U+ff5d,U+ff5f-ff60,U+ff66,U+ff69,U+ff87,U+ffa1-ffbe,U+ffc2-ffc7,U+ffca-ffcf,U+ffd2-ffd6),
     50: (U+4093,U+4103,U+4105,U+4148,U+414f,U+4163,U+41b4,U+41bf,U+41e6,U+41ee,U+41f3,U+4207,U+420e,U+4264,U+4293,U+42c6,U+42d6,U+42dd,U+4302,U+432b,U+4343,U+43ee,U+43f0,U+4408,U+440c,U+4417,U+441c,U+4422,U+4453,U+445b,U+4476,U+447a,U+4491,U+44b3,U+44be,U+44d4,U+4508,U+450d,U+4525,U+4543,U+457a,U+459d,U+45b8,U+45be,U+45e5,U+45ea,U+460f-4610,U+4641,U+4665,U+46a1,U+46ae-46af,U+470c,U+471f,U+4764,U+47e6,U+47fd,U+4816,U+481e,U+4844,U+484e,U+48b5,U+49b0,U+49e7,U+49fa,U+4a04,U+4a29,U+4abc,U+4b38,U+4b3b,U+4b7e,U+4bc2,U+4bca,U+4bd2,U+4be8,U+4c17,U+4c20,U+4c38,U+4cc4,U+4cd1,U+4ce1,U+4d07,U+4d77,U+4e02,U+4e04-4e05,U+4e0c,U+4e0f-4e12,U+4e15,U+4e17,U+4e19,U+4e1e-4e1f,U+4e23-4e24,U+4e28-4e2c,U+4e2e-4e31,U+4e35-4e37,U+4e3f-4e42,U+4e44,U+4e47-4e48,U+4e4d-4e4e,U+4e51,U+4e55-4e56,U+4e58,U+4e5a-4e5c,U+4e62-4e63,U+4e68-4e69,U+4e74-4e75,U+4e79,U+4e7f,U+4e82,U+4e85,U+4e8a,U+4e8d-4e8e,U+4e96-4e99,U+4e9d-4ea0,U+4ea2,U+4ea5-4ea6,U+4ea8,U+4eaf-4eb0,U+4eb3,U+4eb6,U+4eb9,U+4ebb-4ebc,U+4ec2-4ec4,U+4ec6-4ec8,U+4ecd,U+4ed0,U+4ed7,U+4eda-4edb,U+4edd-4ee2,U+4ee8,U+4eeb,U+4eed,U+4eef,U+4ef1,U+4ef3,U+4ef5,U+4ef7,U+4efc-4f00,U+4f02-4f03,U+4f08-4f09,U+4f0b-4f0d,U+4f12,U+4f15-4f17,U+4f19,U+4f1c,U+4f2b,U+4f2e,U+4f30-4f31,U+4f33,U+4f35-4f37,U+4f39,U+4f3b,U+4f3e,U+4f40,U+4f42-4f43,U+4f48-4f49,U+4f4b-4f4c,U+4f52,U+4f54,U+4f56),
     54: (U+3028-303f,U+3094-3096,U+309f-30a0,U+30ee,U+30f7-30fa,U+30ff,U+3105-312f,U+3131-3163,U+3165-318e,U+3190-31bb,U+31c0-31c7),
@@ -76,5 +75,16 @@ $metadata: (
     vietnamese: (U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB),
     latin-ext: (U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF),
     latin: (U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD),
-  )
+  );
+
+$metadata: (
+  id: $id,
+  family: $family,
+  category: $category,
+  subsets: $subsets,
+  weights: $weights,
+  styles: $styles,
+  axes: $axes,
+  defaults: $defaults,
+  unicode: $unicode,
 ) !default;

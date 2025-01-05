@@ -1,16 +1,26 @@
+$id: 'bluu-next';
+$family: 'Bluu Next';
+$category: sans-serif;
+$subsets: (latin);
+$weights: (700);
+$styles: (normal, italic);
+$axes: null;
+$defaults: (
+	subset: latin,
+	weight: 700,
+	style: normal,
+	axis: null,
+);
+$unicode: null;
+
 $metadata: (
-  id: 'bluu-next',
-  family: 'Bluu Next',
-  category: sans-serif,
-  subsets: (latin),
-  weights: (700),
-  styles: (normal, italic),
-  axes: null,
-  defaults: (
-    subset: latin,
-    weight: 700,
-    style: normal,
-    axis: null,
-  ),
-  unicode: null
+  id: $id,
+  family: $family,
+  category: $category,
+  subsets: $subsets,
+  weights: $weights,
+  styles: $styles,
+  axes: $axes,
+  defaults: $defaults,
+  unicode: $unicode,
 ) !default;

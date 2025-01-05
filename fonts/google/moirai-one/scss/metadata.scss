@@ -1,18 +1,17 @@
-$metadata: (
-  id: 'moirai-one',
-  family: 'Moirai One',
-  category: display,
-  subsets: (korean, latin, latin-ext),
-  weights: (400),
-  styles: (normal),
-  axes: null,
-  defaults: (
-    subset: latin,
-    weight: 400,
-    style: normal,
-    axis: null,
-  ),
-  unicode: (
+$id: 'moirai-one';
+$family: 'Moirai One';
+$category: display;
+$subsets: (korean, latin, latin-ext);
+$weights: (400);
+$styles: (normal);
+$axes: null;
+$defaults: (
+	subset: latin,
+	weight: 400,
+	style: normal,
+	axis: null,
+);
+$unicode: (
     2: (U+d723-d728,U+d72a-d733,U+d735-d748,U+d74a-d74f,U+d752-d753,U+d755-d757,U+d75a-d75f,U+d762-d764,U+d766-d768,U+d76a-d76b,U+d76d-d76f,U+d771-d787,U+d789-d78b,U+d78d-d78f,U+d791-d797,U+d79a,U+d79c,U+d79e-d7a3,U+f900-f909,U+f90b-f92e),
     3: (U+d679-d68b,U+d68e-d69e,U+d6a0,U+d6a2-d6a7,U+d6a9-d6c3,U+d6c6-d6c7,U+d6c9-d6cb,U+d6cd-d6d3,U+d6d5-d6d6,U+d6d8-d6e3,U+d6e5-d6e7,U+d6e9-d6fb,U+d6fd-d717,U+d719-d71f,U+d721-d722),
     4: (U+d5bc-d5c7,U+d5ca-d5cb,U+d5cd-d5cf,U+d5d1-d5d7,U+d5d9-d5da,U+d5dc,U+d5de-d5e3,U+d5e6-d5e7,U+d5e9-d5eb,U+d5ed-d5f6,U+d5f8,U+d5fa-d5ff,U+d602-d603,U+d605-d607,U+d609-d60f,U+d612-d613,U+d616-d61b,U+d61d-d637,U+d63a-d63b,U+d63d-d63f,U+d641-d647,U+d64a-d64c,U+d64e-d653,U+d656-d657,U+d659-d65b,U+d65d-d666,U+d668,U+d66a-d678),
@@ -105,5 +104,16 @@ $metadata: (
     119: (U+20-22,U+27-2a,U+2c-38,U+3a-3b,U+3f,U+41-47,U+4a-4c,U+4f-5d,U+61-7b,U+7d,U+a1,U+ab,U+ae,U+b7,U+bb,U+bf,U+2013-2014,U+201c-201d,U+2122,U+ac00,U+ace0,U+ae30,U+b2e4,U+b85c,U+b9ac,U+c0ac,U+c2a4,U+c2dc,U+c774,U+c778,U+c9c0,U+d558),
     latin-ext: (U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF),
     latin: (U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD),
-  )
+  );
+
+$metadata: (
+  id: $id,
+  family: $family,
+  category: $category,
+  subsets: $subsets,
+  weights: $weights,
+  styles: $styles,
+  axes: $axes,
+  defaults: $defaults,
+  unicode: $unicode,
 ) !default;

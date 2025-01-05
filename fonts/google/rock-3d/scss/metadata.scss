@@ -1,18 +1,17 @@
-$metadata: (
-  id: 'rock-3d',
-  family: 'Rock 3D',
-  category: display,
-  subsets: (japanese, latin),
-  weights: (400),
-  styles: (normal),
-  axes: null,
-  defaults: (
-    subset: latin,
-    weight: 400,
-    style: normal,
-    axis: null,
-  ),
-  unicode: (
+$id: 'rock-3d';
+$family: 'Rock 3D';
+$category: display;
+$subsets: (japanese, latin);
+$weights: (400);
+$styles: (normal);
+$axes: null;
+$defaults: (
+	subset: latin,
+	weight: 400,
+	style: normal,
+	axis: null,
+);
+$unicode: (
     3: (U+fa10,U+fa12-fa6d,U+fb00-fb04,U+fe10-fe19,U+fe30-fe42,U+fe44-fe52,U+fe54-fe66,U+fe68-fe6b,U+ff02,U+ff04,U+ff07,U+ff51,U+ff5b,U+ff5d,U+ff5f-ff60,U+ff66,U+ff69,U+ff87,U+ffa1-ffbe,U+ffc2-ffc7,U+ffca-ffcf,U+ffd2-ffd6),
     54: (U+3028-303f,U+3094-3096,U+309f-30a0,U+30ee,U+30f7-30fa,U+30ff,U+3105-312f,U+3131-3163,U+3165-318e,U+3190-31bb,U+31c0-31c7),
     59: (U+a1-a4,U+a6-a7,U+aa,U+ac-ad,U+b5-b6,U+b8-ba,U+bc-c8,U+ca-cc,U+ce-d5,U+d9-db,U+dd-df,U+e6,U+ee,U+f0,U+f5,U+f7,U+f9,U+fb,U+fe-102,U+110-113,U+11a-11b,U+128-12b,U+143-144,U+147-148,U+14c,U+14e-14f,U+152-153,U+168-16d,U+192,U+1a0-1a1,U+1af,U+1cd-1dc,U+1f8-1f9,U+251,U+261,U+2bb,U+2c7,U+2c9,U+2ea-2eb,U+304,U+307,U+30c,U+1e3e-1e3f,U+1ea0-1ebe,U+1ec0-1ec6,U+1ec8-1ef9,U+2011-2012,U+2016,U+2018-201a,U+201e,U+2021,U+2030,U+2033,U+2035,U+2042,U+2047,U+2051,U+2074,U+20a9,U+20ab-20ac,U+20dd-20de,U+2100),
@@ -37,5 +36,16 @@ $metadata: (
     118: (U+21-22,U+27-2a,U+2c-3b,U+3f,U+41-4d,U+4f-5d,U+61-7b,U+7d,U+ab,U+ae,U+b2-b3,U+b7,U+bb,U+c9,U+cd,U+d6,U+d8,U+dc,U+e0-e5,U+e7-ed,U+ef,U+f1-f4,U+f6,U+f8,U+fa,U+fc-fd,U+103,U+14d,U+1b0,U+300-301,U+1ebf,U+1ec7,U+2013-2014,U+201c-201d,U+2039-203a,U+203c,U+2048-2049,U+2113,U+2122,U+65e5,U+6708,U+70b9),
     119: (U+20,U+2027,U+3001-3002,U+3041-307f,U+3081-308f,U+3091-3093,U+3099-309a,U+309d-309e,U+30a1-30e1,U+30e3-30ed,U+30ef-30f0,U+30f2-30f4,U+30fb-30fe,U+ff0c,U+ff0e),
     latin: (U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD),
-  )
+  );
+
+$metadata: (
+  id: $id,
+  family: $family,
+  category: $category,
+  subsets: $subsets,
+  weights: $weights,
+  styles: $styles,
+  axes: $axes,
+  defaults: $defaults,
+  unicode: $unicode,
 ) !default;

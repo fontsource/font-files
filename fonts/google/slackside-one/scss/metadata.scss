@@ -1,18 +1,17 @@
-$metadata: (
-  id: 'slackside-one',
-  family: 'Slackside One',
-  category: handwriting,
-  subsets: (japanese, latin, latin-ext),
-  weights: (400),
-  styles: (normal),
-  axes: null,
-  defaults: (
-    subset: latin,
-    weight: 400,
-    style: normal,
-    axis: null,
-  ),
-  unicode: (
+$id: 'slackside-one';
+$family: 'Slackside One';
+$category: handwriting;
+$subsets: (japanese, latin, latin-ext);
+$weights: (400);
+$styles: (normal);
+$axes: null;
+$defaults: (
+	subset: latin,
+	weight: 400,
+	style: normal,
+	axis: null,
+);
+$unicode: (
     3: (U+fa10,U+fa12-fa6d,U+fb00-fb04,U+fe10-fe19,U+fe30-fe42,U+fe44-fe52,U+fe54-fe66,U+fe68-fe6b,U+ff02,U+ff04,U+ff07,U+ff51,U+ff5b,U+ff5d,U+ff5f-ff60,U+ff66,U+ff69,U+ff87,U+ffa1-ffbe,U+ffc2-ffc7,U+ffca-ffcf,U+ffd2-ffd6),
     54: (U+3028-303f,U+3094-3096,U+309f-30a0,U+30ee,U+30f7-30fa,U+30ff,U+3105-312f,U+3131-3163,U+3165-318e,U+3190-31bb,U+31c0-31c7),
     55: (U+2f14-2fd5,U+2ff0-2ffb,U+3004,U+3013,U+3016-301b,U+301e,U+3020-3027),
@@ -67,5 +66,16 @@ $metadata: (
     119: (U+20,U+2027,U+3001-3002,U+3041-307f,U+3081-308f,U+3091-3093,U+3099-309a,U+309d-309e,U+30a1-30e1,U+30e3-30ed,U+30ef-30f0,U+30f2-30f4,U+30fb-30fe,U+ff0c,U+ff0e),
     latin-ext: (U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF),
     latin: (U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD),
-  )
+  );
+
+$metadata: (
+  id: $id,
+  family: $family,
+  category: $category,
+  subsets: $subsets,
+  weights: $weights,
+  styles: $styles,
+  axes: $axes,
+  defaults: $defaults,
+  unicode: $unicode,
 ) !default;

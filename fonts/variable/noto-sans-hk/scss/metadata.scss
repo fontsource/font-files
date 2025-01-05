@@ -1,25 +1,24 @@
-$metadata: (
-  id: 'noto-sans-hk',
-  family: 'Noto Sans HK',
-  category: sans-serif,
-  subsets: (chinese-hongkong, cyrillic, latin, latin-ext, vietnamese),
-  weights: (100, 200, 300, 400, 500, 600, 700, 800, 900),
-  styles: (normal),
-  axes: (
+$id: 'noto-sans-hk';
+$family: 'Noto Sans HK';
+$category: sans-serif;
+$subsets: (chinese-hongkong, cyrillic, latin, latin-ext, vietnamese);
+$weights: (100, 200, 300, 400, 500, 600, 700, 800, 900);
+$styles: (normal);
+$axes: (
   wght: (
     default: 400,
     min: 100,
     max: 900,
     step: 1,
   ),
-),
-  defaults: (
-    subset: latin,
-    weight: 400,
-    style: normal,
-    axis: wght,
-  ),
-  unicode: (
+);
+$defaults: (
+	subset: latin,
+	weight: 400,
+	style: normal,
+	axis: wght,
+);
+$unicode: (
     0: (U+28eb2-28eb3,U+28ed9,U+28ee7,U+28fc5,U+29079,U+29088,U+2908b,U+29093,U+290af-290b1,U+290c0,U+290e4-290e5,U+290ec-290ed,U+2910d,U+29110,U+2913c,U+2914d,U+2915b,U+2915e,U+29170,U+2919c,U+291a8,U+291d5,U+291eb,U+2941d,U+29420,U+29433,U+2943f,U+29448,U+294d0,U+294d9-294da,U+294e5,U+294e7,U+2959e,U+295b0,U+295b8,U+295d7,U+295e9,U+295f4,U+29720,U+29732,U+297d4,U+29810,U+29857,U+298a4,U+298d1,U+298ea,U+298f1,U+298fa,U+29903,U+29905,U+2992f,U+29945,U+29947-29949,U+2995d,U+2996a,U+2999d,U+299c3,U+299c9,U+29a28,U+29a4d,U+29b05,U+29b0e,U+29bd5,U+29c73,U+29cad,U+29d3e,U+29d5a,U+29d7c,U+29d98,U+29d9b,U+29df6,U+29e06,U+29e2d,U+29e68,U+29eac,U+29eb0,U+29ec3,U+29ef8,U+29f23,U+29f30,U+29fb7,U+29fde,U+2a014,U+2a087,U+2a0b9,U+2a0e1,U+2a0ed,U+2a0f3,U+2a0f8,U+2a0fe,U+2a107,U+2a123,U+2a133-2a134,U+2a150,U+2a192-2a193,U+2a1ab,U+2a1b4-2a1b5,U+2a1df,U+2a1f5,U+2a220,U+2a233,U+2a293,U+2a29f,U+2a2b2,U+2a2b4,U+2a2b6,U+2a2ba,U+2a2bd,U+2a2df,U+2a2ff,U+2a351,U+2a3a9,U+2a3ed,U+2a434,U+2a45b,U+2a5c6,U+2a5cb,U+2a601,U+2a632,U+2a64a,U+2a65b,U+2a6a9,U+2adff,U+2f825,U+2f83b,U+2f840,U+2f878,U+2f894,U+2f8a6,U+2f8cd,U+2f994,U+2f9b2,U+2f9bc,U+2f9d4,U+f0001-f0005,U+f0019,U+f009b,U+f0101-f0104,U+f012b,U+f01ba,U+f01d6,U+f0209,U+f0217,U+f0223-f0224,U+fc355,U+fe327,U+fe517,U+feb97,U+fffb4),
     1: (U+28189,U+281af,U+281bc,U+28207,U+28218,U+2821a,U+28256,U+2827c,U+2829b,U+282cd,U+282e2,U+28306,U+28318,U+2832f,U+2833a,U+28365,U+2836d,U+2837d,U+2838a,U+28412,U+28468,U+2846c,U+28473,U+28482,U+28501,U+2853c-2853d,U+2856c,U+285e8,U+285f4,U+28600,U+2860b,U+28625,U+2863b,U+286aa-286ab,U+286b2,U+286bc,U+286d8,U+286e6,U+2870f,U+28713,U+28804,U+2882b,U+2890d,U+28933,U+28948-28949,U+28956,U+28964,U+28968,U+2896c-2896d,U+2897e,U+28989,U+2898d,U+289a8,U+289aa-289ab,U+289b8,U+289bc,U+289c0,U+289dc,U+289de,U+289e1,U+289e3-289e4,U+289e7-289e8,U+289f9-289fc,U+28a0f,U+28a16,U+28a25,U+28a29,U+28a32,U+28a36,U+28a44-28a4b,U+28a59-28a5a,U+28a81-28a83,U+28a9a-28a9c,U+28ac0,U+28ac6,U+28acb-28acc,U+28ace,U+28ade-28ae3,U+28ae5,U+28aea,U+28afc,U+28b0c,U+28b13,U+28b21-28b22,U+28b2b-28b2d,U+28b2f,U+28b46,U+28b4c,U+28b4e,U+28b50,U+28b63-28b66,U+28b6c,U+28b8f,U+28b99,U+28b9c-28b9d,U+28bb9,U+28bc2,U+28bc5,U+28bd4,U+28bd7,U+28bd9-28bda,U+28be7-28bec,U+28bf5,U+28bff,U+28c03,U+28c09,U+28c1c-28c1d,U+28c23,U+28c26,U+28c2b,U+28c30,U+28c39,U+28c3b,U+28cca,U+28ccd,U+28cd2,U+28d34,U+28d99,U+28db9,U+28e0f,U+28e36,U+28e39,U+28e65-28e66,U+28e97,U+28eac),
     2: (U+26da0-26da7,U+26dae,U+26ddc,U+26dea-26deb,U+26df0,U+26e00,U+26e05,U+26e07,U+26e12,U+26e42-26e45,U+26e6e,U+26e72,U+26e77,U+26e84,U+26e88,U+26e8b,U+26e99,U+26ed0-26ed7,U+26f26,U+26f73-26f74,U+26f9f,U+26fa1,U+26fbe,U+26fde-26fdf,U+2700e,U+2704b,U+27052-27053,U+27088,U+270ad-270af,U+270cd,U+270d2,U+270f0,U+270f8,U+27109,U+2710c-2710d,U+27126-27127,U+27164-27165,U+27175,U+271cd,U+2721b,U+27267,U+27280,U+27285,U+2728b,U+272b2,U+272b6,U+272e6,U+27352,U+2739a,U+273ff,U+27422,U+27450,U+27484,U+27486,U+27574,U+275a3,U+275e0,U+275e4,U+275fd-275fe,U+27607,U+2760c,U+27632,U+27639,U+27655-27657,U+27694,U+2770f,U+27735-27736,U+27741,U+2775e,U+27784-27785,U+277cc,U+27858,U+27870,U+2789d,U+278b2,U+278c8,U+27924,U+27967,U+2797a,U+279a0,U+279dd,U+279fd,U+27a0a,U+27a0e,U+27a3e,U+27a53,U+27a59,U+27a79,U+27a84,U+27abd-27abe,U+27af4,U+27b06,U+27b0b,U+27b18,U+27b38-27b3a,U+27b48,U+27b65,U+27bef,U+27bf4,U+27c12,U+27c6c,U+27cb1,U+27cc5,U+27d2f,U+27d53-27d54,U+27d66,U+27d73,U+27d84,U+27d8f,U+27d98,U+27dbd,U+27ddc,U+27e4d,U+27e4f,U+27f2e,U+27ff9,U+28002,U+28009,U+2801e,U+28023-28024,U+28048,U+28083,U+28090,U+280bd-280be,U+280e8-280e9,U+280f4,U+2812e,U+2814f,U+2815d,U+2816f),
@@ -129,5 +128,16 @@ $metadata: (
     vietnamese: (U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB),
     latin-ext: (U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF),
     latin: (U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD),
-  )
+  );
+
+$metadata: (
+  id: $id,
+  family: $family,
+  category: $category,
+  subsets: $subsets,
+  weights: $weights,
+  styles: $styles,
+  axes: $axes,
+  defaults: $defaults,
+  unicode: $unicode,
 ) !default;

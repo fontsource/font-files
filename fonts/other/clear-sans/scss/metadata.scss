@@ -1,16 +1,26 @@
+$id: 'clear-sans';
+$family: 'Clear Sans';
+$category: sans-serif;
+$subsets: (latin);
+$weights: (100, 300, 400, 500, 700);
+$styles: (normal, italic);
+$axes: null;
+$defaults: (
+	subset: latin,
+	weight: 400,
+	style: normal,
+	axis: null,
+);
+$unicode: null;
+
 $metadata: (
-  id: 'clear-sans',
-  family: 'Clear Sans',
-  category: sans-serif,
-  subsets: (latin),
-  weights: (100, 300, 400, 500, 700),
-  styles: (normal, italic),
-  axes: null,
-  defaults: (
-    subset: latin,
-    weight: 400,
-    style: normal,
-    axis: null,
-  ),
-  unicode: null
+  id: $id,
+  family: $family,
+  category: $category,
+  subsets: $subsets,
+  weights: $weights,
+  styles: $styles,
+  axes: $axes,
+  defaults: $defaults,
+  unicode: $unicode,
 ) !default;
