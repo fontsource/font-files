@@ -17047,12 +17047,15 @@
   },
   "roboto": {
     "id": "roboto",
-    "authors": {"copyright": "Copyright 2011 Google Inc. All Rights Reserved."},
-    "license": {
-      "type": "Apache License, Version 2.0",
-      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    "authors": {
+      "copyright": "Copyright 2011 The Roboto Project Authors",
+      "website": "https://github.com/googlefonts/roboto-classic"
     },
-    "original": "Copyright 2011 Google Inc. All Rights Reserved."
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto-classic)"
   },
   "roboto-condensed": {
     "id": "roboto-condensed",

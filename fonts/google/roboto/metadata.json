@@ -8,19 +8,21 @@
     "greek-ext",
     "latin",
     "latin-ext",
+    "math",
+    "symbols",
     "vietnamese"
   ],
-  "weights": [100, 300, 400, 500, 700, 900],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v32",
+  "lastModified": "2025-01-08",
+  "version": "v47",
   "category": "sans-serif",
   "license": {
-    "type": "Apache-2.0",
-    "url": "http://www.apache.org/licenses/LICENSE-2.0",
-    "attribution": "Copyright 2011 Google Inc. All Rights Reserved."
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto-classic)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

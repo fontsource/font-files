@@ -18,7 +18,10 @@
     "typeface",
     "variable"
   ],
-  "exports": {".": {"sass": "./scss/metadata.scss"}},
+  "exports": {
+    ".": {"sass": "./index.css", "default": "./index.css"},
+    "scss": {"sass": "./scss/metadata.scss"}
+  },
   "author": "Shannon Miwa, dtinth",
   "license": "mit",
   "homepage": "https://fontsource.org/fonts/comic-mono",

@@ -18,7 +18,10 @@
     "typeface",
     "variable"
   ],
-  "exports": {".": {"sass": "./scss/metadata.scss"}},
+  "exports": {
+    ".": {"sass": "./index.css", "default": "./index.css"},
+    "scss": {"sass": "./scss/metadata.scss"}
+  },
   "author": "Google Inc.",
   "license": "OFL-1.1",
   "homepage": "https://fontsource.org/fonts/fustat",
