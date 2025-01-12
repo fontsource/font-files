@@ -20,7 +20,7 @@
   ],
   "exports": {
     ".": {"sass": "./index.css", "default": "./index.css"},
-    "scss": {"sass": "./scss/metadata.scss"}
+    "./scss": {"sass": "./scss/metadata.scss"}
   },
   "author": "Eigil Nikolajsen",
   "license": "OFL-1.1",

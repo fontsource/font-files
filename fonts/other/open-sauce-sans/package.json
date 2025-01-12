@@ -20,7 +20,7 @@
   ],
   "exports": {
     ".": {"sass": "./index.css", "default": "./index.css"},
-    "scss": {"sass": "./scss/metadata.scss"}
+    "./scss": {"sass": "./scss/metadata.scss"}
   },
   "author": "The Open Sauce Sans Authors (https://github.com/marcologous/Open-Sauce-Fonts)",
   "license": "OFL-1.1",

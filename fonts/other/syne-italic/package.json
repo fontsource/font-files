@@ -20,7 +20,7 @@
   ],
   "exports": {
     ".": {"sass": "./index.css", "default": "./index.css"},
-    "scss": {"sass": "./scss/metadata.scss"}
+    "./scss": {"sass": "./scss/metadata.scss"}
   },
   "author": "The Syne Project Authors (https://gitlab.com/bonjour-monde/fonderie/syne-typeface)",
   "license": "OFL-1.1",

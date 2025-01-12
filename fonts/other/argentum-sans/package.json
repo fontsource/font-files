@@ -20,7 +20,7 @@
   ],
   "exports": {
     ".": {"sass": "./index.css", "default": "./index.css"},
-    "scss": {"sass": "./scss/metadata.scss"}
+    "./scss": {"sass": "./scss/metadata.scss"}
   },
   "author": "The Argentum Sans Project Authors (cssobral2013@gmail.com - https://github.com/cssobral2013/Argentum-Sans)",
   "license": "OFL-1.1",

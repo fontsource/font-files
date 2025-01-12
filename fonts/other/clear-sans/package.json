@@ -20,7 +20,7 @@
   ],
   "exports": {
     ".": {"sass": "./index.css", "default": "./index.css"},
-    "scss": {"sass": "./scss/metadata.scss"}
+    "./scss": {"sass": "./scss/metadata.scss"}
   },
   "author": "Intel",
   "license": "Apache-2.0",
