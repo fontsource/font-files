@@ -1,0 +1,19 @@
+{
+  "id": "atkinson-hyperlegible-mono",
+  "family": "Atkinson Hyperlegible Mono",
+  "subsets": ["latin"],
+  "weights": [200, 300, 400, 500, 600, 700, 800],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-02-13",
+  "version": "v2.001",
+  "category": "monospace",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org/",
+    "attribution": "Copyright 2020, 2024 Braille Institute of America, Inc."
+  },
+  "source": "https://www.brailleinstitute.org/freefont/",
+  "type": "other"
+}
