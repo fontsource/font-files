@@ -1,0 +1,8 @@
+/* atkinson-hyperlegible-next-wght-normal */
+@font-face {
+  font-family: 'Atkinson Hyperlegible Next Variable';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200 800;
+  src: url(./files/atkinson-hyperlegible-next-wght-normal.woff2) format('woff2-variations');
+}
