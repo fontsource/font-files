@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "https://openfontlicense.org",
-    "attribution": "Copyright (c) 2009-2011 by Accademia di Belle Arti di Urbino and students of MA course of Visual design. Some rights reserved."
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -38,8 +38,8 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright (c) 2011, Johan Kallas (johankallas@gmail.com), Copyright (c) 2011 Mihkel Virkus (mihkelvirkus@gmail.com) with Reserved Font Name Ewert.
-[OFL-1.1](https://openfontlicense.org)
+Google Inc.
+[OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
 Font version (provided by source): `v25`.

@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "https://openfontlicense.org",
-    "attribution": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com), Copyright (c) 2010, Pablo Impallari (www.impallari.com|impallari@gmail.com), Copyright (c) 2010, 2011, Alexei Vanyashin (www.cyreal.org|a@cyreal.org), with Reserved Font Name Lobster."
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

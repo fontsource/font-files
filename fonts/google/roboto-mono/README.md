@@ -38,8 +38,8 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright 2015 The Roboto Mono Project Authors (https://github.com/googlefonts/robotomono)
-[Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+Google Inc.
+[OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
 Font version (provided by source): `v23`.

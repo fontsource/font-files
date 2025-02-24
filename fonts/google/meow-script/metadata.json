@@ -11,8 +11,8 @@
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
-    "url": "https://openfontlicense.org",
-    "attribution": "Copyright 2017 The Meow Script Project Authors (https://github.com/googlefonts/meow-script)"
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -14,8 +14,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "https://openfontlicense.org",
-    "attribution": "Copyright 2021 The Montagu Slab Project Authors (https://github.com/floriankarsten/montagu-slab)"
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -11,8 +11,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "https://openfontlicense.org",
-    "attribution": "Copyright (c) 2019-2023 SIL International, based on the overall design of Karenni (Copyright (c) 2016-2019, Khu Oo Reh)."
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

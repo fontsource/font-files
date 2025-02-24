@@ -10,9 +10,9 @@
   "version": "v22",
   "category": "display",
   "license": {
-    "type": "Apache-2.0",
-    "url": "http://www.apache.org/licenses/LICENSE-2.0",
-    "attribution": "Copyright (c) 2010 2011, Font Diner, Inc DBA Tart Workshop (diner@fontdiner.com) with Reserved Font Name \"Mountains of Christmas\""
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

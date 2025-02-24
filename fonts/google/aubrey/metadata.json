@@ -11,8 +11,8 @@
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "https://openfontlicense.org",
-    "attribution": "Copyright 2011 The Aubrey Project Authors (https://github.com/cyrealtype/Aubrey)"
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

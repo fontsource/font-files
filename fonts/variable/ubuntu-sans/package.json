@@ -23,7 +23,7 @@
     "./scss": {"sass": "./scss/metadata.scss"}
   },
   "author": "Google Inc.",
-  "license": "UFL-1.0",
+  "license": "OFL-1.1",
   "homepage": "https://fontsource.org/fonts/ubuntu-sans",
   "repository": {
     "type": "git",

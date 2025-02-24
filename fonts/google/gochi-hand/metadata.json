@@ -11,8 +11,8 @@
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
-    "url": "https://openfontlicense.org",
-    "attribution": "Copyright (c) 2011, Huerta Tipografica (www.huertatipografica.com.ar info@huertatipografica.com.ar), with Reserved Font Names \"Gochi\" and \"Gochi Hand\""
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

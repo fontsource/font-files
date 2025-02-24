@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "https://openfontlicense.org",
-    "attribution": "Copyright 1999-2010 Ben Weiner (ben@readingtype.org.uk). Licensed under the Open Font License v1.1 (http://scripts.sil.org/OFL)"
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

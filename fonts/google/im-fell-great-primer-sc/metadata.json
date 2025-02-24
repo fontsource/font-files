@@ -11,8 +11,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "https://openfontlicense.org",
-    "attribution": "© 2007 Igino Marini (www.iginomarini.com) With Reserved Font Name IM FELL Great Primer SC"
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

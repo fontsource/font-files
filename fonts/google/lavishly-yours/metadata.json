@@ -11,8 +11,8 @@
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
-    "url": "https://openfontlicense.org",
-    "attribution": "Copyright 2014-2021 The Lavishly Yours Project Authors (https://github.com/googlefonts/lavishly-yours)"
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

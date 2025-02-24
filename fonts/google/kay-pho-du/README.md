@@ -38,8 +38,8 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright (c) 2019-2023 SIL International, based on the overall design of Karenni (Copyright (c) 2016-2019, Khu Oo Reh).
-[OFL-1.1](https://openfontlicense.org)
+Google Inc.
+[OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
 Font version (provided by source): `v2`.

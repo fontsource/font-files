@@ -20,9 +20,9 @@
   "version": "v23",
   "category": "monospace",
   "license": {
-    "type": "Apache-2.0",
-    "url": "http://www.apache.org/licenses/LICENSE-2.0",
-    "attribution": "Copyright 2015 The Roboto Mono Project Authors (https://github.com/googlefonts/robotomono)"
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

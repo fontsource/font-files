@@ -9,8 +9,8 @@
     "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
     "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
   },
-  "lastModified": "2024-08-12",
-  "version": "v4",
+  "lastModified": "2025-02-12",
+  "version": "v10",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",

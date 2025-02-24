@@ -11,8 +11,8 @@
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
-    "url": "https://openfontlicense.org",
-    "attribution": "Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com), with Reserved Font Names \"Sofia\""
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

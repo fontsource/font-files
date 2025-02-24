@@ -11,8 +11,8 @@
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "https://openfontlicense.org",
-    "attribution": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), Brenda Gallo. (gbrenda1987@gmail.com), with Reserved Font Name Ranchers."
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

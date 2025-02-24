@@ -26,8 +26,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "https://openfontlicense.org",
-    "attribution": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)"
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

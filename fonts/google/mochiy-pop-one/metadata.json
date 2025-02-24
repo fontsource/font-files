@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v10",
+  "lastModified": "2025-01-23",
+  "version": "v11",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "https://openfontlicense.org",
-    "attribution": "Copyright 2020 The MochiyPop Project Authors (https://github.com/fontdasu/Mochiypop)"
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

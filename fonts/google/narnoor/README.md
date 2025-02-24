@@ -38,11 +38,8 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Original font copyright (c) 2014-2017 CDAST, University of Hyderabad, Hyderabad (cdast@uohyd.ernet.in).
-Additions and modifications copyright (c) 2015-2023 SIL International (https://www.sil.org/).
-Latin glyphs copyright (c) 2010, 2012, 2014, 2021 Adobe Systems Incorporated
-(http://www.adobe.com/), with Reserved Font Name 'Source'.
-[OFL-1.1](https://openfontlicense.org)
+Google Inc.
+[OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
 Font version (provided by source): `v7`.
