@@ -1,0 +1,32 @@
+$id: 'atkinson-hyperlegible-mono';
+$family: 'Atkinson Hyperlegible Mono';
+$category: 'monospaced';
+$subsets: (latin);
+$weights: (200, 300, 400, 500, 600, 700, 800);
+$styles: (normal);
+$axes: (
+  wght: (default: 400,
+    min: 200,
+    max: 800,
+    step: 1,
+  ),
+);
+$defaults: (
+	subset: latin,
+	weight: 400,
+	style: normal,
+	axis: wght,
+);
+$unicode: null;
+
+$metadata: (
+  id: $id,
+  family: $family,
+  category: $category,
+  subsets: $subsets,
+  weights: $weights,
+  styles: $styles,
+  axes: $axes,
+  defaults: $defaults,
+  unicode: $unicode,
+) !default;
