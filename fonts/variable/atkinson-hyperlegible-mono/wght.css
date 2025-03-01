@@ -1,8 +1,0 @@
-/* atkinson-hyperlegible-mono-wght-normal */
-@font-face {
-  font-family: 'Atkinson Hyperlegible Mono Variable';
-  font-style: normal;
-  font-display: swap;
-  font-weight: 200 800;
-  src: url(./files/atkinson-hyperlegible-mono-wght-normal.woff2) format('woff2-variations');
-}
