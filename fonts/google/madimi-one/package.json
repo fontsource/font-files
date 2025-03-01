@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/madimi-one",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Madimi One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/madimi-one"
   },
-  "publishHash": "7a112c5b4e3f1349"
+  "publishHash": "53c88316d7c97583"
 }

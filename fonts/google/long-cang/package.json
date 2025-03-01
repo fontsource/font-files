@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/long-cang",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Long Cang font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/long-cang"
   },
-  "publishHash": "47046945dd53cd36"
+  "publishHash": "7ed6297c6aa69981"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ibm-plex-sans-hebrew",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the IBM Plex Sans Hebrew font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ibm-plex-sans-hebrew"
   },
-  "publishHash": "19de68615b8438c6"
+  "publishHash": "5d1981dda8fc5d94"
 }

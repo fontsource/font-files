@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/petemoss",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Petemoss font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/petemoss"
   },
-  "publishHash": "e9e90b9f28d6b855"
+  "publishHash": "550fd8b9f4d55273"
 }

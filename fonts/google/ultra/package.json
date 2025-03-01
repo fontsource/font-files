@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ultra",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Ultra font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ultra"
   },
-  "publishHash": "cdfbee463b210020"
+  "publishHash": "218c1c14987f1b85"
 }

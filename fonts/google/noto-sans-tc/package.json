@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-tc",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Sans TC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-tc"
   },
-  "publishHash": "ab4eb0cc67b4e2df"
+  "publishHash": "8c272790a8d4f698"
 }

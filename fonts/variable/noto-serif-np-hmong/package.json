@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-serif-np-hmong",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Serif NP Hmong font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-serif-np-hmong"
   },
-  "publishHash": "f6f8f71f8e8cdfa4"
+  "publishHash": "2ef21e938d40ef0a"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/poetsen-one",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Poetsen One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/poetsen-one"
   },
-  "publishHash": "e69b8565b58899b4"
+  "publishHash": "a2dfa5a79a3a8347"
 }

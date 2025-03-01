@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/crushed",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Crushed font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/crushed"
   },
-  "publishHash": "fd81cd0b45fa3868"
+  "publishHash": "df39dc742a30c622"
 }

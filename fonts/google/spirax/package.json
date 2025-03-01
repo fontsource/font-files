@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/spirax",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Spirax font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/spirax"
   },
-  "publishHash": "884cc49850b84683"
+  "publishHash": "8804ef1952c8c098"
 }

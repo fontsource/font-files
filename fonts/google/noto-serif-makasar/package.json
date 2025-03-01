@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-makasar",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Serif Makasar font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-makasar"
   },
-  "publishHash": "b2152e1aaad25a6e"
+  "publishHash": "44c1f1a13d705f71"
 }

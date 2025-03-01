@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bhutuka-expanded-one",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the BhuTuka Expanded One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bhutuka-expanded-one"
   },
-  "publishHash": "17ac3448515ced70"
+  "publishHash": "d371b16004d79c73"
 }

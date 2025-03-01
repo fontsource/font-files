@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/waiting-for-the-sunrise",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Waiting for the Sunrise font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/waiting-for-the-sunrise"
   },
-  "publishHash": "7d605b15b45116d9"
+  "publishHash": "fd406a671dc03a31"
 }

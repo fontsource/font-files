@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/nanum-myeongjo",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Nanum Myeongjo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/nanum-myeongjo"
   },
-  "publishHash": "9025f53dc16a1389"
+  "publishHash": "16f1e6784df6ecb8"
 }

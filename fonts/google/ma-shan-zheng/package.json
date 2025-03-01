@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ma-shan-zheng",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Ma Shan Zheng font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ma-shan-zheng"
   },
-  "publishHash": "1eea60ba80c7f940"
+  "publishHash": "bbe00cdaa20f6f99"
 }

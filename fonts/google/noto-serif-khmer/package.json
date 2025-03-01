@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-khmer",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Serif Khmer font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-khmer"
   },
-  "publishHash": "00c314bd3f77b3cf"
+  "publishHash": "e1a91da0a49e4089"
 }

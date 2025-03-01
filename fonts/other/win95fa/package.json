@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/win95fa",
-  "version": "5.1.0",
+  "version": "5.2.0",
   "description": "Self-host the WIN95FA font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/win95fa"
   },
-  "publishHash": "c179f948b2b5bacd"
+  "publishHash": "3fb6897056c3bc31"
 }

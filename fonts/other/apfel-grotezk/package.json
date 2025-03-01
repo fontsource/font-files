@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/apfel-grotezk",
-  "version": "5.1.0",
+  "version": "5.2.0",
   "description": "Self-host the Apfel Grotezk font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/apfel-grotezk"
   },
-  "publishHash": "982d153f82c6613e"
+  "publishHash": "59194698ff91cd98"
 }

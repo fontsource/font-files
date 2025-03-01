@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ibm-plex-sans-condensed",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the IBM Plex Sans Condensed font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ibm-plex-sans-condensed"
   },
-  "publishHash": "f4d825ba84497d24"
+  "publishHash": "beaafb2b88ccf1d1"
 }

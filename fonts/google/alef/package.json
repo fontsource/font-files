@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/alef",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Alef font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/alef"
   },
-  "publishHash": "ac67104b5aad1da4"
+  "publishHash": "e9486740e361d110"
 }

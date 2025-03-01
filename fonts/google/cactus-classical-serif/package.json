@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cactus-classical-serif",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Cactus Classical Serif font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cactus-classical-serif"
   },
-  "publishHash": "318a6b59c3462518"
+  "publishHash": "a7d258e30474cf17"
 }

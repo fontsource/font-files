@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/asap",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Asap font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/asap"
   },
-  "publishHash": "6ae61f418a50be29"
+  "publishHash": "7f0ad36beb5b7927"
 }

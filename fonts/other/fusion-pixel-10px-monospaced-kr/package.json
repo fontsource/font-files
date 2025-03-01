@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fusion-pixel-10px-monospaced-kr",
-  "version": "5.0.1",
+  "version": "5.1.0",
   "description": "Self-host the Fusion Pixel 10px Monospaced KR font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/fusion-pixel-10px-monospaced-kr"
   },
-  "publishHash": "bc7b8085c9dce118"
+  "publishHash": "791385d7f7c44030"
 }

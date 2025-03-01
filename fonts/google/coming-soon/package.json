@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/coming-soon",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Coming Soon font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/coming-soon"
   },
-  "publishHash": "b3ee00d1c7e98002"
+  "publishHash": "da90df3137a8b617"
 }

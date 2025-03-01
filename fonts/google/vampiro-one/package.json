@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/vampiro-one",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Vampiro One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/vampiro-one"
   },
-  "publishHash": "3237776cca6e6379"
+  "publishHash": "423eb1345ee463f7"
 }

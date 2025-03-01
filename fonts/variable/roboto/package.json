@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/roboto",
-  "version": "5.1.0",
+  "version": "5.2.0",
   "description": "Self-host the Roboto font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -29,5 +29,6 @@
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/roboto"
-  }
+  },
+  "publishHash": "9e27de88bc8c0d37"
 }

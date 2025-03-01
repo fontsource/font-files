@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/thasadith",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Thasadith font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/thasadith"
   },
-  "publishHash": "1f68e2703d2af14b"
+  "publishHash": "01bc8278ede84673"
 }

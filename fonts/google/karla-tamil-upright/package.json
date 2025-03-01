@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/karla-tamil-upright",
-  "version": "5.0.1",
+  "version": "5.1.0",
   "description": "Self-host the Karla Tamil Upright font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/karla-tamil-upright"
   },
-  "publishHash": "34f100feb7792f9e"
+  "publishHash": "7381a2c816aea4b9"
 }

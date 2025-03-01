@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-canadian-aboriginal",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Sans Canadian Aboriginal font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-canadian-aboriginal"
   },
-  "publishHash": "686f585fc84bc0ef"
+  "publishHash": "904973274f1da55c"
 }

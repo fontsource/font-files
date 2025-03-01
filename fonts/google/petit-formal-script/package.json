@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/petit-formal-script",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Petit Formal Script font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/petit-formal-script"
   },
-  "publishHash": "5c2b9fe259210fd0"
+  "publishHash": "3bb0cf6f1ef2c61c"
 }

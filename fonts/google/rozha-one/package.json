@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rozha-one",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Rozha One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rozha-one"
   },
-  "publishHash": "ed72fac3052aac87"
+  "publishHash": "324d4ce9c6279b90"
 }

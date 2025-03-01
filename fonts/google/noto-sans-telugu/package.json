@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-telugu",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Sans Telugu font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-telugu"
   },
-  "publishHash": "8dee436682bc20b6"
+  "publishHash": "999788a446992f1c"
 }

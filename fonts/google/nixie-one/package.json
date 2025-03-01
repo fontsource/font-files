@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/nixie-one",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Nixie One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/nixie-one"
   },
-  "publishHash": "897f05f3aff0d580"
+  "publishHash": "312ef573535f909b"
 }

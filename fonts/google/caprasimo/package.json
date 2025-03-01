@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/caprasimo",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Caprasimo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/caprasimo"
   },
-  "publishHash": "3caa55c307e5dfc4"
+  "publishHash": "cd7d6ce155c196b7"
 }

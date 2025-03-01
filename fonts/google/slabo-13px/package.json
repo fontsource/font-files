@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/slabo-13px",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Slabo 13px font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/slabo-13px"
   },
-  "publishHash": "4748e71aec5a4d44"
+  "publishHash": "30e67146ea5e2deb"
 }

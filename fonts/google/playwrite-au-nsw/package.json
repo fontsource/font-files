@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-au-nsw",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Playwrite AU NSW font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-au-nsw"
   },
-  "publishHash": "42ed8cc9b0cccb12"
+  "publishHash": "187429e8806bcc5f"
 }

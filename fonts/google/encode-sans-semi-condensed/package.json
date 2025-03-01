@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/encode-sans-semi-condensed",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Encode Sans Semi Condensed font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/encode-sans-semi-condensed"
   },
-  "publishHash": "dfac467627ac71ac"
+  "publishHash": "2a74588236faa765"
 }

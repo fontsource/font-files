@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bodoni-moda-sc",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Bodoni Moda SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bodoni-moda-sc"
   },
-  "publishHash": "cc8675f3ac1a9059"
+  "publishHash": "9d1e5e3ebb10069c"
 }

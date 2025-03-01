@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/meddon",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Meddon font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/meddon"
   },
-  "publishHash": "a49be4f0ed8e1a72"
+  "publishHash": "0b4c3ec2cf1a3126"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/emilys-candy",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Emilys Candy font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/emilys-candy"
   },
-  "publishHash": "0eca8d7781036b2a"
+  "publishHash": "8e5cb0aef20c5831"
 }

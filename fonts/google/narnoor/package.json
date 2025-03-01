@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/narnoor",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Narnoor font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/narnoor"
   },
-  "publishHash": "889b0a224e52b608"
+  "publishHash": "17d90364d864487e"
 }

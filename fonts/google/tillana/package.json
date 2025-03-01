@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tillana",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Tillana font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tillana"
   },
-  "publishHash": "98ce8c04288c50db"
+  "publishHash": "07f57d7ed5cde0f7"
 }

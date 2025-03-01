@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/fustat",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Fustat font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/fustat"
   },
-  "publishHash": "dcf1388eb11fd287"
+  "publishHash": "355fe04b7fceba16"
 }

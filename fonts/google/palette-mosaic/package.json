@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/palette-mosaic",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Palette Mosaic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/palette-mosaic"
   },
-  "publishHash": "23a53cac8a092c05"
+  "publishHash": "7afc4ff551ec04a9"
 }

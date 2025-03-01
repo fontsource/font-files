@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rubik-puddles",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Rubik Puddles font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rubik-puddles"
   },
-  "publishHash": "e6f72836170abd52"
+  "publishHash": "ab2067e757fd3c20"
 }

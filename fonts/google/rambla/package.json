@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rambla",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Rambla font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rambla"
   },
-  "publishHash": "aa156bd0308cf38a"
+  "publishHash": "badb30b7606c2f51"
 }

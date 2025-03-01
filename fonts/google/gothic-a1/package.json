@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gothic-a1",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Gothic A1 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gothic-a1"
   },
-  "publishHash": "37a01659a1bacc41"
+  "publishHash": "890767c6f9aa437a"
 }

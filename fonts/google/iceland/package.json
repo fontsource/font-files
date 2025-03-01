@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/iceland",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Iceland font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/iceland"
   },
-  "publishHash": "61deece5d2437ebc"
+  "publishHash": "055570374cb76ccc"
 }

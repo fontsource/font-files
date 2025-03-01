@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-symbols",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Sans Symbols font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-symbols"
   },
-  "publishHash": "5f02173ab84c2e3a"
+  "publishHash": "a1f2cc4b6fa8a33a"
 }

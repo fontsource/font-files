@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/league-script",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the League Script font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/league-script"
   },
-  "publishHash": "2452eaa09b68cc51"
+  "publishHash": "48477d14e2ae4c6b"
 }

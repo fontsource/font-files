@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/redaction-100",
-  "version": "5.1.0",
+  "version": "5.2.0",
   "description": "Self-host the Redaction 100 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/redaction-100"
   },
-  "publishHash": "97e50c2816b4e836"
+  "publishHash": "76536b78cbcffa51"
 }

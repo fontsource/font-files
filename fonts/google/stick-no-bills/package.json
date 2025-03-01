@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/stick-no-bills",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Stick No Bills font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/stick-no-bills"
   },
-  "publishHash": "c1ea416e37509d36"
+  "publishHash": "54468cbc8eb72076"
 }

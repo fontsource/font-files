@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-fr-trad-guides",
-  "version": "5.0.1",
+  "version": "5.1.0",
   "description": "Self-host the Playwrite FR Trad Guides font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-fr-trad-guides"
   },
-  "publishHash": "69e3d557a212010d"
+  "publishHash": "110ded289ee39263"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/anek-tamil",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Anek Tamil font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/anek-tamil"
   },
-  "publishHash": "7140c4683cd8aefc"
+  "publishHash": "7db3cb0d16eb0bdf"
 }

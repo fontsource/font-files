@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/wittgenstein",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Wittgenstein font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/wittgenstein"
   },
-  "publishHash": "3749cf01d2bb2037"
+  "publishHash": "78f4fb0fe15b84cd"
 }

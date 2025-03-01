@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/text-me-one",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Text Me One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/text-me-one"
   },
-  "publishHash": "bf876c41642c991b"
+  "publishHash": "d36281edd658d602"
 }

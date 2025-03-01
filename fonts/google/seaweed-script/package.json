@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/seaweed-script",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Seaweed Script font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/seaweed-script"
   },
-  "publishHash": "101771f8d3a42e45"
+  "publishHash": "25413d0b34082bb0"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/koho",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the KoHo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/koho"
   },
-  "publishHash": "71dd576ee644b462"
+  "publishHash": "ff1ee497d6bf0758"
 }

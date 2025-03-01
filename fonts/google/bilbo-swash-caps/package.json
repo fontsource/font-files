@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bilbo-swash-caps",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Bilbo Swash Caps font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bilbo-swash-caps"
   },
-  "publishHash": "b15fb1d27baeb0ec"
+  "publishHash": "994eece41070feff"
 }

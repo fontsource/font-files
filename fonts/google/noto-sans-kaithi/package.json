@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-kaithi",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Sans Kaithi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-kaithi"
   },
-  "publishHash": "767d96c31fe43147"
+  "publishHash": "e0baa15156b6f001"
 }

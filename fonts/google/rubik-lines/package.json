@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rubik-lines",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Rubik Lines font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rubik-lines"
   },
-  "publishHash": "2fe12fda95c248a8"
+  "publishHash": "0b12e9d0a405d002"
 }

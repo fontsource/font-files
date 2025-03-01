@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/marhey",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Marhey font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/marhey"
   },
-  "publishHash": "d96f912f91823138"
+  "publishHash": "585e0ea4e8b1bdca"
 }

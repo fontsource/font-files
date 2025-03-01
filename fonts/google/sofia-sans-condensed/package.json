@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sofia-sans-condensed",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Sofia Sans Condensed font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sofia-sans-condensed"
   },
-  "publishHash": "086200f5d88c02db"
+  "publishHash": "1b6e014c014569f2"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kurale",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Kurale font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kurale"
   },
-  "publishHash": "d54425527f2c05fb"
+  "publishHash": "f5e99bbaa656ecb3"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-serif-vithkuqi",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Serif Vithkuqi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-serif-vithkuqi"
   },
-  "publishHash": "fb3ff1e675217ca1"
+  "publishHash": "ba2828a64b256982"
 }

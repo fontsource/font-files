@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-es-deco",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Playwrite ES Deco font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-es-deco"
   },
-  "publishHash": "25585304e0b0f0c6"
+  "publishHash": "bf43866e54e17026"
 }

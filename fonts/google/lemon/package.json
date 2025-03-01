@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lemon",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Lemon font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lemon"
   },
-  "publishHash": "66a9e2e90f7e4b21"
+  "publishHash": "6f1e6db0b5c5b2f1"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-meetei-mayek",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Sans Meetei Mayek font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-meetei-mayek"
   },
-  "publishHash": "6320e737d3463293"
+  "publishHash": "cdf5117a725d81d1"
 }

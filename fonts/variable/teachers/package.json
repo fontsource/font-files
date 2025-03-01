@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/teachers",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Teachers font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/teachers"
   },
-  "publishHash": "67b1b4566a180f24"
+  "publishHash": "729dfec3f2623b56"
 }

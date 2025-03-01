@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/varela",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Varela font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/varela"
   },
-  "publishHash": "5218767e59499d99"
+  "publishHash": "5f0ac9d4897bab43"
 }

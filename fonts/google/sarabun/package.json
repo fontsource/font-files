@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sarabun",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Sarabun font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sarabun"
   },
-  "publishHash": "6118892628665a47"
+  "publishHash": "be0460cd82775f95"
 }

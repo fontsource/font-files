@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-no",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Playwrite NO font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-no"
   },
-  "publishHash": "663188d4dd25337e"
+  "publishHash": "760357f208db9ad4"
 }

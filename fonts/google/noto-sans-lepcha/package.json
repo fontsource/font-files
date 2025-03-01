@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-lepcha",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Sans Lepcha font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-lepcha"
   },
-  "publishHash": "d26d2c2d0dd60934"
+  "publishHash": "99d6c642f602dc15"
 }

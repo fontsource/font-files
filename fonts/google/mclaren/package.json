@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mclaren",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the McLaren font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mclaren"
   },
-  "publishHash": "d05e9a0c046141e2"
+  "publishHash": "288666508012c3cc"
 }

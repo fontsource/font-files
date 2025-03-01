@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/playwrite-pe",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Playwrite PE font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/playwrite-pe"
   },
-  "publishHash": "5bb2a9cff82227c7"
+  "publishHash": "56a5dc8e2329757b"
 }

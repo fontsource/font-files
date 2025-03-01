@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/badeen-display",
-  "version": "5.0.1",
+  "version": "5.1.0",
   "description": "Self-host the Badeen Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/badeen-display"
   },
-  "publishHash": "75b68c532f328620"
+  "publishHash": "ad0ad28c734de240"
 }

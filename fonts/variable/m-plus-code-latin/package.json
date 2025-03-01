@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/m-plus-code-latin",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the M PLUS Code Latin font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/m-plus-code-latin"
   },
-  "publishHash": "b9a9ea1b9a9604f9"
+  "publishHash": "a7ca30a684c7c892"
 }

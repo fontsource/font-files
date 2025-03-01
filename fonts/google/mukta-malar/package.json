@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mukta-malar",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Mukta Malar font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mukta-malar"
   },
-  "publishHash": "ab2e66a7390a28c6"
+  "publishHash": "f8535e0aeef9af39"
 }

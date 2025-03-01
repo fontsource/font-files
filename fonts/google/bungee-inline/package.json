@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bungee-inline",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Bungee Inline font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bungee-inline"
   },
-  "publishHash": "5441080e0aa1e29b"
+  "publishHash": "c34782337f25ebef"
 }

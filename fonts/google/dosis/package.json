@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dosis",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Dosis font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/dosis"
   },
-  "publishHash": "64177c07b1a52384"
+  "publishHash": "c047801a05c21d8e"
 }

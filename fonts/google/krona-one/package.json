@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/krona-one",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Krona One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/krona-one"
   },
-  "publishHash": "4ce871788f14a858"
+  "publishHash": "12b4b7fc192e5f16"
 }

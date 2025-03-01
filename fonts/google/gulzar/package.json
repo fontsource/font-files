@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gulzar",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Gulzar font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gulzar"
   },
-  "publishHash": "edb08ee31de035ab"
+  "publishHash": "255841d7a2a96e06"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tajawal",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Tajawal font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tajawal"
   },
-  "publishHash": "1211b7a6a626a667"
+  "publishHash": "451e879b9a8db805"
 }

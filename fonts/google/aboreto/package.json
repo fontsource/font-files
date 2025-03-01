@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/aboreto",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Aboreto font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/aboreto"
   },
-  "publishHash": "67b024a68109a4db"
+  "publishHash": "f8b7515cf6987008"
 }

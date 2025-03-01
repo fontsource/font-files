@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/stalinist-one",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Stalinist One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/stalinist-one"
   },
-  "publishHash": "7a9c0fffab665d2a"
+  "publishHash": "110af6ab9bdeff19"
 }

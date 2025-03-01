@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/chau-philomene-one",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Chau Philomene One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/chau-philomene-one"
   },
-  "publishHash": "f676e435d646b24c"
+  "publishHash": "1f10596e06094df0"
 }

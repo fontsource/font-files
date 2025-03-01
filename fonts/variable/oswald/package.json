@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/oswald",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Oswald font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/oswald"
   },
-  "publishHash": "c404347aa4257cc3"
+  "publishHash": "9cd8279adc73be9b"
 }

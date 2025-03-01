@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/maven-pro",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Maven Pro font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/maven-pro"
   },
-  "publishHash": "5993a1a768985280"
+  "publishHash": "1464c1cab348b481"
 }

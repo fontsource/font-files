@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fondamento",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Fondamento font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fondamento"
   },
-  "publishHash": "191f990af767cbac"
+  "publishHash": "7c0a02a7ad1cdf48"
 }

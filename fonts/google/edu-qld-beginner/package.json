@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/edu-qld-beginner",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Edu QLD Beginner font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/edu-qld-beginner"
   },
-  "publishHash": "9406425fb1644f76"
+  "publishHash": "d3f0e7fa5e8f45b3"
 }

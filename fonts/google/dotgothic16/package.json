@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dotgothic16",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the DotGothic16 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/dotgothic16"
   },
-  "publishHash": "6e5233d8745eff4a"
+  "publishHash": "0a91a0a76071fbd1"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-au-tas-guides",
-  "version": "5.0.1",
+  "version": "5.1.0",
   "description": "Self-host the Playwrite AU TAS Guides font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-au-tas-guides"
   },
-  "publishHash": "bb2509b4dfa22b55"
+  "publishHash": "3fc434388d10cd9f"
 }

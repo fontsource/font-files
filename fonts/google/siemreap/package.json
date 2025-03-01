@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/siemreap",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Siemreap font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/siemreap"
   },
-  "publishHash": "e8a135c70ee54d80"
+  "publishHash": "3a1829fe8f888bd8"
 }

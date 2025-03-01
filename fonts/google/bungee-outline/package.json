@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bungee-outline",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Bungee Outline font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bungee-outline"
   },
-  "publishHash": "1090e4a1dc77a2c5"
+  "publishHash": "2ac3e31bbe1eb5ea"
 }

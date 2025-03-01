@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/germania-one",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Germania One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/germania-one"
   },
-  "publishHash": "8d3ae43cd7beb091"
+  "publishHash": "fbbf49cb8ea53779"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/sofia-sans",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Sofia Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/sofia-sans"
   },
-  "publishHash": "01a71867a31c9433"
+  "publishHash": "9acc523242d1fe8a"
 }

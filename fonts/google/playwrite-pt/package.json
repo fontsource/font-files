@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-pt",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Playwrite PT font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-pt"
   },
-  "publishHash": "92f471e379595a19"
+  "publishHash": "32efcb2275bb32b0"
 }

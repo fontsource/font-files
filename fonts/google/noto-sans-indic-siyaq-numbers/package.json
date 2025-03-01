@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-indic-siyaq-numbers",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Sans Indic Siyaq Numbers font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-indic-siyaq-numbers"
   },
-  "publishHash": "9bade14d53f5ac57"
+  "publishHash": "671958cce944ec42"
 }

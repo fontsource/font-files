@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-buhid",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Sans Buhid font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-buhid"
   },
-  "publishHash": "8508de1b2889533d"
+  "publishHash": "df1c6f627205f898"
 }

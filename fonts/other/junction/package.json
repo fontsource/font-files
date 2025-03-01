@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/junction",
-  "version": "5.1.0",
+  "version": "5.2.0",
   "description": "Self-host the Junction font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/junction"
   },
-  "publishHash": "2b61c9008a12a43f"
+  "publishHash": "191d7145a12f33c6"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-cypro-minoan",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Sans Cypro Minoan font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-cypro-minoan"
   },
-  "publishHash": "8e14ec82306680dc"
+  "publishHash": "1e51a01c5024864a"
 }

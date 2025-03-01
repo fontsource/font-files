@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/playwrite-co",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Playwrite CO font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/playwrite-co"
   },
-  "publishHash": "65b0a2fbc140469a"
+  "publishHash": "9e5b951ed16909a5"
 }

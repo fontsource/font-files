@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/faculty-glyphic",
-  "version": "5.0.1",
+  "version": "5.1.0",
   "description": "Self-host the Faculty Glyphic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/faculty-glyphic"
   },
-  "publishHash": "d5270533b8f8d2ab"
+  "publishHash": "86f02474f6e3aac7"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-tz-guides",
-  "version": "5.0.1",
+  "version": "5.1.0",
   "description": "Self-host the Playwrite TZ Guides font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-tz-guides"
   },
-  "publishHash": "bd0e12af8458b9bd"
+  "publishHash": "c47fe2fb1ce18f3b"
 }

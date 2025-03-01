@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/source-serif-4",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Source Serif 4 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/source-serif-4"
   },
-  "publishHash": "4266462ea6d23786"
+  "publishHash": "9667e9d28890793a"
 }

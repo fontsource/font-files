@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/alegreya-sc",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Alegreya SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/alegreya-sc"
   },
-  "publishHash": "ff473d2364b1e694"
+  "publishHash": "082588341fcf77dc"
 }

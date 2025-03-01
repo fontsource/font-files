@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/carter-one",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Carter One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/carter-one"
   },
-  "publishHash": "dd3c234d89d46a1a"
+  "publishHash": "08bb5e89bbb14b0b"
 }

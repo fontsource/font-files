@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lilita-one",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Lilita One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lilita-one"
   },
-  "publishHash": "2529160fb65e187a"
+  "publishHash": "46d4e87f22401db3"
 }

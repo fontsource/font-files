@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/lexend-zetta",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Lexend Zetta font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/lexend-zetta"
   },
-  "publishHash": "8eeebe0a1e358608"
+  "publishHash": "f3ed2bc27917ce57"
 }

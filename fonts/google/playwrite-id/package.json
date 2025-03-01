@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-id",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Playwrite ID font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-id"
   },
-  "publishHash": "91371e58b4b4b218"
+  "publishHash": "cbf21c3a010cbaf2"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tiro-devanagari-sanskrit",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Tiro Devanagari Sanskrit font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tiro-devanagari-sanskrit"
   },
-  "publishHash": "5e44f8db9b7f952e"
+  "publishHash": "2ccbf3bedab09fbe"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/jersey-10-charted",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Jersey 10 Charted font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/jersey-10-charted"
   },
-  "publishHash": "a3d21fb0fe3d82f5"
+  "publishHash": "5bc04b6cc907ca2f"
 }

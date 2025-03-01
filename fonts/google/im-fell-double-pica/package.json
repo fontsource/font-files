@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/im-fell-double-pica",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the IM Fell Double Pica font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/im-fell-double-pica"
   },
-  "publishHash": "94552dca44dbbaf5"
+  "publishHash": "db28d82b9135f211"
 }

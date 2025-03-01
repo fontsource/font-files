@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-display",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Serif Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-display"
   },
-  "publishHash": "13584e42a2a76d70"
+  "publishHash": "5ae6f0242fc3807b"
 }

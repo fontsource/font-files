@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-kayah-li",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Sans Kayah Li font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-kayah-li"
   },
-  "publishHash": "bba61478fec33207"
+  "publishHash": "dd98072f89195a1d"
 }

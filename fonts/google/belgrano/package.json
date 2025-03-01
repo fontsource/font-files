@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/belgrano",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Belgrano font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/belgrano"
   },
-  "publishHash": "1a156f2f03261299"
+  "publishHash": "550f64a13615aa5f"
 }

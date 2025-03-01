@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/eczar",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Eczar font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/eczar"
   },
-  "publishHash": "095bc969a8ce5f23"
+  "publishHash": "c9767b09208fd912"
 }

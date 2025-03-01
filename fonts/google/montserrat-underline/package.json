@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/montserrat-underline",
-  "version": "5.0.1",
+  "version": "5.1.0",
   "description": "Self-host the Montserrat Underline font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/montserrat-underline"
   },
-  "publishHash": "243892451aaa5554"
+  "publishHash": "af0fbe10092a6ffa"
 }

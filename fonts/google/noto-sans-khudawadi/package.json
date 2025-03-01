@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-khudawadi",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Sans Khudawadi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-khudawadi"
   },
-  "publishHash": "723a824f66e8a267"
+  "publishHash": "4f999f7e1c2d9a61"
 }

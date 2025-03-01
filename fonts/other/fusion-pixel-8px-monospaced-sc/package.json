@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fusion-pixel-8px-monospaced-sc",
-  "version": "5.0.1",
+  "version": "5.1.0",
   "description": "Self-host the Fusion Pixel 8px Monospaced SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/fusion-pixel-8px-monospaced-sc"
   },
-  "publishHash": "2170d7cbf5b7eab1"
+  "publishHash": "437ce80d8635df10"
 }

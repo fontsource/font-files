@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/wallpoet",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Wallpoet font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/wallpoet"
   },
-  "publishHash": "5c2e5cf7c1b63073"
+  "publishHash": "f52b90daea765ab6"
 }

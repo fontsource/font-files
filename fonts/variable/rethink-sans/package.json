@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/rethink-sans",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Rethink Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/rethink-sans"
   },
-  "publishHash": "56499d76fa158284"
+  "publishHash": "07bebc37c66d5080"
 }

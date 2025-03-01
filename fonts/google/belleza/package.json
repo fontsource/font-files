@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/belleza",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Belleza font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/belleza"
   },
-  "publishHash": "2e06d701675be66e"
+  "publishHash": "41e5fa623adafc76"
 }

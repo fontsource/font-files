@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fira-code",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Fira Code font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fira-code"
   },
-  "publishHash": "8e5f4f89bd2252f6"
+  "publishHash": "dbc523e5b2a0e800"
 }

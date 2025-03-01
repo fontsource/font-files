@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rubik-maps",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Rubik Maps font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rubik-maps"
   },
-  "publishHash": "e04d5780c25f1f5e"
+  "publishHash": "cc393b1a323cc5c7"
 }

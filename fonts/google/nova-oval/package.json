@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/nova-oval",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Nova Oval font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/nova-oval"
   },
-  "publishHash": "3516b6ddd89e7d4e"
+  "publishHash": "9d9f6562f783d8a9"
 }

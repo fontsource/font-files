@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-at-guides",
-  "version": "5.0.1",
+  "version": "5.1.0",
   "description": "Self-host the Playwrite AT Guides font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-at-guides"
   },
-  "publishHash": "b1e64765ff2bd2d5"
+  "publishHash": "01fc545c272517a6"
 }

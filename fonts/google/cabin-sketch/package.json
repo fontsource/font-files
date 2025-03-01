@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cabin-sketch",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Cabin Sketch font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cabin-sketch"
   },
-  "publishHash": "7e41072f88feb245"
+  "publishHash": "32111ec8188e6ad1"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fira-mono",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Fira Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fira-mono"
   },
-  "publishHash": "75c9e717be8ae205"
+  "publishHash": "0458a7be8bccf9aa"
 }

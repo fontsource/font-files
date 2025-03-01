@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/chela-one",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Chela One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/chela-one"
   },
-  "publishHash": "b2e0deaea2e93cf4"
+  "publishHash": "9861b3cbbbc1d00d"
 }

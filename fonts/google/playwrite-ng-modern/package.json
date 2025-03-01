@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-ng-modern",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Playwrite NG Modern font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-ng-modern"
   },
-  "publishHash": "a386680cb56934a7"
+  "publishHash": "3e0345d20a30b580"
 }

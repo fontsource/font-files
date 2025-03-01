@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/maitree",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Maitree font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/maitree"
   },
-  "publishHash": "c86d6267d387ee21"
+  "publishHash": "93afac25e3b88ccc"
 }

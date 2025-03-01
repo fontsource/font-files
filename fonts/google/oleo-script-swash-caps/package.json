@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/oleo-script-swash-caps",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Oleo Script Swash Caps font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/oleo-script-swash-caps"
   },
-  "publishHash": "90f884619c19f599"
+  "publishHash": "d1066864bbc7e0f3"
 }

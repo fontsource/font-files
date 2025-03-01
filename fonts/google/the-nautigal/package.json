@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/the-nautigal",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the The Nautigal font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/the-nautigal"
   },
-  "publishHash": "dba5fd86b053f54d"
+  "publishHash": "c879fc66c3db07a4"
 }

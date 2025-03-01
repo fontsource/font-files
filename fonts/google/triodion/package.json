@@ -1,40 +1,34 @@
 {
-	"name": "@fontsource/triodion",
-	"version": "5.1.0",
-	"description": "Self-host the Triodion font in a neatly bundled NPM package.",
-	"main": "index.css",
-	"publishConfig": {
-		"access": "public"
-	},
-	"keywords": [
-		"fontsource",
-		"font",
-		"font family",
-		"google fonts",
-		"triodion",
-		"Triodion",
-		"css",
-		"sass",
-		"front-end",
-		"web",
-		"typeface",
-		"variable"
-	],
-	"exports": {
-		".": {
-			"sass": "./index.css",
-			"default": "./index.css"
-		},
-		"./scss": {
-			"sass": "./scss/metadata.scss"
-		}
-	},
-	"author": "Google Inc.",
-	"license": "OFL-1.1",
-	"homepage": "https://fontsource.org/fonts/triodion",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/fontsource/font-files.git",
-		"directory": "fonts/google/triodion"
-	}
+  "name": "@fontsource/triodion",
+  "version": "5.2.0",
+  "description": "Self-host the Triodion font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "triodion",
+    "Triodion",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "exports": {
+    ".": {"sass": "./index.css", "default": "./index.css"},
+    "./scss": {"sass": "./scss/metadata.scss"}
+  },
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/triodion",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/triodion"
+  },
+  "publishHash": "0009be328c248a81"
 }

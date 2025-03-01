@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/style-script",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Style Script font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/style-script"
   },
-  "publishHash": "17344b4b9cd6fb9e"
+  "publishHash": "183ecdeebdf6ba57"
 }

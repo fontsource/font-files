@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dseg7-classic-mini",
-  "version": "5.1.0",
+  "version": "5.2.0",
   "description": "Self-host the DSEG7 Classic Mini font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/dseg7-classic-mini"
   },
-  "publishHash": "4854256ff2d41cd5"
+  "publishHash": "71a2e9f1129d6064"
 }

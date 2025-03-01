@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-pahawh-hmong",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Sans Pahawh Hmong font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-pahawh-hmong"
   },
-  "publishHash": "b2ff8901e0f73500"
+  "publishHash": "5a618b1c024bc732"
 }

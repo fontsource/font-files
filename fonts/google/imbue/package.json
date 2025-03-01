@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/imbue",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Imbue font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/imbue"
   },
-  "publishHash": "16e159d6af84c2a6"
+  "publishHash": "d6d56b9a5942ac51"
 }

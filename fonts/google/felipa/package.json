@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/felipa",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Felipa font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/felipa"
   },
-  "publishHash": "e3da2b02ff0d48ca"
+  "publishHash": "9696b7403cdeefc5"
 }

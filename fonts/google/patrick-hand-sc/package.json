@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/patrick-hand-sc",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Patrick Hand SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/patrick-hand-sc"
   },
-  "publishHash": "5a81780508137e1b"
+  "publishHash": "9ff73f0dba8d5570"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-tai-le",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Sans Tai Le font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-tai-le"
   },
-  "publishHash": "1a0312a411a03c76"
+  "publishHash": "f289d4eeb0b7ccfa"
 }

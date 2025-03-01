@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/kantumruy-pro",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Kantumruy Pro font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/kantumruy-pro"
   },
-  "publishHash": "fad49950bc936ced"
+  "publishHash": "875fd217be248d8e"
 }

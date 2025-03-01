@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/old-standard-tt",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Old Standard TT font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/old-standard-tt"
   },
-  "publishHash": "143f5ccd355bd0c5"
+  "publishHash": "9e3fade4bcddb43e"
 }

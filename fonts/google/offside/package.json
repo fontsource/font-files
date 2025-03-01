@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/offside",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Offside font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/offside"
   },
-  "publishHash": "f168786c6ccb3bf0"
+  "publishHash": "1de57c1061225e13"
 }

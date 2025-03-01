@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kite-one",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Kite One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kite-one"
   },
-  "publishHash": "c5c450cd13d98bc5"
+  "publishHash": "608c60415917b19c"
 }

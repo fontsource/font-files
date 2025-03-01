@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-vn",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Playwrite VN font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-vn"
   },
-  "publishHash": "6ad670a11b0c5aa4"
+  "publishHash": "acb1f5a316c6d431"
 }

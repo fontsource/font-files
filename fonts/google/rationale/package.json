@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rationale",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Rationale font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rationale"
   },
-  "publishHash": "27253e3f2da6ff22"
+  "publishHash": "60fe9c539ef7e102"
 }

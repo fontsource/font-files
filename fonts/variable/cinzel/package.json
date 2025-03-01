@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/cinzel",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Cinzel font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/cinzel"
   },
-  "publishHash": "710befa6c074f04d"
+  "publishHash": "973ee30e29b48bbb"
 }

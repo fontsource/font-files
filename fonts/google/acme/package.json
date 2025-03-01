@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/acme",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Acme font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/acme"
   },
-  "publishHash": "4d27699e1985123c"
+  "publishHash": "913140d4eb722508"
 }

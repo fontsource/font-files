@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kode-mono",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Kode Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kode-mono"
   },
-  "publishHash": "159bed19fb69c8a7"
+  "publishHash": "0c20c4f12f35c9a5"
 }

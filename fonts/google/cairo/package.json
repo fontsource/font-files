@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cairo",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Cairo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cairo"
   },
-  "publishHash": "0cfd3136c3eb2c27"
+  "publishHash": "e49ec87f93cd4cc2"
 }

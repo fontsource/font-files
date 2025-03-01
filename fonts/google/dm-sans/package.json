@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dm-sans",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the DM Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/dm-sans"
   },
-  "publishHash": "44b0b717156e0a86"
+  "publishHash": "0f001f5007fd262f"
 }

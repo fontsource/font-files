@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/marck-script",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Marck Script font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/marck-script"
   },
-  "publishHash": "bfad123c6f86adeb"
+  "publishHash": "028da3b80e7ed8b0"
 }

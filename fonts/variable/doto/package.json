@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/doto",
-  "version": "5.0.1",
+  "version": "5.1.0",
   "description": "Self-host the Doto font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/doto"
   },
-  "publishHash": "8039e2daf960fede"
+  "publishHash": "8293376949b34b34"
 }

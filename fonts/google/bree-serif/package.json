@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bree-serif",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Bree Serif font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bree-serif"
   },
-  "publishHash": "06a354170acbd1bd"
+  "publishHash": "4d98c4f5c2d731bf"
 }

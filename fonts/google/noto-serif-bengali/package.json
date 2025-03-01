@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-bengali",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Serif Bengali font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-bengali"
   },
-  "publishHash": "c2d5e63712868036"
+  "publishHash": "f108938fdf916326"
 }

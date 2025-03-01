@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-buginese",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Sans Buginese font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-buginese"
   },
-  "publishHash": "84a0d730d907838e"
+  "publishHash": "ab66046496ccbf80"
 }

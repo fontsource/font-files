@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/uncut-sans",
-  "version": "5.1.0",
+  "version": "5.2.0",
   "description": "Self-host the Uncut Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/uncut-sans"
   },
-  "publishHash": "76c0fea36d5e4666"
+  "publishHash": "21201460509043fc"
 }

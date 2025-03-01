@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lobster",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Lobster font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lobster"
   },
-  "publishHash": "9adcd5f8a5a29f4e"
+  "publishHash": "3c9863900ec7baf3"
 }

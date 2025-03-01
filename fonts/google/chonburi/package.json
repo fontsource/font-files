@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/chonburi",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Chonburi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/chonburi"
   },
-  "publishHash": "ead57afc360e2889"
+  "publishHash": "e2edc974b8fdb96a"
 }

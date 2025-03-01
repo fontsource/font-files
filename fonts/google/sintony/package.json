@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sintony",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Sintony font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sintony"
   },
-  "publishHash": "d80de65bc959a40f"
+  "publishHash": "b5620e8ba45f0058"
 }

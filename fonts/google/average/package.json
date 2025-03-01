@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/average",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Average font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/average"
   },
-  "publishHash": "68855c0dddfa4bb5"
+  "publishHash": "f90ac5d971a37683"
 }

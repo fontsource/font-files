@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/zilla-slab-highlight",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Zilla Slab Highlight font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/zilla-slab-highlight"
   },
-  "publishHash": "d0c0085d6240d207"
+  "publishHash": "42903740119b6ec0"
 }

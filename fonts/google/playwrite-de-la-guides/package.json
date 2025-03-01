@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-de-la-guides",
-  "version": "5.0.1",
+  "version": "5.1.0",
   "description": "Self-host the Playwrite DE LA Guides font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-de-la-guides"
   },
-  "publishHash": "31b20c2447005cbb"
+  "publishHash": "02523973f701862b"
 }

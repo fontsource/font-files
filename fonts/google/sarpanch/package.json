@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sarpanch",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Sarpanch font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sarpanch"
   },
-  "publishHash": "c2382a743ea445f2"
+  "publishHash": "78e22743b8dd3550"
 }

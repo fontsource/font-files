@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fusion-pixel-12px-proportional-sc",
-  "version": "5.0.1",
+  "version": "5.1.0",
   "description": "Self-host the Fusion Pixel 12px Proportional SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/fusion-pixel-12px-proportional-sc"
   },
-  "publishHash": "3b27081d1d9e9aa2"
+  "publishHash": "f1e6c95f21bd2ef6"
 }

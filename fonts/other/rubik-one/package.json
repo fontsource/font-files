@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rubik-one",
-  "version": "5.1.0",
+  "version": "5.2.0",
   "description": "Self-host the Rubik One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/rubik-one"
   },
-  "publishHash": "5e5a738b91f66ca0"
+  "publishHash": "4298be94136dd0b4"
 }

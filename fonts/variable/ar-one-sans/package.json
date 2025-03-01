@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/ar-one-sans",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the AR One Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/ar-one-sans"
   },
-  "publishHash": "ae30358a176b77e0"
+  "publishHash": "4eb8b2304ec89719"
 }

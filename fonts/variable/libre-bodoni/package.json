@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/libre-bodoni",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Libre Bodoni font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/libre-bodoni"
   },
-  "publishHash": "528e2b4fa25b00b8"
+  "publishHash": "c72027fa7a5a86a1"
 }

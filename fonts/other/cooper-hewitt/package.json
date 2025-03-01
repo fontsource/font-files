@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cooper-hewitt",
-  "version": "5.1.0",
+  "version": "5.2.0",
   "description": "Self-host the Cooper Hewitt font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/cooper-hewitt"
   },
-  "publishHash": "9659dc1f19ea0094"
+  "publishHash": "edff59b23c70e8ac"
 }

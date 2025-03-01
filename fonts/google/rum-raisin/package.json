@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rum-raisin",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Rum Raisin font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rum-raisin"
   },
-  "publishHash": "beb8cba380c22856"
+  "publishHash": "831ba4db309eb09a"
 }

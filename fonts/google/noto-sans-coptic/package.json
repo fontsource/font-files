@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-coptic",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Sans Coptic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-coptic"
   },
-  "publishHash": "b6b72d5e116e0917"
+  "publishHash": "261f653e2658368c"
 }

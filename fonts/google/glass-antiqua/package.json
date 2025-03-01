@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/glass-antiqua",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Glass Antiqua font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/glass-antiqua"
   },
-  "publishHash": "4c610704750d3835"
+  "publishHash": "474fb9c5904e89ec"
 }

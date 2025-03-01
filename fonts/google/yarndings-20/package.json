@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/yarndings-20",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Yarndings 20 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/yarndings-20"
   },
-  "publishHash": "afc218872db34966"
+  "publishHash": "7ee5284617ba8e62"
 }

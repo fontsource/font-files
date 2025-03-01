@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/yellowtail",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Yellowtail font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/yellowtail"
   },
-  "publishHash": "2464533428ea9b87"
+  "publishHash": "3be6aecc25c77136"
 }

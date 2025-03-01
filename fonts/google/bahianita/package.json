@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bahianita",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Bahianita font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bahianita"
   },
-  "publishHash": "a92ce855a05a359c"
+  "publishHash": "5e11630191d29c7f"
 }

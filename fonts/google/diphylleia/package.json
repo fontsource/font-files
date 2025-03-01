@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/diphylleia",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Diphylleia font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/diphylleia"
   },
-  "publishHash": "f4bed84f3a8f032d"
+  "publishHash": "dae3ccc83cb9a977"
 }

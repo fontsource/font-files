@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/blaka-ink",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Blaka Ink font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/blaka-ink"
   },
-  "publishHash": "799ea24e064ca774"
+  "publishHash": "3f6ed00dd791eaaf"
 }

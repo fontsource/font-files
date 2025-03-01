@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/borel",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Borel font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/borel"
   },
-  "publishHash": "14127426a6a56c81"
+  "publishHash": "288425c9a32e01cf"
 }

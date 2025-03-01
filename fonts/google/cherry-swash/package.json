@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cherry-swash",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Cherry Swash font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cherry-swash"
   },
-  "publishHash": "d26ae36ecb0bd087"
+  "publishHash": "ac6a95b684dbd539"
 }

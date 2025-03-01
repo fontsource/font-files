@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/public-sans",
-  "version": "5.1.2",
+  "version": "5.2.0",
   "description": "Self-host the Public Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/public-sans"
   },
-  "publishHash": "145c2a76ca7552f9"
+  "publishHash": "5011e42bc695566b"
 }

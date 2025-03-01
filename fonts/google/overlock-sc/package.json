@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/overlock-sc",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Overlock SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/overlock-sc"
   },
-  "publishHash": "5935ccaf88b0afd4"
+  "publishHash": "521cd60d96762c63"
 }

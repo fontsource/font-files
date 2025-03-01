@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/spicy-rice",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Spicy Rice font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/spicy-rice"
   },
-  "publishHash": "52f6cd53504d2d00"
+  "publishHash": "ca0748191fbebc3e"
 }

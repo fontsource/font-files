@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/signika-negative",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Signika Negative font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/signika-negative"
   },
-  "publishHash": "8696c416657fff78"
+  "publishHash": "2b517f166640e18b"
 }

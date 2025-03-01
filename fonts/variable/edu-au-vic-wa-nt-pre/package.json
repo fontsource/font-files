@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/edu-au-vic-wa-nt-pre",
-  "version": "5.0.1",
+  "version": "5.1.0",
   "description": "Self-host the Edu AU VIC WA NT Pre font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/edu-au-vic-wa-nt-pre"
   },
-  "publishHash": "3bef3e6e3fc02dcc"
+  "publishHash": "6f8b733e78514b88"
 }

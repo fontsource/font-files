@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-masaram-gondi",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Sans Masaram Gondi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-masaram-gondi"
   },
-  "publishHash": "39664e1f61d42826"
+  "publishHash": "836b7acc8766bbf0"
 }

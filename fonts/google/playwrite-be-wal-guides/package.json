@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-be-wal-guides",
-  "version": "5.0.1",
+  "version": "5.1.0",
   "description": "Self-host the Playwrite BE WAL Guides font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-be-wal-guides"
   },
-  "publishHash": "30f2d371eafab26d"
+  "publishHash": "346a785ef91b5f97"
 }

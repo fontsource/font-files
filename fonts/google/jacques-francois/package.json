@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/jacques-francois",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Jacques Francois font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/jacques-francois"
   },
-  "publishHash": "607cea0ebf577f79"
+  "publishHash": "e1e9b0cd05a95861"
 }

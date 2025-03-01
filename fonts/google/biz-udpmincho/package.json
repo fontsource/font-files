@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/biz-udpmincho",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the BIZ UDPMincho font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/biz-udpmincho"
   },
-  "publishHash": "10828bb7eefff2b7"
+  "publishHash": "91d8496dfea7dc36"
 }

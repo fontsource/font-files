@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/outfit",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Outfit font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/outfit"
   },
-  "publishHash": "c1d488b0aff0dd12"
+  "publishHash": "0e2bf68a692726b6"
 }

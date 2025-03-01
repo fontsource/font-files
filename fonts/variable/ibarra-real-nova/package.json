@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/ibarra-real-nova",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Ibarra Real Nova font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/ibarra-real-nova"
   },
-  "publishHash": "6d7484c234e15c43"
+  "publishHash": "bbbcf68c4972d5d6"
 }

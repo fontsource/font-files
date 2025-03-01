@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-mahajani",
-  "version": "5.1.1",
+  "version": "5.2.0",
   "description": "Self-host the Noto Sans Mahajani font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -30,5 +30,5 @@
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-mahajani"
   },
-  "publishHash": "9c5f9a5cfff55d78"
+  "publishHash": "dff41d0f638c1e4b"
 }
