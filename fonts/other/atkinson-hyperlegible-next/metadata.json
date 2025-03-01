@@ -1,6 +1,6 @@
 {
   "id": "atkinson-hyperlegible-next",
-  "family": "atkinson-hyperlegible-next",
+  "family": "Atkinson Hyperlegible Next",
   "subsets": ["latin"],
   "weights": [200, 300, 400, 500, 600, 700, 800],
   "styles": ["normal", "italic"],
