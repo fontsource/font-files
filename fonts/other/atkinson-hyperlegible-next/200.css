@@ -1,0 +1,8 @@
+/* atkinson-hyperlegible-next-latin-200-normal */
+@font-face {
+  font-family: 'atkinson-hyperlegible-next';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: url(./files/atkinson-hyperlegible-next-latin-200-normal.woff2) format('woff2'), url(./files/atkinson-hyperlegible-next-latin-200-normal.woff) format('woff');
+}
