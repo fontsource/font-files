@@ -1,33 +1,40 @@
 {
-  "name": "@fontsource/noto-serif-todhri",
-  "version": "5.2.0",
-  "description": "Self-host the Noto Serif Todhri font in a neatly bundled NPM package.",
-  "main": "index.css",
-  "publishConfig": {"access": "public"},
-  "keywords": [
-    "fontsource",
-    "font",
-    "font family",
-    "google fonts",
-    "noto-serif-todhri",
-    "Noto Serif Todhri",
-    "css",
-    "sass",
-    "front-end",
-    "web",
-    "typeface",
-    "variable"
-  ],
-  "exports": {
-    ".": {"sass": "./index.css", "default": "./index.css"},
-    "./scss": {"sass": "./scss/metadata.scss"}
-  },
-  "author": "Google Inc.",
-  "license": "OFL-1.1",
-  "homepage": "https://fontsource.org/fonts/noto-serif-todhri",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fontsource/font-files.git",
-    "directory": "fonts/google/noto-serif-todhri"
-  }
+	"name": "@fontsource/noto-serif-todhri",
+	"version": "5.1.0",
+	"description": "Self-host the Noto Serif Todhri font in a neatly bundled NPM package.",
+	"main": "index.css",
+	"publishConfig": {
+		"access": "public"
+	},
+	"keywords": [
+		"fontsource",
+		"font",
+		"font family",
+		"google fonts",
+		"noto-serif-todhri",
+		"Noto Serif Todhri",
+		"css",
+		"sass",
+		"front-end",
+		"web",
+		"typeface",
+		"variable"
+	],
+	"exports": {
+		".": {
+			"sass": "./index.css",
+			"default": "./index.css"
+		},
+		"./scss": {
+			"sass": "./scss/metadata.scss"
+		}
+	},
+	"author": "Google Inc.",
+	"license": "OFL-1.1",
+	"homepage": "https://fontsource.org/fonts/noto-serif-todhri",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fontsource/font-files.git",
+		"directory": "fonts/google/noto-serif-todhri"
+	}
 }
