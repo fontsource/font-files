@@ -1,7 +1,7 @@
 {
   "name": "@fontsource/atkinson-hyperlegible-next",
   "version": "5.2.0",
-  "description": "Self-host the atkinson-hyperlegible-next font in a neatly bundled NPM package.",
+  "description": "Self-host the Atkinson Hyperlegible Next font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
   "keywords": [
@@ -10,7 +10,7 @@
     "font family",
     "google fonts",
     "atkinson-hyperlegible-next",
-    "atkinson-hyperlegible-next",
+    "Atkinson Hyperlegible Next",
     "css",
     "sass",
     "front-end",
