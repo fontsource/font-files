@@ -36,7 +36,7 @@ jobs:
         run: bunx fontsource build --force
 
       - name: Generate fontlist
-        run: bun run fontlistƒ
+        run: bun run fontlist
 
       - name: Save GFM metadata
         run: bun run gfm-metadata
