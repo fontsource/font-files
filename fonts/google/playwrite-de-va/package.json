@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-de-va",
-  "version": "5.2.4",
+  "version": "5.2.5",
   "description": "Self-host the Playwrite DE VA font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},

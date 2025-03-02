@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tiny5",
-  "version": "5.2.4",
+  "version": "5.2.5",
   "description": "Self-host the Tiny5 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},

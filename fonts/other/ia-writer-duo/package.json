@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ia-writer-duo",
-  "version": "5.2.4",
+  "version": "5.2.5",
   "description": "Self-host the iA Writer Duo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
