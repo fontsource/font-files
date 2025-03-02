@@ -1,34 +1,41 @@
 {
-  "name": "@fontsource/audiowide",
-  "version": "5.2.1",
-  "description": "Self-host the Audiowide font in a neatly bundled NPM package.",
-  "main": "index.css",
-  "publishConfig": {"access": "public"},
-  "keywords": [
-    "fontsource",
-    "font",
-    "font family",
-    "google fonts",
-    "audiowide",
-    "Audiowide",
-    "css",
-    "sass",
-    "front-end",
-    "web",
-    "typeface",
-    "variable"
-  ],
-  "exports": {
-    ".": {"sass": "./index.css", "default": "./index.css"},
-    "./scss": {"sass": "./scss/metadata.scss"}
-  },
-  "author": "Google Inc.",
-  "license": "OFL-1.1",
-  "homepage": "https://fontsource.org/fonts/audiowide",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fontsource/font-files.git",
-    "directory": "fonts/google/audiowide"
-  },
-  "publishHash": "25f86a2c6304241d"
+	"name": "@fontsource/audiowide",
+	"version": "5.2.3",
+	"description": "Self-host the Audiowide font in a neatly bundled NPM package.",
+	"main": "index.css",
+	"publishConfig": {
+		"access": "public"
+	},
+	"keywords": [
+		"fontsource",
+		"font",
+		"font family",
+		"google fonts",
+		"audiowide",
+		"Audiowide",
+		"css",
+		"sass",
+		"front-end",
+		"web",
+		"typeface",
+		"variable"
+	],
+	"exports": {
+		".": {
+			"sass": "./index.css",
+			"default": "./index.css"
+		},
+		"./scss": {
+			"sass": "./scss/metadata.scss"
+		}
+	},
+	"author": "Google Inc.",
+	"license": "OFL-1.1",
+	"homepage": "https://fontsource.org/fonts/audiowide",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fontsource/font-files.git",
+		"directory": "fonts/google/audiowide"
+	},
+	"publishHash": "25f86a2c6304241d"
 }

@@ -1,34 +1,41 @@
 {
-  "name": "@fontsource/balsamiq-sans",
-  "version": "5.2.1",
-  "description": "Self-host the Balsamiq Sans font in a neatly bundled NPM package.",
-  "main": "index.css",
-  "publishConfig": {"access": "public"},
-  "keywords": [
-    "fontsource",
-    "font",
-    "font family",
-    "google fonts",
-    "balsamiq-sans",
-    "Balsamiq Sans",
-    "css",
-    "sass",
-    "front-end",
-    "web",
-    "typeface",
-    "variable"
-  ],
-  "exports": {
-    ".": {"sass": "./index.css", "default": "./index.css"},
-    "./scss": {"sass": "./scss/metadata.scss"}
-  },
-  "author": "Google Inc.",
-  "license": "OFL-1.1",
-  "homepage": "https://fontsource.org/fonts/balsamiq-sans",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fontsource/font-files.git",
-    "directory": "fonts/google/balsamiq-sans"
-  },
-  "publishHash": "27cc08dcd999c6b1"
+	"name": "@fontsource/balsamiq-sans",
+	"version": "5.2.3",
+	"description": "Self-host the Balsamiq Sans font in a neatly bundled NPM package.",
+	"main": "index.css",
+	"publishConfig": {
+		"access": "public"
+	},
+	"keywords": [
+		"fontsource",
+		"font",
+		"font family",
+		"google fonts",
+		"balsamiq-sans",
+		"Balsamiq Sans",
+		"css",
+		"sass",
+		"front-end",
+		"web",
+		"typeface",
+		"variable"
+	],
+	"exports": {
+		".": {
+			"sass": "./index.css",
+			"default": "./index.css"
+		},
+		"./scss": {
+			"sass": "./scss/metadata.scss"
+		}
+	},
+	"author": "Google Inc.",
+	"license": "OFL-1.1",
+	"homepage": "https://fontsource.org/fonts/balsamiq-sans",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fontsource/font-files.git",
+		"directory": "fonts/google/balsamiq-sans"
+	},
+	"publishHash": "27cc08dcd999c6b1"
 }

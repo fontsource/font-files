@@ -1,34 +1,41 @@
 {
-  "name": "@fontsource/aref-ruqaa-ink",
-  "version": "5.2.1",
-  "description": "Self-host the Aref Ruqaa Ink font in a neatly bundled NPM package.",
-  "main": "index.css",
-  "publishConfig": {"access": "public"},
-  "keywords": [
-    "fontsource",
-    "font",
-    "font family",
-    "google fonts",
-    "aref-ruqaa-ink",
-    "Aref Ruqaa Ink",
-    "css",
-    "sass",
-    "front-end",
-    "web",
-    "typeface",
-    "variable"
-  ],
-  "exports": {
-    ".": {"sass": "./index.css", "default": "./index.css"},
-    "./scss": {"sass": "./scss/metadata.scss"}
-  },
-  "author": "Google Inc.",
-  "license": "OFL-1.1",
-  "homepage": "https://fontsource.org/fonts/aref-ruqaa-ink",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fontsource/font-files.git",
-    "directory": "fonts/google/aref-ruqaa-ink"
-  },
-  "publishHash": "c325f61ca7b243d1"
+	"name": "@fontsource/aref-ruqaa-ink",
+	"version": "5.2.3",
+	"description": "Self-host the Aref Ruqaa Ink font in a neatly bundled NPM package.",
+	"main": "index.css",
+	"publishConfig": {
+		"access": "public"
+	},
+	"keywords": [
+		"fontsource",
+		"font",
+		"font family",
+		"google fonts",
+		"aref-ruqaa-ink",
+		"Aref Ruqaa Ink",
+		"css",
+		"sass",
+		"front-end",
+		"web",
+		"typeface",
+		"variable"
+	],
+	"exports": {
+		".": {
+			"sass": "./index.css",
+			"default": "./index.css"
+		},
+		"./scss": {
+			"sass": "./scss/metadata.scss"
+		}
+	},
+	"author": "Google Inc.",
+	"license": "OFL-1.1",
+	"homepage": "https://fontsource.org/fonts/aref-ruqaa-ink",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fontsource/font-files.git",
+		"directory": "fonts/google/aref-ruqaa-ink"
+	},
+	"publishHash": "c325f61ca7b243d1"
 }

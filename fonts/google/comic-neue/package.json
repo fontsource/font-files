@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/comic-neue",
-  "version": "5.2.1",
+  "version": "5.2.3",
   "description": "Self-host the Comic Neue font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},

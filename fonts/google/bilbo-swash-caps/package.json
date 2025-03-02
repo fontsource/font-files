@@ -1,34 +1,41 @@
 {
-  "name": "@fontsource/bilbo-swash-caps",
-  "version": "5.2.1",
-  "description": "Self-host the Bilbo Swash Caps font in a neatly bundled NPM package.",
-  "main": "index.css",
-  "publishConfig": {"access": "public"},
-  "keywords": [
-    "fontsource",
-    "font",
-    "font family",
-    "google fonts",
-    "bilbo-swash-caps",
-    "Bilbo Swash Caps",
-    "css",
-    "sass",
-    "front-end",
-    "web",
-    "typeface",
-    "variable"
-  ],
-  "exports": {
-    ".": {"sass": "./index.css", "default": "./index.css"},
-    "./scss": {"sass": "./scss/metadata.scss"}
-  },
-  "author": "Google Inc.",
-  "license": "OFL-1.1",
-  "homepage": "https://fontsource.org/fonts/bilbo-swash-caps",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fontsource/font-files.git",
-    "directory": "fonts/google/bilbo-swash-caps"
-  },
-  "publishHash": "994eece41070feff"
+	"name": "@fontsource/bilbo-swash-caps",
+	"version": "5.2.3",
+	"description": "Self-host the Bilbo Swash Caps font in a neatly bundled NPM package.",
+	"main": "index.css",
+	"publishConfig": {
+		"access": "public"
+	},
+	"keywords": [
+		"fontsource",
+		"font",
+		"font family",
+		"google fonts",
+		"bilbo-swash-caps",
+		"Bilbo Swash Caps",
+		"css",
+		"sass",
+		"front-end",
+		"web",
+		"typeface",
+		"variable"
+	],
+	"exports": {
+		".": {
+			"sass": "./index.css",
+			"default": "./index.css"
+		},
+		"./scss": {
+			"sass": "./scss/metadata.scss"
+		}
+	},
+	"author": "Google Inc.",
+	"license": "OFL-1.1",
+	"homepage": "https://fontsource.org/fonts/bilbo-swash-caps",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fontsource/font-files.git",
+		"directory": "fonts/google/bilbo-swash-caps"
+	},
+	"publishHash": "994eece41070feff"
 }

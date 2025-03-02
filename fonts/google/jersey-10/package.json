@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/jersey-10",
-  "version": "5.2.1",
+  "version": "5.2.3",
   "description": "Self-host the Jersey 10 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},

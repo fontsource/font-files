@@ -1,34 +1,41 @@
 {
-  "name": "@fontsource/fusion-pixel-8px-monospaced-sc",
-  "version": "5.1.0",
-  "description": "Self-host the Fusion Pixel 8px Monospaced SC font in a neatly bundled NPM package.",
-  "main": "index.css",
-  "publishConfig": {"access": "public"},
-  "keywords": [
-    "fontsource",
-    "font",
-    "font family",
-    "google fonts",
-    "fusion-pixel-8px-monospaced-sc",
-    "Fusion Pixel 8px Monospaced SC",
-    "css",
-    "sass",
-    "front-end",
-    "web",
-    "typeface",
-    "variable"
-  ],
-  "exports": {
-    ".": {"sass": "./index.css", "default": "./index.css"},
-    "./scss": {"sass": "./scss/metadata.scss"}
-  },
-  "author": "TakWolf (https://takwolf.com)",
-  "license": "OFL-1.1",
-  "homepage": "https://fontsource.org/fonts/fusion-pixel-8px-monospaced-sc",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fontsource/font-files.git",
-    "directory": "fonts/other/fusion-pixel-8px-monospaced-sc"
-  },
-  "publishHash": "437ce80d8635df10"
+	"name": "@fontsource/fusion-pixel-8px-monospaced-sc",
+	"version": "5.2.3",
+	"description": "Self-host the Fusion Pixel 8px Monospaced SC font in a neatly bundled NPM package.",
+	"main": "index.css",
+	"publishConfig": {
+		"access": "public"
+	},
+	"keywords": [
+		"fontsource",
+		"font",
+		"font family",
+		"google fonts",
+		"fusion-pixel-8px-monospaced-sc",
+		"Fusion Pixel 8px Monospaced SC",
+		"css",
+		"sass",
+		"front-end",
+		"web",
+		"typeface",
+		"variable"
+	],
+	"exports": {
+		".": {
+			"sass": "./index.css",
+			"default": "./index.css"
+		},
+		"./scss": {
+			"sass": "./scss/metadata.scss"
+		}
+	},
+	"author": "TakWolf (https://takwolf.com)",
+	"license": "OFL-1.1",
+	"homepage": "https://fontsource.org/fonts/fusion-pixel-8px-monospaced-sc",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fontsource/font-files.git",
+		"directory": "fonts/other/fusion-pixel-8px-monospaced-sc"
+	},
+	"publishHash": "437ce80d8635df10"
 }

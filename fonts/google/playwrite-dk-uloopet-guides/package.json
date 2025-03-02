@@ -1,34 +1,41 @@
 {
-  "name": "@fontsource/playwrite-dk-uloopet-guides",
-  "version": "5.1.0",
-  "description": "Self-host the Playwrite DK Uloopet Guides font in a neatly bundled NPM package.",
-  "main": "index.css",
-  "publishConfig": {"access": "public"},
-  "keywords": [
-    "fontsource",
-    "font",
-    "font family",
-    "google fonts",
-    "playwrite-dk-uloopet-guides",
-    "Playwrite DK Uloopet Guides",
-    "css",
-    "sass",
-    "front-end",
-    "web",
-    "typeface",
-    "variable"
-  ],
-  "exports": {
-    ".": {"sass": "./index.css", "default": "./index.css"},
-    "./scss": {"sass": "./scss/metadata.scss"}
-  },
-  "author": "Google Inc.",
-  "license": "OFL-1.1",
-  "homepage": "https://fontsource.org/fonts/playwrite-dk-uloopet-guides",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fontsource/font-files.git",
-    "directory": "fonts/google/playwrite-dk-uloopet-guides"
-  },
-  "publishHash": "0ac31dc40f8203c1"
+	"name": "@fontsource/playwrite-dk-uloopet-guides",
+	"version": "5.2.3",
+	"description": "Self-host the Playwrite DK Uloopet Guides font in a neatly bundled NPM package.",
+	"main": "index.css",
+	"publishConfig": {
+		"access": "public"
+	},
+	"keywords": [
+		"fontsource",
+		"font",
+		"font family",
+		"google fonts",
+		"playwrite-dk-uloopet-guides",
+		"Playwrite DK Uloopet Guides",
+		"css",
+		"sass",
+		"front-end",
+		"web",
+		"typeface",
+		"variable"
+	],
+	"exports": {
+		".": {
+			"sass": "./index.css",
+			"default": "./index.css"
+		},
+		"./scss": {
+			"sass": "./scss/metadata.scss"
+		}
+	},
+	"author": "Google Inc.",
+	"license": "OFL-1.1",
+	"homepage": "https://fontsource.org/fonts/playwrite-dk-uloopet-guides",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fontsource/font-files.git",
+		"directory": "fonts/google/playwrite-dk-uloopet-guides"
+	},
+	"publishHash": "0ac31dc40f8203c1"
 }
