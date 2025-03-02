@@ -16,7 +16,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"@fontsource-utils/cli": "0.6.6",
-		"@fontsource-utils/publish": "^0.3.1",
+		"@fontsource-utils/publish": "^0.3.2",
 		"@types/node": "^22.13.8",
 		"algoliasearch": "4.24.0",
 		"consola": "^3.4.0",
