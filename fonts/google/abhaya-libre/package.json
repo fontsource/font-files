@@ -1,41 +1,40 @@
 {
-	"name": "@fontsource/abhaya-libre",
-	"version": "5.2.3",
-	"description": "Self-host the Abhaya Libre font in a neatly bundled NPM package.",
-	"main": "index.css",
-	"publishConfig": {
-		"access": "public"
-	},
-	"keywords": [
-		"fontsource",
-		"font",
-		"font family",
-		"google fonts",
-		"abhaya-libre",
-		"Abhaya Libre",
-		"css",
-		"sass",
-		"front-end",
-		"web",
-		"typeface",
-		"variable"
-	],
-	"exports": {
-		".": {
-			"sass": "./index.css",
-			"default": "./index.css"
-		},
-		"./scss": {
-			"sass": "./scss/metadata.scss"
-		}
-	},
-	"author": "Google Inc.",
-	"license": "OFL-1.1",
-	"homepage": "https://fontsource.org/fonts/abhaya-libre",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/fontsource/font-files.git",
-		"directory": "fonts/google/abhaya-libre"
-	},
-	"publishHash": "6e29b1d3fa993af5"
+  "name": "@fontsource/abhaya-libre",
+  "version": "5.2.4",
+  "description": "Self-host the Abhaya Libre font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "abhaya-libre",
+    "Abhaya Libre",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "exports": {
+    ".": {"sass": "./index.css", "default": "./index.css"},
+    "./*": {"sass": "./*.css", "default": "./*.css"},
+    "./files/*": {"sass": "./files/*", "default": "./files/*"},
+    "./package.json": "./package.json",
+    "./metadata.json": "./metadata.json",
+    "./unicode.json": "./unicode.json",
+    "./scss": {"sass": "./scss/metadata.scss"}
+  },
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/abhaya-libre",
+  "funding": "https://github.com/sponsors/ayuhito",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/abhaya-libre"
+  },
+  "publishHash": "6e29b1d3fa993af5"
 }

@@ -1,41 +1,40 @@
 {
-	"name": "@fontsource/brawler",
-	"version": "5.2.3",
-	"description": "Self-host the Brawler font in a neatly bundled NPM package.",
-	"main": "index.css",
-	"publishConfig": {
-		"access": "public"
-	},
-	"keywords": [
-		"fontsource",
-		"font",
-		"font family",
-		"google fonts",
-		"brawler",
-		"Brawler",
-		"css",
-		"sass",
-		"front-end",
-		"web",
-		"typeface",
-		"variable"
-	],
-	"exports": {
-		".": {
-			"sass": "./index.css",
-			"default": "./index.css"
-		},
-		"./scss": {
-			"sass": "./scss/metadata.scss"
-		}
-	},
-	"author": "Google Inc.",
-	"license": "OFL-1.1",
-	"homepage": "https://fontsource.org/fonts/brawler",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/fontsource/font-files.git",
-		"directory": "fonts/google/brawler"
-	},
-	"publishHash": "0e794dbacd683f67"
+  "name": "@fontsource/brawler",
+  "version": "5.2.4",
+  "description": "Self-host the Brawler font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "brawler",
+    "Brawler",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "exports": {
+    ".": {"sass": "./index.css", "default": "./index.css"},
+    "./*": {"sass": "./*.css", "default": "./*.css"},
+    "./files/*": {"sass": "./files/*", "default": "./files/*"},
+    "./package.json": "./package.json",
+    "./metadata.json": "./metadata.json",
+    "./unicode.json": "./unicode.json",
+    "./scss": {"sass": "./scss/metadata.scss"}
+  },
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/brawler",
+  "funding": "https://github.com/sponsors/ayuhito",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/brawler"
+  },
+  "publishHash": "0e794dbacd683f67"
 }

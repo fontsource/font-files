@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/flavors",
-  "version": "5.2.3",
+  "version": "5.2.4",
   "description": "Self-host the Flavors font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -20,14 +20,20 @@
   ],
   "exports": {
     ".": {"sass": "./index.css", "default": "./index.css"},
+    "./*": {"sass": "./*.css", "default": "./*.css"},
+    "./files/*": {"sass": "./files/*", "default": "./files/*"},
+    "./package.json": "./package.json",
+    "./metadata.json": "./metadata.json",
+    "./unicode.json": "./unicode.json",
     "./scss": {"sass": "./scss/metadata.scss"}
   },
   "author": "Google Inc.",
   "license": "OFL-1.1",
   "homepage": "https://fontsource.org/fonts/flavors",
+  "funding": "https://github.com/sponsors/ayuhito",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fontsource/font-files.git",
+    "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/flavors"
   },
   "publishHash": "07bbafd00b6dd9eb"

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/pitagon-sans-mono",
-  "version": "5.2.3",
+  "version": "5.2.4",
   "description": "Self-host the Pitagon Sans Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -20,14 +20,20 @@
   ],
   "exports": {
     ".": {"sass": "./index.css", "default": "./index.css"},
+    "./*": {"sass": "./*.css", "default": "./*.css"},
+    "./files/*": {"sass": "./files/*", "default": "./files/*"},
+    "./package.json": "./package.json",
+    "./metadata.json": "./metadata.json",
+    "./unicode.json": "./unicode.json",
     "./scss": {"sass": "./scss/metadata.scss"}
   },
   "author": "Travis Tran & Pitagon",
   "license": "OFL-1.1",
   "homepage": "https://fontsource.org/fonts/pitagon-sans-mono",
+  "funding": "https://github.com/sponsors/ayuhito",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fontsource/font-files.git",
+    "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/pitagon-sans-mono"
   },
   "publishHash": "5db974e9c60cbdd3"
