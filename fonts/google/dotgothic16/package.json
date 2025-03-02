@@ -1,34 +1,41 @@
 {
-  "name": "@fontsource/dotgothic16",
-  "version": "5.2.0",
-  "description": "Self-host the DotGothic16 font in a neatly bundled NPM package.",
-  "main": "index.css",
-  "publishConfig": {"access": "public"},
-  "keywords": [
-    "fontsource",
-    "font",
-    "font family",
-    "google fonts",
-    "dotgothic16",
-    "DotGothic16",
-    "css",
-    "sass",
-    "front-end",
-    "web",
-    "typeface",
-    "variable"
-  ],
-  "exports": {
-    ".": {"sass": "./index.css", "default": "./index.css"},
-    "./scss": {"sass": "./scss/metadata.scss"}
-  },
-  "author": "Google Inc.",
-  "license": "OFL-1.1",
-  "homepage": "https://fontsource.org/fonts/dotgothic16",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fontsource/font-files.git",
-    "directory": "fonts/google/dotgothic16"
-  },
-  "publishHash": "0a91a0a76071fbd1"
+	"name": "@fontsource/dotgothic16",
+	"version": "5.2.1",
+	"description": "Self-host the DotGothic16 font in a neatly bundled NPM package.",
+	"main": "index.css",
+	"publishConfig": {
+		"access": "public"
+	},
+	"keywords": [
+		"fontsource",
+		"font",
+		"font family",
+		"google fonts",
+		"dotgothic16",
+		"DotGothic16",
+		"css",
+		"sass",
+		"front-end",
+		"web",
+		"typeface",
+		"variable"
+	],
+	"exports": {
+		".": {
+			"sass": "./index.css",
+			"default": "./index.css"
+		},
+		"./scss": {
+			"sass": "./scss/metadata.scss"
+		}
+	},
+	"author": "Google Inc.",
+	"license": "OFL-1.1",
+	"homepage": "https://fontsource.org/fonts/dotgothic16",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fontsource/font-files.git",
+		"directory": "fonts/google/dotgothic16"
+	},
+	"publishHash": "0a91a0a76071fbd1"
 }

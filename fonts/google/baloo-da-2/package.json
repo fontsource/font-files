@@ -1,34 +1,41 @@
 {
-  "name": "@fontsource/baloo-da-2",
-  "version": "5.2.0",
-  "description": "Self-host the Baloo Da 2 font in a neatly bundled NPM package.",
-  "main": "index.css",
-  "publishConfig": {"access": "public"},
-  "keywords": [
-    "fontsource",
-    "font",
-    "font family",
-    "google fonts",
-    "baloo-da-2",
-    "Baloo Da 2",
-    "css",
-    "sass",
-    "front-end",
-    "web",
-    "typeface",
-    "variable"
-  ],
-  "exports": {
-    ".": {"sass": "./index.css", "default": "./index.css"},
-    "./scss": {"sass": "./scss/metadata.scss"}
-  },
-  "author": "Google Inc.",
-  "license": "OFL-1.1",
-  "homepage": "https://fontsource.org/fonts/baloo-da-2",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fontsource/font-files.git",
-    "directory": "fonts/google/baloo-da-2"
-  },
-  "publishHash": "3fcc5a19b2cc5f94"
+	"name": "@fontsource/baloo-da-2",
+	"version": "5.2.1",
+	"description": "Self-host the Baloo Da 2 font in a neatly bundled NPM package.",
+	"main": "index.css",
+	"publishConfig": {
+		"access": "public"
+	},
+	"keywords": [
+		"fontsource",
+		"font",
+		"font family",
+		"google fonts",
+		"baloo-da-2",
+		"Baloo Da 2",
+		"css",
+		"sass",
+		"front-end",
+		"web",
+		"typeface",
+		"variable"
+	],
+	"exports": {
+		".": {
+			"sass": "./index.css",
+			"default": "./index.css"
+		},
+		"./scss": {
+			"sass": "./scss/metadata.scss"
+		}
+	},
+	"author": "Google Inc.",
+	"license": "OFL-1.1",
+	"homepage": "https://fontsource.org/fonts/baloo-da-2",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fontsource/font-files.git",
+		"directory": "fonts/google/baloo-da-2"
+	},
+	"publishHash": "3fcc5a19b2cc5f94"
 }

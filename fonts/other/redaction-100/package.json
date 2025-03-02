@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/redaction-100",
-  "version": "5.2.0",
+  "version": "5.2.1",
   "description": "Self-host the Redaction 100 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
