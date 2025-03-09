@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/amiri-quran",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Amiri Quran font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -42,5 +42,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/amiri-quran"
   },
-  "publishHash": "eb382a2e28d6f5e0"
+  "publishHash": "46ee11c412c86e96"
 }

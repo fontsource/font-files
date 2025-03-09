@@ -11,8 +11,8 @@
     "XELA": {"default": "0", "min": "-100", "max": "100", "step": "1"},
     "YELA": {"default": "0", "min": "-100", "max": "100", "step": "1"}
   },
-  "lastModified": "2024-09-30",
-  "version": "v1",
+  "lastModified": "2025-03-03",
+  "version": "v4",
   "category": "monospace",
   "license": {
     "type": "OFL-1.1",

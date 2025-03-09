@@ -1,0 +1,8 @@
+/* iansui-latin-400-normal */
+@font-face {
+  font-family: 'Iansui';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/iansui-latin-400-normal.woff2) format('woff2'), url(./files/iansui-latin-400-normal.woff) format('woff');
+}

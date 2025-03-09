@@ -1,0 +1,19 @@
+{
+  "id": "iansui",
+  "family": "Iansui",
+  "subsets": ["chinese-hongkong", "latin", "latin-ext", "symbols2"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-03-04",
+  "version": "v2",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}
