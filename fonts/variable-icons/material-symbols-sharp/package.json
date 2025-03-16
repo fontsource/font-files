@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/material-symbols-sharp",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Material Symbols Sharp font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -42,5 +42,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/material-symbols-sharp"
   },
-  "publishHash": "b3efd3a8abc9353d"
+  "publishHash": "dea3510e83461ed2"
 }

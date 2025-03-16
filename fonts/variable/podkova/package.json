@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/podkova",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Podkova font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -42,5 +42,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/podkova"
   },
-  "publishHash": "395c232a2c7a7a6c"
+  "publishHash": "528427c737f8e148"
 }

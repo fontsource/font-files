@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/monda",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Monda font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -42,5 +42,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/monda"
   },
-  "publishHash": "7abb8799f64af10a"
+  "publishHash": "6f543c042ad452c2"
 }

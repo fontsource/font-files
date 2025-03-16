@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-tamil",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Noto Serif Tamil font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -42,5 +42,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-tamil"
   },
-  "publishHash": "bd4e50b3ce0151c8"
+  "publishHash": "d818c371e72c83b0"
 }
