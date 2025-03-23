@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/material-symbols",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Material Symbols font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -42,5 +42,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/material-symbols"
   },
-  "publishHash": "309fabcc4c809e01"
+  "publishHash": "f35cb0411ed720d5"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/andika",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Andika font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -42,5 +42,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/andika"
   },
-  "publishHash": "82c8d4474c6cfd71"
+  "publishHash": "6eed9a1ceec1653c"
 }
