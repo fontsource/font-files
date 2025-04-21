@@ -8,8 +8,8 @@
   "variable": {
     "wght": {"default": "400", "min": "200", "max": "900", "step": "1"}
   },
-  "lastModified": "2025-02-12",
-  "version": "v14",
+  "lastModified": "2025-03-18",
+  "version": "v16",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
