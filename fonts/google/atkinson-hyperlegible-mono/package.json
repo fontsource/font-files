@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/atkinson-hyperlegible-mono",
-  "version": "5.2.0",
+  "version": "5.2.5",
   "description": "Self-host the Atkinson Hyperlegible Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
