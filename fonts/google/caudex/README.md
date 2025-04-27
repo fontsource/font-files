@@ -23,7 +23,7 @@ import "@fontsource/caudex/400-italic.css"; // Specify weight and style
 Supported variables:
 - Weights: `[400,700]`
 - Styles: `[italic,normal]`
-- Subsets: `[greek,greek-ext,latin,latin-ext]`
+- Subsets: `[greek,greek-ext,latin,latin-ext,runic,vietnamese]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what weights and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/caudex).
 
@@ -42,6 +42,6 @@ Google Inc.
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v17`.
+Font version (provided by source): `v18`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

@@ -1,15 +1,15 @@
 {
   "id": "geist-mono",
   "family": "Geist Mono",
-  "subsets": ["latin", "latin-ext"],
+  "subsets": ["cyrillic", "latin", "latin-ext"],
   "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": {
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
   },
-  "lastModified": "2024-11-07",
-  "version": "v1",
+  "lastModified": "2025-04-23",
+  "version": "v3",
   "category": "monospace",
   "license": {
     "type": "OFL-1.1",

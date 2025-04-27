@@ -1,13 +1,13 @@
 {
   "id": "gfs-didot",
   "family": "GFS Didot",
-  "subsets": ["greek"],
+  "subsets": ["greek", "greek-ext", "latin", "vietnamese"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "greek",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-04-12",
-  "version": "v16",
+  "lastModified": "2025-04-23",
+  "version": "v17",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",

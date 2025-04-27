@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/special-gothic",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Special Gothic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -42,5 +42,6 @@
     "type": "git",
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/special-gothic"
-  }
+  },
+  "publishHash": "6c2603e1c98c52bd"
 }

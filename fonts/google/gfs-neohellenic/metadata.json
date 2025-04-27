@@ -1,13 +1,13 @@
 {
   "id": "gfs-neohellenic",
   "family": "GFS Neohellenic",
-  "subsets": ["greek"],
+  "subsets": ["greek", "greek-ext", "latin", "vietnamese"],
   "weights": [400, 700],
   "styles": ["italic", "normal"],
-  "defSubset": "greek",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-08-12",
-  "version": "v25",
+  "lastModified": "2025-04-23",
+  "version": "v26",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

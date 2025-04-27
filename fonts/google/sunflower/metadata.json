@@ -1,13 +1,13 @@
 {
   "id": "sunflower",
   "family": "Sunflower",
-  "subsets": ["korean", "latin"],
+  "subsets": ["korean"],
   "weights": [300, 500, 700],
   "styles": ["normal"],
-  "defSubset": "latin",
+  "defSubset": "korean",
   "variable": false,
-  "lastModified": "2024-08-12",
-  "version": "v16",
+  "lastModified": "2025-04-23",
+  "version": "v17",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

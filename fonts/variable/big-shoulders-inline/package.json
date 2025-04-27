@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/big-shoulders-inline",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Big Shoulders Inline font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -42,5 +42,6 @@
     "type": "git",
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/big-shoulders-inline"
-  }
+  },
+  "publishHash": "36693d0b0cf2b479"
 }

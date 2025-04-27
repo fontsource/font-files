@@ -1,3 +1,13 @@
+/* cardo-gothic-700-normal */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./files/cardo-gothic-700-normal.woff2) format('woff2'), url(./files/cardo-gothic-700-normal.woff) format('woff');
+  unicode-range: U+0304-0305,U+0308,U+0331,U+10330-1034A;
+}
+
 /* cardo-greek-ext-700-normal */
 @font-face {
   font-family: 'Cardo';
@@ -16,6 +26,36 @@
   font-weight: 700;
   src: url(./files/cardo-greek-700-normal.woff2) format('woff2'), url(./files/cardo-greek-700-normal.woff) format('woff');
   unicode-range: U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;
+}
+
+/* cardo-hebrew-700-normal */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./files/cardo-hebrew-700-normal.woff2) format('woff2'), url(./files/cardo-hebrew-700-normal.woff) format('woff');
+  unicode-range: U+0307-0308,U+0590-05FF,U+200C-2010,U+20AA,U+25CC,U+FB1D-FB4F;
+}
+
+/* cardo-old-italic-700-normal */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./files/cardo-old-italic-700-normal.woff2) format('woff2'), url(./files/cardo-old-italic-700-normal.woff) format('woff');
+  unicode-range: U+10300-1032F;
+}
+
+/* cardo-runic-700-normal */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./files/cardo-runic-700-normal.woff2) format('woff2'), url(./files/cardo-runic-700-normal.woff) format('woff');
+  unicode-range: U+16A0-16F8;
 }
 
 /* cardo-latin-ext-700-normal */

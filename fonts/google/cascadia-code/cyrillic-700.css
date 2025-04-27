@@ -1,0 +1,8 @@
+/* cascadia-code-cyrillic-700-normal */
+@font-face {
+  font-family: 'Cascadia Code';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./files/cascadia-code-cyrillic-700-normal.woff2) format('woff2'), url(./files/cascadia-code-cyrillic-700-normal.woff) format('woff');
+}

@@ -1,0 +1,17 @@
+/* comic-relief-cyrillic-400-normal */
+@font-face {
+  font-family: 'Comic Relief';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/comic-relief-cyrillic-400-normal.woff2) format('woff2'), url(./files/comic-relief-cyrillic-400-normal.woff) format('woff');
+}
+
+/* comic-relief-cyrillic-700-normal */
+@font-face {
+  font-family: 'Comic Relief';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./files/comic-relief-cyrillic-700-normal.woff2) format('woff2'), url(./files/comic-relief-cyrillic-700-normal.woff) format('woff');
+}

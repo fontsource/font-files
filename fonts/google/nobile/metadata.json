@@ -1,13 +1,13 @@
 {
   "id": "nobile",
   "family": "Nobile",
-  "subsets": ["latin", "latin-ext"],
+  "subsets": ["cyrillic", "latin", "latin-ext"],
   "weights": [400, 500, 700],
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v17",
+  "lastModified": "2025-04-23",
+  "version": "v18",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

@@ -7,14 +7,15 @@
     "greek",
     "greek-ext",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "symbols2"
   ],
   "weights": [400, 500, 700],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v14",
+  "lastModified": "2025-04-23",
+  "version": "v15",
   "category": "monospace",
   "license": {
     "type": "OFL-1.1",

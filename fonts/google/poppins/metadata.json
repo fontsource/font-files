@@ -1,13 +1,13 @@
 {
   "id": "poppins",
   "family": "Poppins",
-  "subsets": ["latin", "latin-ext"],
+  "subsets": ["devanagari", "latin", "latin-ext"],
   "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-12-04",
-  "version": "v22",
+  "lastModified": "2025-04-23",
+  "version": "v23",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

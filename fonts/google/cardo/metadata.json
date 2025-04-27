@@ -1,13 +1,22 @@
 {
   "id": "cardo",
   "family": "Cardo",
-  "subsets": ["greek", "greek-ext", "latin", "latin-ext"],
+  "subsets": [
+    "gothic",
+    "greek",
+    "greek-ext",
+    "hebrew",
+    "latin",
+    "latin-ext",
+    "old-italic",
+    "runic"
+  ],
   "weights": [400, 700],
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v19",
+  "lastModified": "2025-04-23",
+  "version": "v20",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",

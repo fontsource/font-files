@@ -38,6 +38,16 @@
   unicode-range: U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;
 }
 
+/* fira-code-symbols2-600-normal */
+@font-face {
+  font-family: 'Fira Code';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(./files/fira-code-symbols2-600-normal.woff2) format('woff2'), url(./files/fira-code-symbols2-600-normal.woff) format('woff');
+  unicode-range: U+2000-2001,U+2004-2008,U+200A,U+23B8-23BD,U+2500-259F;
+}
+
 /* fira-code-latin-ext-600-normal */
 @font-face {
   font-family: 'Fira Code';
