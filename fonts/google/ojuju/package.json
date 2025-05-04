@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ojuju",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Ojuju font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ojuju"
   },
-  "publishHash": "e20e56e8d0c1c2da"
+  "publishHash": "8b68337229562ae4"
 }

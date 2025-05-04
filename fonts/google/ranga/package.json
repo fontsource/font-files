@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ranga",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Ranga font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ranga"
   },
-  "publishHash": "4ab64268efc518f4"
+  "publishHash": "0a6a7c0bfe19897c"
 }

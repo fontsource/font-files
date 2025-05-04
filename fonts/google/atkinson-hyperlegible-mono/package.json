@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/atkinson-hyperlegible-mono",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Atkinson Hyperlegible Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -42,5 +42,6 @@
     "type": "git",
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/atkinson-hyperlegible-mono"
-  }
+  },
+  "publishHash": "baccc8c9c8a3e934"
 }

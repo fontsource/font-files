@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bungee-tint",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Bungee Tint font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bungee-tint"
   },
-  "publishHash": "e654d2c960b36a35"
+  "publishHash": "d750dd7d51b7ebf2"
 }

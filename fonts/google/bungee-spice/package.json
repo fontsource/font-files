@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bungee-spice",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Bungee Spice font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bungee-spice"
   },
-  "publishHash": "ea5e8d95e7db277d"
+  "publishHash": "de7623b3d78cc4a7"
 }

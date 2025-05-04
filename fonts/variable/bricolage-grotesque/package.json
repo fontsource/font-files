@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/bricolage-grotesque",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Bricolage Grotesque font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/bricolage-grotesque"
   },
-  "publishHash": "878ecaab8f6c1d74"
+  "publishHash": "184480f901388b3f"
 }

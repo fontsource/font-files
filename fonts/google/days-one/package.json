@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/days-one",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Days One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/days-one"
   },
-  "publishHash": "c428f050df3cc5f0"
+  "publishHash": "33152c229cb47b67"
 }

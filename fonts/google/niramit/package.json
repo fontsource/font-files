@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/niramit",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Niramit font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/niramit"
   },
-  "publishHash": "7d90c86cca190c6c"
+  "publishHash": "a3cdc840ab84baef"
 }

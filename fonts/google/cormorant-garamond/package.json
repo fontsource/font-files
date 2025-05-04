@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cormorant-garamond",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Cormorant Garamond font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cormorant-garamond"
   },
-  "publishHash": "91eb5106e2e93035"
+  "publishHash": "a65f7258d9e7b0b9"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/charmonman",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Charmonman font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/charmonman"
   },
-  "publishHash": "94f4097516ff3b06"
+  "publishHash": "32d31f315e85f813"
 }

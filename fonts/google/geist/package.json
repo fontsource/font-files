@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/geist",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Geist font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/geist"
   },
-  "publishHash": "81b1b68e2386bd8a"
+  "publishHash": "a4c55f9298af6b42"
 }
