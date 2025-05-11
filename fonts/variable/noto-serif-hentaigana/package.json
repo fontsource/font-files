@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-serif-hentaigana",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Noto Serif Hentaigana font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-serif-hentaigana"
   },
-  "publishHash": "31af98f23055fb03"
+  "publishHash": "b18575933aa8f9c3"
 }
