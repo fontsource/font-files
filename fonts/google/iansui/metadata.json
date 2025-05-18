@@ -1,13 +1,13 @@
 {
   "id": "iansui",
   "family": "Iansui",
-  "subsets": ["chinese-hongkong", "latin", "latin-ext", "symbols2"],
+  "subsets": ["chinese-traditional", "latin", "latin-ext", "symbols2"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2025-03-04",
-  "version": "v2",
+  "lastModified": "2025-05-13",
+  "version": "v5",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",

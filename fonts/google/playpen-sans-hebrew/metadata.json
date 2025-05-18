@@ -1,0 +1,19 @@
+{
+  "id": "playpen-sans-hebrew",
+  "family": "Playpen Sans Hebrew",
+  "subsets": ["emoji", "hebrew", "latin", "latin-ext", "math"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-05-13",
+  "version": "v6",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}
