@@ -1,0 +1,19 @@
+{
+  "id": "kapakana",
+  "family": "Kapakana",
+  "subsets": ["japanese", "latin", "latin-ext"],
+  "weights": [300, 400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-05-23",
+  "version": "v17",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/winky-rough",
-  "version": "5.2.2",
+  "version": "5.2.3",
   "description": "Self-host the Winky Rough font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/winky-rough"
   },
-  "publishHash": "2b0ec6f2787a4ed3"
+  "publishHash": "1d1d0d3375ca2c88"
 }

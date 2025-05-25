@@ -6,9 +6,9 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-11-28",
-  "version": "v7",
-  "category": "serif",
+  "lastModified": "2025-05-23",
+  "version": "v8",
+  "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
     "url": "http://scripts.sil.org/OFL",

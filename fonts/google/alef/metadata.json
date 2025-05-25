@@ -1,13 +1,13 @@
 {
   "id": "alef",
   "family": "Alef",
-  "subsets": ["hebrew", "latin", "latin-ext"],
+  "subsets": ["hebrew", "latin"],
   "weights": [400, 700],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-11-20",
-  "version": "v22",
+  "lastModified": "2025-05-23",
+  "version": "v23",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
