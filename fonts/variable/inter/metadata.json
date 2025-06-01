@@ -18,8 +18,8 @@
     "opsz": {"default": "14", "min": "14", "max": "32", "step": "0.1"},
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v18",
+  "lastModified": "2025-05-29",
+  "version": "v19",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

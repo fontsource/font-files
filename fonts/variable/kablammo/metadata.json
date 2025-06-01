@@ -1,13 +1,20 @@
 {
   "id": "kablammo",
   "family": "Kablammo",
-  "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "emoji",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": {"MORF": {"default": "0", "min": "0", "max": "60", "step": "1"}},
-  "lastModified": "2024-09-04",
-  "version": "v1",
+  "lastModified": "2025-05-29",
+  "version": "v3",
   "category": "display",
   "license": {
     "type": "OFL-1.1",

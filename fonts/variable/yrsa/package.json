@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/yrsa",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Yrsa font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/yrsa"
   },
-  "publishHash": "f65c2cfead91deae"
+  "publishHash": "b715f89651c8aa4c"
 }

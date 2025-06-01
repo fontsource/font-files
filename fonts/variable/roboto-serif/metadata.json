@@ -12,8 +12,8 @@
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"},
     "GRAD": {"default": "0", "min": "-50", "max": "100", "step": "1"}
   },
-  "lastModified": "2024-09-30",
-  "version": "v15",
+  "lastModified": "2025-05-29",
+  "version": "v16",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",

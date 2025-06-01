@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/source-sans-3",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Source Sans 3 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/source-sans-3"
   },
-  "publishHash": "0ffd0e2883916ee4"
+  "publishHash": "ad6e44c3b08ef295"
 }

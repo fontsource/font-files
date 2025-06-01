@@ -9,7 +9,7 @@
     "wght": {"default": "400", "min": "160", "max": "700", "step": "1"},
     "HEXP": {"default": "0", "min": "0", "max": "100", "step": "0.1"}
   },
-  "lastModified": "2025-03-18",
+  "lastModified": "2025-05-30",
   "version": "v22",
   "category": "sans-serif",
   "license": {

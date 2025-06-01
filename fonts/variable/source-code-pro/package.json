@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/source-code-pro",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Source Code Pro font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/source-code-pro"
   },
-  "publishHash": "b21e5b730ac8b586"
+  "publishHash": "29c2fc6a7db074af"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/national-park",
-  "version": "5.2.2",
+  "version": "5.2.3",
   "description": "Self-host the National Park font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/national-park"
   },
-  "publishHash": "9b628ad9c097e781"
+  "publishHash": "1a58fecab0d5d1cc"
 }

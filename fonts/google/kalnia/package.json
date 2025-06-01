@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kalnia",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Kalnia font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kalnia"
   },
-  "publishHash": "d98067c83851f939"
+  "publishHash": "8d4ee47dd9ec3dfb"
 }

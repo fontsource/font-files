@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/42dot-sans",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the 42dot Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/42dot-sans"
   },
-  "publishHash": "ce9d1bb6d10a3adc"
+  "publishHash": "960d6f9f9b888040"
 }

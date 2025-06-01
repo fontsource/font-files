@@ -9,8 +9,8 @@
     "wght": {"default": "400", "min": "400", "max": "700", "step": "1"},
     "ARRR": {"default": "10", "min": "10", "max": "60", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v4",
+  "lastModified": "2025-05-29",
+  "version": "v5",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

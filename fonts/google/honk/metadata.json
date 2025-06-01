@@ -9,7 +9,7 @@
     "MORF": {"default": "15", "min": "0", "max": "45", "step": "1"},
     "SHLN": {"default": "50", "min": "0", "max": "100", "step": "0.1"}
   },
-  "lastModified": "2025-03-03",
+  "lastModified": "2025-05-30",
   "version": "v5",
   "category": "display",
   "license": {

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gidole",
-  "version": "5.2.2",
+  "version": "5.2.3",
   "description": "Self-host the Gidole font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gidole"
   },
-  "publishHash": "12c0517b9f4ae845"
+  "publishHash": "f688432c7f20580b"
 }

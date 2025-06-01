@@ -9,7 +9,7 @@
     "BLED": {"default": "0", "min": "0", "max": "100", "step": "1"},
     "SCAN": {"default": "0", "min": "-53", "max": "100", "step": "1"}
   },
-  "lastModified": "2024-09-04",
+  "lastModified": "2025-05-30",
   "version": "v1",
   "category": "monospace",
   "license": {

@@ -9,7 +9,7 @@
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"},
     "ROND": {"default": "0", "min": "0", "max": "100", "step": "1"}
   },
-  "lastModified": "2025-03-18",
+  "lastModified": "2025-05-30",
   "version": "v2",
   "category": "sans-serif",
   "license": {
