@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/edu-au-vic-wa-nt-hand",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Edu AU VIC WA NT Hand font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/edu-au-vic-wa-nt-hand"
   },
-  "publishHash": "c583959b0dad0c06"
+  "publishHash": "31d952b509ae17d5"
 }

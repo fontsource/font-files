@@ -1,0 +1,8 @@
+/* savate-latin-700-normal */
+@font-face {
+  font-family: 'Savate';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./files/savate-latin-700-normal.woff2) format('woff2'), url(./files/savate-latin-700-normal.woff) format('woff');
+}

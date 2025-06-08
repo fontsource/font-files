@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/odor-mean-chey",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Odor Mean Chey font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/odor-mean-chey"
   },
-  "publishHash": "18c15ab638cc02d4"
+  "publishHash": "b6dde0725c67e24f"
 }

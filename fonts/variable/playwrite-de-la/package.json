@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/playwrite-de-la",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Playwrite DE LA font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/playwrite-de-la"
   },
-  "publishHash": "4fa6dc4a865d2a9a"
+  "publishHash": "62a5a72ddc966921"
 }

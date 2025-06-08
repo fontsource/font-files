@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/supermercado-one",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Supermercado One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/supermercado-one"
   },
-  "publishHash": "742614076fb1f27c"
+  "publishHash": "8523aa141b0a3f01"
 }

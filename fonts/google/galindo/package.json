@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/galindo",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Galindo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/galindo"
   },
-  "publishHash": "69eb3b184cbb8c16"
+  "publishHash": "a5ad610ad0b85cc1"
 }

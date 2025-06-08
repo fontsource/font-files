@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/geo",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Geo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/geo"
   },
-  "publishHash": "e3218bd17ce9f7f4"
+  "publishHash": "f4d72b2368f902bf"
 }

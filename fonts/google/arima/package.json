@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/arima",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Arima font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/arima"
   },
-  "publishHash": "0205d0317d2b70b8"
+  "publishHash": "af77464cda608a82"
 }

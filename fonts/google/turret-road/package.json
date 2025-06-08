@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/turret-road",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Turret Road font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/turret-road"
   },
-  "publishHash": "d5d7adfdaf72ef32"
+  "publishHash": "801ea7f8c76d7fb4"
 }

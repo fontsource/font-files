@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/la-belle-aurore",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the La Belle Aurore font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/la-belle-aurore"
   },
-  "publishHash": "2f23a763934d3dc6"
+  "publishHash": "fa8b4692543da4f1"
 }

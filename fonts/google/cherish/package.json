@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cherish",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Cherish font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cherish"
   },
-  "publishHash": "cac0b40e3c986850"
+  "publishHash": "c2def6edeee9bd74"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/londrina-sketch",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Londrina Sketch font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/londrina-sketch"
   },
-  "publishHash": "c397f5e399ebde8a"
+  "publishHash": "279624c5ec9d934d"
 }

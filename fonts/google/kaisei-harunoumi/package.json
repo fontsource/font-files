@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kaisei-harunoumi",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Kaisei HarunoUmi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kaisei-harunoumi"
   },
-  "publishHash": "f687bd1e1494c50f"
+  "publishHash": "9049142d162427f4"
 }

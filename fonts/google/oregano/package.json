@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/oregano",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Oregano font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/oregano"
   },
-  "publishHash": "67145f784b0886ac"
+  "publishHash": "f42852ad8a8960ce"
 }

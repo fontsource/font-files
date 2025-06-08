@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/knewave",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Knewave font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/knewave"
   },
-  "publishHash": "e7affc1dde37f49c"
+  "publishHash": "5a001450f3586134"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/hind-mysuru",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Hind Mysuru font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/hind-mysuru"
   },
-  "publishHash": "8c93b570a62aa7cb"
+  "publishHash": "b9123239505eb952"
 }

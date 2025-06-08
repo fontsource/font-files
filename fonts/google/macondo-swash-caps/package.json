@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/macondo-swash-caps",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Macondo Swash Caps font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/macondo-swash-caps"
   },
-  "publishHash": "a35a240e965202e8"
+  "publishHash": "4d6d6502c7bf4cf9"
 }

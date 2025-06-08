@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/racing-sans-one",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Racing Sans One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/racing-sans-one"
   },
-  "publishHash": "c40e30892603d804"
+  "publishHash": "35c0bc54f987f46b"
 }

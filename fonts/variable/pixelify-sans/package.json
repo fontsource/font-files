@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/pixelify-sans",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Pixelify Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/pixelify-sans"
   },
-  "publishHash": "1f33340b316d3b33"
+  "publishHash": "43adddeb9bf2861d"
 }

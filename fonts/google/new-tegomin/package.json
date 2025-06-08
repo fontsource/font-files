@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/new-tegomin",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the New Tegomin font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/new-tegomin"
   },
-  "publishHash": "5b7fa5e7b1e6138d"
+  "publishHash": "6b95c726c6d4148c"
 }

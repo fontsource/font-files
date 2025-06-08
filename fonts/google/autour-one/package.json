@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/autour-one",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Autour One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/autour-one"
   },
-  "publishHash": "dfce64fdfb9ddd00"
+  "publishHash": "eb28ae50ba5159e2"
 }

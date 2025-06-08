@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/jockey-one",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Jockey One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/jockey-one"
   },
-  "publishHash": "6b1e142bca59b38d"
+  "publishHash": "2fe02bb666ce926a"
 }

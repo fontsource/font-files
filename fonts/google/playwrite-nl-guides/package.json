@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-nl-guides",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Playwrite NL Guides font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-nl-guides"
   },
-  "publishHash": "284fd0a2b504dacb"
+  "publishHash": "c8d3e203e11b9d5f"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/im-fell-dw-pica-sc",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the IM Fell DW Pica SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/im-fell-dw-pica-sc"
   },
-  "publishHash": "73f4e6bb364e28bf"
+  "publishHash": "4a539771992e95d3"
 }

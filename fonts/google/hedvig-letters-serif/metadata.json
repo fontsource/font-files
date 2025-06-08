@@ -8,8 +8,8 @@
   "variable": {
     "opsz": {"default": "24", "min": "12", "max": "24", "step": "0.1"}
   },
-  "lastModified": "2025-05-30",
-  "version": "v2",
+  "lastModified": "2025-06-02",
+  "version": "v3",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",

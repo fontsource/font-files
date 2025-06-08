@@ -10,8 +10,8 @@
     "wdth": {"default": "100", "min": "50", "max": "150", "step": "0.1"},
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
   },
-  "lastModified": "2025-05-30",
-  "version": "v11",
+  "lastModified": "2025-06-02",
+  "version": "v12",
   "category": "display",
   "license": {
     "type": "OFL-1.1",

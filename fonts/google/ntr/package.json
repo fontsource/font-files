@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ntr",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the NTR font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ntr"
   },
-  "publishHash": "4fe4db30657266f9"
+  "publishHash": "8888f914297a0be4"
 }

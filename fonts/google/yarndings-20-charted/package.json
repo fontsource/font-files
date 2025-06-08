@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/yarndings-20-charted",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Yarndings 20 Charted font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/yarndings-20-charted"
   },
-  "publishHash": "d4922988e5233246"
+  "publishHash": "b1cdd4a0560069fc"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/love-ya-like-a-sister",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Love Ya Like A Sister font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/love-ya-like-a-sister"
   },
-  "publishHash": "31ba3008beb45577"
+  "publishHash": "9ad070abaef78f3a"
 }

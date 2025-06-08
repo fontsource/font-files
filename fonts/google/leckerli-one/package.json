@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/leckerli-one",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Leckerli One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/leckerli-one"
   },
-  "publishHash": "88da63d6ef316694"
+  "publishHash": "edeeb1073a6bc83d"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/edu-au-vic-wa-nt-dots",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Edu AU VIC WA NT Dots font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/edu-au-vic-wa-nt-dots"
   },
-  "publishHash": "f77dec1367bc5a63"
+  "publishHash": "06b88447c6494b9b"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/inria-sans",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Inria Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/inria-sans"
   },
-  "publishHash": "3133583ac00fc573"
+  "publishHash": "26baf72661d63315"
 }

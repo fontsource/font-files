@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/yeon-sung",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Yeon Sung font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/yeon-sung"
   },
-  "publishHash": "881fe692f53c1f0d"
+  "publishHash": "74c0b53ac01c50bb"
 }

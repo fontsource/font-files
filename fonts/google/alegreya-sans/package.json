@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/alegreya-sans",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Alegreya Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/alegreya-sans"
   },
-  "publishHash": "21f896f94857d366"
+  "publishHash": "571c65b44c0fd13c"
 }

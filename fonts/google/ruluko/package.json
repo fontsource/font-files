@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ruluko",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Ruluko font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ruluko"
   },
-  "publishHash": "96114ae2b024df7e"
+  "publishHash": "d74859ac2f1f8342"
 }

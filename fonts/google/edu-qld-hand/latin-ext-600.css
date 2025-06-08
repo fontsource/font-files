@@ -1,0 +1,8 @@
+/* edu-qld-hand-latin-ext-600-normal */
+@font-face {
+  font-family: 'Edu QLD Hand';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(./files/edu-qld-hand-latin-ext-600-normal.woff2) format('woff2'), url(./files/edu-qld-hand-latin-ext-600-normal.woff) format('woff');
+}

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/baloo-paaji-2",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Baloo Paaji 2 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/baloo-paaji-2"
   },
-  "publishHash": "d08678d61491b347"
+  "publishHash": "e3ba41c2e45ca676"
 }

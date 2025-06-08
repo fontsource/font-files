@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/jacquard-12-charted",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Jacquard 12 Charted font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/jacquard-12-charted"
   },
-  "publishHash": "ecfb470835b61489"
+  "publishHash": "93ef0e6856c42b2f"
 }

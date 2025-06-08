@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/barrio",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Barrio font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/barrio"
   },
-  "publishHash": "9462242f7a266fab"
+  "publishHash": "9c4c7690de034a42"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/im-fell-great-primer",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the IM Fell Great Primer font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/im-fell-great-primer"
   },
-  "publishHash": "c0089d2ea0c86cf2"
+  "publishHash": "e306b7d55b1b9a17"
 }

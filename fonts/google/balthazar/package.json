@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/balthazar",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Balthazar font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/balthazar"
   },
-  "publishHash": "a7da7ed1603f200d"
+  "publishHash": "f9c20d88577e090a"
 }

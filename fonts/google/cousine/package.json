@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cousine",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Cousine font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cousine"
   },
-  "publishHash": "ed0342921b053fc3"
+  "publishHash": "5ff8334dc7ab2305"
 }

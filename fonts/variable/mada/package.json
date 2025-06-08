@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/mada",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Mada font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/mada"
   },
-  "publishHash": "1cfa0f0662b1463a"
+  "publishHash": "a72f0f08e9d58da1"
 }

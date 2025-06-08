@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/dancing-script",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Dancing Script font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/dancing-script"
   },
-  "publishHash": "33f5b0592f601a29"
+  "publishHash": "89b9b962d17318bf"
 }

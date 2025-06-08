@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-gb-j",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Playwrite GB J font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-gb-j"
   },
-  "publishHash": "c4f98b1b699437ed"
+  "publishHash": "4f8bd19b6ca99501"
 }

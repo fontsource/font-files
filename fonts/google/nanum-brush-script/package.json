@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/nanum-brush-script",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Nanum Brush Script font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/nanum-brush-script"
   },
-  "publishHash": "800cad531b6a019a"
+  "publishHash": "a7146964c27f81bf"
 }

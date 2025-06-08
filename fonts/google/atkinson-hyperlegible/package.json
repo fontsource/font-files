@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/atkinson-hyperlegible",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Atkinson Hyperlegible font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/atkinson-hyperlegible"
   },
-  "publishHash": "24b182eba769a9c9"
+  "publishHash": "76bdd7104f41804c"
 }

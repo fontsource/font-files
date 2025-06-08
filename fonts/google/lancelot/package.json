@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lancelot",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Lancelot font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lancelot"
   },
-  "publishHash": "1f9686d5a3a3f66c"
+  "publishHash": "3a9970c8368401b9"
 }

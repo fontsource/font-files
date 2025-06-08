@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/titillium-web",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Titillium Web font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/titillium-web"
   },
-  "publishHash": "01d648e5aafcefed"
+  "publishHash": "bd4d16d2530379e9"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/jost",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Jost font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/jost"
   },
-  "publishHash": "8bd9d265fb664d52"
+  "publishHash": "460d9af307dcb93d"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ruthie",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Ruthie font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ruthie"
   },
-  "publishHash": "eca742d510def44f"
+  "publishHash": "4ea6a7c4ed57df3e"
 }

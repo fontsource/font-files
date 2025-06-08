@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/strait",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Strait font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/strait"
   },
-  "publishHash": "a02e80ec827c2c4c"
+  "publishHash": "f6f26c6e9a1ff0e4"
 }

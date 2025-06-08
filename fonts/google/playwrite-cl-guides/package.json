@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-cl-guides",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Playwrite CL Guides font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-cl-guides"
   },
-  "publishHash": "2ab384287df9c07b"
+  "publishHash": "4b91b569a4a75d14"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/moderustic",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Moderustic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/moderustic"
   },
-  "publishHash": "2f32b2b3f34a4c98"
+  "publishHash": "a28b9219c49cb691"
 }

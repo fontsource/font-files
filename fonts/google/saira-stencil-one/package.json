@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/saira-stencil-one",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Saira Stencil One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/saira-stencil-one"
   },
-  "publishHash": "365d33cf58ab3e15"
+  "publishHash": "4539c5e46b78757a"
 }

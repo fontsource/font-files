@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/herr-von-muellerhoff",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Herr Von Muellerhoff font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/herr-von-muellerhoff"
   },
-  "publishHash": "403d9f75e02614ab"
+  "publishHash": "5d249a2968eb650e"
 }

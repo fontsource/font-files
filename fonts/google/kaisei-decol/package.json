@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kaisei-decol",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Kaisei Decol font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kaisei-decol"
   },
-  "publishHash": "66c2ba87c708b64a"
+  "publishHash": "d92f8dd1e4a3d80a"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ibm-plex-mono",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the IBM Plex Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ibm-plex-mono"
   },
-  "publishHash": "ac7b3d5d1bc1bb26"
+  "publishHash": "41ca1a1ed31f01c6"
 }

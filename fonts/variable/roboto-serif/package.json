@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/roboto-serif",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Roboto Serif font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/roboto-serif"
   },
-  "publishHash": "5d1c43304621ae56"
+  "publishHash": "41b11d0d3df71e0c"
 }

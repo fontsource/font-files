@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/mona-sans",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Mona Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/mona-sans"
   },
-  "publishHash": "6abc9ecc059ed41b"
+  "publishHash": "b72d800b39ef723c"
 }

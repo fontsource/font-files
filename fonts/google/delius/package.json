@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/delius",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Delius font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/delius"
   },
-  "publishHash": "8e66e0009621af6b"
+  "publishHash": "361624b8b4d8a4d8"
 }

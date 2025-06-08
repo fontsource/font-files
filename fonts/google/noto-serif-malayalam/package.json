@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-malayalam",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Noto Serif Malayalam font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-malayalam"
   },
-  "publishHash": "faec924f341fae24"
+  "publishHash": "1bb8cd9a3d3c1ce1"
 }

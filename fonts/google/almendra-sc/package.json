@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/almendra-sc",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Almendra SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/almendra-sc"
   },
-  "publishHash": "e3a51d01f00c16e3"
+  "publishHash": "5f9ea7d5d154c8e7"
 }

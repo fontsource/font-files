@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/galada",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Galada font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/galada"
   },
-  "publishHash": "ee082ce9b20e2263"
+  "publishHash": "ac51e0fbdf7cb26a"
 }

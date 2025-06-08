@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/grenze-gotisch",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Grenze Gotisch font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/grenze-gotisch"
   },
-  "publishHash": "8b94d0bdf86c1f4a"
+  "publishHash": "47367417048b7ea7"
 }

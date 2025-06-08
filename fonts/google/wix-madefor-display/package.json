@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/wix-madefor-display",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Wix Madefor Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/wix-madefor-display"
   },
-  "publishHash": "da12ca42f8092058"
+  "publishHash": "b0831a3e213bfcf2"
 }

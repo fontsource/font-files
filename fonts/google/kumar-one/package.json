@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kumar-one",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Kumar One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kumar-one"
   },
-  "publishHash": "859deb7efdc491fc"
+  "publishHash": "7d4a4eb256fd137a"
 }

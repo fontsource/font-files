@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cantora-one",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Cantora One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cantora-one"
   },
-  "publishHash": "d760ceb3097d8e03"
+  "publishHash": "4f833c48ec8e8b80"
 }

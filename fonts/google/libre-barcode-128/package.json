@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/libre-barcode-128",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Libre Barcode 128 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/libre-barcode-128"
   },
-  "publishHash": "13e4e70e62226022"
+  "publishHash": "b321b6c69145b564"
 }

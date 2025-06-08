@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bellota",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Bellota font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bellota"
   },
-  "publishHash": "21994a800c807000"
+  "publishHash": "0523e5a4eb9e51cb"
 }

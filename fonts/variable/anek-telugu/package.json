@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/anek-telugu",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Anek Telugu font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/anek-telugu"
   },
-  "publishHash": "c9a9c6563be0092d"
+  "publishHash": "85a8bec1a75f0179"
 }

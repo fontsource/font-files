@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lora",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Lora font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lora"
   },
-  "publishHash": "06079073c7054340"
+  "publishHash": "7f225dfad7889761"
 }

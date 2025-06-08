@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/agu-display",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Agu Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/agu-display"
   },
-  "publishHash": "19074fd5579a3c8d"
+  "publishHash": "1fe9ad64293e016f"
 }

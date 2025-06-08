@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/wix-madefor-text",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Wix Madefor Text font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/wix-madefor-text"
   },
-  "publishHash": "8e8d41bd6e4c87b9"
+  "publishHash": "dc2555fe5e547a2a"
 }

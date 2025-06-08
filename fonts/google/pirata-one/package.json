@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/pirata-one",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Pirata One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/pirata-one"
   },
-  "publishHash": "878445a77089000c"
+  "publishHash": "0327462c17dba6ff"
 }

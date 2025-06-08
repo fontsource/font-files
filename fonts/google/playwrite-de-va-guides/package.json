@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-de-va-guides",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Playwrite DE VA Guides font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-de-va-guides"
   },
-  "publishHash": "d2eb6807bf5e805a"
+  "publishHash": "576d7f93e376aa7a"
 }

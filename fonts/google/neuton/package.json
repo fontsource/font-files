@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/neuton",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Neuton font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/neuton"
   },
-  "publishHash": "a86aa59b66351a88"
+  "publishHash": "6f39004173c0ffc7"
 }

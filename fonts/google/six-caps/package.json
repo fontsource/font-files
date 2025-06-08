@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/six-caps",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Six Caps font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/six-caps"
   },
-  "publishHash": "baba1d86d7de3af5"
+  "publishHash": "ae991f810d209289"
 }

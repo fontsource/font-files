@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/life-savers",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Life Savers font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/life-savers"
   },
-  "publishHash": "523869ee12266219"
+  "publishHash": "0bf434e01ceb77b4"
 }

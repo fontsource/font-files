@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-ro",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Playwrite RO font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-ro"
   },
-  "publishHash": "6d189cf16f47822f"
+  "publishHash": "3a95cc67c685b4c9"
 }

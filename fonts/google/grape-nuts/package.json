@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/grape-nuts",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Grape Nuts font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/grape-nuts"
   },
-  "publishHash": "ce06c5eecd4975d0"
+  "publishHash": "1585c5b78502ca04"
 }

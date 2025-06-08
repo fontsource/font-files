@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kalam",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Kalam font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kalam"
   },
-  "publishHash": "f5238c605075140b"
+  "publishHash": "765b12e11d1ef26d"
 }

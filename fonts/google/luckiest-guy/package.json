@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/luckiest-guy",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Luckiest Guy font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/luckiest-guy"
   },
-  "publishHash": "3ef0c978bd212a4d"
+  "publishHash": "3675a75a196e16a1"
 }

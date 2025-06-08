@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/akronim",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Akronim font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/akronim"
   },
-  "publishHash": "c3a23ee02379c170"
+  "publishHash": "4eab8e2389bbbbd1"
 }

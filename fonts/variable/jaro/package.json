@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/jaro",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Jaro font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/jaro"
   },
-  "publishHash": "520da01b49788cd8"
+  "publishHash": "657bedd6c2386483"
 }

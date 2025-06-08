@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/qwigley",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Qwigley font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/qwigley"
   },
-  "publishHash": "3f7b19c09bd7ef40"
+  "publishHash": "4f79aeb71ea0e103"
 }

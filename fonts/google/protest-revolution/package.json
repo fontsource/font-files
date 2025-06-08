@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/protest-revolution",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Protest Revolution font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/protest-revolution"
   },
-  "publishHash": "c3782e7cd3d1bdbd"
+  "publishHash": "31bb58e24c19d6a1"
 }

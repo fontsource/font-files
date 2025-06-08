@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/delius-unicase",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Delius Unicase font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/delius-unicase"
   },
-  "publishHash": "56877490147a6ecb"
+  "publishHash": "4e72e9db2a9b6679"
 }

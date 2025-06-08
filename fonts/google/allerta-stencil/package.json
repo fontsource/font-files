@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/allerta-stencil",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Allerta Stencil font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/allerta-stencil"
   },
-  "publishHash": "6e72e95f1a7a4e01"
+  "publishHash": "dc1b85fc310d5032"
 }

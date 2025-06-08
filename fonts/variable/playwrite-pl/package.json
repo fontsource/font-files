@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/playwrite-pl",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Playwrite PL font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/playwrite-pl"
   },
-  "publishHash": "d75e220f60bb0a44"
+  "publishHash": "669afc2fdbb8d822"
 }
