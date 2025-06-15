@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tai-heritage-pro",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Tai Heritage Pro font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tai-heritage-pro"
   },
-  "publishHash": "ee621c925f2dcd5f"
+  "publishHash": "2d5a194da2db72cc"
 }

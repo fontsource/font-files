@@ -2,7 +2,7 @@
   "id": "lxgw-wenkai-tc",
   "family": "LXGW WenKai TC",
   "subsets": [
-    "chinese-hongkong",
+    "chinese-traditional",
     "cyrillic",
     "cyrillic-ext",
     "greek",
@@ -16,8 +16,8 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2025-05-30",
-  "version": "v5",
+  "lastModified": "2025-06-09",
+  "version": "v9",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",

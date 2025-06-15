@@ -9,8 +9,8 @@
     "XROT": {"default": "0", "min": "-45", "max": "45", "step": "1"},
     "YROT": {"default": "0", "min": "-45", "max": "45", "step": "1"}
   },
-  "lastModified": "2025-05-30",
-  "version": "v13",
+  "lastModified": "2025-06-09",
+  "version": "v17",
   "category": "display",
   "license": {
     "type": "OFL-1.1",

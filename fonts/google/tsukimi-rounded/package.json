@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tsukimi-rounded",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Tsukimi Rounded font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tsukimi-rounded"
   },
-  "publishHash": "ee8cfb42ae09a3b6"
+  "publishHash": "78d01ea535db2b88"
 }

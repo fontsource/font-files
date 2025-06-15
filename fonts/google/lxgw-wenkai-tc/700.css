@@ -1028,16 +1028,6 @@
   unicode-range: U+20-22,U+27-2a,U+2c-3b,U+3f,U+41-5d,U+61-7b,U+7d,U+ab,U+ae,U+b2-b3,U+bb,U+bf,U+c9,U+cd,U+d6,U+e0-ef,U+f1-f4,U+f6,U+f9-fa,U+fc-fd,U+101,U+103,U+110-111,U+113,U+12b,U+14d,U+16b,U+1a1,U+1b0,U+1ce,U+300-301,U+1ea1,U+1ea3,U+1ebf,U+1ec7,U+2013-2014,U+2039-203a,U+203c,U+2122,U+3001-3002,U+3113-3114,U+3118,U+311a-3129,U+4e00,U+4e0a-4e0b,U+4e0d,U+4e2d,U+4eba,U+4ee5,U+4f5c,U+500b,U+5165,U+5168,U+516c,U+51fa,U+5206,U+5230,U+52d5,U+53ef-53f0,U+570b,U+5728,U+5730,U+591a,U+5927,U+5b50,U+5bb6,U+5c0f,U+5fc3,U+6211,U+6587,U+65b0,U+65bc,U+65e5,U+662f,U+6642,U+6700,U+6703,U+6708-6709,U+672c,U+6b63,U+70b9-70ba,U+751f,U+7528,U+767c,U+7684,U+7db2,U+884c,U+958b,U+95dc,U+96fb,U+9801,U+ff0c,U+ff1a;
 }
 
-/* lxgw-wenkai-tc-chinese-hongkong-700-normal */
-@font-face {
-  font-family: 'LXGW WenKai TC';
-  font-style: normal;
-  font-display: swap;
-  font-weight: 700;
-  src: url(./files/lxgw-wenkai-tc-chinese-hongkong-700-normal.woff2) format('woff2'), url(./files/lxgw-wenkai-tc-chinese-hongkong-700-normal.woff) format('woff');
-  unicode-range: U+3000-303F,U+3105-312F,U+4E00-9FFF,U+F907,U+2F825,U+2F83B,U+2F840,U+2F878,U+2F894,U+2F8A6,U+2F8CD,U+2F994,U+2F9B2,U+2F9BC,U+2F9D4;
-}
-
 /* lxgw-wenkai-tc-cyrillic-ext-700-normal */
 @font-face {
   font-family: 'LXGW WenKai TC';

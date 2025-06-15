@@ -2,7 +2,7 @@
   "id": "chocolate-classical-sans",
   "family": "Chocolate Classical Sans",
   "subsets": [
-    "chinese-hongkong",
+    "chinese-traditional",
     "cyrillic",
     "latin",
     "latin-ext",
@@ -12,8 +12,8 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2025-05-30",
-  "version": "v6",
+  "lastModified": "2025-06-09",
+  "version": "v10",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

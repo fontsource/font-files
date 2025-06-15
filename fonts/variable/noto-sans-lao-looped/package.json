@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-lao-looped",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Noto Sans Lao Looped font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-lao-looped"
   },
-  "publishHash": "3386411d47e267e6"
+  "publishHash": "80718a8493d00f76"
 }

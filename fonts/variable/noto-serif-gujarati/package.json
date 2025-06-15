@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-serif-gujarati",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Noto Serif Gujarati font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-serif-gujarati"
   },
-  "publishHash": "4b2884b27576949c"
+  "publishHash": "ac98d4b5f153fca6"
 }

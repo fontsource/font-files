@@ -7,6 +7,15 @@
   src: url(./files/hanuman-khmer-100-normal.woff2) format('woff2'), url(./files/hanuman-khmer-100-normal.woff) format('woff');
 }
 
+/* hanuman-khmer-200-normal */
+@font-face {
+  font-family: 'Hanuman';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: url(./files/hanuman-khmer-200-normal.woff2) format('woff2'), url(./files/hanuman-khmer-200-normal.woff) format('woff');
+}
+
 /* hanuman-khmer-300-normal */
 @font-face {
   font-family: 'Hanuman';
@@ -25,6 +34,24 @@
   src: url(./files/hanuman-khmer-400-normal.woff2) format('woff2'), url(./files/hanuman-khmer-400-normal.woff) format('woff');
 }
 
+/* hanuman-khmer-500-normal */
+@font-face {
+  font-family: 'Hanuman';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(./files/hanuman-khmer-500-normal.woff2) format('woff2'), url(./files/hanuman-khmer-500-normal.woff) format('woff');
+}
+
+/* hanuman-khmer-600-normal */
+@font-face {
+  font-family: 'Hanuman';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(./files/hanuman-khmer-600-normal.woff2) format('woff2'), url(./files/hanuman-khmer-600-normal.woff) format('woff');
+}
+
 /* hanuman-khmer-700-normal */
 @font-face {
   font-family: 'Hanuman';
@@ -32,6 +59,15 @@
   font-display: swap;
   font-weight: 700;
   src: url(./files/hanuman-khmer-700-normal.woff2) format('woff2'), url(./files/hanuman-khmer-700-normal.woff) format('woff');
+}
+
+/* hanuman-khmer-800-normal */
+@font-face {
+  font-family: 'Hanuman';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src: url(./files/hanuman-khmer-800-normal.woff2) format('woff2'), url(./files/hanuman-khmer-800-normal.woff) format('woff');
 }
 
 /* hanuman-khmer-900-normal */
