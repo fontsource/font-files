@@ -1,0 +1,22 @@
+{
+  "id": "ancizar-sans",
+  "family": "Ancizar Sans",
+  "subsets": ["greek", "latin", "latin-ext"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": {
+    "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
+    "wght": {"default": "400", "min": "100", "max": "1000", "step": "1"}
+  },
+  "lastModified": "2025-06-02",
+  "version": "v6",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}
