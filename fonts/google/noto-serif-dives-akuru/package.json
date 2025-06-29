@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-dives-akuru",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Noto Serif Dives Akuru font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-dives-akuru"
   },
-  "publishHash": "5d50dbf72aba3879"
+  "publishHash": "ccc34b24d73dd2ed"
 }

@@ -1,0 +1,8 @@
+/* chiron-hei-hk-cyrillic-800-italic */
+@font-face {
+  font-family: 'Chiron Hei HK';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src: url(./files/chiron-hei-hk-cyrillic-800-italic.woff2) format('woff2'), url(./files/chiron-hei-hk-cyrillic-800-italic.woff) format('woff');
+}

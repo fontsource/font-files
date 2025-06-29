@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/material-icons-sharp",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Material Icons Sharp font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/material-icons-sharp"
   },
-  "publishHash": "4385703bdd34561d"
+  "publishHash": "c073ba5e37f08927"
 }

@@ -1,13 +1,13 @@
 {
   "id": "agbalumo",
   "family": "Agbalumo",
-  "subsets": ["cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+  "subsets": ["cyrillic-ext", "ethiopic", "latin", "latin-ext", "vietnamese"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2025-05-30",
-  "version": "v5",
+  "lastModified": "2025-06-25",
+  "version": "v6",
   "category": "display",
   "license": {
     "type": "OFL-1.1",

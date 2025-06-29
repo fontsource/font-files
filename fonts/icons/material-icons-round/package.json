@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/material-icons-round",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Material Icons Round font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/material-icons-round"
   },
-  "publishHash": "1b9a107c90ce8f7c"
+  "publishHash": "8a9291fa543a79e6"
 }
