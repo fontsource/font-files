@@ -11,8 +11,8 @@
     "GRAD": {"min": "-25", "max": "200", "default": "0", "step": "1"},
     "opsz": {"default": "48", "min": "30", "max": "48", "step": "0.1"}
   },
-  "lastModified": "2025-07-03",
-  "version": "v258",
+  "lastModified": "2025-07-16",
+  "version": "v267",
   "category": "icons",
   "license": {
     "type": "OFL-1.1",
