@@ -1,0 +1,31 @@
+{
+  "id": "google-sans-code",
+  "family": "Google Sans Code",
+  "subsets": [
+    "adlam",
+    "canadian-aboriginal",
+    "cherokee",
+    "latin",
+    "latin-ext",
+    "math",
+    "old-permic",
+    "symbols",
+    "symbols2",
+    "syriac",
+    "vietnamese"
+  ],
+  "weights": [300, 400, 500, 600, 700, 800],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-07-23",
+  "version": "v11",
+  "category": "monospace",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}
