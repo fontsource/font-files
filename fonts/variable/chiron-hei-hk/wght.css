@@ -8,6 +8,16 @@
   unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
 }
 
+/* chiron-hei-hk-chinese-traditional-wght-normal */
+@font-face {
+  font-family: 'Chiron Hei HK Variable';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200 900;
+  src: url(./files/chiron-hei-hk-chinese-traditional-wght-normal.woff2) format('woff2-variations');
+  unicode-range: U+3000-303F,U+3105-312F,U+4E00-9FFF;
+}
+
 /* chiron-hei-hk-cyrillic-ext-wght-normal */
 @font-face {
   font-family: 'Chiron Hei HK Variable';
