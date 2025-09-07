@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-display",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Noto Sans Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-display"
   },
-  "publishHash": "2dfd33142d38421a"
+  "publishHash": "d2b1aaaefc80df66"
 }

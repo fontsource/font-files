@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/zcool-xiaowei",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the ZCOOL XiaoWei font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/zcool-xiaowei"
   },
-  "publishHash": "37a8c9f466c78975"
+  "publishHash": "2745e22f6e9a886e"
 }

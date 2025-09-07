@@ -8,8 +8,8 @@
   "variable": {
     "wght": {"default": "400", "min": "200", "max": "900", "step": "1"}
   },
-  "lastModified": "2025-05-29",
-  "version": "v4",
+  "lastModified": "2025-09-05",
+  "version": "v5",
   "category": "monospace",
   "license": {
     "type": "OFL-1.1",

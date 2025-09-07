@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-syloti-nagri",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Noto Sans Syloti Nagri font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-syloti-nagri"
   },
-  "publishHash": "199d61fd0f95cba8"
+  "publishHash": "5cdae68b5a9daddb"
 }

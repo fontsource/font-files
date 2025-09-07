@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/parisienne",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Parisienne font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/parisienne"
   },
-  "publishHash": "381c798ff3f038f8"
+  "publishHash": "69e85bf5818830b9"
 }

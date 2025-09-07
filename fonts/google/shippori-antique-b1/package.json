@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/shippori-antique-b1",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Shippori Antique B1 font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/shippori-antique-b1"
   },
-  "publishHash": "efbdc192b250d49d"
+  "publishHash": "d708b4389a50220c"
 }

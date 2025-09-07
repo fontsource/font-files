@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kaisei-tokumin",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Kaisei Tokumin font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kaisei-tokumin"
   },
-  "publishHash": "f6225bb3a4795568"
+  "publishHash": "3a785e306d54b9d6"
 }

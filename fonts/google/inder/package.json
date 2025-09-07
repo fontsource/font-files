@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/inder",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Inder font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/inder"
   },
-  "publishHash": "24a87a75f02067c0"
+  "publishHash": "6ca3ef6f70660686"
 }

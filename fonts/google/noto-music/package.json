@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-music",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Noto Music font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-music"
   },
-  "publishHash": "4ced63ab1d72f653"
+  "publishHash": "108b16ec1f539491"
 }

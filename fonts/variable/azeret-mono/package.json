@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/azeret-mono",
-  "version": "5.2.9",
+  "version": "5.2.10",
   "description": "Self-host the Azeret Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/azeret-mono"
   },
-  "publishHash": "f02a5e957cbfabaa"
+  "publishHash": "e8d7381c732f425a"
 }

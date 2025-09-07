@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/saira",
-  "version": "5.2.8",
+  "version": "5.2.9",
   "description": "Self-host the Saira font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/saira"
   },
-  "publishHash": "6921549a5d666afb"
+  "publishHash": "d0fa076f4d6e2864"
 }

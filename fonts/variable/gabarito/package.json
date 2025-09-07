@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/gabarito",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Gabarito font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/gabarito"
   },
-  "publishHash": "e38ad3d33d56db31"
+  "publishHash": "3a2bd73648d52792"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/road-rage",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Road Rage font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/road-rage"
   },
-  "publishHash": "9c0c7f9d8e13f9bb"
+  "publishHash": "e827a3dce36a4f61"
 }

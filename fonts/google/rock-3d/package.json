@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rock-3d",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Rock 3D font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rock-3d"
   },
-  "publishHash": "37ad8b0dcea414e2"
+  "publishHash": "5baaee6ed8bb1b28"
 }

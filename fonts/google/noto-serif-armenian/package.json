@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-armenian",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Noto Serif Armenian font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-armenian"
   },
-  "publishHash": "55c4c8b5bc75cdd1"
+  "publishHash": "6a902af23eb45c74"
 }

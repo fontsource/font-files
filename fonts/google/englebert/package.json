@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/englebert",
-  "version": "5.2.8",
+  "version": "5.2.9",
   "description": "Self-host the Englebert font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/englebert"
   },
-  "publishHash": "7bb8bb8794c5777d"
+  "publishHash": "1eb6b0e8cf7f9608"
 }

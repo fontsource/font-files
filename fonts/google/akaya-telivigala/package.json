@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/akaya-telivigala",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Akaya Telivigala font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/akaya-telivigala"
   },
-  "publishHash": "a8ddde537fb8c9e4"
+  "publishHash": "2c3d1830a75cb57d"
 }

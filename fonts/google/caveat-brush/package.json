@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/caveat-brush",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Caveat Brush font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/caveat-brush"
   },
-  "publishHash": "c4efa88629b324e3"
+  "publishHash": "28cd89e25ef85a7e"
 }

@@ -9,8 +9,8 @@
     "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
     "wght": {"default": "400", "min": "400", "max": "900", "step": "1"}
   },
-  "lastModified": "2025-06-02",
-  "version": "v6",
+  "lastModified": "2025-09-05",
+  "version": "v7",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

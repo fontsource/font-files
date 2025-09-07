@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/host-grotesk",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Host Grotesk font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/host-grotesk"
   },
-  "publishHash": "17aff53e59e33d10"
+  "publishHash": "6fd945ec48301197"
 }

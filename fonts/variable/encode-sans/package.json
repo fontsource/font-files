@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/encode-sans",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Encode Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/encode-sans"
   },
-  "publishHash": "b059a7962e5fe2d3"
+  "publishHash": "35f7ec9682e06492"
 }
