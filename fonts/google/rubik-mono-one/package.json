@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rubik-mono-one",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Rubik Mono One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rubik-mono-one"
   },
-  "publishHash": "e0be29ccfe0d1c67"
+  "publishHash": "db1da06e86a3af79"
 }

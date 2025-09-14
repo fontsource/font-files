@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/edu-vic-wa-nt-hand-pre",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Edu VIC WA NT Hand Pre font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/edu-vic-wa-nt-hand-pre"
   },
-  "publishHash": "132fecfe9cb81682"
+  "publishHash": "0ac6f90ff1cb2d57"
 }

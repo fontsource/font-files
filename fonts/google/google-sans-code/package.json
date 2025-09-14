@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/google-sans-code",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Google Sans Code font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/google-sans-code"
   },
-  "publishHash": "3dd77c12a2130ad0"
+  "publishHash": "b92b6bacb28f3185"
 }

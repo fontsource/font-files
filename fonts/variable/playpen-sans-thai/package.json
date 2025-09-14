@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/playpen-sans-thai",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Playpen Sans Thai font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/playpen-sans-thai"
   },
-  "publishHash": "8d48397ed26a0aa4"
+  "publishHash": "91081cb77c134ee9"
 }

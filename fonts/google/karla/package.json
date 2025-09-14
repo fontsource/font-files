@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/karla",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Karla font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/karla"
   },
-  "publishHash": "eb951ace28c87bf8"
+  "publishHash": "022f943dcd2d8382"
 }

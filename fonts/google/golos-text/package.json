@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/golos-text",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Golos Text font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/golos-text"
   },
-  "publishHash": "e5a60152fe0d6917"
+  "publishHash": "4113d808df0652e1"
 }

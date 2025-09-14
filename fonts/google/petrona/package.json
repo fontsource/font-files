@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/petrona",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Petrona font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/petrona"
   },
-  "publishHash": "3dc8f9ecb3914662"
+  "publishHash": "439f115d34df28f7"
 }

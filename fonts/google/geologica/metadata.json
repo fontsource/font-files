@@ -18,8 +18,8 @@
     "CRSV": {"default": "0", "min": "0", "max": "1", "step": "0.1"},
     "SHRP": {"default": "0", "min": "0", "max": "100", "step": "1"}
   },
-  "lastModified": "2025-06-02",
-  "version": "v4",
+  "lastModified": "2025-09-10",
+  "version": "v5",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

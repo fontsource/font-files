@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mountains-of-christmas",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Mountains of Christmas font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mountains-of-christmas"
   },
-  "publishHash": "c0fb6342f6aea0a2"
+  "publishHash": "354cf2bfaaac3f91"
 }

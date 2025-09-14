@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/khula",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Khula font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/khula"
   },
-  "publishHash": "0e9fcf42504e24c6"
+  "publishHash": "e5d970509d16f5df"
 }

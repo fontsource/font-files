@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/judson",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Judson font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/judson"
   },
-  "publishHash": "975866fbf9518f4b"
+  "publishHash": "e4e0f4a9f10d01e4"
 }

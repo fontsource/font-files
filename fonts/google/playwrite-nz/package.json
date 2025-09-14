@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-nz",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Playwrite NZ font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-nz"
   },
-  "publishHash": "00c825ea7507f4f1"
+  "publishHash": "e6055b789da1a3b8"
 }

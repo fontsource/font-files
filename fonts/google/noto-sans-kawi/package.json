@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-kawi",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Noto Sans Kawi font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-kawi"
   },
-  "publishHash": "31d6b3b680836bcb"
+  "publishHash": "f76227b7b8e7284b"
 }

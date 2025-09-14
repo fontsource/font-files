@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/onest",
-  "version": "5.2.9",
+  "version": "5.2.10",
   "description": "Self-host the Onest font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/onest"
   },
-  "publishHash": "fae8fb6469f8d8c4"
+  "publishHash": "cbebf88dea5f25f8"
 }

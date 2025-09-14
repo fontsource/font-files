@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/edu-sa-hand",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Edu SA Hand font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/edu-sa-hand"
   },
-  "publishHash": "8012895f5ee968d3"
+  "publishHash": "930c4a4a598cc466"
 }

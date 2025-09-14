@@ -9,8 +9,8 @@
     "BLED": {"default": "0", "min": "0", "max": "100", "step": "1"},
     "SCAN": {"default": "0", "min": "-53", "max": "100", "step": "1"}
   },
-  "lastModified": "2025-05-29",
-  "version": "v2",
+  "lastModified": "2025-09-11",
+  "version": "v3",
   "category": "monospace",
   "license": {
     "type": "OFL-1.1",

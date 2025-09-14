@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/imprima",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Imprima font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/imprima"
   },
-  "publishHash": "a2191a1ca5089ebe"
+  "publishHash": "8979cbc9809cc01d"
 }

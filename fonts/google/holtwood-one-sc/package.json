@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/holtwood-one-sc",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Holtwood One SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/holtwood-one-sc"
   },
-  "publishHash": "c4fdba32ae34e5cd"
+  "publishHash": "cbc54b15d13371ee"
 }

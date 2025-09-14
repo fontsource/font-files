@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fira-sans",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Fira Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fira-sans"
   },
-  "publishHash": "e4f7299b93d2e192"
+  "publishHash": "6f3a1794e80971b3"
 }

@@ -8,8 +8,8 @@
   "variable": {
     "opsz": {"default": "16", "min": "16", "max": "72", "step": "0.1"}
   },
-  "lastModified": "2025-06-02",
-  "version": "v29",
+  "lastModified": "2025-09-11",
+  "version": "v30",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",

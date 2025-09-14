@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/sora",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Sora font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/sora"
   },
-  "publishHash": "a1b92347435a6dac"
+  "publishHash": "941f5d823482324a"
 }

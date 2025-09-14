@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/zen-tokyo-zoo",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Zen Tokyo Zoo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/zen-tokyo-zoo"
   },
-  "publishHash": "fbc2e4ada42b87c6"
+  "publishHash": "6cd7f05b7b4031c1"
 }

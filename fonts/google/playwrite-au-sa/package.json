@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-au-sa",
-  "version": "5.2.8",
+  "version": "5.2.9",
   "description": "Self-host the Playwrite AU SA font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-au-sa"
   },
-  "publishHash": "f25fa6015dbdc5bf"
+  "publishHash": "0c0185f4836efb52"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-cypriot",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Noto Sans Cypriot font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-cypriot"
   },
-  "publishHash": "7f36f03cec6aa251"
+  "publishHash": "f260151749c427d1"
 }

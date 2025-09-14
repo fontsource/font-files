@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/raleway-dots",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Raleway Dots font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/raleway-dots"
   },
-  "publishHash": "f423058476070bd9"
+  "publishHash": "afdec8f030730d48"
 }

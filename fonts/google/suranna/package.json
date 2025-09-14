@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/suranna",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Suranna font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/suranna"
   },
-  "publishHash": "348e2d4547c56d80"
+  "publishHash": "a375017e2f3e0013"
 }

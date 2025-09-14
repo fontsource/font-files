@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/padauk",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Padauk font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/padauk"
   },
-  "publishHash": "49476643a2344f2f"
+  "publishHash": "8bba64fb37051625"
 }

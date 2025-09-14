@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/pathway-extreme",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Pathway Extreme font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/pathway-extreme"
   },
-  "publishHash": "4c00422ee94438da"
+  "publishHash": "aba9f74a6f672669"
 }

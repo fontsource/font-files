@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/m-plus-1p",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the M PLUS 1p font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/m-plus-1p"
   },
-  "publishHash": "f402fb323e563d6b"
+  "publishHash": "3b6a51a8e624d39c"
 }

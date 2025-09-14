@@ -9,8 +9,8 @@
     "wght": {"default": "400", "min": "300", "max": "700", "step": "1"},
     "GRAD": {"default": "0", "min": "-30", "max": "0", "step": "1"}
   },
-  "lastModified": "2025-06-02",
-  "version": "v28",
+  "lastModified": "2025-09-10",
+  "version": "v29",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

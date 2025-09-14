@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/concert-one",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Concert One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/concert-one"
   },
-  "publishHash": "26c8149cfdf5762f"
+  "publishHash": "9c6d4be7311578e0"
 }

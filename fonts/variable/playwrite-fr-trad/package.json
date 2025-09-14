@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/playwrite-fr-trad",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Playwrite FR Trad font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/playwrite-fr-trad"
   },
-  "publishHash": "db5a2cb1e9eb6ac3"
+  "publishHash": "c555bde25a7ec85b"
 }

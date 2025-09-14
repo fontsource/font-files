@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/puritan",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Puritan font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/puritan"
   },
-  "publishHash": "5a4df51a22b1ecfc"
+  "publishHash": "a17350b3ef6b8623"
 }

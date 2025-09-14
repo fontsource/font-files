@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/hina-mincho",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Hina Mincho font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/hina-mincho"
   },
-  "publishHash": "eea8db6d8859fcd6"
+  "publishHash": "93837b9854e744fb"
 }

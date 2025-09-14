@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/metal",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Metal font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/metal"
   },
-  "publishHash": "43ab5b14004474fc"
+  "publishHash": "6565c5f57e9e9f9e"
 }

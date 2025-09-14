@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/finlandica",
-  "version": "5.2.8",
+  "version": "5.2.9",
   "description": "Self-host the Finlandica font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/finlandica"
   },
-  "publishHash": "c8b72c7c811b8179"
+  "publishHash": "9b517c511947124d"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sono",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Sono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sono"
   },
-  "publishHash": "80f80911f3e8ab14"
+  "publishHash": "27c52dcd77b54513"
 }

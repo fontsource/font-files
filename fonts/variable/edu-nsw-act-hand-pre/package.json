@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/edu-nsw-act-hand-pre",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Edu NSW ACT Hand Pre font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/edu-nsw-act-hand-pre"
   },
-  "publishHash": "85d132ec7155ce29"
+  "publishHash": "b68e14be9ec2c787"
 }

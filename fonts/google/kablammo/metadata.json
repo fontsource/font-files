@@ -13,8 +13,8 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": {"MORF": {"default": "0", "min": "0", "max": "60", "step": "1"}},
-  "lastModified": "2025-06-02",
-  "version": "v3",
+  "lastModified": "2025-09-11",
+  "version": "v4",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
