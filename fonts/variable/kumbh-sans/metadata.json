@@ -9,8 +9,8 @@
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"},
     "YOPQ": {"default": "300", "min": "40", "max": "300", "step": "1"}
   },
-  "lastModified": "2025-06-02",
-  "version": "v26",
+  "lastModified": "2025-09-16",
+  "version": "v27",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

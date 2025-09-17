@@ -1,0 +1,8 @@
+/* bitcount-single-ink-latin-ext-200-normal */
+@font-face {
+  font-family: 'Bitcount Single Ink';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: url(./files/bitcount-single-ink-latin-ext-200-normal.woff2) format('woff2'), url(./files/bitcount-single-ink-latin-ext-200-normal.woff) format('woff');
+}

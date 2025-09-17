@@ -8,8 +8,8 @@
   "variable": {
     "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
   },
-  "lastModified": "2025-05-29",
-  "version": "v4",
+  "lastModified": "2025-09-16",
+  "version": "v5",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",

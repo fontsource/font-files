@@ -4,7 +4,7 @@
     "": {
       "name": "font-files",
       "dependencies": {
-        "@fontsource-utils/cli": "^0.7.1",
+        "@fontsource-utils/cli": "0.7.1",
         "@fontsource-utils/publish": "^0.4.0",
         "@types/node": "^22.14.1",
         "algoliasearch": "4.24.0",
