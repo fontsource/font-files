@@ -1,0 +1,19 @@
+{
+	"id": "0xproto",
+	"family": "0xProto",
+	"subsets": ["latin"],
+	"weights": [400, 700],
+	"styles": ["normal", "italic"],
+	"defSubset": "latin",
+	"variable": false,
+	"lastModified": "2025-04-21",
+	"version": "2.300",
+	"category": "monospace",
+	"license": {
+		"type": "OFL-1.1",
+		"url": "https://github.com/0xType/0xProto/blob/main/LICENSE",
+		"attribution": "0xType (https://0xtype.dev/)"
+	},
+	"source": "https://github.com/0xType/0xProto",
+	"type": "other"
+}
