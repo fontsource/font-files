@@ -4,12 +4,12 @@
     "": {
       "name": "font-files",
       "dependencies": {
-        "@fontsource-utils/cli": "0.7.0",
+        "@fontsource-utils/cli": "^0.7.1",
         "@fontsource-utils/publish": "^0.4.0",
         "@types/node": "^22.14.1",
         "algoliasearch": "4.24.0",
         "consola": "^3.4.2",
-        "google-font-metadata": "^6.0.3",
+        "google-font-metadata": "^6.0.4",
         "json-stringify-pretty-compact": "^4.0.0",
         "pathe": "1.1.2",
       },
@@ -52,9 +52,9 @@
 
     "@evan/concurrency": ["@evan/concurrency@0.0.3", "", {}, "sha512-vjhkm2nrXoM39G4aP/U4CC5vFv/ZlMRSjbTII0N65J9R0EpgjdGswnHKS1KSjfGAp/9zKSNaojBgi0SxKnGapw=="],
 
-    "@fontsource-utils/cli": ["@fontsource-utils/cli@0.7.0", "", { "dependencies": { "@clack/prompts": "^0.6.3", "@fontsource-utils/generate": "0.4.1", "cac": "^6.7.14", "consola": "^3.1.0", "dotenv": "^16.1.4", "fs-extra": "^11.1.1", "json-stringify-pretty-compact": "^4.0.0", "p-queue": "^7.4.1", "pathe": "^1.1.1", "picocolors": "^1.0.0" }, "peerDependencies": { "google-font-metadata": "^6.0.0" }, "bin": { "fontsource": "dist/cli.mjs" } }, "sha512-hZrqjIwSIJqacse46W28lnbRDFgEYS5593qasAZkwcHllUJtoCVvluhn8IDBzl6FyFP7r89JnE1gz1/hcVyn2g=="],
+    "@fontsource-utils/cli": ["@fontsource-utils/cli@0.7.1", "", { "dependencies": { "@clack/prompts": "^0.6.3", "@fontsource-utils/generate": "0.4.2", "cac": "^6.7.14", "consola": "^3.1.0", "dotenv": "^16.1.4", "fs-extra": "^11.1.1", "json-stringify-pretty-compact": "^4.0.0", "p-queue": "^7.4.1", "pathe": "^1.1.1", "picocolors": "^1.0.0" }, "peerDependencies": { "google-font-metadata": "^6.0.4" }, "bin": { "fontsource": "dist/cli.mjs" } }, "sha512-F1bpfC8JzlhMWpN8LlhhhDAoTFQmINVxOtuViTrIylXk+Eed8jyRm+534Y7kydWEfMMWNzYlfChW0j+z2vSy7A=="],
 
-    "@fontsource-utils/generate": ["@fontsource-utils/generate@0.4.1", "", {}, "sha512-BkN73pZfMvpVZoXDTvVVS/8Kf3jn0dtyT0ihE69/f6qBcGSyKACk0hV9zQEDARA3RaDh7NbrHpaQgQoP6CdAJw=="],
+    "@fontsource-utils/generate": ["@fontsource-utils/generate@0.4.2", "", {}, "sha512-kGZohdvXiJyVXlF33lyD6MHuXh9Z4sWY0UZtBlY/cPGVh6HvYLEyrkNSgqEjAOp9ZpwA7spoK+HjPmB1xhXceA=="],
 
     "@fontsource-utils/publish": ["@fontsource-utils/publish@0.4.0", "", { "dependencies": { "@clack/prompts": "^0.6.0", "@npmcli/package-json": "^3.1.1", "cac": "^6.7.14", "consola": "^3.1.0", "defu": "^6.1.2", "dotenv": "^16.1.4", "execa": "^7.1.1", "fs-extra": "^11.1.0", "hash-wasm": "^4.9.0", "json-stringify-pretty-compact": "^4.0.0", "p-queue": "^7.4.1", "parse-git-config": "^3.0.0", "pathe": "^1.1.1", "picocolors": "^1.0.0", "semver": "^7.5.1" }, "bin": { "fontsource-publish": "dist/cli.mjs" } }, "sha512-2wQpQc6NFQUk+t33HEHawIgaJS424X674ninkl6XewVDl1sJgXb4ctQAri8DxVb/Z2AWnBhvleN8zfyOU8nvVw=="],
 
@@ -158,7 +158,7 @@
 
     "glob": ["glob@10.4.5", "", { "dependencies": { "foreground-child": "^3.1.0", "jackspeak": "^3.1.2", "minimatch": "^9.0.4", "minipass": "^7.1.2", "package-json-from-dist": "^1.0.0", "path-scurry": "^1.11.1" }, "bin": { "glob": "dist/esm/bin.mjs" } }, "sha512-7Bv8RF0k6xjo7d4A/PxYLbUCfb6c+Vpd2/mB2yRDlew7Jb5hEXiCD9ibfO7wpk8i4sevK6DFny9h7EYbM3/sHg=="],
 
-    "google-font-metadata": ["google-font-metadata@6.0.3", "", { "dependencies": { "@evan/concurrency": "^0.0.3", "@octokit/core": "^6.1.2", "cac": "^6.7.14", "consola": "^3.3.3", "deepmerge": "^4.3.1", "json-stringify-pretty-compact": "^4.0.0", "linkedom": "^0.18.6", "pathe": "^1.1.2", "picocolors": "^1.1.1", "playwright": "^1.49.1", "stylis": "^4.3.4", "zod": "^3.24.1" }, "bin": { "gfm": "dist/cli.mjs" } }, "sha512-62+QB+nmBKppHrxwvILZkV/EvKctEAdzkKBIJY26TtwZkUjeEqmAQnE5uHvtMTdB8odqGpQu5LAKPqqUYHI9wA=="],
+    "google-font-metadata": ["google-font-metadata@6.0.4", "", { "dependencies": { "@evan/concurrency": "^0.0.3", "@octokit/core": "^6.1.2", "cac": "^6.7.14", "consola": "^3.3.3", "deepmerge": "^4.3.1", "json-stringify-pretty-compact": "^4.0.0", "linkedom": "^0.18.6", "pathe": "^1.1.2", "picocolors": "^1.1.1", "playwright": "^1.49.1", "stylis": "^4.3.4", "zod": "^3.24.1" }, "bin": { "gfm": "dist/cli.mjs" } }, "sha512-10thPdMO8iG9knlF7HMurnyb6vBRWiRRO/2b5Lxix0ONJ5NA55ZwHKgZoQFxCp9F/NjKcIy3U/wuQwyksyr4Lw=="],
 
     "graceful-fs": ["graceful-fs@4.2.11", "", {}, "sha512-RbJ5/jmFcNNCcDV5o9eTnBLJ/HszWV0P73bc+Ff4nS/rJj+YaS6IGyiOL0VoBYX+l1Wrl3k63h/KrH+nhJ0XvQ=="],
 
@@ -305,8 +305,6 @@
     "dom-serializer/entities": ["entities@4.5.0", "", {}, "sha512-V0hjH4dGPh9Ao5p0MoRY6BVqtwCjhz6vI5LT8AJ55H+4g9/4vbHx1I54fS0XuclLhDHArPQCiMjDxjaL8fPxhw=="],
 
     "foreground-child/signal-exit": ["signal-exit@4.1.0", "", {}, "sha512-bzyZ1e88w9O1iNJbKnOlvYTrWPDl46O1bG0D3XInv+9tkPrxrN8jUUTiFlDkkmKWgn1M6CfIA13SuGqOa9Korw=="],
-
-    "google-font-metadata/consola": ["consola@3.4.0", "", {}, "sha512-EiPU8G6dQG0GFHNR8ljnZFki/8a+cQwEQ+7wpxdChl02Q8HXlwEZWD5lqAF8vC2sEC3Tehr8hy7vErz88LHyUA=="],
 
     "npm-run-path/path-key": ["path-key@4.0.0", "", {}, "sha512-haREypq7xkM7ErfgIyA0z+Bj4AGKlMSdlQE2jvJo6huWD1EdkKYV+G/T4nq0YEF2vgTT8kqMFKo1uHn950r4SQ=="],
 
