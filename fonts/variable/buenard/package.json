@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/buenard",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Buenard font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/buenard"
   },
-  "publishHash": "70a992d21f25cfe2"
+  "publishHash": "b0e8c67b97ed6742"
 }

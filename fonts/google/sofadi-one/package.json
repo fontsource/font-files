@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sofadi-one",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Sofadi One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sofadi-one"
   },
-  "publishHash": "a4c64071d7bb61dd"
+  "publishHash": "12ffa89740452739"
 }

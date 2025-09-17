@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/parkinsans",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Parkinsans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/parkinsans"
   },
-  "publishHash": "92b64674d2fc19d2"
+  "publishHash": "6bfef70425627c06"
 }

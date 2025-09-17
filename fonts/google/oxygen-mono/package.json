@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/oxygen-mono",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Oxygen Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/oxygen-mono"
   },
-  "publishHash": "2cc069c8351f3b96"
+  "publishHash": "eaa86b84410f7cb8"
 }

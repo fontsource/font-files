@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/braah-one",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Braah One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/braah-one"
   },
-  "publishHash": "8c71b8e79b96fc80"
+  "publishHash": "e0a0609de6b5582d"
 }

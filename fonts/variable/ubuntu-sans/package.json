@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/ubuntu-sans",
-  "version": "5.2.9",
+  "version": "5.2.10",
   "description": "Self-host the Ubuntu Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/ubuntu-sans"
   },
-  "publishHash": "f007a0264cd85941"
+  "publishHash": "5869b2fb51df8204"
 }

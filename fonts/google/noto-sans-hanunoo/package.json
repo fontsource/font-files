@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-hanunoo",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Noto Sans Hanunoo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-hanunoo"
   },
-  "publishHash": "627da699bd424649"
+  "publishHash": "5417bc0c6928d85b"
 }

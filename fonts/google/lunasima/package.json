@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lunasima",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Lunasima font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lunasima"
   },
-  "publishHash": "3241dfb0c94b196c"
+  "publishHash": "6d9ad60005f5fba8"
 }

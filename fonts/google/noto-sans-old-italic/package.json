@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-old-italic",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Noto Sans Old Italic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-old-italic"
   },
-  "publishHash": "eb8bb948c2a02169"
+  "publishHash": "72091f20b33e0730"
 }

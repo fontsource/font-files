@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/beiruti",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Beiruti font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/beiruti"
   },
-  "publishHash": "ab6655ccab9af7a5"
+  "publishHash": "b94d190f4487f6d3"
 }

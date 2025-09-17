@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/caramel",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Caramel font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/caramel"
   },
-  "publishHash": "c1d9c9083e693b12"
+  "publishHash": "31b4628b80eecf6b"
 }

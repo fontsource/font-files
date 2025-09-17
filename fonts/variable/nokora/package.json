@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/nokora",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Nokora font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/nokora"
   },
-  "publishHash": "16baebeb24069b48"
+  "publishHash": "9882bdbb9256c3fb"
 }

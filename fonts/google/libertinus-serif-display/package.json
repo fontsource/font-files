@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/libertinus-serif-display",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Libertinus Serif Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/libertinus-serif-display"
   },
-  "publishHash": "7ba408ec51143b66"
+  "publishHash": "e6c357e68a208c93"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rochester",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Rochester font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rochester"
   },
-  "publishHash": "e830447b63d0bf85"
+  "publishHash": "fb73917da073582d"
 }

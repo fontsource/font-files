@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/edu-qld-hand",
-  "version": "5.2.2",
+  "version": "5.2.3",
   "description": "Self-host the Edu QLD Hand font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/edu-qld-hand"
   },
-  "publishHash": "c1d1ade84dee4bfe"
+  "publishHash": "d5364a5b5b731599"
 }

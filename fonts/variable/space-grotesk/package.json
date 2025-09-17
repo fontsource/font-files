@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/space-grotesk",
-  "version": "5.2.9",
+  "version": "5.2.10",
   "description": "Self-host the Space Grotesk font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/space-grotesk"
   },
-  "publishHash": "957c5522c58471fc"
+  "publishHash": "9cc760e039f553bf"
 }

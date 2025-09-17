@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/khand",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Khand font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/khand"
   },
-  "publishHash": "5b8d2d1e6413d552"
+  "publishHash": "3b520c690dc559f8"
 }

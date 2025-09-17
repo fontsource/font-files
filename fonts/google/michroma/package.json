@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/michroma",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Michroma font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/michroma"
   },
-  "publishHash": "81fff8c446b6e40e"
+  "publishHash": "61b1b148c150285f"
 }

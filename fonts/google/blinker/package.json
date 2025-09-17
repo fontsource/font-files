@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/blinker",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Blinker font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/blinker"
   },
-  "publishHash": "842a514929acab07"
+  "publishHash": "984a3a01e877b24d"
 }

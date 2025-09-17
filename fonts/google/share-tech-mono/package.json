@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/share-tech-mono",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Share Tech Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/share-tech-mono"
   },
-  "publishHash": "c7a96320b39aaff3"
+  "publishHash": "c41c47e36ef818ac"
 }

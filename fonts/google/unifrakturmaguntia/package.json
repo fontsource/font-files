@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/unifrakturmaguntia",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the UnifrakturMaguntia font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/unifrakturmaguntia"
   },
-  "publishHash": "c916074b8d540270"
+  "publishHash": "2f7c40b78e5acff1"
 }

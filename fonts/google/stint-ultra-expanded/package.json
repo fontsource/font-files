@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/stint-ultra-expanded",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Stint Ultra Expanded font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/stint-ultra-expanded"
   },
-  "publishHash": "7523bd8b7eef12f1"
+  "publishHash": "920ff45996167bdf"
 }

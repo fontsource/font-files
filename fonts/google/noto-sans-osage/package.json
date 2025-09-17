@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-osage",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Noto Sans Osage font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-osage"
   },
-  "publishHash": "ab8508328c645915"
+  "publishHash": "c773c9427d8f0457"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rubik-spray-paint",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Rubik Spray Paint font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rubik-spray-paint"
   },
-  "publishHash": "500653704bd2733e"
+  "publishHash": "d4d8805e57415e18"
 }

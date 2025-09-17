@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/baskervville-sc",
-  "version": "5.2.8",
+  "version": "5.2.9",
   "description": "Self-host the Baskervville SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/baskervville-sc"
   },
-  "publishHash": "1a6fb970edf064b4"
+  "publishHash": "3e193a8275589608"
 }

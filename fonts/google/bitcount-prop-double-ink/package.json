@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bitcount-prop-double-ink",
-  "version": "5.2.0",
+  "version": "5.2.1",
   "description": "Self-host the Bitcount Prop Double Ink font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -42,5 +42,6 @@
     "type": "git",
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bitcount-prop-double-ink"
-  }
+  },
+  "publishHash": "3ce0c3ab404946c5"
 }

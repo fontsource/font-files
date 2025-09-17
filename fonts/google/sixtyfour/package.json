@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sixtyfour",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Sixtyfour font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sixtyfour"
   },
-  "publishHash": "8fb795f940b2dcad"
+  "publishHash": "0124a12c28237e67"
 }

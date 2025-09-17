@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/montserrat-alternates",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Montserrat Alternates font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/montserrat-alternates"
   },
-  "publishHash": "ea0968e20bf114ba"
+  "publishHash": "0a34d923221a6a80"
 }

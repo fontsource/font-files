@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/stardos-stencil",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Stardos Stencil font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/stardos-stencil"
   },
-  "publishHash": "7fff961e21ed4761"
+  "publishHash": "41c8351680798b91"
 }

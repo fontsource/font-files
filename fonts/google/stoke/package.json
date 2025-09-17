@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/stoke",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Stoke font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/stoke"
   },
-  "publishHash": "8dc9c4000a0bae4b"
+  "publishHash": "5d1c20d6ffcf78d2"
 }

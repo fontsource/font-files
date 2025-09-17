@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/taprom",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Taprom font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/taprom"
   },
-  "publishHash": "70d6a260ed1ea3d7"
+  "publishHash": "68af6cb397d00f03"
 }

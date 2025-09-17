@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/zhi-mang-xing",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Zhi Mang Xing font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/zhi-mang-xing"
   },
-  "publishHash": "df5fe147bad26cf6"
+  "publishHash": "6a13ad8a25bd481e"
 }

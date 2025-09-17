@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mrs-saint-delafield",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Mrs Saint Delafield font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mrs-saint-delafield"
   },
-  "publishHash": "70703b4e4c9c4670"
+  "publishHash": "0b03d968b2c2aa55"
 }

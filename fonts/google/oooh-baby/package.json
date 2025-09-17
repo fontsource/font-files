@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/oooh-baby",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Oooh Baby font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/oooh-baby"
   },
-  "publishHash": "30b3d59edc9ec504"
+  "publishHash": "3703be505233c39b"
 }

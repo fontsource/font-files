@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/libertinus-sans",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Libertinus Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/libertinus-sans"
   },
-  "publishHash": "9200f1d205f69fd6"
+  "publishHash": "d21232a4c425433c"
 }

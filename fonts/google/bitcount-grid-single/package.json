@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bitcount-grid-single",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Bitcount Grid Single font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bitcount-grid-single"
   },
-  "publishHash": "d9c99b351b542619"
+  "publishHash": "ccb9eedef539128e"
 }

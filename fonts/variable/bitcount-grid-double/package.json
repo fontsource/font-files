@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/bitcount-grid-double",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Bitcount Grid Double font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/bitcount-grid-double"
   },
-  "publishHash": "18d79c277b21514f"
+  "publishHash": "2d0065140de6a0e8"
 }

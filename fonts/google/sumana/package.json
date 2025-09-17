@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sumana",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Sumana font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sumana"
   },
-  "publishHash": "a62528f49e600195"
+  "publishHash": "03be38dd702d640f"
 }

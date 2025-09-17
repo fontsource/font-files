@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-thai-looped",
-  "version": "5.2.2",
+  "version": "5.2.3",
   "description": "Self-host the Noto Sans Thai Looped font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-thai-looped"
   },
-  "publishHash": "5f41cefb99c93ab6"
+  "publishHash": "5f0044f03497b908"
 }

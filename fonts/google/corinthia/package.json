@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/corinthia",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Corinthia font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/corinthia"
   },
-  "publishHash": "3a69abf650caf7b4"
+  "publishHash": "8e54796e4eae35d4"
 }

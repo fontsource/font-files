@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/playwrite-au-vic",
-  "version": "5.2.8",
+  "version": "5.2.9",
   "description": "Self-host the Playwrite AU VIC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/playwrite-au-vic"
   },
-  "publishHash": "b0f484ace91e8e96"
+  "publishHash": "b3d81af9dcf5864e"
 }

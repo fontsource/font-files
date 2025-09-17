@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-kufi-arabic",
-  "version": "5.2.8",
+  "version": "5.2.9",
   "description": "Self-host the Noto Kufi Arabic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-kufi-arabic"
   },
-  "publishHash": "e33688f1d43b1e08"
+  "publishHash": "68c0762477a4d9c5"
 }

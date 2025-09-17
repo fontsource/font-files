@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/plus-jakarta-sans",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Plus Jakarta Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/plus-jakarta-sans"
   },
-  "publishHash": "17da55133fad70ea"
+  "publishHash": "1ebc63b4e3d8a5d8"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/libre-baskerville",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Libre Baskerville font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/libre-baskerville"
   },
-  "publishHash": "b6992a2fc2c4827b"
+  "publishHash": "a113a205f50a3145"
 }

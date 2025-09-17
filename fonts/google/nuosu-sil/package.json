@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/nuosu-sil",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Nuosu SIL font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/nuosu-sil"
   },
-  "publishHash": "2dd05b85e316f4af"
+  "publishHash": "8bc26cba933c80f6"
 }

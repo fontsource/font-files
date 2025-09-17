@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/alex-brush",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Alex Brush font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/alex-brush"
   },
-  "publishHash": "e7029b0ccf091bbe"
+  "publishHash": "bf8fa8e4fa2a199f"
 }

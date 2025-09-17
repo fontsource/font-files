@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-adlam-unjoined",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Noto Sans Adlam Unjoined font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-adlam-unjoined"
   },
-  "publishHash": "8c0e764f358ea2dc"
+  "publishHash": "1d2e4de08a1aa73e"
 }

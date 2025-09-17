@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fjalla-one",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Fjalla One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fjalla-one"
   },
-  "publishHash": "21d799d8c79d8678"
+  "publishHash": "7cb0bfd5499f8332"
 }

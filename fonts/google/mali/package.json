@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mali",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Mali font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mali"
   },
-  "publishHash": "80bcbe76c1667883"
+  "publishHash": "3407880f4af064cc"
 }

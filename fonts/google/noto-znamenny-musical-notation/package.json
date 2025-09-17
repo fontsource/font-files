@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-znamenny-musical-notation",
-  "version": "5.2.9",
+  "version": "5.2.10",
   "description": "Self-host the Noto Znamenny Musical Notation font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-znamenny-musical-notation"
   },
-  "publishHash": "0f07f6496c4d8be8"
+  "publishHash": "412ff63219aa7f75"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/afacad-flux",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Afacad Flux font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/afacad-flux"
   },
-  "publishHash": "dc7ad4da9a2994f5"
+  "publishHash": "5a0cb4ad1f9126b1"
 }

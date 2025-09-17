@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/namdhinggo",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Namdhinggo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/namdhinggo"
   },
-  "publishHash": "24153f62e00b7fb0"
+  "publishHash": "d11c8284d3bd89e0"
 }

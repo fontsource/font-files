@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/commissioner",
-  "version": "5.2.9",
+  "version": "5.2.10",
   "description": "Self-host the Commissioner font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/commissioner"
   },
-  "publishHash": "ef78e2474a92d0c8"
+  "publishHash": "df32d53cb67dcb6f"
 }

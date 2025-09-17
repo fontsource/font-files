@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gajraj-one",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Gajraj One font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gajraj-one"
   },
-  "publishHash": "50c1b017dcee5213"
+  "publishHash": "71e05b734240a096"
 }

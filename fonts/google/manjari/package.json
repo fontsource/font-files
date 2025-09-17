@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/manjari",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Manjari font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/manjari"
   },
-  "publishHash": "0f2da127f3b247f9"
+  "publishHash": "a36f3a9a63717133"
 }

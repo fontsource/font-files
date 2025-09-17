@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kosugi-maru",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Kosugi Maru font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kosugi-maru"
   },
-  "publishHash": "9bb2c7e430ab08e5"
+  "publishHash": "106c5a15b8b68240"
 }

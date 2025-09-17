@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/eater",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Eater font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/eater"
   },
-  "publishHash": "302a6f675c6e2114"
+  "publishHash": "b2ac69b3b858caea"
 }

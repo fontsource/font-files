@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sedan-sc",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Sedan SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sedan-sc"
   },
-  "publishHash": "73d8d7cf991d1f94"
+  "publishHash": "9c451965e3b4e080"
 }

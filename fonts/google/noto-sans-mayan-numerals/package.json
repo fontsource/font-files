@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-mayan-numerals",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Noto Sans Mayan Numerals font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-mayan-numerals"
   },
-  "publishHash": "0db69f2e15b61094"
+  "publishHash": "ce5050fe1175b6a1"
 }

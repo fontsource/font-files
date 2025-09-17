@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lxgw-marker-gothic",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the LXGW Marker Gothic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lxgw-marker-gothic"
   },
-  "publishHash": "072d534a7b55cdf7"
+  "publishHash": "74d3b8c7d61555aa"
 }

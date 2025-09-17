@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/charis-sil",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Charis SIL font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/charis-sil"
   },
-  "publishHash": "e8ef21d892eaf351"
+  "publishHash": "ba273d170e79e406"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dorsa",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Dorsa font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/dorsa"
   },
-  "publishHash": "c93c86bd426e6705"
+  "publishHash": "1ed53f45513c6fa7"
 }

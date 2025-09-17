@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kolker-brush",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Kolker Brush font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kolker-brush"
   },
-  "publishHash": "c045cf42bc4a8668"
+  "publishHash": "7eeda7b7aa1d67bb"
 }

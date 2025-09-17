@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fontdiner-swanky",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Fontdiner Swanky font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fontdiner-swanky"
   },
-  "publishHash": "1a7c1ceb785bc57c"
+  "publishHash": "89d0e5d2e4fa09e8"
 }

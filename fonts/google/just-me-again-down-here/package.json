@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/just-me-again-down-here",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Just Me Again Down Here font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/just-me-again-down-here"
   },
-  "publishHash": "6e615eede0536bd3"
+  "publishHash": "2245a7ef8f446c6c"
 }

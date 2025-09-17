@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/east-sea-dokdo",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the East Sea Dokdo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/east-sea-dokdo"
   },
-  "publishHash": "c9992d99f40c54d1"
+  "publishHash": "cbfa86493689834e"
 }

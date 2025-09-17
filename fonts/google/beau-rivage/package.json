@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/beau-rivage",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Beau Rivage font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/beau-rivage"
   },
-  "publishHash": "903bc7eeef6d48b2"
+  "publishHash": "25aa859ec5db4ba4"
 }

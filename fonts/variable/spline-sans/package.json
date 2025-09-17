@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/spline-sans",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Spline Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/spline-sans"
   },
-  "publishHash": "a649021860c6f775"
+  "publishHash": "792ccacd7df2f881"
 }

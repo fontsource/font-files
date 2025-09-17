@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cossette-texte",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Cossette Texte font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cossette-texte"
   },
-  "publishHash": "36e49bc925b1c989"
+  "publishHash": "8bef004704d5b29c"
 }

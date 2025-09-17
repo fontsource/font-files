@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/timmana",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Timmana font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/timmana"
   },
-  "publishHash": "24ec5ce7b3797373"
+  "publishHash": "de40d70cbdc51498"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/asimovian",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Asimovian font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/asimovian"
   },
-  "publishHash": "92aecf24d9e9f502"
+  "publishHash": "739627fa80050893"
 }

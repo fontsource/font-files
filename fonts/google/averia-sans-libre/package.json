@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/averia-sans-libre",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Averia Sans Libre font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/averia-sans-libre"
   },
-  "publishHash": "35112e905eb9ae1e"
+  "publishHash": "7a8372bafffddc91"
 }

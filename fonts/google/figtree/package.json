@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/figtree",
-  "version": "5.2.9",
+  "version": "5.2.10",
   "description": "Self-host the Figtree font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/figtree"
   },
-  "publishHash": "68f7feabe3a8c69e"
+  "publishHash": "1b5d833745c305f5"
 }

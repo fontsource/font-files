@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kay-pho-du",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Kay Pho Du font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kay-pho-du"
   },
-  "publishHash": "0e74e4b9fa8b1a40"
+  "publishHash": "b090ba60070e7171"
 }

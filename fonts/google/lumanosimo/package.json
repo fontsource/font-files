@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lumanosimo",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Lumanosimo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lumanosimo"
   },
-  "publishHash": "3240e51fb09fc70b"
+  "publishHash": "48c7670aac5946cb"
 }

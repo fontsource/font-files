@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bytesized",
-  "version": "5.2.3",
+  "version": "5.2.4",
   "description": "Self-host the Bytesized font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bytesized"
   },
-  "publishHash": "aa1788193edc5906"
+  "publishHash": "ff57f8a66255d443"
 }

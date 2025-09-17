@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/calligraffitti",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Calligraffitti font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/calligraffitti"
   },
-  "publishHash": "53dce552c11f2604"
+  "publishHash": "07fb9d1f916566e5"
 }

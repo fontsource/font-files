@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/savate",
-  "version": "5.2.2",
+  "version": "5.2.3",
   "description": "Self-host the Savate font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/savate"
   },
-  "publishHash": "5a7f033152764442"
+  "publishHash": "1d3a67836e4a751a"
 }

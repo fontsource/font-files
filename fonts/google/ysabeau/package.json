@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ysabeau",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Ysabeau font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ysabeau"
   },
-  "publishHash": "26aae2fc1d875835"
+  "publishHash": "92007a54191a3396"
 }

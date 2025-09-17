@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/capriola",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Capriola font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/capriola"
   },
-  "publishHash": "c5ffb03e2504cce7"
+  "publishHash": "536cd72e077d8eb6"
 }

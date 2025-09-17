@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/podkova",
-  "version": "5.2.9",
+  "version": "5.2.10",
   "description": "Self-host the Podkova font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/podkova"
   },
-  "publishHash": "50044643968e400f"
+  "publishHash": "cc08ce76e8a1fa50"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/hachi-maru-pop",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Hachi Maru Pop font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/hachi-maru-pop"
   },
-  "publishHash": "b3f4b86b2e518c18"
+  "publishHash": "66997c50b37fd7db"
 }

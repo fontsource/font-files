@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-signwriting",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Noto Sans SignWriting font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-signwriting"
   },
-  "publishHash": "669ec5c32f88dec1"
+  "publishHash": "f53f367fe6235a68"
 }

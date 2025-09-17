@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lexend-tera",
-  "version": "5.2.9",
+  "version": "5.2.10",
   "description": "Self-host the Lexend Tera font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lexend-tera"
   },
-  "publishHash": "bba71065c67dd34e"
+  "publishHash": "403b9e5a4cd39870"
 }

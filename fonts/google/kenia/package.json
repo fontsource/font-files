@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/kenia",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Kenia font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/kenia"
   },
-  "publishHash": "f9a30355ba4ad0ff"
+  "publishHash": "0d67096dd651fa6c"
 }

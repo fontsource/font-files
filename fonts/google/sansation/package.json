@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sansation",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Sansation font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sansation"
   },
-  "publishHash": "b8dec3750993023c"
+  "publishHash": "ec4e4ace215650b5"
 }

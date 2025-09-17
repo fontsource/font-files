@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fascinate-inline",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Fascinate Inline font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/fascinate-inline"
   },
-  "publishHash": "6e2087b82bde2ff8"
+  "publishHash": "a6282f96e9b0ec1d"
 }

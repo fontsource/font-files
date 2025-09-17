@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/koulen",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Koulen font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/koulen"
   },
-  "publishHash": "f81a5c98845acad2"
+  "publishHash": "9ddefa24c544ee8d"
 }

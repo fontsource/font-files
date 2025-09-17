@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/gruppo",
-  "version": "5.2.7",
+  "version": "5.2.8",
   "description": "Self-host the Gruppo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/gruppo"
   },
-  "publishHash": "5de7d5e7a40bb6d0"
+  "publishHash": "3e677fd04cbdd4e2"
 }
