@@ -11,8 +11,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Maitree-Light.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Maitree-Regular.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Maitree-Medium.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Maitree-SemiBold.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Maitree-Bold.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

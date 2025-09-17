@@ -38,8 +38,8 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Google Inc.
-[OFL-1.1](http://scripts.sil.org/OFL)
+(C) Copyright HanYang I&C Co.,Ltd. All rights reserved. GothicA1-ExtraLight.ttf: (C) Copyright HanYang I&C Co.,Ltd. All rights reserved. GothicA1-Light.ttf: (C) Copyright HanYang I&C Co.,Ltd. All rights reserved. GothicA1-Regular.ttf: (C) Copyright HanYang I&C Co.,Ltd. All rights reserved. GothicA1-Medium.ttf: (C) Copyright HanYang I&C Co.,Ltd. All rights reserved. GothicA1-SemiBold.ttf: (C) Copyright HanYang I&C Co.,Ltd. All rights reserved. GothicA1-Bold.ttf: (C) Copyright HanYang I&C Co.,Ltd. All rights reserved. GothicA1-ExtraBold.ttf: (C) Copyright HanYang I&C Co.,Ltd. All rights reserved. GothicA1-Black.ttf: (C) Copyright HanYang I&C Co.,Ltd. All rights reserved.
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
 Font version (provided by source): `v18`.

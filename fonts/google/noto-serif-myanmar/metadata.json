@@ -11,8 +11,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2016 Google Inc. All Rights Reserved. NotoSerifMyanmar-ExtraLight.ttf: Copyright 2016 Google Inc. All Rights Reserved. NotoSerifMyanmar-Light.ttf: Copyright 2016 Google Inc. All Rights Reserved. NotoSerifMyanmar-Regular.ttf: Copyright 2016 Google Inc. All Rights Reserved. NotoSerifMyanmar-Medium.ttf: Copyright 2016 Google Inc. All Rights Reserved. NotoSerifMyanmar-SemiBold.ttf: Copyright 2016 Google Inc. All Rights Reserved. NotoSerifMyanmar-Bold.ttf: Copyright 2016 Google Inc. All Rights Reserved. NotoSerifMyanmar-ExtraBold.ttf: Copyright 2016 Google Inc. All Rights Reserved. NotoSerifMyanmar-Black.ttf: Copyright 2016 Google Inc. All Rights Reserved."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

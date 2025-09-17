@@ -35,7 +35,7 @@
     "./scss": {"sass": "./scss/metadata.scss"}
   },
   "author": "Google Inc.",
-  "license": "OFL-1.1",
+  "license": "UFL-1.0",
   "homepage": "https://fontsource.org/fonts/ubuntu-condensed",
   "funding": "https://github.com/sponsors/ayuhito",
   "repository": {

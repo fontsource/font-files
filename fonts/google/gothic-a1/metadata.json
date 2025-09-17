@@ -20,8 +20,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "(C) Copyright HanYang I&C Co.,Ltd. All rights reserved. GothicA1-ExtraLight.ttf: (C) Copyright HanYang I&C Co.,Ltd. All rights reserved. GothicA1-Light.ttf: (C) Copyright HanYang I&C Co.,Ltd. All rights reserved. GothicA1-Regular.ttf: (C) Copyright HanYang I&C Co.,Ltd. All rights reserved. GothicA1-Medium.ttf: (C) Copyright HanYang I&C Co.,Ltd. All rights reserved. GothicA1-SemiBold.ttf: (C) Copyright HanYang I&C Co.,Ltd. All rights reserved. GothicA1-Bold.ttf: (C) Copyright HanYang I&C Co.,Ltd. All rights reserved. GothicA1-ExtraBold.ttf: (C) Copyright HanYang I&C Co.,Ltd. All rights reserved. GothicA1-Black.ttf: (C) Copyright HanYang I&C Co.,Ltd. All rights reserved."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

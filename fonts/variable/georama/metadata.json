@@ -15,8 +15,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2020 The Georama Project Authors (http://github.com/productiontype/georama) Georama-Italic[wdth,wght].ttf: Copyright 2020 The Georama Project Authors (http://github.com/productiontype/georama)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

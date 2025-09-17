@@ -11,8 +11,8 @@
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2010 by Pablo Impallari (www.impallari.com). Copyright (c) 2015 by black foundry (www.black-foundry.com)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -38,8 +38,8 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Google Inc.
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-ThinItalic.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-ExtraLight.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-ExtraLightItalic.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-Light.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-LightItalic.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-Regular.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-Italic.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-Medium.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-MediumItalic.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-SemiBold.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-SemiBoldItalic.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-Bold.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-BoldItalic.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-ExtraBold.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-ExtraBoldItalic.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
 Font version (provided by source): `v17`.

@@ -16,8 +16,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2019 The Pathway Extreme Project Authors (https://github.com/etunni/Pathway-Variable-Font) PathwayExtreme-Italic[opsz,wdth,wght].ttf: Copyright 2019 The Pathway Extreme Project Authors (https://github.com/etunni/Pathway-Variable-Font)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

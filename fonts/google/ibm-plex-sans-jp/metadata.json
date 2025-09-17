@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2018 IBM Corp. All rights reserved. IBMPlexSansJP-ExtraLight.ttf: Copyright 2018 IBM Corp. All rights reserved. IBMPlexSansJP-Light.ttf: Copyright 2018 IBM Corp. All rights reserved. IBMPlexSansJP-Regular.ttf: Copyright 2018 IBM Corp. All rights reserved. IBMPlexSansJP-Medium.ttf: Copyright 2018 IBM Corp. All rights reserved. IBMPlexSansJP-SemiBold.ttf: Copyright 2018 IBM Corp. All rights reserved. IBMPlexSansJP-Bold.ttf: Copyright 2018 IBM Corp. All rights reserved."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

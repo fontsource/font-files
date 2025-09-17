@@ -11,8 +11,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2010 Anton Koovit. Arvo-Italic.ttf: Copyright 2010 Anton Koovit, Yassin Baggar. Arvo-Bold.ttf: Copyright (c) 2010 by Anton Koovit. Arvo-BoldItalic.ttf: Copyright 2010 Anton Koovit, Yassin Baggar."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

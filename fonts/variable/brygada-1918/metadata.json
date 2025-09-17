@@ -21,8 +21,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2020 The Brygada 1918 Project Authors (https://github.com/kosmynkab/Brygada-1918) Brygada1918-Italic[wght].ttf: Copyright 2020 The Brygada 1918 Project Authors (https://github.com/kosmynkab/Brygada-1918)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

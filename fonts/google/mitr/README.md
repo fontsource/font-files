@@ -38,8 +38,8 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Google Inc.
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Mitr-Light.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Mitr-Regular.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Mitr-Medium.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Mitr-SemiBold.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Mitr-Bold.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
 Font version (provided by source): `v13`.

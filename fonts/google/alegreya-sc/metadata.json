@@ -19,8 +19,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2011 The Alegreya Project Authors (https://github.com/huertatipografica/Alegreya) AlegreyaSC-Italic.ttf: Copyright 2011 The Alegreya Project Authors (https://github.com/huertatipografica/Alegreya) AlegreyaSC-Medium.ttf: Copyright 2011 The Alegreya Project Authors (https://github.com/huertatipografica/Alegreya) AlegreyaSC-MediumItalic.ttf: Copyright 2011 The Alegreya Project Authors (https://github.com/huertatipografica/Alegreya) AlegreyaSC-Bold.ttf: Copyright 2011 The Alegreya Project Authors (https://github.com/huertatipografica/Alegreya) AlegreyaSC-BoldItalic.ttf: Copyright 2011 The Alegreya Project Authors (https://github.com/huertatipografica/Alegreya) AlegreyaSC-ExtraBold.ttf: Copyright 2011 The Alegreya Project Authors (https://github.com/huertatipografica/Alegreya) AlegreyaSC-ExtraBoldItalic.ttf: Copyright 2011 The Alegreya Project Authors (https://github.com/huertatipografica/Alegreya) AlegreyaSC-Black.ttf: Copyright 2011 The Alegreya Project Authors (https://github.com/huertatipografica/Alegreya) AlegreyaSC-BlackItalic.ttf: Copyright 2011 The Alegreya Project Authors (https://github.com/huertatipografica/Alegreya)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

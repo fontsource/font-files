@@ -38,8 +38,8 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Google Inc.
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/intel/intel-one-mono) IntelOneMono-Italic[wght].ttf: Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/intel/intel-one-mono) IntelOneMono-Light.ttf: Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/intel/intel-one-mono) IntelOneMono-LightItalic.ttf: Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/intel/intel-one-mono) IntelOneMono-Regular.ttf: Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/intel/intel-one-mono) IntelOneMono-Italic.ttf: Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/intel/intel-one-mono) IntelOneMono-Medium.ttf: Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/intel/intel-one-mono) IntelOneMono-MediumItalic.ttf: Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/intel/intel-one-mono) IntelOneMono-SemiBold.ttf: Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/intel/intel-one-mono) IntelOneMono-SemiBoldItalic.ttf: Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/intel/intel-one-mono) IntelOneMono-Bold.ttf: Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/intel/intel-one-mono) IntelOneMono-BoldItalic.ttf: Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/intel/intel-one-mono)
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
 Font version (provided by source): `v2`.

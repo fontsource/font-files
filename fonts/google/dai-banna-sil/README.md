@@ -38,8 +38,8 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Google Inc.
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright (c) 1998-2022 SIL International DaiBannaSIL-LightItalic.ttf: Copyright (c) 1998-2022 SIL International DaiBannaSIL-Regular.ttf: Copyright (c) 1998-2022 SIL International DaiBannaSIL-Italic.ttf: Copyright (c) 1998-2022 SIL International DaiBannaSIL-Medium.ttf: Copyright (c) 1998-2022 SIL International DaiBannaSIL-MediumItalic.ttf: Copyright (c) 1998-2022 SIL International DaiBannaSIL-SemiBold.ttf: Copyright (c) 1998-2022 SIL International DaiBannaSIL-SemiBoldItalic.ttf: Copyright (c) 1998-2022 SIL International DaiBannaSIL-Bold.ttf: Copyright (c) 1998-2022 SIL International DaiBannaSIL-BoldItalic.ttf: Copyright (c) 1998-2022 SIL International
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
 Font version (provided by source): `v2`.

@@ -11,8 +11,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 1994-2025 SIL Global. Lateef-Light.ttf: Copyright (c) 1994-2025 SIL Global. Lateef-Regular.ttf: Copyright (c) 1994-2025 SIL Global. Lateef-Medium.ttf: Copyright (c) 1994-2025 SIL Global. Lateef-SemiBold.ttf: Copyright (c) 1994-2025 SIL Global. Lateef-Bold.ttf: Copyright (c) 1994-2025 SIL Global. Lateef-ExtraBold.ttf: Copyright (c) 1994-2025 SIL Global."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

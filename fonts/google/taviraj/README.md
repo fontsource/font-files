@@ -38,8 +38,8 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Google Inc.
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-ThinItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-ExtraLight.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-ExtraLightItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-Light.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-LightItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-Regular.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-Italic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-Medium.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-MediumItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-SemiBold.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-SemiBoldItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-Bold.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-BoldItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-ExtraBold.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-ExtraBoldItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-Black.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-BlackItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
 Font version (provided by source): `v15`.

@@ -11,8 +11,8 @@
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2014 The Praise Project Authors (https://github.com/googlefonts/praise-script)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

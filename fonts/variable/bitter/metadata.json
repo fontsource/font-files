@@ -14,8 +14,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2011 The Bitter Project Authors (https://github.com/solmatas/BitterPro) Bitter-Italic[wght].ttf: Copyright 2011 The Bitter Project Authors (https://github.com/solmatas/BitterPro)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

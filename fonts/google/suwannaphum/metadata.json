@@ -11,8 +11,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2019 The Suwannaphum Project Authors (https://github.com/danhhong/Suwannaphum) Suwannaphum-Light.ttf: Copyright 2019 The Suwannaphum Project Authors (https://github.com/danhhong/Suwannaphum) Suwannaphum-Regular.ttf: Copyright 2019 The Suwannaphum Project Authors (https://github.com/danhhong/Suwannaphum) Suwannaphum-Bold.ttf: Copyright 2019 The Suwannaphum Project Authors (https://github.com/danhhong/Suwannaphum) Suwannaphum-Black.ttf: Copyright 2019 The Suwannaphum Project Authors (https://github.com/danhhong/Suwannaphum)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

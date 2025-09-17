@@ -11,8 +11,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Pridi-Light.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Pridi-Regular.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Pridi-Medium.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Pridi-SemiBold.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Pridi-Bold.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

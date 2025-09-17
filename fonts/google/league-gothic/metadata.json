@@ -13,8 +13,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2020 The League Gothic Project Authors (https://github.com/theleagueof/league-gothic)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

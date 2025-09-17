@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2021 The Zen Maru Gothic Authors (https://github.com/googlefonts/zen-marugothic) ZenMaruGothic-Regular.ttf: Copyright 2021 The Zen Maru Gothic Authors (https://github.com/googlefonts/zen-marugothic) ZenMaruGothic-Medium.ttf: Copyright 2021 The Zen Maru Gothic Authors (https://github.com/googlefonts/zen-marugothic) ZenMaruGothic-Bold.ttf: Copyright 2021 The Zen Maru Gothic Authors (https://github.com/googlefonts/zen-marugothic) ZenMaruGothic-Black.ttf: Copyright 2021 The Zen Maru Gothic Authors (https://github.com/googlefonts/zen-marugothic)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

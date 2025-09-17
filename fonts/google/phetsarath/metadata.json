@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2010-2012, Ministry of Posts and Telecommunications, Laos (www.phetsarath.gov.la) Phetsarath-Bold.ttf: Copyright (c) 2010-2012, Ministry of Posts and Telecommunications, Laos (www.phetsarath.gov.la)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

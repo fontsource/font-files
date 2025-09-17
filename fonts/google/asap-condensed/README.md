@@ -38,8 +38,8 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Google Inc.
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-ExtraLightItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-Light.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-LightItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-Regular.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-Italic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-Medium.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-MediumItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-SemiBold.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-SemiBoldItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-Bold.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-BoldItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-ExtraBold.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-ExtraBoldItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-Black.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-BlackItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap)
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
 Font version (provided by source): `v18`.

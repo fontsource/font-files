@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2014, Girish Dalvi, Ek Type. All rights reserved. Mukta-Light.ttf: Copyright (c) 2014, Girish Dalvi, Ek Type. All rights reserved. Mukta-Regular.ttf: Copyright (c) 2014, Girish Dalvi, Ek Type. All rights reserved. Mukta-Medium.ttf: Copyright (c) 2014, Girish Dalvi, Ek Type. All rights reserved. Mukta-SemiBold.ttf: Copyright (c) 2014, Girish Dalvi, Ek Type. All rights reserved. Mukta-Bold.ttf: Copyright (c) 2014, Girish Dalvi, Ek Type. All rights reserved. Mukta-ExtraBold.ttf: Copyright (c) 2014, Girish Dalvi, Ek Type. All rights reserved."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

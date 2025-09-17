@@ -21,8 +21,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2016 The Rounded M+ Project Authors. MPLUSRounded1c-Light.ttf: Copyright 2016 The Rounded M+ Project Authors. MPLUSRounded1c-Regular.ttf: Copyright 2016 The Rounded M+ Project Authors. MPLUSRounded1c-Medium.ttf: Copyright 2016 The Rounded M+ Project Authors. MPLUSRounded1c-Bold.ttf: Copyright 2016 The Rounded M+ Project Authors. MPLUSRounded1c-ExtraBold.ttf: Copyright 2016 The Rounded M+ Project Authors. MPLUSRounded1c-Black.ttf: Copyright 2016 The Rounded M+ Project Authors."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -11,8 +11,8 @@
   "category": "monospace",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) Mark Simonson 2009-2010. All rights reserved. AnonymousPro-Italic.ttf: Copyright (c) Mark Simonson 2009-2010. All rights reserved. AnonymousPro-Bold.ttf: Copyright (c) Mark Simonson 2009-2010. All rights reserved. AnonymousPro-BoldItalic.ttf: Copyright (c) Mark Simonson 2009-2010. All rights reserved."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

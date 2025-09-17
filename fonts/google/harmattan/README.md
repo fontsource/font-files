@@ -38,8 +38,44 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Google Inc.
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright (c) 2007-2008, The C&MA Guinea Fulbe Team;
+
+Copyright renewed 2011-2012, George W. Nuss (http://www.fulbefouta.com),
+with the Reserved Font Name "Fouta".
+
+Copyright (c) 2004-2025, SIL Global (https://www.sil.org),
+with Reserved Font Names 'Andika' and 'SIL'.
+
+Copyright (c) 2014-2025, SIL Global (https://www.sil.org/).
+with Reserved Font Names "Harmattan" and "SIL". Harmattan-Medium.ttf: Copyright (c) 2007-2008, The C&MA Guinea Fulbe Team;
+
+Copyright renewed 2011-2012, George W. Nuss (http://www.fulbefouta.com),
+with the Reserved Font Name "Fouta".
+
+Copyright (c) 2004-2025, SIL Global (https://www.sil.org),
+with Reserved Font Names 'Andika' and 'SIL'.
+
+Copyright (c) 2014-2025, SIL Global (https://www.sil.org/).
+with Reserved Font Names "Harmattan" and "SIL". Harmattan-SemiBold.ttf: Copyright (c) 2007-2008, The C&MA Guinea Fulbe Team;
+
+Copyright renewed 2011-2012, George W. Nuss (http://www.fulbefouta.com),
+with the Reserved Font Name "Fouta".
+
+Copyright (c) 2004-2025, SIL Global (https://www.sil.org),
+with Reserved Font Names 'Andika' and 'SIL'.
+
+Copyright (c) 2014-2025, SIL Global (https://www.sil.org/).
+with Reserved Font Names "Harmattan" and "SIL". Harmattan-Bold.ttf: Copyright (c) 2007-2008, The C&MA Guinea Fulbe Team;
+
+Copyright renewed 2011-2012, George W. Nuss (http://www.fulbefouta.com),
+with the Reserved Font Name "Fouta".
+
+Copyright (c) 2004-2025, SIL Global (https://www.sil.org),
+with Reserved Font Names 'Andika' and 'SIL'.
+
+Copyright (c) 2014-2025, SIL Global (https://www.sil.org/).
+with Reserved Font Names "Harmattan" and "SIL".
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
 Font version (provided by source): `v24`.

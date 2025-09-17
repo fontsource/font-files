@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2015, Tharique Azeez (http://thariqueazeez.com | zeezat@gmail.com). Copyright (c) 2012, vernon adams (vern@newtypography.co.uk)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

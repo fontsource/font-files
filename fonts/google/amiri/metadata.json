@@ -11,8 +11,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2010-2022 The Amiri Project Authors (https://github.com/aliftype/amiri). Amiri-Italic.ttf: Copyright 2010-2022 The Amiri Project Authors (https://github.com/aliftype/amiri). Amiri-Bold.ttf: Copyright 2010-2022 The Amiri Project Authors (https://github.com/aliftype/amiri). Amiri-BoldItalic.ttf: Copyright 2010-2022 The Amiri Project Authors (https://github.com/aliftype/amiri)."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

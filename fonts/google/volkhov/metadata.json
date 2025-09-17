@@ -11,8 +11,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Volkhov\" and \"Volkhov Regular\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL Volkhov-Italic.ttf: Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Volkhov\" and \"Volkhov Italic\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL Volkhov-Bold.ttf: Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Volkhov\" and \"Volkhov Bold\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL Volkhov-BoldItalic.ttf: Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Volkhov\" and \"Volkhov Bold Italic\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

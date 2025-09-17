@@ -11,8 +11,8 @@
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2012 by Jim Lyles for Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name 'Stalemate'"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

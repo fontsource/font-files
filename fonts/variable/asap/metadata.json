@@ -15,8 +15,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) Asap-Italic[wdth,wght].ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

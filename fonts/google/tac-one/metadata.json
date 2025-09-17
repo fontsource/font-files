@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2024 The Tac One Project Authors (https://github.com/Afrotype/tac)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

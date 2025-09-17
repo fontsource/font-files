@@ -10,9 +10,9 @@
   "version": "v25",
   "category": "sans-serif",
   "license": {
-    "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "type": "Apache-2.0",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "attribution": "Copyright (c) 2010 Brian J. Bonislawsky (astigma@astigmatic.com)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2016 The Sansita Project Authors (omnibus.type@gmail.com) Sansita-Italic.ttf: Copyright 2016 The Sansita Project Authors (omnibus.type@gmail.com) Sansita-Bold.ttf: Copyright 2016 The Sansita Project Authors (omnibus.type@gmail.com) Sansita-BoldItalic.ttf: Copyright 2016 The Sansita Project Authors (omnibus.type@gmail.com) Sansita-ExtraBold.ttf: Copyright 2016 The Sansita Project Authors (omnibus.type@gmail.com) Sansita-ExtraBoldItalic.ttf: Copyright 2016 The Sansita Project Authors (omnibus.type@gmail.com) Sansita-Black.ttf: Copyright 2016 The Sansita Project Authors (omnibus.type@gmail.com) Sansita-BlackItalic.ttf: Copyright 2016 The Sansita Project Authors (omnibus.type@gmail.com)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

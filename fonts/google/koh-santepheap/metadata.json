@@ -11,8 +11,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2020 The Koh Santepheap Project Authors (https://github.com/danhhong/KohSantepheap) KohSantepheap-Light.ttf: Copyright 2020 The Koh Santepheap Project Authors (https://github.com/danhhong/KohSantepheap) KohSantepheap-Regular.ttf: Copyright 2020 The Koh Santepheap Project Authors (https://github.com/danhhong/KohSantepheap) KohSantepheap-Bold.ttf: Copyright 2020 The Koh Santepheap Project Authors (https://github.com/danhhong/KohSantepheap) KohSantepheap-Black.ttf: Copyright 2020 The Koh Santepheap Project Authors (https://github.com/danhhong/KohSantepheap)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

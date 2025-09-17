@@ -17,8 +17,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2016 The Nunito Sans Project Authors (https://github.com/Fonthausen/NunitoSans) NunitoSans-Italic[YTLC,opsz,wdth,wght].ttf: Copyright 2016 The Nunito Sans Project Authors (https://github.com/Fonthausen/NunitoSans)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

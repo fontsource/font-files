@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2016 The Saira Project Authors (omnibus.type@gmail.com), with reserved font name \"Saira\". SairaExtraCondensed-ExtraLight.ttf: Copyright 2016 The Saira Project Authors (omnibus.type@gmail.com), with reserved font name \"Saira\". SairaExtraCondensed-Light.ttf: Copyright 2016 The Saira Project Authors (omnibus.type@gmail.com), with reserved font name \"Saira\". SairaExtraCondensed-Regular.ttf: Copyright 2016 The Saira Project Authors (omnibus.type@gmail.com), with reserved font name \"Saira\". SairaExtraCondensed-Medium.ttf: Copyright 2016 The Saira Project Authors (omnibus.type@gmail.com), with reserved font name \"Saira\". SairaExtraCondensed-SemiBold.ttf: Copyright 2016 The Saira Project Authors (omnibus.type@gmail.com), with reserved font name \"Saira\". SairaExtraCondensed-Bold.ttf: Copyright 2016 The Saira Project Authors (omnibus.type@gmail.com), with reserved font name \"Saira\". SairaExtraCondensed-ExtraBold.ttf: Copyright 2016 The Saira Project Authors (omnibus.type@gmail.com), with reserved font name \"Saira\". SairaExtraCondensed-Black.ttf: Copyright 2016 The Saira Project Authors (omnibus.type@gmail.com), with reserved font name \"Saira\"."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

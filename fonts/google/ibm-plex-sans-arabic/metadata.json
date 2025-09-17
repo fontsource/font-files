@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2019 IBM Corp. All rights reserved. IBMPlexSansArabic-ExtraLight.ttf: Copyright 2019 IBM Corp. All rights reserved. IBMPlexSansArabic-Light.ttf: Copyright 2019 IBM Corp. All rights reserved. IBMPlexSansArabic-Regular.ttf: Copyright 2019 IBM Corp. All rights reserved. IBMPlexSansArabic-Medium.ttf: Copyright 2019 IBM Corp. All rights reserved. IBMPlexSansArabic-SemiBold.ttf: Copyright 2019 IBM Corp. All rights reserved. IBMPlexSansArabic-Bold.ttf: Copyright 2019 IBM Corp. All rights reserved."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

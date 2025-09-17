@@ -11,8 +11,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2019 The Gupter Project Authors (https://github.com/octaviopardo/GUPTER) Gupter-Medium.ttf: Copyright 2019 The Gupter Project Authors (https://github.com/octaviopardo/GUPTER) Gupter-Bold.ttf: Copyright 2019 The Gupter Project Authors (https://github.com/octaviopardo/GUPTER)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

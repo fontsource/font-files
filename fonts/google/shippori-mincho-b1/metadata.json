@@ -11,8 +11,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2021 The Shippori Mincho Project Authors (https://github.com/fontdasu/ShipporiMincho) ShipporiMinchoB1-Medium.ttf: Copyright 2021 The Shippori Mincho Project Authors (https://github.com/fontdasu/ShipporiMincho) ShipporiMinchoB1-SemiBold.ttf: Copyright 2021 The Shippori Mincho Project Authors (https://github.com/fontdasu/ShipporiMincho) ShipporiMinchoB1-Bold.ttf: Copyright 2021 The Shippori Mincho Project Authors (https://github.com/fontdasu/ShipporiMincho) ShipporiMinchoB1-ExtraBold.ttf: Copyright 2021 The Shippori Mincho Project Authors (https://github.com/fontdasu/ShipporiMincho)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

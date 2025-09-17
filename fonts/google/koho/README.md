@@ -38,8 +38,8 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Google Inc.
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho) KoHo-ExtraLightItalic.ttf: Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho) KoHo-Light.ttf: Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho) KoHo-LightItalic.ttf: Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho) KoHo-Regular.ttf: Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho) KoHo-Italic.ttf: Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho) KoHo-Medium.ttf: Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho) KoHo-MediumItalic.ttf: Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho) KoHo-SemiBold.ttf: Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho) KoHo-SemiBoldItalic.ttf: Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho) KoHo-Bold.ttf: Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho) KoHo-BoldItalic.ttf: Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho)
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
 Font version (provided by source): `v18`.

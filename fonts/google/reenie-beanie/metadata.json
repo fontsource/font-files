@@ -11,8 +11,8 @@
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2010 Typeco (james@typeco.com). All rights reserved."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

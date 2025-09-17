@@ -38,8 +38,8 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Google Inc.
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright (c) 2011, Thatcher Ulrich (http://tulrich.com tu@tulrich.com), Karoly Barta (brtkr@freemail.hu), Michael Everson (http://www.evertype.com everson@evertype.com), with Reserved Font Name "Tuffy" Tuffy-Italic.ttf: Copyright (c) 2011, Thatcher Ulrich (http://tulrich.com tu@tulrich.com), Karoly Barta (brtkr@freemail.hu), Michael Everson (http://www.evertype.com everson@evertype.com), with Reserved Font Name "Tuffy" Tuffy-Bold.ttf: Copyright (c) 2011, Thatcher Ulrich (http://tulrich.com tu@tulrich.com), Karoly Barta (brtkr@freemail.hu), Michael Everson (http://www.evertype.com everson@evertype.com), with Reserved Font Name "Tuffy" Tuffy-BoldItalic.ttf: Copyright (c) 2011, Thatcher Ulrich (http://tulrich.com tu@tulrich.com), Karoly Barta (brtkr@freemail.hu), Michael Everson (http://www.evertype.com everson@evertype.com), with Reserved Font Name "Tuffy"
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
 Font version (provided by source): `v1`.

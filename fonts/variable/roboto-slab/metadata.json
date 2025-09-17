@@ -20,9 +20,9 @@
   "version": "v36",
   "category": "serif",
   "license": {
-    "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "type": "Apache-2.0",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "attribution": "Copyright 2018 The Roboto Slab Project Authors (https://github.com/googlefonts/robotoslab)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2018 The Kulim Park Project Authors (https://github.com/noponies/Kulim-Park) KulimPark-ExtraLightItalic.ttf: Copyright 2018 The Kulim Park Project Authors (https://github.com/noponies/Kulim-Park) KulimPark-Light.ttf: Copyright 2018 The Kulim Park Project Authors (https://github.com/noponies/Kulim-Park) KulimPark-LightItalic.ttf: Copyright 2018 The Kulim Park Project Authors (https://github.com/noponies/Kulim-Park) KulimPark-Regular.ttf: Copyright 2018 The Kulim Park Project Authors (https://github.com/noponies/Kulim-Park) KulimPark-Italic.ttf: Copyright 2018 The Kulim Park Project Authors (https://github.com/noponies/Kulim-Park) KulimPark-SemiBold.ttf: Copyright 2018 The Kulim Park Project Authors (https://github.com/noponies/Kulim-Park) KulimPark-SemiBoldItalic.ttf: Copyright 2018 The Kulim Park Project Authors (https://github.com/noponies/Kulim-Park) KulimPark-Bold.ttf: Copyright 2018 The Kulim Park Project Authors (https://github.com/noponies/Kulim-Park) KulimPark-BoldItalic.ttf: Copyright 2018 The Kulim Park Project Authors (https://github.com/noponies/Kulim-Park)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

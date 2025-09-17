@@ -11,8 +11,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2016 The Unna Project Authors (omnibus.type@gmail.com) Unna-Italic.ttf: Copyright 2016 The Unna Project Authors (omnibus.type@gmail.com) Unna-Bold.ttf: Copyright 2016 The Unna Project Authors (omnibus.type@gmail.com) Unna-BoldItalic.ttf: Copyright 2016 The Unna Project Authors (omnibus.type@gmail.com)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -38,8 +38,8 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Google Inc.
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright 2016 The Saira Project Authors (omnibus.type@gmail.com), with reserved font name "Saira". SairaSemiCondensed-ExtraLight.ttf: Copyright 2016 The Saira Project Authors (omnibus.type@gmail.com), with reserved font name "Saira". SairaSemiCondensed-Light.ttf: Copyright 2016 The Saira Project Authors (omnibus.type@gmail.com), with reserved font name "Saira". SairaSemiCondensed-Regular.ttf: Copyright 2016 The Saira Project Authors (omnibus.type@gmail.com), with reserved font name "Saira". SairaSemiCondensed-Medium.ttf: Copyright 2016 The Saira Project Authors (omnibus.type@gmail.com), with reserved font name "Saira". SairaSemiCondensed-SemiBold.ttf: Copyright 2016 The Saira Project Authors (omnibus.type@gmail.com), with reserved font name "Saira". SairaSemiCondensed-Bold.ttf: Copyright 2016 The Saira Project Authors (omnibus.type@gmail.com), with reserved font name "Saira". SairaSemiCondensed-ExtraBold.ttf: Copyright 2016 The Saira Project Authors (omnibus.type@gmail.com), with reserved font name "Saira". SairaSemiCondensed-Black.ttf: Copyright 2016 The Saira Project Authors (omnibus.type@gmail.com), with reserved font name "Saira".
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
 Font version (provided by source): `v15`.

@@ -38,8 +38,8 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Google Inc.
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright 2020 IBM Corp. All rights reserved. IBMPlexSerif-ThinItalic.ttf: Copyright 2020 IBM Corp. All rights reserved. IBMPlexSerif-ExtraLight.ttf: Copyright 2020 IBM Corp. All rights reserved. IBMPlexSerif-ExtraLightItalic.ttf: Copyright 2020 IBM Corp. All rights reserved. IBMPlexSerif-Light.ttf: Copyright 2020 IBM Corp. All rights reserved. IBMPlexSerif-LightItalic.ttf: Copyright 2020 IBM Corp. All rights reserved. IBMPlexSerif-Regular.ttf: Copyright 2020 IBM Corp. All rights reserved. IBMPlexSerif-Italic.ttf: Copyright 2020 IBM Corp. All rights reserved. IBMPlexSerif-Medium.ttf: Copyright 2020 IBM Corp. All rights reserved. IBMPlexSerif-MediumItalic.ttf: Copyright 2020 IBM Corp. All rights reserved. IBMPlexSerif-SemiBold.ttf: Copyright 2020 IBM Corp. All rights reserved. IBMPlexSerif-SemiBoldItalic.ttf: Copyright 2020 IBM Corp. All rights reserved. IBMPlexSerif-Bold.ttf: Copyright 2020 IBM Corp. All rights reserved. IBMPlexSerif-BoldItalic.ttf: Copyright 2020 IBM Corp. All rights reserved.
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
 Font version (provided by source): `v20`.

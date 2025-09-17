@@ -38,8 +38,8 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Google Inc.
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name "Encode Sans". EncodeSansCondensed-ExtraLight.ttf: Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name "Encode Sans". EncodeSansCondensed-Light.ttf: Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name "Encode Sans". EncodeSansCondensed-Regular.ttf: Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name "Encode Sans". EncodeSansCondensed-Medium.ttf: Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name "Encode Sans". EncodeSansCondensed-SemiBold.ttf: Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name "Encode Sans". EncodeSansCondensed-Bold.ttf: Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name "Encode Sans". EncodeSansCondensed-ExtraBold.ttf: Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name "Encode Sans". EncodeSansCondensed-Black.ttf: Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name "Encode Sans".
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
 Font version (provided by source): `v11`.

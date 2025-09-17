@@ -38,8 +38,8 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Google Inc.
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D) K2D-ThinItalic.ttf: Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D) K2D-ExtraLight.ttf: Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D) K2D-ExtraLightItalic.ttf: Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D) K2D-Light.ttf: Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D) K2D-LightItalic.ttf: Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D) K2D-Regular.ttf: Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D) K2D-Italic.ttf: Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D) K2D-Medium.ttf: Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D) K2D-MediumItalic.ttf: Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D) K2D-SemiBold.ttf: Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D) K2D-SemiBoldItalic.ttf: Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D) K2D-Bold.ttf: Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D) K2D-BoldItalic.ttf: Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D) K2D-ExtraBold.ttf: Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D) K2D-ExtraBoldItalic.ttf: Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
 Font version (provided by source): `v13`.

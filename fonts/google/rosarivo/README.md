@@ -38,8 +38,8 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Google Inc.
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright (c) 2011, UGR Design (www.ugrdesign.com.ar info@ugrdesign.com.ar), with Reserved Font Names "Rosarivo", "Rosarivo Pro", "Rosarivo UGR" Rosarivo-Italic.ttf: Copyright (c) 2011, UGR Design (www.ugrdesign.com.ar info@ugrdesign.com.ar), with Reserved Font Names "Rosarivo", "Rosarivo Pro", "Rosarivo UGR"
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
 Font version (provided by source): `v24`.

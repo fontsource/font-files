@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Prompt-ThinItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Prompt-ExtraLight.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Prompt-ExtraLightItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Prompt-Light.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Prompt-LightItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Prompt-Regular.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Prompt-Italic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Prompt-Medium.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Prompt-MediumItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Prompt-SemiBold.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Prompt-SemiBoldItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Prompt-Bold.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Prompt-BoldItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Prompt-ExtraBold.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Prompt-ExtraBoldItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Prompt-Black.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Prompt-BlackItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2015 Indian Type Foundry (info@indiantypefoundry.com) HindVadodara-Regular.ttf: Copyright (c) 2015 Indian Type Foundry (info@indiantypefoundry.com) HindVadodara-Medium.ttf: Copyright (c) 2015 Indian Type Foundry (info@indiantypefoundry.com) HindVadodara-SemiBold.ttf: Copyright (c) 2015 Indian Type Foundry (info@indiantypefoundry.com) HindVadodara-Bold.ttf: Copyright (c) 2015 Indian Type Foundry (info@indiantypefoundry.com)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

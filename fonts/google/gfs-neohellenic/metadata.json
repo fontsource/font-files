@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) Takis Katsoulidis and George D. Matthiopoulos (gfs@greekfontsociety.gr), 1993-2001. All rights reserved. GFSNeohellenicItalic.ttf: Copyright (c) Takis Katsoulidis and George D. Matthiopoulos (gfs@greekfontsociety.gr) , 2001. All rights reserved. GFSNeohellenicBold.ttf: Copyright (c) Designed by Takis Katsoulidis and George D. Matthiopoulos (gfs@greekfontsociety.gr)., 2001. All rights reserved. GFSNeohellenicBoldItalic.ttf: Copyright (c) Designed by Takis Katsoulidis and George D. Matthiopoulos (gfs@greekfontsociety.gr)., 2001. All rights reserved."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

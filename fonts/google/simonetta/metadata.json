@@ -11,8 +11,8 @@
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2011-2012, Brownfox (www.brownfox.org gayaneh.b@gmail.com), with Reserved Font Name \"Simonetta\" Simonetta-Italic.ttf: Copyright (c) 2011-2012, Brownfox (www.brownfox.org gayaneh.b@gmail.com), with Reserved Font Name \"Simonetta\" Simonetta-Black.ttf: Copyright (c) 2011-2012, Brownfox (www.brownfox.org gayaneh.b@gmail.com), with Reserved Font Name \"Simonetta\" Simonetta-BlackItalic.ttf: Copyright (c) 2011-2012, Brownfox (www.brownfox.org gayaneh.b@gmail.com), with Reserved Font Name \"Simonetta\""
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

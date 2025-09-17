@@ -11,8 +11,8 @@
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2010-2012, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Names \"Coda\" Coda-ExtraBold.ttf: Copyright (c) 2010-2012, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Names \"Coda\""
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

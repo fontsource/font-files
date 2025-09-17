@@ -11,8 +11,8 @@
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2011 by Pablo Impallari (www.impallari.com impallari@gmail.com). All rights reserved. LobsterTwo-Italic.ttf: Copyright (c) 2011 by Pablo Impallari (www.impallari.com impallari@gmail.com). All rights reserved. LobsterTwo-Bold.ttf: Copyright (c) 2011 by Pablo Impallari (www.impallari.com impallari@gmail.com). All rights reserved. LobsterTwo-BoldItalic.ttf: Copyright (c) 2011 by Pablo Impallari (www.impallari.com impallari@gmail.com). All rights reserved."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

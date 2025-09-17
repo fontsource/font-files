@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit) Kanit-ThinItalic.ttf: Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit) Kanit-ExtraLight.ttf: Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit) Kanit-ExtraLightItalic.ttf: Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit) Kanit-Light.ttf: Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit) Kanit-LightItalic.ttf: Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit) Kanit-Regular.ttf: Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit) Kanit-Italic.ttf: Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit) Kanit-Medium.ttf: Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit) Kanit-MediumItalic.ttf: Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit) Kanit-SemiBold.ttf: Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit) Kanit-SemiBoldItalic.ttf: Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit) Kanit-Bold.ttf: Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit) Kanit-BoldItalic.ttf: Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit) Kanit-ExtraBold.ttf: Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit) Kanit-ExtraBoldItalic.ttf: Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit) Kanit-Black.ttf: Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit) Kanit-BlackItalic.ttf: Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

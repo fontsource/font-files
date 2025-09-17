@@ -11,8 +11,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "\"Copyright (c) 2010, Daniel Rhatigan (sparky@ultrasparky.org) with Reserved Font Name Copse\""
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -14,8 +14,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2023 The Funnel Project Authors (https://github.com/Dicotype/Funnel) FunnelSans-Italic[wght].ttf: Copyright 2023 The Funnel Project Authors (https://github.com/Dicotype/Funnel)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

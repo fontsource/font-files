@@ -11,8 +11,8 @@
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2018 The Turret Road Project Authors (https://github.com/noponies/turret-road) TurretRoad-Light.ttf: Copyright 2018 The Turret Road Project Authors (https://github.com/noponies/turret-road) TurretRoad-Regular.ttf: Copyright 2018 The Turret Road Project Authors (https://github.com/noponies/turret-road) TurretRoad-Medium.ttf: Copyright 2018 The Turret Road Project Authors (https://github.com/noponies/turret-road) TurretRoad-Bold.ttf: Copyright 2018 The Turret Road Project Authors (https://github.com/noponies/turret-road) TurretRoad-ExtraBold.ttf: Copyright 2018 The Turret Road Project Authors (https://github.com/noponies/turret-road)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

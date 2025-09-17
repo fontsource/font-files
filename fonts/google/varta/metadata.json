@@ -13,8 +13,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2019 The Varta Project Authors (https://github.com/SorkinType/Varta)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

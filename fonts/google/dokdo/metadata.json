@@ -11,8 +11,8 @@
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2005-2017 FONTRIX. All Rights Reserved."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

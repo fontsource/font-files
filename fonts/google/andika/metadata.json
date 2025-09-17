@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2004-2022 SIL International Andika-Italic.ttf: Copyright (c) 2004-2022 SIL International Andika-Bold.ttf: Copyright (c) 2004-2022 SIL International Andika-BoldItalic.ttf: Copyright (c) 2004-2022 SIL International"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

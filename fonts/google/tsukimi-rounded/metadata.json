@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2020 The Tsukimi Rounded Project Authors (https://github.com/mt-funa/Tsukimi-Rounded), all rights reserved. TsukimiRounded-Regular.ttf: Copyright 2020 The Tsukimi Rounded Project Authors (https://github.com/mt-funa/Tsukimi-Rounded), all rights reserved. TsukimiRounded-Medium.ttf: Copyright 2020 The Tsukimi Rounded Project Authors (https://github.com/mt-funa/Tsukimi-Rounded), all rights reserved. TsukimiRounded-SemiBold.ttf: Copyright 2020 The Tsukimi Rounded Project Authors (https://github.com/mt-funa/Tsukimi-Rounded), all rights reserved. TsukimiRounded-Bold.ttf: Copyright 2020 The Tsukimi Rounded Project Authors (https://github.com/mt-funa/Tsukimi-Rounded), all rights reserved."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

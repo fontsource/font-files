@@ -11,8 +11,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2016 Aoife Mooney (aoifemooney@gmail.com www.aoifemooney.org) BioRhymeExpanded-Light.ttf: Copyright 2016 Aoife Mooney (aoifemooney@gmail.com www.aoifemooney.org) BioRhymeExpanded-Regular.ttf: Copyright 2016 Aoife Mooney (aoifemooney@gmail.com www.aoifemooney.org) BioRhymeExpanded-Bold.ttf: Copyright 2016 Aoife Mooney (aoifemooney@gmail.com www.aoifemooney.org) BioRhymeExpanded-ExtraBold.ttf: Copyright 2016 Aoife Mooney (aoifemooney@gmail.com www.aoifemooney.org)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

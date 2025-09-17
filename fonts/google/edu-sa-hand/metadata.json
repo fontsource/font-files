@@ -13,8 +13,8 @@
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2023 The SA School Hand Australia Project Authors (https://github.com/SorkinType/SASchoolHandAustralia)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

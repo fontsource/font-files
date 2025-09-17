@@ -11,8 +11,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2010 The Neuton Project Authors (http://www.21326.info/), with Reserved Font Name \"Neuton\". Neuton-Light.ttf: Copyright 2010 The Neuton Project Authors (http://www.21326.info/), with Reserved Font Name \"Neuton\". Neuton-Regular.ttf: Copyright 2010 The Neuton Project Authors (http://www.21326.info/), with Reserved Font Name \"Neuton\". Neuton-Italic.ttf: Copyright 2010 The Neuton Project Authors (http://www.21326.info/), with Reserved Font Name \"Neuton\". Neuton-Bold.ttf: Copyright 2010 The Neuton Project Authors (http://www.21326.info/), with Reserved Font Name \"Neuton\". Neuton-ExtraBold.ttf: Copyright 2010 The Neuton Project Authors (http://www.21326.info/), with Reserved Font Name \"Neuton\"."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2018 The Krub Project Authors (https://github.com/cadsondemak/Krub) Krub-ExtraLightItalic.ttf: Copyright 2018 The Krub Project Authors (https://github.com/cadsondemak/Krub) Krub-Light.ttf: Copyright 2018 The Krub Project Authors (https://github.com/cadsondemak/Krub) Krub-LightItalic.ttf: Copyright 2018 The Krub Project Authors (https://github.com/cadsondemak/Krub) Krub-Regular.ttf: Copyright 2018 The Krub Project Authors (https://github.com/cadsondemak/Krub) Krub-Italic.ttf: Copyright 2018 The Krub Project Authors (https://github.com/cadsondemak/Krub) Krub-Medium.ttf: Copyright 2018 The Krub Project Authors (https://github.com/cadsondemak/Krub) Krub-MediumItalic.ttf: Copyright 2018 The Krub Project Authors (https://github.com/cadsondemak/Krub) Krub-SemiBold.ttf: Copyright 2018 The Krub Project Authors (https://github.com/cadsondemak/Krub) Krub-SemiBoldItalic.ttf: Copyright 2018 The Krub Project Authors (https://github.com/cadsondemak/Krub) Krub-Bold.ttf: Copyright 2018 The Krub Project Authors (https://github.com/cadsondemak/Krub) Krub-BoldItalic.ttf: Copyright 2018 The Krub Project Authors (https://github.com/cadsondemak/Krub)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

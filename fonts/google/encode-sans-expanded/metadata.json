@@ -11,8 +11,8 @@
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name \"Encode Sans\". EncodeSansExpanded-ExtraLight.ttf: Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name \"Encode Sans\". EncodeSansExpanded-Light.ttf: Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name \"Encode Sans\". EncodeSansExpanded-Regular.ttf: Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name \"Encode Sans\". EncodeSansExpanded-Medium.ttf: Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name \"Encode Sans\". EncodeSansExpanded-SemiBold.ttf: Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name \"Encode Sans\". EncodeSansExpanded-Bold.ttf: Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name \"Encode Sans\". EncodeSansExpanded-ExtraBold.ttf: Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name \"Encode Sans\". EncodeSansExpanded-Black.ttf: Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name \"Encode Sans\"."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

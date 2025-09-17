@@ -11,8 +11,8 @@
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2011, Tipo (http://www.tipo.net.ar dario@tipo.net.ar), with Reserved Font Name \"Port Lligat Slab\""
   },
   "source": "https://github.com/google/fonts",
   "type": "google"
