@@ -14,6 +14,14 @@ jobs:
       - name: checkout
         uses: actions/checkout@v4
 
+      - name: Configure Git for large repositories
+        run: |
+          git config diff.renameLimit 999999
+          git config merge.renameLimit 999999
+          git config core.preloadindex true
+          git config core.fscache true
+          git config gc.auto 0
+
       - uses: oven-sh/setup-bun@v2
         with:
           bun-version: latest
@@ -45,10 +53,10 @@ jobs:
         run: bun run metadata
 
       - name: Stage, commit and push files
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_user_name: "fontsource-bot"
           commit_user_email: "83556432+fontsource-bot@users.noreply.github.com"
           commit_author: "fontsource-bot <83556432+fontsource-bot@users.noreply.github.com>"
-          commit_message: "chore(build): update packages [Manual] [Force] "
+          commit_message: "chore(build): update packages [Manual] [Force]"
         continue-on-error: true
