@@ -1,0 +1,19 @@
+{
+  "id": "alan-sans",
+  "family": "Alan Sans",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-09-18",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2025 The Alan Sans Project Authors (https://github.com/alan-eu/Alan-Sans)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

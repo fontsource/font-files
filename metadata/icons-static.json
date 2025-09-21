@@ -13,17 +13,17 @@
         "normal": {
           "latin": {
             "url": {
-              "woff2": "https://fonts.gstatic.com/s/materialicons/v144/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2",
-              "woff": "https://fonts.gstatic.com/s/materialicons/v144/flUhRq6tzZclQEJ-Vdg-IuiaDsNaIhQ8tQ.woff",
-              "truetype": "https://fonts.gstatic.com/s/materialicons/v144/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf"
+              "woff2": "https://fonts.gstatic.com/s/materialicons/v145/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2",
+              "woff": "https://fonts.gstatic.com/s/materialicons/v145/flUhRq6tzZclQEJ-Vdg-IuiaDsNaIhQ8tQ.woff",
+              "truetype": "https://fonts.gstatic.com/s/materialicons/v145/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf"
             }
           }
         }
       }
     },
     "defSubset": "latin",
-    "lastModified": "2025-09-08",
-    "version": "v144",
+    "lastModified": "2025-09-17",
+    "version": "v145",
     "category": "icons"
   },
   "material-icons-outlined": {

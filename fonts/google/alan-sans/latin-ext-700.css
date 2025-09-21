@@ -1,0 +1,8 @@
+/* alan-sans-latin-ext-700-normal */
+@font-face {
+  font-family: 'Alan Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./files/alan-sans-latin-ext-700-normal.woff2) format('woff2'), url(./files/alan-sans-latin-ext-700-normal.woff) format('woff');
+}

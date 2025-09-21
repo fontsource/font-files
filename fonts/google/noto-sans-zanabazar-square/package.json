@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-zanabazar-square",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Noto Sans Zanabazar Square font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-zanabazar-square"
   },
-  "publishHash": "5d89c4f20eec9aac"
+  "publishHash": "e7e0a40b67ddec11"
 }

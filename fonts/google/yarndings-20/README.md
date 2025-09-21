@@ -42,6 +42,6 @@ Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-ty
 [OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v3`.
+Font version (provided by source): `v4`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

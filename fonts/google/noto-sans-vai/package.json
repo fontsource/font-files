@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-vai",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Noto Sans Vai font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-vai"
   },
-  "publishHash": "82c7273377706192"
+  "publishHash": "bfa6281bd460a5c7"
 }

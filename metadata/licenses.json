@@ -294,6 +294,18 @@
     },
     "original": "Copyright (c) 2009 Angel Koziupa (sudtipos@sudtipos.com), Copyright (c) 2009 Alejandro Paul (sudtipos@sudtipos.com), with Reserved Font Name \"Aladin\""
   },
+  "alan-sans": {
+    "id": "alan-sans",
+    "authors": {
+      "copyright": "Copyright 2025 The Alan Sans Project Authors",
+      "website": "https://github.com/alan-eu/Alan-Sans"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2025 The Alan Sans Project Authors (https://github.com/alan-eu/Alan-Sans)"
+  },
   "alata": {
     "id": "alata",
     "authors": {
@@ -18256,14 +18268,26 @@
   "suse": {
     "id": "suse",
     "authors": {
-      "copyright": "Copyright 2024 The SUSE Project Authors",
-      "website": "https://github.com/SUSE/suse-font"
+      "copyright": "Copyright 2025 The SUSE Project Authors SUSE-Italic[wght].ttf",
+      "website": "https://github.com/SUSE/suse-font, https://github.com/SUSE/suse-font"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "https://openfontlicense.org"
     },
-    "original": "Copyright 2024 The SUSE Project Authors (https://github.com/SUSE/suse-font)"
+    "original": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font) SUSE-Italic[wght].ttf: Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)"
+  },
+  "suse-mono": {
+    "id": "suse-mono",
+    "authors": {
+      "copyright": "Copyright 2025 The SUSE Project Authors SUSEMono-Italic[wght].ttf",
+      "website": "https://github.com/SUSE/suse-font, https://github.com/SUSE/suse-font"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font) SUSEMono-Italic[wght].ttf: Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)"
   },
   "sacramento": {
     "id": "sacramento",

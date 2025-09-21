@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-nandinagari",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Self-host the Noto Sans Nandinagari font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-nandinagari"
   },
-  "publishHash": "2fa05f048855557b"
+  "publishHash": "0f484534766d9e60"
 }

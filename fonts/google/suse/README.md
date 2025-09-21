@@ -21,9 +21,9 @@ import "@fontsource/suse/400-italic.css"; // Specify weight and style
 ```
 
 Supported variables:
-- Weights: `[100,200,300,400,500,600,700,800]`
-- Styles: `[normal]`
-- Subsets: `[latin,latin-ext]`
+- Weights: `[100,200,300,400,500,600,700,800,900]`
+- Styles: `[italic,normal]`
+- Subsets: `[latin,latin-ext,vietnamese]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what weights and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/suse).
 
@@ -38,10 +38,10 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright 2024 The SUSE Project Authors (https://github.com/SUSE/suse-font)
+Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font) SUSE-Italic[wght].ttf: Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)
 [OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v3`.
+Font version (provided by source): `v4`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).
