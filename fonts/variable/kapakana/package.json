@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/kapakana",
-  "version": "5.2.3",
+  "version": "5.2.4",
   "description": "Self-host the Kapakana font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/kapakana"
   },
-  "publishHash": "9c05e4421bee2be2"
+  "publishHash": "1864f161e9326477"
 }
