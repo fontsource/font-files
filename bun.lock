@@ -9,7 +9,7 @@
         "@types/node": "^22.14.1",
         "algoliasearch": "4.24.0",
         "consola": "^3.4.2",
-        "google-font-metadata": "^6.0.6",
+        "google-font-metadata": "^6.0.7",
         "json-stringify-pretty-compact": "^4.0.0",
         "pathe": "1.1.2",
       },
@@ -158,7 +158,7 @@
 
     "glob": ["glob@10.4.5", "", { "dependencies": { "foreground-child": "^3.1.0", "jackspeak": "^3.1.2", "minimatch": "^9.0.4", "minipass": "^7.1.2", "package-json-from-dist": "^1.0.0", "path-scurry": "^1.11.1" }, "bin": { "glob": "dist/esm/bin.mjs" } }, "sha512-7Bv8RF0k6xjo7d4A/PxYLbUCfb6c+Vpd2/mB2yRDlew7Jb5hEXiCD9ibfO7wpk8i4sevK6DFny9h7EYbM3/sHg=="],
 
-    "google-font-metadata": ["google-font-metadata@6.0.6", "", { "dependencies": { "@evan/concurrency": "^0.0.3", "@octokit/core": "^6.1.2", "cac": "^6.7.14", "consola": "^3.3.3", "deepmerge": "^4.3.1", "json-stringify-pretty-compact": "^4.0.0", "linkedom": "^0.18.6", "pathe": "^1.1.2", "picocolors": "^1.1.1", "playwright": "^1.49.1", "stylis": "^4.3.4", "zod": "^3.24.1" }, "bin": { "gfm": "dist/cli.mjs" } }, "sha512-zM7U3Q/us2eZrgRSOmGdsX1T17K4AFR6gW5tyli9oXA3c8Tby3IGTL04BsuMX7VpT+thdDlDNrYpQS/ycGhsJA=="],
+    "google-font-metadata": ["google-font-metadata@6.0.7", "", { "dependencies": { "@evan/concurrency": "^0.0.3", "@octokit/core": "^6.1.2", "cac": "^6.7.14", "consola": "^3.3.3", "deepmerge": "^4.3.1", "json-stringify-pretty-compact": "^4.0.0", "linkedom": "^0.18.6", "pathe": "^1.1.2", "picocolors": "^1.1.1", "playwright": "^1.49.1", "stylis": "^4.3.4", "zod": "^3.24.1" }, "bin": { "gfm": "dist/cli.mjs" } }, "sha512-Zw+AmoVRZNfQdis1+cYu0Zo6OWk+SQNEDzGKgRjC8nTopghZw2AtfcY6R9MWLR04gsZBkTNYPE8Pahm9i4Z/aA=="],
 
     "graceful-fs": ["graceful-fs@4.2.11", "", {}, "sha512-RbJ5/jmFcNNCcDV5o9eTnBLJ/HszWV0P73bc+Ff4nS/rJj+YaS6IGyiOL0VoBYX+l1Wrl3k63h/KrH+nhJ0XvQ=="],
 
