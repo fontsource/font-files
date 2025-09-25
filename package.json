@@ -20,7 +20,7 @@
 		"@types/node": "^22.14.1",
 		"algoliasearch": "4.24.0",
 		"consola": "^3.4.2",
-		"google-font-metadata": "^6.0.5",
+		"google-font-metadata": "^6.0.6",
 		"json-stringify-pretty-compact": "^4.0.0",
 		"pathe": "1.1.2"
 	},
