@@ -1,18 +1,18 @@
 {
   "id": "gidugu",
   "family": "Gidugu",
-  "subsets": ["latin", "telugu"],
+  "subsets": ["latin", "latin-ext", "telugu"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v25",
+  "lastModified": "2025-09-08",
+  "version": "v28",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2012 Silicon Andhra (fonts.siliconandhra.org). Copyright (c) 2014 Eduardo Tunni (http://www.tipo.net.ar)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2025 The Gidugu Project Authors (https://github.com/googlefonts/gidugu)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

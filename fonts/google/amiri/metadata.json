@@ -6,13 +6,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v27",
+  "lastModified": "2025-08-26",
+  "version": "v30",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2010-2022 The Amiri Project Authors (https://github.com/aliftype/amiri)."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2010-2022 The Amiri Project Authors (https://github.com/aliftype/amiri). Amiri-Italic.ttf: Copyright 2010-2022 The Amiri Project Authors (https://github.com/aliftype/amiri). Amiri-Bold.ttf: Copyright 2010-2022 The Amiri Project Authors (https://github.com/aliftype/amiri). Amiri-BoldItalic.ttf: Copyright 2010-2022 The Amiri Project Authors (https://github.com/aliftype/amiri)."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

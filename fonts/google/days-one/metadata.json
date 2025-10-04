@@ -1,17 +1,17 @@
 {
   "id": "days-one",
   "family": "Days One",
-  "subsets": ["latin"],
+  "subsets": ["cyrillic", "latin"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v18",
+  "lastModified": "2025-04-23",
+  "version": "v19",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright (c) 2009 by Alexander Kalachev, Alexey Maslov, Jovanny Lemonad (lemonad@jovanny.ru). All rights reserved."
   },
   "source": "https://github.com/google/fonts",

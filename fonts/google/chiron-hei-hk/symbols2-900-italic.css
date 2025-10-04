@@ -1,0 +1,8 @@
+/* chiron-hei-hk-symbols2-900-italic */
+@font-face {
+  font-family: 'Chiron Hei HK';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src: url(./files/chiron-hei-hk-symbols2-900-italic.woff2) format('woff2'), url(./files/chiron-hei-hk-symbols2-900-italic.woff) format('woff');
+}

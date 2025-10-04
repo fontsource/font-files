@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v23",
+  "lastModified": "2025-09-10",
+  "version": "v25",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright (c) 2011, Huerta Tipografica (www.huertatipografica.com.ar info@huertatipografica.com.ar), with Reserved Font Names \"Gochi\" and \"Gochi Hand\""
   },
   "source": "https://github.com/google/fonts",

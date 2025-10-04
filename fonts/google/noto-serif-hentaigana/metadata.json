@@ -1,0 +1,21 @@
+{
+  "id": "noto-serif-hentaigana",
+  "family": "Noto Serif Hentaigana",
+  "subsets": ["kana-extended", "latin", "latin-ext"],
+  "weights": [200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "wght": {"default": "400", "min": "200", "max": "900", "step": "1"}
+  },
+  "lastModified": "2025-09-05",
+  "version": "v17",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2023 The Noto Project Authors (https://github.com/notofonts/hentaigana)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

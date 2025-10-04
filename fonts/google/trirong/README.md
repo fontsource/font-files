@@ -38,10 +38,10 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Trirong-ThinItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Trirong-ExtraLight.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Trirong-ExtraLightItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Trirong-Light.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Trirong-LightItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Trirong-Regular.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Trirong-Italic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Trirong-Medium.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Trirong-MediumItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Trirong-SemiBold.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Trirong-SemiBoldItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Trirong-Bold.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Trirong-BoldItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Trirong-ExtraBold.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Trirong-ExtraBoldItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Trirong-Black.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Trirong-BlackItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v15`.
+Font version (provided by source): `v17`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

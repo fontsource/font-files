@@ -1,18 +1,18 @@
 {
   "id": "gfs-neohellenic",
   "family": "GFS Neohellenic",
-  "subsets": ["greek"],
+  "subsets": ["greek", "greek-ext", "latin", "vietnamese"],
   "weights": [400, 700],
   "styles": ["italic", "normal"],
-  "defSubset": "greek",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-08-12",
-  "version": "v25",
+  "lastModified": "2025-09-16",
+  "version": "v27",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) Takis Katsoulidis and George D. Matthiopoulos, 1993-2001. All rights reserved."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) Takis Katsoulidis and George D. Matthiopoulos (gfs@greekfontsociety.gr), 1993-2001. All rights reserved. GFSNeohellenicItalic.ttf: Copyright (c) Takis Katsoulidis and George D. Matthiopoulos (gfs@greekfontsociety.gr) , 2001. All rights reserved. GFSNeohellenicBold.ttf: Copyright (c) Designed by Takis Katsoulidis and George D. Matthiopoulos (gfs@greekfontsociety.gr)., 2001. All rights reserved. GFSNeohellenicBoldItalic.ttf: Copyright (c) Designed by Takis Katsoulidis and George D. Matthiopoulos (gfs@greekfontsociety.gr)., 2001. All rights reserved."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

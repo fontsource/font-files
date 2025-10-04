@@ -1,0 +1,21 @@
+{
+  "id": "geist",
+  "family": "Geist",
+  "subsets": ["cyrillic", "latin", "latin-ext"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
+  },
+  "lastModified": "2025-09-11",
+  "version": "v4",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2024 The Geist Project Authors (https://github.com/vercel/geist-font.git)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

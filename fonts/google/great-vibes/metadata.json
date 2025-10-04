@@ -13,12 +13,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v19",
+  "lastModified": "2025-09-05",
+  "version": "v21",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2010 The Great Vibes Pro Project Authors (https://github.com/googlefonts/great-vibes)"
   },
   "source": "https://github.com/google/fonts",

@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
+  "lastModified": "2025-05-30",
   "version": "v2",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2002-2022, SIL International (http://www.sil.org/),\nwith Reserved Font Names \"Namdhinggo\" and \"SIL\"."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2002-2022, SIL International (http://www.sil.org/),\nwith Reserved Font Names \"Namdhinggo\" and \"SIL\". Namdhinggo-Medium.ttf: Copyright (c) 2002-2022, SIL International (http://www.sil.org/),\nwith Reserved Font Names \"Namdhinggo\" and \"SIL\". Namdhinggo-SemiBold.ttf: Copyright (c) 2002-2022, SIL International (http://www.sil.org/),\nwith Reserved Font Names \"Namdhinggo\" and \"SIL\". Namdhinggo-Bold.ttf: Copyright (c) 2002-2022, SIL International (http://www.sil.org/),\nwith Reserved Font Names \"Namdhinggo\" and \"SIL\". Namdhinggo-ExtraBold.ttf: Copyright (c) 2002-2022, SIL International (http://www.sil.org/),\nwith Reserved Font Names \"Namdhinggo\" and \"SIL\"."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

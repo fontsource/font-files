@@ -9,12 +9,12 @@
     "XROT": {"default": "0", "min": "-45", "max": "45", "step": "1"},
     "YROT": {"default": "0", "min": "-45", "max": "45", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v10",
+  "lastModified": "2025-09-05",
+  "version": "v12",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2019 The Tilt Project Authors (https://github.com/googlefonts/Tilt-Fonts)"
   },
   "source": "https://github.com/google/fonts",

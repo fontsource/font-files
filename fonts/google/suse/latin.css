@@ -69,3 +69,12 @@
   font-weight: 800;
   src: url(./files/suse-latin-800-normal.woff2) format('woff2'), url(./files/suse-latin-800-normal.woff) format('woff');
 }
+
+/* suse-latin-900-normal */
+@font-face {
+  font-family: 'SUSE';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url(./files/suse-latin-900-normal.woff2) format('woff2'), url(./files/suse-latin-900-normal.woff) format('woff');
+}

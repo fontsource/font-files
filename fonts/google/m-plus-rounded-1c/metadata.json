@@ -16,13 +16,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v16",
+  "lastModified": "2025-06-25",
+  "version": "v19",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2016 The Rounded M+ Project Authors."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2016 The Rounded M+ Project Authors. MPLUSRounded1c-Light.ttf: Copyright 2016 The Rounded M+ Project Authors. MPLUSRounded1c-Regular.ttf: Copyright 2016 The Rounded M+ Project Authors. MPLUSRounded1c-Medium.ttf: Copyright 2016 The Rounded M+ Project Authors. MPLUSRounded1c-Bold.ttf: Copyright 2016 The Rounded M+ Project Authors. MPLUSRounded1c-ExtraBold.ttf: Copyright 2016 The Rounded M+ Project Authors. MPLUSRounded1c-Black.ttf: Copyright 2016 The Rounded M+ Project Authors."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

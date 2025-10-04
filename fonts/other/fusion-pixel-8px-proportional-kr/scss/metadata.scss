@@ -1,0 +1,26 @@
+$id: 'fusion-pixel-8px-proportional-kr';
+$family: 'Fusion Pixel 8px Proportional KR';
+$category: sans-serif;
+$subsets: (latin);
+$weights: (400);
+$styles: (normal);
+$axes: null;
+$defaults: (
+	subset: latin,
+	weight: 400,
+	style: normal,
+	axis: null,
+);
+$unicode: null;
+
+$metadata: (
+  id: $id,
+  family: $family,
+  category: $category,
+  subsets: $subsets,
+  weights: $weights,
+  styles: $styles,
+  axes: $axes,
+  defaults: $defaults,
+  unicode: $unicode,
+) !default;

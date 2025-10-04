@@ -1,0 +1,8 @@
+/* ancizar-sans-latin-ext-100-normal */
+@font-face {
+  font-family: 'Ancizar Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src: url(./files/ancizar-sans-latin-ext-100-normal.woff2) format('woff2'), url(./files/ancizar-sans-latin-ext-100-normal.woff) format('woff');
+}

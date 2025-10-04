@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-12-14",
-  "version": "v21",
+  "lastModified": "2025-09-05",
+  "version": "v22",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/coptic)"
   },
   "source": "https://github.com/google/fonts",

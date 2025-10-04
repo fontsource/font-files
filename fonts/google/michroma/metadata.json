@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v19",
+  "lastModified": "2025-09-05",
+  "version": "v21",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2011 The Michroma Project Authors (https://github.com/googlefonts/Michroma-font)"
   },
   "source": "https://github.com/google/fonts",

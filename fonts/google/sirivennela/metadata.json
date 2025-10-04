@@ -1,0 +1,19 @@
+{
+  "id": "sirivennela",
+  "family": "Sirivennela",
+  "subsets": ["latin", "telugu"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-08-26",
+  "version": "v2",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2021 The Sirivennela Font Project Authors (https://github.com/appajid/Sirivennela)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

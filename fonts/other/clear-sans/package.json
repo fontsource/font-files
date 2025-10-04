@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/clear-sans",
-  "version": "5.1.0",
+  "version": "5.2.4",
   "description": "Self-host the Clear Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -18,13 +18,30 @@
     "typeface",
     "variable"
   ],
+  "exports": {
+    ".": {"sass": "./index.css", "default": "./index.css"},
+    "./LICENSE": "./LICENSE",
+    "./*": {"sass": "./*.css", "default": "./*.css"},
+    "./*.css": {"sass": "./*.css", "default": "./*.css"},
+    "./files/*": {"sass": "./files/*", "default": "./files/*"},
+    "./files/*.woff": {"sass": "./files/*.woff", "default": "./files/*.woff"},
+    "./files/*.woff2": {
+      "sass": "./files/*.woff2",
+      "default": "./files/*.woff2"
+    },
+    "./package.json": "./package.json",
+    "./metadata.json": "./metadata.json",
+    "./unicode.json": "./unicode.json",
+    "./scss": {"sass": "./scss/metadata.scss"}
+  },
   "author": "Intel",
   "license": "Apache-2.0",
   "homepage": "https://fontsource.org/fonts/clear-sans",
+  "funding": "https://github.com/sponsors/ayuhito",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fontsource/font-files.git",
+    "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/clear-sans"
   },
-  "publishHash": "0e816c82924d01cd"
+  "publishHash": "8044ea6b8be461cf"
 }

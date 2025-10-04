@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v26",
+  "lastModified": "2025-09-10",
+  "version": "v28",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright (c) 2011, Wojciech 'wmk69' Kalinowski (wmk69@o2.pl)"
   },
   "source": "https://github.com/google/fonts",

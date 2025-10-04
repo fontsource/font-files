@@ -9,12 +9,12 @@
     "slnt": {"default": "0", "min": "-11", "max": "11", "step": "1"},
     "wght": {"default": "400", "min": "200", "max": "1000", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v7",
+  "lastModified": "2025-09-16",
+  "version": "v13",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2009 The Cairo Project Authors (https://github.com/Gue3bara/Cairo)"
   },
   "source": "https://github.com/google/fonts",

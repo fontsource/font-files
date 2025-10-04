@@ -8,12 +8,12 @@
   "variable": {
     "wght": {"default": "400", "min": "200", "max": "700", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v53",
+  "lastModified": "2025-09-11",
+  "version": "v57",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont)"
   },
   "source": "https://github.com/google/fonts",

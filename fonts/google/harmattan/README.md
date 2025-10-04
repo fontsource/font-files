@@ -43,14 +43,41 @@ Copyright (c) 2007-2008, The C&MA Guinea Fulbe Team;
 Copyright renewed 2011-2012, George W. Nuss (http://www.fulbefouta.com),
 with the Reserved Font Name "Fouta".
 
-Copyright (c) 2004-2023, SIL International (http://www.sil.org),
+Copyright (c) 2004-2025, SIL Global (https://www.sil.org),
 with Reserved Font Names 'Andika' and 'SIL'.
 
-Copyright (c) 2014-2023, SIL International (http://www.sil.org/).
+Copyright (c) 2014-2025, SIL Global (https://www.sil.org/).
+with Reserved Font Names "Harmattan" and "SIL". Harmattan-Medium.ttf: Copyright (c) 2007-2008, The C&MA Guinea Fulbe Team;
+
+Copyright renewed 2011-2012, George W. Nuss (http://www.fulbefouta.com),
+with the Reserved Font Name "Fouta".
+
+Copyright (c) 2004-2025, SIL Global (https://www.sil.org),
+with Reserved Font Names 'Andika' and 'SIL'.
+
+Copyright (c) 2014-2025, SIL Global (https://www.sil.org/).
+with Reserved Font Names "Harmattan" and "SIL". Harmattan-SemiBold.ttf: Copyright (c) 2007-2008, The C&MA Guinea Fulbe Team;
+
+Copyright renewed 2011-2012, George W. Nuss (http://www.fulbefouta.com),
+with the Reserved Font Name "Fouta".
+
+Copyright (c) 2004-2025, SIL Global (https://www.sil.org),
+with Reserved Font Names 'Andika' and 'SIL'.
+
+Copyright (c) 2014-2025, SIL Global (https://www.sil.org/).
+with Reserved Font Names "Harmattan" and "SIL". Harmattan-Bold.ttf: Copyright (c) 2007-2008, The C&MA Guinea Fulbe Team;
+
+Copyright renewed 2011-2012, George W. Nuss (http://www.fulbefouta.com),
+with the Reserved Font Name "Fouta".
+
+Copyright (c) 2004-2025, SIL Global (https://www.sil.org),
+with Reserved Font Names 'Andika' and 'SIL'.
+
+Copyright (c) 2014-2025, SIL Global (https://www.sil.org/).
 with Reserved Font Names "Harmattan" and "SIL".
-[OFL-1.1](http://scripts.sil.org/OFL)
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v19`.
+Font version (provided by source): `v24`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

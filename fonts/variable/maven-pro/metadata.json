@@ -8,13 +8,13 @@
   "variable": {
     "wght": {"default": "400", "min": "400", "max": "900", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v36",
+  "lastModified": "2025-09-02",
+  "version": "v40",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2011 The Maven Pro Project Authors (http://www.vissol.co.uk/mavenpro/), with Reserved Font Name \"Maven Pro\"."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2011 The Maven Pro Project Authors (https://github.com/m4rc1e/mavenproFont), with Reserved Font Name \"Maven Pro\"."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

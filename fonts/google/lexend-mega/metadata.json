@@ -8,12 +8,12 @@
   "variable": {
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v25",
+  "lastModified": "2025-09-08",
+  "version": "v27",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2019 The Lexend Project Authors (https://github.com/googlefonts/lexend)"
   },
   "source": "https://github.com/google/fonts",

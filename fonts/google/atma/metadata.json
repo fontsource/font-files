@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v16",
+  "lastModified": "2025-09-16",
+  "version": "v19",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2015 The Atma Project Authors (www.black-foundry.com)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2015 The Atma Project Authors (www.black-foundry.com) Atma-Regular.ttf: Copyright 2015 The Atma Project Authors (www.black-foundry.com) Atma-Medium.ttf: Copyright 2015 The Atma Project Authors (www.black-foundry.com) Atma-SemiBold.ttf: Copyright 2015 The Atma Project Authors (www.black-foundry.com) Atma-Bold.ttf: Copyright 2015 The Atma Project Authors (www.black-foundry.com)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

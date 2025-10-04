@@ -1,0 +1,19 @@
+{
+  "id": "pochaevsk",
+  "family": "Pochaevsk",
+  "subsets": ["cyrillic", "cyrillic-ext", "latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-05-30",
+  "version": "v5",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2025 The Pochaevsk Project Authors (https://github.com/slavonic/pochaevsk)."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

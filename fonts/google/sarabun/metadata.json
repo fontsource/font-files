@@ -6,13 +6,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v15",
+  "lastModified": "2025-09-11",
+  "version": "v17",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-ThinItalic.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-ExtraLight.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-ExtraLightItalic.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-Light.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-LightItalic.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-Regular.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-Italic.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-Medium.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-MediumItalic.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-SemiBold.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-SemiBoldItalic.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-Bold.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-BoldItalic.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-ExtraBold.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun) Sarabun-ExtraBoldItalic.ttf: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

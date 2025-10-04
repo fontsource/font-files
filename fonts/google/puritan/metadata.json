@@ -6,13 +6,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v24",
+  "lastModified": "2025-09-10",
+  "version": "v25",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 1999-2010 Ben Weiner (ben@readingtype.org.uk). Licensed under the Open Font License v1.1 (http://scripts.sil.org/OFL)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 1999-2010 Ben Weiner (ben@readingtype.org.uk). Licensed under the Open Font License v1.1 (http://scripts.sil.org/OFL) Puritan-Italic.ttf: Copyright 1999-2010 Ben Weiner (ben@readingtype.org.uk). Licensed under the Open Font License v1.1 (http://scripts.sil.org/OFL) Puritan-Bold.ttf: Copyright 1999-2010 Ben Weiner (ben@readingtype.org.uk). Licensed under the Open Font License v1.1 (http://scripts.sil.org/OFL) Puritan-BoldItalic.ttf: Copyright 1999-2010 Ben Weiner (ben@readingtype.org.uk). Licensed under the Open Font License v1.1 (http://scripts.sil.org/OFL)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

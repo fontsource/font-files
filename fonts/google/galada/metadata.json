@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v18",
+  "lastModified": "2025-09-11",
+  "version": "v21",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright (c) 2010 by Pablo Impallari (www.impallari.com). Copyright (c) 2015 by black foundry (www.black-foundry.com)"
   },
   "source": "https://github.com/google/fonts",

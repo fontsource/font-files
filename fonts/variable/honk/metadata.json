@@ -9,12 +9,12 @@
     "MORF": {"default": "15", "min": "0", "max": "45", "step": "1"},
     "SHLN": {"default": "50", "min": "0", "max": "100", "step": "0.1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v1",
+  "lastModified": "2025-09-05",
+  "version": "v6",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2023 The Honk Project Authors (https://github.com/EkType/Honk)"
   },
   "source": "https://github.com/google/fonts",

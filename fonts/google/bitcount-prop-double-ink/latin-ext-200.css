@@ -1,0 +1,8 @@
+/* bitcount-prop-double-ink-latin-ext-200-normal */
+@font-face {
+  font-family: 'Bitcount Prop Double Ink';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: url(./files/bitcount-prop-double-ink-latin-ext-200-normal.woff2) format('woff2'), url(./files/bitcount-prop-double-ink-latin-ext-200-normal.woff) format('woff');
+}

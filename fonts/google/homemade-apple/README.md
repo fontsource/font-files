@@ -39,9 +39,9 @@ body {
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
 Copyright (c) 2010 by Font Diner, Inc. All rights reserved.
-[Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+[Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 ## Other Notes
-Font version (provided by source): `v22`.
+Font version (provided by source): `v24`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-08-12",
-  "version": "v31",
+  "lastModified": "2025-09-02",
+  "version": "v33",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2019 The Suwannaphum Project Authors (https://github.com/danhhong/Suwannaphum)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2019 The Suwannaphum Project Authors (https://github.com/danhhong/Suwannaphum) Suwannaphum-Light.ttf: Copyright 2019 The Suwannaphum Project Authors (https://github.com/danhhong/Suwannaphum) Suwannaphum-Regular.ttf: Copyright 2019 The Suwannaphum Project Authors (https://github.com/danhhong/Suwannaphum) Suwannaphum-Bold.ttf: Copyright 2019 The Suwannaphum Project Authors (https://github.com/danhhong/Suwannaphum) Suwannaphum-Black.ttf: Copyright 2019 The Suwannaphum Project Authors (https://github.com/danhhong/Suwannaphum)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

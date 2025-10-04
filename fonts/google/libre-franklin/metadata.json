@@ -9,13 +9,13 @@
     "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
   },
-  "lastModified": "2024-09-30",
-  "version": "v18",
+  "lastModified": "2025-09-08",
+  "version": "v20",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2020 The Libre Franklin Project Authors (https://github.com/googlefonts/Libre-Franklin)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2020 The Libre Franklin Project Authors (https://github.com/googlefonts/Libre-Franklin) LibreFranklin-Italic[wght].ttf: Copyright 2020 The Libre Franklin Project Authors (https://github.com/googlefonts/Libre-Franklin)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

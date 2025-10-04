@@ -6,13 +6,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-08-12",
-  "version": "v14",
+  "lastModified": "2025-09-05",
+  "version": "v15",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2017 The Inria Sans Project Authors (https://github.com/BlackFoundryCom/InriaFonts)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2017 The Inria Sans Project Authors (https://github.com/BlackFoundryCom/InriaFonts) InriaSans-LightItalic.ttf: Copyright 2017 The Inria Sans Project Authors (https://github.com/BlackFoundryCom/InriaFonts) InriaSans-Regular.ttf: Copyright 2017 The Inria Sans Project Authors (https://github.com/BlackFoundryCom/InriaFonts) InriaSans-Italic.ttf: Copyright 2017 The Inria Sans Project Authors (https://github.com/BlackFoundryCom/InriaFonts) InriaSans-Bold.ttf: Copyright 2017 The Inria Sans Project Authors (https://github.com/BlackFoundryCom/InriaFonts) InriaSans-BoldItalic.ttf: Copyright 2017 The Inria Sans Project Authors (https://github.com/BlackFoundryCom/InriaFonts)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -1,18 +1,18 @@
 {
   "id": "noto-sans-math",
   "family": "Noto Sans Math",
-  "subsets": ["math"],
+  "subsets": ["cyrillic", "latin", "math"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "math",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v15",
+  "lastModified": "2025-09-02",
+  "version": "v18",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2018 Google LLC. All Rights Reserved."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2022 Google LLC. All Rights Reserved."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

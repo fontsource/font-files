@@ -1,18 +1,18 @@
 {
   "id": "cinzel-decorative",
   "family": "Cinzel Decorative",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext"],
   "weights": [400, 700, 900],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v16",
+  "lastModified": "2025-09-08",
+  "version": "v19",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright  2012 Natanael Gama (info@ndiscovered.com), with Reserved Font Name 'Cinzel'"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright  2012 Natanael Gama (info@ndiscovered.com), with Reserved Font Name 'Cinzel' CinzelDecorative-Bold.ttf: Copyright  2012 Natanael Gama (info@ndiscovered.com), with Reserved Font Name 'Cinzel' CinzelDecorative-Black.ttf: Copyright  2012 Natanael Gama (info@ndiscovered.com), with Reserved Font Name 'Cinzel'"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

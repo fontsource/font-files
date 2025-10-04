@@ -12,13 +12,13 @@
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"},
     "GRAD": {"default": "0", "min": "-50", "max": "100", "step": "1"}
   },
-  "lastModified": "2024-09-30",
-  "version": "v15",
+  "lastModified": "2025-09-10",
+  "version": "v17",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2020 The Roboto Serif Project Authors (https://github.com/googlefonts/RobotoSerif)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2020 The Roboto Serif Project Authors (https://github.com/googlefonts/RobotoSerif) RobotoSerif-Italic[GRAD,opsz,wdth,wght].ttf: Copyright 2020 The Roboto Serif Project Authors (https://github.com/googlefonts/RobotoSerif)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

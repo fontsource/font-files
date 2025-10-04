@@ -1,0 +1,35 @@
+/* edu-sa-hand-latin-ext-400-normal */
+@font-face {
+  font-family: 'Edu SA Hand';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/edu-sa-hand-latin-ext-400-normal.woff2) format('woff2'), url(./files/edu-sa-hand-latin-ext-400-normal.woff) format('woff');
+}
+
+/* edu-sa-hand-latin-ext-500-normal */
+@font-face {
+  font-family: 'Edu SA Hand';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(./files/edu-sa-hand-latin-ext-500-normal.woff2) format('woff2'), url(./files/edu-sa-hand-latin-ext-500-normal.woff) format('woff');
+}
+
+/* edu-sa-hand-latin-ext-600-normal */
+@font-face {
+  font-family: 'Edu SA Hand';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(./files/edu-sa-hand-latin-ext-600-normal.woff2) format('woff2'), url(./files/edu-sa-hand-latin-ext-600-normal.woff) format('woff');
+}
+
+/* edu-sa-hand-latin-ext-700-normal */
+@font-face {
+  font-family: 'Edu SA Hand';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./files/edu-sa-hand-latin-ext-700-normal.woff2) format('woff2'), url(./files/edu-sa-hand-latin-ext-700-normal.woff) format('woff');
+}

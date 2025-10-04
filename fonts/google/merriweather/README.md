@@ -21,7 +21,7 @@ import "@fontsource/merriweather/400-italic.css"; // Specify weight and style
 ```
 
 Supported variables:
-- Weights: `[300,400,700,900]`
+- Weights: `[300,400,500,600,700,800,900]`
 - Styles: `[italic,normal]`
 - Subsets: `[cyrillic,cyrillic-ext,latin,latin-ext,vietnamese]`
 
@@ -38,10 +38,10 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright 2016 The Merriweather Project Authors (https://github.com/EbenSorkin/Merriweather), with Reserved Font Name "Merriweather".
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright 2024 The Merriweather Project Authors (https://github.com/EbenSorkin/Merriweather4) with Reserved Font Name "Merriweather". Merriweather-Italic[opsz,wdth,wght].ttf: Copyright 2024 The Merriweather Project Authors (https://github.com/EbenSorkin/Merriweather4) with Reserved Font Name "Merriweather".
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v30`.
+Font version (provided by source): `v33`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

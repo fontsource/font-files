@@ -6,13 +6,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v17",
+  "lastModified": "2025-09-11",
+  "version": "v19",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow) Tomorrow-ThinItalic.ttf: Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow) Tomorrow-ExtraLight.ttf: Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow) Tomorrow-ExtraLightItalic.ttf: Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow) Tomorrow-Light.ttf: Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow) Tomorrow-LightItalic.ttf: Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow) Tomorrow-Regular.ttf: Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow) Tomorrow-Italic.ttf: Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow) Tomorrow-Medium.ttf: Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow) Tomorrow-MediumItalic.ttf: Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow) Tomorrow-SemiBold.ttf: Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow) Tomorrow-SemiBoldItalic.ttf: Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow) Tomorrow-Bold.ttf: Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow) Tomorrow-BoldItalic.ttf: Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow) Tomorrow-ExtraBold.ttf: Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow) Tomorrow-ExtraBoldItalic.ttf: Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow) Tomorrow-Black.ttf: Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow) Tomorrow-BlackItalic.ttf: Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

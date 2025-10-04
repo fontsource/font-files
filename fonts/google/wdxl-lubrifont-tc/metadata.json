@@ -1,0 +1,25 @@
+{
+  "id": "wdxl-lubrifont-tc",
+  "family": "WDXL Lubrifont TC",
+  "subsets": [
+    "chinese-traditional",
+    "cyrillic",
+    "latin",
+    "latin-ext",
+    "symbols2"
+  ],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-06-18",
+  "version": "v4",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2025 The WDXL Lubrifont Project Authors (https://github.com/NightFurySL2001/WD-XL-font)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

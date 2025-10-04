@@ -14,13 +14,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
+  "lastModified": "2025-05-30",
   "version": "v2",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2003-2022 SIL International"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2003-2022 SIL International GentiumPlus-Italic.ttf: Copyright (c) 2003-2022 SIL International GentiumPlus-Bold.ttf: Copyright (c) 2003-2022 SIL International GentiumPlus-BoldItalic.ttf: Copyright (c) 2003-2022 SIL International"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

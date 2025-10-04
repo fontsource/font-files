@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v20",
+  "lastModified": "2025-09-08",
+  "version": "v21",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2016 The Cabin Project Authors (impallari@gmail.com)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2016 The Cabin Project Authors (impallari@gmail.com) CabinCondensed-Medium.ttf: Copyright 2016 The Cabin Project Authors (impallari@gmail.com) CabinCondensed-SemiBold.ttf: Copyright 2016 The Cabin Project Authors (impallari@gmail.com) CabinCondensed-Bold.ttf: Copyright 2016 The Cabin Project Authors (impallari@gmail.com)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

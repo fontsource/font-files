@@ -13,13 +13,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v20",
+  "lastModified": "2025-09-02",
+  "version": "v21",
   "category": "sans-serif",
   "license": {
     "type": "UFL-1.0",
     "url": "http://font.ubuntu.com/ufl/",
-    "attribution": "Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0"
+    "attribution": "Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0 Ubuntu-LightItalic.ttf: Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0 Ubuntu-Regular.ttf: Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0 Ubuntu-Italic.ttf: Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0 Ubuntu-Medium.ttf: Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0 Ubuntu-MediumItalic.ttf: Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0 Ubuntu-Bold.ttf: Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0 Ubuntu-BoldItalic.ttf: Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

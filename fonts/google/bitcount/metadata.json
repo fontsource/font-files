@@ -1,0 +1,25 @@
+{
+  "id": "bitcount",
+  "family": "Bitcount",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "slnt": {"default": "0", "min": "-8", "max": "0", "step": "1"},
+    "wght": {"default": "400", "min": "100", "max": "900", "step": "1"},
+    "CRSV": {"default": "0.5", "min": "0", "max": "1", "step": "0.1"},
+    "ELSH": {"default": "0", "min": "0", "max": "100", "step": "0.1"},
+    "ELXP": {"default": "0", "min": "0", "max": "100", "step": "1"}
+  },
+  "lastModified": "2025-09-16",
+  "version": "v3",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2024 The Bitcount Project Authors (https://github.com/petrvanblokland/TYPETR-Bitcount)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

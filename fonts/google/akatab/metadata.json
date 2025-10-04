@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v7",
+  "lastModified": "2025-09-10",
+  "version": "v9",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2010-2023, SIL International (https://scripts.sil.org), with Reserved Font Name \"Akatab\", copyright 2010-2019 Adobe (http://www.adobe.com/), with Reserved Font Name \"Source\" (Latin glyphs)."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2010-2025, SIL Global (https://scripts.sil.org), with Reserved Font Name \"Akatab\", copyright 2010-2019 Adobe (http://www.adobe.com/), with Reserved Font Name \"Source\" (Latin glyphs). Akatab-Medium.ttf: Copyright (c) 2010-2025, SIL Global (https://scripts.sil.org), with Reserved Font Name \"Akatab\", copyright 2010-2019 Adobe (http://www.adobe.com/), with Reserved Font Name \"Source\" (Latin glyphs). Akatab-SemiBold.ttf: Copyright (c) 2010-2025, SIL Global (https://scripts.sil.org), with Reserved Font Name \"Akatab\", copyright 2010-2019 Adobe (http://www.adobe.com/), with Reserved Font Name \"Source\" (Latin glyphs). Akatab-Bold.ttf: Copyright (c) 2010-2025, SIL Global (https://scripts.sil.org), with Reserved Font Name \"Akatab\", copyright 2010-2019 Adobe (http://www.adobe.com/), with Reserved Font Name \"Source\" (Latin glyphs). Akatab-ExtraBold.ttf: Copyright (c) 2010-2025, SIL Global (https://scripts.sil.org), with Reserved Font Name \"Akatab\", copyright 2010-2019 Adobe (http://www.adobe.com/), with Reserved Font Name \"Source\" (Latin glyphs). Akatab-Black.ttf: Copyright (c) 2010-2025, SIL Global (https://scripts.sil.org), with Reserved Font Name \"Akatab\", copyright 2010-2019 Adobe (http://www.adobe.com/), with Reserved Font Name \"Source\" (Latin glyphs)."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-05-31",
-  "version": "v6",
+  "lastModified": "2025-09-08",
+  "version": "v9",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 1995-2017, SIL International (www.sil.org)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 1995-2017, SIL International (www.sil.org) TaiHeritagePro-Bold.ttf: Copyright (c) 1995-2017, SIL International (www.sil.org)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

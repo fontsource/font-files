@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v11",
+  "lastModified": "2025-09-11",
+  "version": "v12",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2019 IBM Corp. All rights reserved."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2019 IBM Corp. All rights reserved. IBMPlexSansDevanagari-ExtraLight.ttf: Copyright 2019 IBM Corp. All rights reserved. IBMPlexSansDevanagari-Light.ttf: Copyright 2019 IBM Corp. All rights reserved. IBMPlexSansDevanagari-Regular.ttf: Copyright 2019 IBM Corp. All rights reserved. IBMPlexSansDevanagari-Medium.ttf: Copyright 2019 IBM Corp. All rights reserved. IBMPlexSansDevanagari-SemiBold.ttf: Copyright 2019 IBM Corp. All rights reserved. IBMPlexSansDevanagari-Bold.ttf: Copyright 2019 IBM Corp. All rights reserved."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -1,14 +1,26 @@
-$id: 'syne-italic' !default;
-$family: 'Syne Italic' !default;
-$category: sans-serif !default;
-$subsets: (latin) !default;
-$weights: (400) !default;
-$styles: (italic) !default;
-$axes: null !default;
+$id: 'syne-italic';
+$family: 'Syne Italic';
+$category: sans-serif;
+$subsets: (latin);
+$weights: (400);
+$styles: (italic);
+$axes: null;
 $defaults: (
-  subset: latin,
-  weight: 400,
-  style: normal,
-  axis: null,
+	subset: latin,
+	weight: 400,
+	style: normal,
+	axis: null,
+);
+$unicode: null;
+
+$metadata: (
+  id: $id,
+  family: $family,
+  category: $category,
+  subsets: $subsets,
+  weights: $weights,
+  styles: $styles,
+  axes: $axes,
+  defaults: $defaults,
+  unicode: $unicode,
 ) !default;
-$unicode: null !default;

@@ -9,13 +9,13 @@
     "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
     "wght": {"default": "400", "min": "200", "max": "900", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v4",
+  "lastModified": "2025-09-16",
+  "version": "v6",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans) RedditSans-Italic[wght].ttf: Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

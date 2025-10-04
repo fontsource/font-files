@@ -1,0 +1,25 @@
+{
+  "id": "huninn",
+  "family": "Huninn",
+  "subsets": [
+    "chinese-traditional",
+    "cyrillic",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-06-12",
+  "version": "v2",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2025 The Huninn Project Authors (https://github.com/justfont/Huninn)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

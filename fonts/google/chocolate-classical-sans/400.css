@@ -8,6 +8,36 @@
   unicode-range: U+1f921-1f930,U+1f932-1f935,U+1f937-1f939,U+1f940-1f944,U+1f947-1f94a,U+1f950-1f95f,U+1f962-1f967,U+1f969-1f96a,U+1f980-1f981,U+1f984-1f98d,U+1f990-1f992,U+1f994-1f996,U+1f9c0,U+1f9d0,U+1f9d2,U+1f9d4,U+1f9d6,U+1f9d8,U+1f9da,U+1f9dc-1f9dd,U+1f9df-1f9e2,U+1f9e5-1f9e6,U+20024,U+20487,U+20779,U+20c41,U+20c78,U+20d71,U+20e98,U+20ef9,U+2107b,U+210c1,U+22c51,U+233b4,U+24a12,U+2512b,U+2546e,U+25683,U+267cc,U+269f2,U+27657,U+282e2,U+2898d,U+29d5a,U+f0001-f0005,U+f0019,U+f009b,U+f0101-f0104,U+f012b,U+f01ba,U+f01d6,U+f0209,U+f0217,U+f0223-f0224,U+fc355,U+fe327,U+fe517,U+feb97,U+fffb4;
 }
 
+/* chocolate-classical-sans-[1]-400-normal */
+@font-face {
+  font-family: 'Chocolate Classical Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/chocolate-classical-sans-1-400-normal.woff2) format('woff2'), url(./files/chocolate-classical-sans-1-400-normal.woff) format('woff');
+  unicode-range: U+1f619-1f62c,U+1f62e-1f64f,U+1f680-1f68d,U+1f68f-1f695,U+1f697-1f69b,U+1f6a2-1f6a4,U+1f6a6-1f6ad,U+1f6b2,U+1f6b4,U+1f6b6-1f6b7,U+1f6b9-1f6ba,U+1f6bc-1f6bd,U+1f6bf-1f6c1,U+1f6cb-1f6cf,U+1f6d1-1f6d2,U+1f6e0-1f6e1,U+1f6e5,U+1f6e9,U+1f6eb-1f6ec,U+1f6f5,U+1f6f8,U+1f910-1f920;
+}
+
+/* chocolate-classical-sans-[2]-400-normal */
+@font-face {
+  font-family: 'Chocolate Classical Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/chocolate-classical-sans-2-400-normal.woff2) format('woff2'), url(./files/chocolate-classical-sans-2-400-normal.woff) format('woff');
+  unicode-range: U+1f4e4-1f4ee,U+1f4f0-1f4f3,U+1f4f7-1f4fb,U+1f4fd,U+1f4ff,U+1f504-1f506,U+1f508-1f50e,U+1f511-1f512,U+1f514,U+1f516-1f51f,U+1f524-1f525,U+1f527-1f528,U+1f52a-1f52c,U+1f52e-1f532,U+1f534-1f53d,U+1f54a,U+1f54c,U+1f550-1f553,U+1f556-1f55b,U+1f564,U+1f56f-1f570,U+1f573-1f57a,U+1f58a-1f58d,U+1f590,U+1f592,U+1f595-1f596,U+1f5a4-1f5a5,U+1f5bc,U+1f5d3,U+1f5dd,U+1f5e1,U+1f5e3,U+1f5e8,U+1f5ef,U+1f5f3,U+1f5fa-1f5fd,U+1f5ff-1f601,U+1f603-1f609,U+1f60b-1f60c,U+1f60e-1f617;
+}
+
+/* chocolate-classical-sans-[3]-400-normal */
+@font-face {
+  font-family: 'Chocolate Classical Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/chocolate-classical-sans-3-400-normal.woff2) format('woff2'), url(./files/chocolate-classical-sans-3-400-normal.woff) format('woff');
+  unicode-range: U+1f44c,U+1f44e-1f463,U+1f465-1f494,U+1f496-1f4b5,U+1f4b8,U+1f4bb-1f4bc,U+1f4bf-1f4c0,U+1f4c3-1f4c8,U+1f4cb-1f4d6,U+1f4d8,U+1f4da,U+1f4dc-1f4de,U+1f4e1-1f4e3;
+}
+
 /* chocolate-classical-sans-[6]-400-normal */
 @font-face {
   font-family: 'Chocolate Classical Sans';
@@ -36,16 +66,6 @@
   font-weight: 400;
   src: url(./files/chocolate-classical-sans-8-400-normal.woff2) format('woff2'), url(./files/chocolate-classical-sans-8-400-normal.woff) format('woff');
   unicode-range: U+f78a-f78c,U+f78e,U+f792-f796,U+f798,U+f79c,U+f7f5,U+f812,U+f815,U+f876,U+f8f5,U+f8f8,U+f8ff,U+f901-f902,U+f904,U+f906,U+f909-f90a,U+f90f,U+f914,U+f918-f919,U+f91b,U+f91d,U+f91f,U+f923,U+f925,U+f92d-f92f,U+f934,U+f937-f938,U+f93d,U+f93f,U+f941,U+f949,U+f94c,U+f94e-f94f,U+f95a,U+f95d-f95e,U+f961-f963,U+f965-f970,U+f974,U+f976-f97a,U+f97c,U+f97e-f97f,U+f981,U+f983,U+f988,U+f98a,U+f98c,U+f98e,U+f996-f997,U+f999-f99a,U+f99c,U+f99f-f9a0,U+f9a3,U+f9a8,U+f9ad,U+f9b2-f9b6,U+f9b9-f9ba,U+f9bd-f9be,U+f9c1,U+f9c4,U+f9c7,U+f9ca,U+f9cd,U+f9d0-f9d1,U+f9d3-f9d4,U+f9d7-f9d8,U+f9dc-f9dd,U+f9df-f9e1,U+f9e4,U+f9e8-f9ea,U+f9f4,U+f9f6-f9f7,U+f9f9-f9fa,U+f9fc-fa01,U+fa03-fa04,U+fa06,U+fa08-fa09;
-}
-
-/* chocolate-classical-sans-[12]-400-normal */
-@font-face {
-  font-family: 'Chocolate Classical Sans';
-  font-style: normal;
-  font-display: swap;
-  font-weight: 400;
-  src: url(./files/chocolate-classical-sans-12-400-normal.woff2) format('woff2'), url(./files/chocolate-classical-sans-12-400-normal.woff) format('woff');
-  unicode-range: U+d544,U+d54f,U+d551,U+d558-d559,U+d560,U+d568-d569,U+d56b,U+d56d,U+d574-d575,U+d578,U+d587-d589,U+d5a5,U+d5c8,U+d5cc,U+d5d8,U+d5dd,U+d5e4,U+d5e8,U+d5ec,U+d600-d601,U+d604,U+d611,U+d615,U+d61c,U+d638-d639,U+d63c,U+d640,U+d648-d649,U+d64d,U+d654-d655,U+d658,U+d65c,U+d669,U+d68c-d68d,U+d6a8,U+d6c4,U+d6c8,U+d718,U+d734,U+d749,U+d750-d751,U+d754,U+d758,U+d760,U+d765,U+d76c,U+d788,U+d78c,U+d790,U+d798,U+d7e1,U+e000-e00a,U+e00c,U+e00f-e011,U+e018,U+e01a,U+e01d-e01e,U+e024,U+e027,U+e030,U+e038,U+e03d,U+e043-e045,U+e04e,U+e051,U+e054,U+e056,U+e05e,U+e063-e064,U+e070,U+e072,U+e081,U+e08d,U+e0a0,U+e0a4-e0a6,U+e0ac,U+e0b0,U+e0b9,U+e0be,U+e0c1,U+e0c7,U+e0cd,U+e0d0,U+e0d9,U+e0de,U+e0e1,U+e0eb-e0ed,U+e103-e104,U+e11a,U+e11e,U+e12d-e12e,U+e145-e146,U+e14c,U+e150,U+e152,U+e15b,U+e15e,U+e16e,U+e183,U+e18d;
 }
 
 /* chocolate-classical-sans-[19]-400-normal */
@@ -1018,16 +1038,6 @@
   unicode-range: U+20-22,U+27-2a,U+2c-3b,U+3f,U+41-5d,U+61-7b,U+7d,U+ab,U+ae,U+b2-b3,U+bb,U+bf,U+c9,U+cd,U+d6,U+e0-ef,U+f1-f4,U+f6,U+f9-fa,U+fc-fd,U+101,U+103,U+110-111,U+113,U+12b,U+14d,U+16b,U+1a1,U+1b0,U+1ce,U+300-301,U+1ea1,U+1ea3,U+1ebf,U+1ec7,U+2013-2014,U+2039-203a,U+203c,U+2122,U+3001-3002,U+3113-3114,U+3118,U+311a-3129,U+4e00,U+4e0a-4e0b,U+4e0d,U+4e2d,U+4eba,U+4ee5,U+4f5c,U+500b,U+5165,U+5168,U+516c,U+51fa,U+5206,U+5230,U+52d5,U+53ef-53f0,U+570b,U+5728,U+5730,U+591a,U+5927,U+5b50,U+5bb6,U+5c0f,U+5fc3,U+6211,U+6587,U+65b0,U+65bc,U+65e5,U+662f,U+6642,U+6700,U+6703,U+6708-6709,U+672c,U+6b63,U+70b9-70ba,U+751f,U+7528,U+767c,U+7684,U+7db2,U+884c,U+958b,U+95dc,U+96fb,U+9801,U+ff0c,U+ff1a;
 }
 
-/* chocolate-classical-sans-chinese-hongkong-400-normal */
-@font-face {
-  font-family: 'Chocolate Classical Sans';
-  font-style: normal;
-  font-display: swap;
-  font-weight: 400;
-  src: url(./files/chocolate-classical-sans-chinese-hongkong-400-normal.woff2) format('woff2'), url(./files/chocolate-classical-sans-chinese-hongkong-400-normal.woff) format('woff');
-  unicode-range: U+3000-303F,U+3105-312F,U+4E00-9FFF,U+F907,U+2F825,U+2F83B,U+2F840,U+2F878,U+2F894,U+2F8A6,U+2F8CD,U+2F994,U+2F9B2,U+2F9BC,U+2F9D4;
-}
-
 /* chocolate-classical-sans-cyrillic-400-normal */
 @font-face {
   font-family: 'Chocolate Classical Sans';
@@ -1055,7 +1065,7 @@
   font-display: swap;
   font-weight: 400;
   src: url(./files/chocolate-classical-sans-latin-ext-400-normal.woff2) format('woff2'), url(./files/chocolate-classical-sans-latin-ext-400-normal.woff) format('woff');
-  unicode-range: U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;
+  unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;
 }
 
 /* chocolate-classical-sans-latin-400-normal */
@@ -1065,5 +1075,5 @@
   font-display: swap;
   font-weight: 400;
   src: url(./files/chocolate-classical-sans-latin-400-normal.woff2) format('woff2'), url(./files/chocolate-classical-sans-latin-400-normal.woff) format('woff');
-  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
 }

@@ -1,0 +1,19 @@
+{
+  "id": "libertinus-keyboard",
+  "family": "Libertinus Keyboard",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-08-26",
+  "version": "v2",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2025 The Libertinus Keyboard Project Authors (https://github.com/googlefonts/libertinus)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

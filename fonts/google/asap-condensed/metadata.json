@@ -6,13 +6,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v17",
+  "lastModified": "2025-09-02",
+  "version": "v18",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-ExtraLightItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-Light.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-LightItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-Regular.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-Italic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-Medium.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-MediumItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-SemiBold.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-SemiBoldItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-Bold.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-BoldItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-ExtraBold.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-ExtraBoldItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-Black.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-BlackItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

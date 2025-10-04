@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v26",
+  "lastModified": "2025-09-08",
+  "version": "v28",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright (c) 2011, Barry Schwartz (chemoelectric@chemoelectric.org)"
   },
   "source": "https://github.com/google/fonts",

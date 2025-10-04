@@ -1,0 +1,8 @@
+/* epunda-slab-latin-500-normal */
+@font-face {
+  font-family: 'Epunda Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(./files/epunda-slab-latin-500-normal.woff2) format('woff2'), url(./files/epunda-slab-latin-500-normal.woff) format('woff');
+}

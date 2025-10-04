@@ -1,0 +1,8 @@
+/* chiron-sung-hk-latin-500-normal */
+@font-face {
+  font-family: 'Chiron Sung HK';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(./files/chiron-sung-hk-latin-500-normal.woff2) format('woff2'), url(./files/chiron-sung-hk-latin-500-normal.woff) format('woff');
+}

@@ -15,12 +15,12 @@
   "variable": {
     "wght": {"default": "400", "min": "300", "max": "700", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v45",
+  "lastModified": "2025-09-08",
+  "version": "v47",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2011 The Comfortaa Project Authors (https://github.com/alexeiva/comfortaa), with Reserved Font Name \"Comfortaa\"."
   },
   "source": "https://github.com/google/fonts",

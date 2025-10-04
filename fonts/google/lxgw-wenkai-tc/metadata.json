@@ -2,7 +2,7 @@
   "id": "lxgw-wenkai-tc",
   "family": "LXGW WenKai TC",
   "subsets": [
-    "chinese-hongkong",
+    "chinese-traditional",
     "cyrillic",
     "cyrillic-ext",
     "greek",
@@ -16,13 +16,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v5",
+  "lastModified": "2025-06-09",
+  "version": "v9",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC) LXGWWenKaiTC-Regular.ttf: Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC) LXGWWenKaiTC-Bold.ttf: Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

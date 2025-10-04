@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-08-12",
-  "version": "v15",
+  "lastModified": "2025-09-16",
+  "version": "v17",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com) Rajdhani-Regular.ttf: Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com) Rajdhani-Medium.ttf: Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com) Rajdhani-SemiBold.ttf: Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com) Rajdhani-Bold.ttf: Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

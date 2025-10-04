@@ -1,0 +1,8 @@
+/* mona-sans-latin-200-normal */
+@font-face {
+  font-family: 'Mona Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: url(./files/mona-sans-latin-200-normal.woff2) format('woff2'), url(./files/mona-sans-latin-200-normal.woff) format('woff');
+}

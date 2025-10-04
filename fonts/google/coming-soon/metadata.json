@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v19",
+  "lastModified": "2025-09-08",
+  "version": "v20",
   "category": "handwriting",
   "license": {
     "type": "Apache-2.0",
-    "url": "http://www.apache.org/licenses/LICENSE-2.0.html",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0",
     "attribution": "Copyright (c) 2010 by Open Window. All rights reserved."
   },
   "source": "https://github.com/google/fonts",

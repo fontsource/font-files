@@ -1,18 +1,18 @@
 {
   "id": "sunflower",
   "family": "Sunflower",
-  "subsets": ["korean", "latin"],
+  "subsets": ["korean"],
   "weights": [300, 500, 700],
   "styles": ["normal"],
-  "defSubset": "latin",
+  "defSubset": "korean",
   "variable": false,
-  "lastModified": "2024-08-12",
-  "version": "v16",
+  "lastModified": "2025-09-16",
+  "version": "v18",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2008 The Sunflower Project Authors"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2008 The Sunflower Project Authors Sunflower-Medium.ttf: Copyright 2008 The Sunflower Project Authors Sunflower-Bold.ttf: Copyright 2008 The Sunflower Project Authors"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

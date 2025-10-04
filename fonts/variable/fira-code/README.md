@@ -23,7 +23,7 @@ import "@fontsource-variable/fira-code/wght-italic.css"; // Specify axis and sty
 Supported variables:
 - Weights: `[300,400,500,600,700]`
 - Styles: `[normal]`
-- Subsets: `[cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext]`
+- Subsets: `[cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,symbols2]`
 - Axes: `[wght]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what axes and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/fira-code).
@@ -40,9 +40,9 @@ body {
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
 Copyright 2014-2020 The Fira Code Project Authors (https://github.com/tonsky/FiraCode)
-[OFL-1.1](http://scripts.sil.org/OFL)
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v22`.
+Font version (provided by source): `v27`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

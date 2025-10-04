@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-08-12",
-  "version": "v24",
+  "lastModified": "2025-09-05",
+  "version": "v26",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2019 The Battambang Khmer Project Authors (https://github.com/danhhong/Battambang)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2019 The Battambang Khmer Project Authors (https://github.com/danhhong/Battambang) Battambang-Light.ttf: Copyright 2019 The Battambang Khmer Project Authors (https://github.com/danhhong/Battambang) Battambang-Regular.ttf: Copyright 2019 The Battambang Khmer Project Authors (https://github.com/danhhong/Battambang) Battambang-Bold.ttf: Copyright 2019 The Battambang Khmer Project Authors (https://github.com/danhhong/Battambang) Battambang-Black.ttf: Copyright 2019 The Battambang Khmer Project Authors (https://github.com/danhhong/Battambang)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

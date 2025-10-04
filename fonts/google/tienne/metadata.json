@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v20",
+  "lastModified": "2025-09-05",
+  "version": "v21",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2011, Vernon Adams (vern@newtypography.co.uk) with Reserved Font Names 'Tienne'"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2011, Vernon Adams (vern@newtypography.co.uk) with Reserved Font Names 'Tienne' Tienne-Bold.ttf: Copyright (c) 2011, Vernon Adams (vern@newtypography.co.uk) with Reserved Font Names 'Tienne' Tienne-Black.ttf: Copyright (c) 2011, Vernon Adams (vern@newtypography.co.uk) with Reserved Font Names 'Tienne'"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

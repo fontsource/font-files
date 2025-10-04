@@ -38,10 +38,10 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright 2017, The Mozilla Foundation
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright 2017, The Mozilla Foundation ZillaSlab-LightItalic.ttf: Copyright 2017, The Mozilla Foundation ZillaSlab-Regular.ttf: Copyright 2017, The Mozilla Foundation ZillaSlab-Italic.ttf: Copyright 2017, The Mozilla Foundation ZillaSlab-Medium.ttf: Copyright 2017, The Mozilla Foundation ZillaSlab-MediumItalic.ttf: Copyright 2017, The Mozilla Foundation ZillaSlab-SemiBold.ttf: Copyright 2017, The Mozilla Foundation ZillaSlab-SemiBoldItalic.ttf: Copyright 2017, The Mozilla Foundation ZillaSlab-Bold.ttf: Copyright 2017, The Mozilla Foundation ZillaSlab-BoldItalic.ttf: Copyright 2017, The Mozilla Foundation
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v11`.
+Font version (provided by source): `v12`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

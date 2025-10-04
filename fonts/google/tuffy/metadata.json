@@ -1,0 +1,27 @@
+{
+  "id": "tuffy",
+  "family": "Tuffy",
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "phoenician"
+  ],
+  "weights": [400, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-04-23",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2011, Thatcher Ulrich (http://tulrich.com tu@tulrich.com), Karoly Barta (brtkr@freemail.hu), Michael Everson (http://www.evertype.com everson@evertype.com), with Reserved Font Name \"Tuffy\" Tuffy-Italic.ttf: Copyright (c) 2011, Thatcher Ulrich (http://tulrich.com tu@tulrich.com), Karoly Barta (brtkr@freemail.hu), Michael Everson (http://www.evertype.com everson@evertype.com), with Reserved Font Name \"Tuffy\" Tuffy-Bold.ttf: Copyright (c) 2011, Thatcher Ulrich (http://tulrich.com tu@tulrich.com), Karoly Barta (brtkr@freemail.hu), Michael Everson (http://www.evertype.com everson@evertype.com), with Reserved Font Name \"Tuffy\" Tuffy-BoldItalic.ttf: Copyright (c) 2011, Thatcher Ulrich (http://tulrich.com tu@tulrich.com), Karoly Barta (brtkr@freemail.hu), Michael Everson (http://www.evertype.com everson@evertype.com), with Reserved Font Name \"Tuffy\""
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

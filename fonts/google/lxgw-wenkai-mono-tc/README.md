@@ -23,7 +23,7 @@ import "@fontsource/lxgw-wenkai-mono-tc/400-italic.css"; // Specify weight and s
 Supported variables:
 - Weights: `[300,400,700]`
 - Styles: `[normal]`
-- Subsets: `[chinese-hongkong,cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,lisu,vietnamese]`
+- Subsets: `[chinese-traditional,cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,lisu,vietnamese]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what weights and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/lxgw-wenkai-mono-tc).
 
@@ -38,10 +38,10 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC) LXGWWenKaiMonoTC-Regular.ttf: Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC) LXGWWenKaiMonoTC-Bold.ttf: Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v5`.
+Font version (provided by source): `v9`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

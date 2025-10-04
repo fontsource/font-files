@@ -1,0 +1,19 @@
+{
+  "id": "badeen-display",
+  "family": "Badeen Display",
+  "subsets": ["arabic", "latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-05-30",
+  "version": "v1",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2024 The Badeen Project Authors (https://github.com/haniadnansd/Badeen-Display)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

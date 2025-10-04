@@ -1,0 +1,26 @@
+$id: 'maple-mono';
+$family: 'Maple Mono';
+$category: monospace;
+$subsets: (latin);
+$weights: (100, 200, 300, 400, 500, 600, 700, 800);
+$styles: (normal, italic);
+$axes: null;
+$defaults: (
+	subset: latin,
+	weight: 400,
+	style: normal,
+	axis: null,
+);
+$unicode: null;
+
+$metadata: (
+  id: $id,
+  family: $family,
+  category: $category,
+  subsets: $subsets,
+  weights: $weights,
+  styles: $styles,
+  axes: $axes,
+  defaults: $defaults,
+  unicode: $unicode,
+) !default;

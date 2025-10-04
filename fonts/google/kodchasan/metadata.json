@@ -6,13 +6,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v17",
+  "lastModified": "2025-09-08",
+  "version": "v20",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan) Kodchasan-ExtraLightItalic.ttf: Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan) Kodchasan-Light.ttf: Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan) Kodchasan-LightItalic.ttf: Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan) Kodchasan-Regular.ttf: Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan) Kodchasan-Italic.ttf: Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan) Kodchasan-Medium.ttf: Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan) Kodchasan-MediumItalic.ttf: Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan) Kodchasan-SemiBold.ttf: Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan) Kodchasan-SemiBoldItalic.ttf: Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan) Kodchasan-Bold.ttf: Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan) Kodchasan-BoldItalic.ttf: Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

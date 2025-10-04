@@ -38,10 +38,10 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright 2014 Pria Ravichandran (pria.ravichandran@gmail.com)
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright 2014 Pria Ravichandran (pria.ravichandran@gmail.com) Palanquin-ExtraLight.ttf: Copyright 2014 Pria Ravichandran (pria.ravichandran@gmail.com) Palanquin-Light.ttf: Copyright 2014 Pria Ravichandran (pria.ravichandran@gmail.com) Palanquin-Regular.ttf: Copyright 2014 Pria Ravichandran (pria.ravichandran@gmail.com) Palanquin-Medium.ttf: Copyright 2014 Pria Ravichandran (pria.ravichandran@gmail.com) Palanquin-SemiBold.ttf: Copyright 2014 Pria Ravichandran (pria.ravichandran@gmail.com) Palanquin-Bold.ttf: Copyright 2014 Pria Ravichandran (pria.ravichandran@gmail.com)
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v13`.
+Font version (provided by source): `v17`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

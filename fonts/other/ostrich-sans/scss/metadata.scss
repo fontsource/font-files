@@ -1,14 +1,26 @@
-$id: 'ostrich-sans' !default;
-$family: 'Ostrich Sans' !default;
-$category: sans-serif !default;
-$subsets: (latin) !default;
-$weights: (300, 400, 700, 900) !default;
-$styles: (normal) !default;
-$axes: null !default;
+$id: 'ostrich-sans';
+$family: 'Ostrich Sans';
+$category: sans-serif;
+$subsets: (latin);
+$weights: (300, 400, 700, 900);
+$styles: (normal);
+$axes: null;
 $defaults: (
-  subset: latin,
-  weight: 400,
-  style: normal,
-  axis: null,
+	subset: latin,
+	weight: 400,
+	style: normal,
+	axis: null,
+);
+$unicode: null;
+
+$metadata: (
+  id: $id,
+  family: $family,
+  category: $category,
+  subsets: $subsets,
+  weights: $weights,
+  styles: $styles,
+  axes: $axes,
+  defaults: $defaults,
+  unicode: $unicode,
 ) !default;
-$unicode: null !default;

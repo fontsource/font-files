@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/chivo-mono",
-  "version": "5.1.0",
+  "version": "5.2.8",
   "description": "Self-host the Chivo Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -18,13 +18,30 @@
     "typeface",
     "variable"
   ],
+  "exports": {
+    ".": {"sass": "./index.css", "default": "./index.css"},
+    "./LICENSE": "./LICENSE",
+    "./*": {"sass": "./*.css", "default": "./*.css"},
+    "./*.css": {"sass": "./*.css", "default": "./*.css"},
+    "./files/*": {"sass": "./files/*", "default": "./files/*"},
+    "./files/*.woff": {"sass": "./files/*.woff", "default": "./files/*.woff"},
+    "./files/*.woff2": {
+      "sass": "./files/*.woff2",
+      "default": "./files/*.woff2"
+    },
+    "./package.json": "./package.json",
+    "./metadata.json": "./metadata.json",
+    "./unicode.json": "./unicode.json",
+    "./scss": {"sass": "./scss/metadata.scss"}
+  },
   "author": "Google Inc.",
   "license": "OFL-1.1",
   "homepage": "https://fontsource.org/fonts/chivo-mono",
+  "funding": "https://github.com/sponsors/ayuhito",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fontsource/font-files.git",
+    "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/chivo-mono"
   },
-  "publishHash": "c8b226cfa0ed681a"
+  "publishHash": "69a20d90812aefb7"
 }

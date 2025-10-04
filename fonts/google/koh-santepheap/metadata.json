@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-08-12",
-  "version": "v11",
+  "lastModified": "2025-09-10",
+  "version": "v15",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2020 The Koh Santepheap Project Authors (https://github.com/danhhong/KohSantepheap)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2020 The Koh Santepheap Project Authors (https://github.com/danhhong/KohSantepheap) KohSantepheap-Light.ttf: Copyright 2020 The Koh Santepheap Project Authors (https://github.com/danhhong/KohSantepheap) KohSantepheap-Regular.ttf: Copyright 2020 The Koh Santepheap Project Authors (https://github.com/danhhong/KohSantepheap) KohSantepheap-Bold.ttf: Copyright 2020 The Koh Santepheap Project Authors (https://github.com/danhhong/KohSantepheap) KohSantepheap-Black.ttf: Copyright 2020 The Koh Santepheap Project Authors (https://github.com/danhhong/KohSantepheap)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

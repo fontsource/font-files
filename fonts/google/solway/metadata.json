@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v18",
+  "lastModified": "2025-09-08",
+  "version": "v19",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2018 The Solway Project Authors (https://github.com/mashavp/Solway)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2018 The Solway Project Authors (https://github.com/mashavp/Solway) Solway-Regular.ttf: Copyright 2018 The Solway Project Authors (https://github.com/mashavp/Solway) Solway-Medium.ttf: Copyright 2018 The Solway Project Authors (https://github.com/mashavp/Solway) Solway-Bold.ttf: Copyright 2018 The Solway Project Authors (https://github.com/mashavp/Solway) Solway-ExtraBold.ttf: Copyright 2018 The Solway Project Authors (https://github.com/mashavp/Solway)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

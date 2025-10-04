@@ -1,0 +1,61 @@
+name: Build and Release [Bump Patch] [Manual]
+
+on: [workflow_dispatch]
+
+permissions:
+  id-token: write
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install
+        run: bun install
+
+      - name: Playwright Setup
+        run: bunx playwright install --with-deps chromium
+
+      - name: Fetch API # Calls Google Font Metadata to fetch the latest data from Google's Developer API
+        run: bunx gfm generate $GOOGLE_API_KEY
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+
+      - name: Parse API
+        run: bunx gfm parse --force
+
+      - name: Build fonts # Build all updated Google Fonts in repository
+        run: bunx fontsource build --force
+
+      - name: Generate fontlist
+        run: bun run fontlist
+
+      - name: Save GFM metadata
+        run: bun run gfm-metadata
+
+      - name: Save Fontsource metadata
+        run: bun run metadata
+
+      - name: Setup Git Config
+        run: |
+          git config --global user.email "83556432+fontsource-bot@users.noreply.github.com"
+          git config --global user.name "fontsource-bot"
+
+      - name: Publish to NPM
+        run: npx @fontsource-utils/publish publish patch --force --yes --provenance
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      - name: Update Algolia Index
+        run: bun run algolia
+        env:
+          ALGOLIA_ADMIN_KEY: ${{ secrets.ALGOLIA_ADMIN_KEY }}

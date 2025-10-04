@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
+  "lastModified": "2025-05-30",
   "version": "v4",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) SIL International, 2015-2023"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) SIL International, 2015-2023 Ruwudu-Medium.ttf: Copyright (c) SIL International, 2015-2023 Ruwudu-SemiBold.ttf: Copyright (c) SIL International, 2015-2023 Ruwudu-Bold.ttf: Copyright (c) SIL International, 2015-2023"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

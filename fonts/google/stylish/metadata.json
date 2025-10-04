@@ -1,17 +1,17 @@
 {
   "id": "stylish",
   "family": "Stylish",
-  "subsets": ["korean", "latin"],
+  "subsets": ["korean"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "latin",
+  "defSubset": "korean",
   "variable": false,
-  "lastModified": "2024-08-12",
-  "version": "v22",
+  "lastModified": "2025-06-25",
+  "version": "v25",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright (c) 1992-2018 AsiaSoft Inc. Seoul Korea All Rights Reserved."
   },
   "source": "https://github.com/google/fonts",

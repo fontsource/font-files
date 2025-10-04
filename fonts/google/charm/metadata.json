@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v11",
+  "lastModified": "2025-09-16",
+  "version": "v14",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2018 The Charm Project Authors (https://github.com/cadsondemak/charm)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2018 The Charm Project Authors (https://github.com/cadsondemak/charm) Charm-Bold.ttf: Copyright 2018 The Charm Project Authors (https://github.com/cadsondemak/charm)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

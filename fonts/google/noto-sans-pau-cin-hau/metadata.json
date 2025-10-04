@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-05-02",
-  "version": "v20",
+  "lastModified": "2025-09-05",
+  "version": "v21",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/pau-cin-hau)"
   },
   "source": "https://github.com/google/fonts",

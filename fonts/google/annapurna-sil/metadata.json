@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
+  "lastModified": "2025-05-30",
   "version": "v2",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2007-2023 by SIL International"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2007-2023 by SIL International AnnapurnaSIL-Bold.ttf: Copyright (c) 2007-2023 by SIL International"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

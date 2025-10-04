@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-08-12",
-  "version": "v13",
+  "lastModified": "2025-09-05",
+  "version": "v14",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2019 the Blinker project authors (https://github.com/supertype-de/Blinker)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2019 the Blinker project authors (https://github.com/supertype-de/Blinker) Blinker-ExtraLight.ttf: Copyright 2019 the Blinker project authors (https://github.com/supertype-de/Blinker) Blinker-Light.ttf: Copyright 2019 the Blinker project authors (https://github.com/supertype-de/Blinker) Blinker-Regular.ttf: Copyright 2019 the Blinker project authors (https://github.com/supertype-de/Blinker) Blinker-SemiBold.ttf: Copyright 2019 the Blinker project authors (https://github.com/supertype-de/Blinker) Blinker-Bold.ttf: Copyright 2019 the Blinker project authors (https://github.com/supertype-de/Blinker) Blinker-ExtraBold.ttf: Copyright 2019 the Blinker project authors (https://github.com/supertype-de/Blinker) Blinker-Black.ttf: Copyright 2019 the Blinker project authors (https://github.com/supertype-de/Blinker)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

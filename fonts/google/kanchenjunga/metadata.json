@@ -1,0 +1,19 @@
+{
+  "id": "kanchenjunga",
+  "family": "Kanchenjunga",
+  "subsets": ["kirat-rai", "latin"],
+  "weights": [400, 500, 600, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-04-23",
+  "version": "v2",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2021-2024 SIL International Kanchenjunga-Medium.ttf: Copyright (c) 2021-2024 SIL International Kanchenjunga-SemiBold.ttf: Copyright (c) 2021-2024 SIL International Kanchenjunga-Bold.ttf: Copyright (c) 2021-2024 SIL International"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

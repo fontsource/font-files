@@ -9,13 +9,13 @@
     "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v17",
+  "lastModified": "2025-09-05",
+  "version": "v21",
   "category": "monospace",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2021 The Azeret Project Authors (https://github.com/displaay/azeret)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2021 The Azeret Project Authors (https://github.com/displaay/azeret) AzeretMono-Italic[wght].ttf: Copyright 2021 The Azeret Project Authors (https://github.com/displaay/azeret)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

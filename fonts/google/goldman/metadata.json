@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v19",
+  "lastModified": "2025-09-11",
+  "version": "v21",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2018 The Goldman Project Authors (https://github.com/magictype/goldman)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2018 The Goldman Project Authors (https://github.com/magictype/goldman) Goldman-Bold.ttf: Copyright 2018 The Goldman Project Authors (https://github.com/magictype/goldman)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

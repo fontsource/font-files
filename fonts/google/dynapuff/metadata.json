@@ -9,12 +9,12 @@
     "wdth": {"default": "100", "min": "75", "max": "100", "step": "0.1"},
     "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v4",
+  "lastModified": "2025-09-05",
+  "version": "v9",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2021 The DynaPuff Project Authors (https://github.com/googlefonts/dynapuff)"
   },
   "source": "https://github.com/google/fonts",

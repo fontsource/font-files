@@ -1,0 +1,8 @@
+/* wdxl-lubrifont-jp-n-japanese-400-normal */
+@font-face {
+  font-family: 'WDXL Lubrifont JP N';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/wdxl-lubrifont-jp-n-japanese-400-normal.woff2) format('woff2'), url(./files/wdxl-lubrifont-jp-n-japanese-400-normal.woff) format('woff');
+}

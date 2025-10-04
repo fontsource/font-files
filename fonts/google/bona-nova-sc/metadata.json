@@ -14,13 +14,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
+  "lastModified": "2025-05-30",
   "version": "v1",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2017 The Bona Nova Project Authors (https://github.com/kosmynkab/Bona-Nova)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2017 The Bona Nova Project Authors (https://github.com/kosmynkab/Bona-Nova) BonaNovaSC-Italic.ttf: Copyright 2017 The Bona Nova Project Authors (https://github.com/kosmynkab/Bona-Nova) BonaNovaSC-Bold.ttf: Copyright 2017 The Bona Nova Project Authors (https://github.com/kosmynkab/Bona-Nova)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

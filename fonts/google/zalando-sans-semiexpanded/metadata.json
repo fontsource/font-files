@@ -1,0 +1,19 @@
+{
+  "id": "zalando-sans-semiexpanded",
+  "family": "Zalando Sans SemiExpanded",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-09-16",
+  "version": "v2",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2025 The Zalando Sans SemiExpanded Project Authors (https://github.com/zalando/sans) ZalandoSansSemiExpanded-Italic[wght].ttf: Copyright 2025 The Zalando Sans SemiExpanded Project Authors (https://github.com/zalando/sans)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

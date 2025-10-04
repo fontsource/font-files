@@ -6,13 +6,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
+  "lastModified": "2025-05-30",
   "version": "v9",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2015 by Jasper de Waard. All rights reserved."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2015 by Jasper de Waard. All rights reserved. ProzaLibre-Italic.ttf: Copyright (c) 2015 by Jasper de Waard. All rights reserved. ProzaLibre-Medium.ttf: Copyright (c) 2015 by Jasper de Waard. All rights reserved. ProzaLibre-MediumItalic.ttf: Copyright (c) 2015 by Jasper de Waard. All rights reserved. ProzaLibre-SemiBold.ttf: Copyright (c) 2015 by Jasper de Waard. All rights reserved. ProzaLibre-SemiBoldItalic.ttf: Copyright (c) 2015 by Jasper de Waard. All rights reserved. ProzaLibre-Bold.ttf: Copyright (c) 2015 by Jasper de Waard. All rights reserved. ProzaLibre-BoldItalic.ttf: Copyright (c) 2015 by Jasper de Waard. All rights reserved. ProzaLibre-ExtraBold.ttf: Copyright (c) 2013 by Jasper de Waard. All rights reserved. ProzaLibre-ExtraBoldItalic.ttf: Copyright (c) 2013 by Jasper de Waard. All rights reserved."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

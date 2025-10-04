@@ -8,12 +8,12 @@
   "variable": {
     "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
   },
-  "lastModified": "2024-02-02",
-  "version": "v11",
+  "lastModified": "2025-09-08",
+  "version": "v13",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/khojki)"
   },
   "source": "https://github.com/google/fonts",

@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v27",
+  "lastModified": "2025-09-10",
+  "version": "v29",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright (c) 2011, Santiago Orozco (hi@typemade.mx), with Reserved Font Name \"Dorsa\""
   },
   "source": "https://github.com/google/fonts",

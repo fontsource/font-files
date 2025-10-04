@@ -648,16 +648,6 @@
   unicode-range: U+99df,U+99ed,U+99f1,U+99ff,U+9a01,U+9a08,U+9a0e-9a0f,U+9a19,U+9a2b,U+9a30,U+9a36-9a37,U+9a40,U+9a43,U+9a45,U+9a4d,U+9a55,U+9a57,U+9a5a-9a5b,U+9a5f,U+9a62,U+9a65,U+9a69-9a6a,U+9aa8,U+9ab8,U+9ad3,U+9ae5,U+9aee,U+9b1a,U+9b27,U+9b2a,U+9b31,U+9b3c,U+9b41-9b45,U+9b4f,U+9b54,U+9b5a,U+9b6f,U+9b8e,U+9b91,U+9b9f,U+9bab,U+9bae,U+9bc9,U+9bd6,U+9be4,U+9be8,U+9c0d,U+9c10,U+9c12,U+9c15,U+9c25,U+9c32,U+9c3b,U+9c47,U+9c49,U+9c57,U+9ce5,U+9ce7,U+9ce9,U+9cf3-9cf4,U+9cf6,U+9d09,U+9d1b,U+9d26,U+9d28,U+9d3b,U+9d51,U+9d5d,U+9d60-9d61,U+9d6c,U+9d72,U+9da9,U+9daf,U+9db4,U+9dc4,U+9dd7,U+9df2,U+9df8-9dfa,U+9e1a,U+9e1e,U+9e75,U+9e79,U+9e7d,U+9e7f,U+9e92-9e93,U+9e97,U+9e9d,U+9e9f,U+9ea5,U+9eb4-9eb5,U+9ebb,U+9ebe,U+9ec3,U+9ecd-9ece,U+9ed4,U+9ed8,U+9edb-9edc,U+9ede,U+9ee8,U+9ef4,U+9f07-9f08,U+9f0e,U+9f13,U+9f20,U+9f3b,U+9f4a-9f4b,U+9f4e,U+9f52,U+9f5f,U+9f61,U+9f67,U+9f6a,U+9f6c,U+9f77,U+9f8d,U+9f90,U+9f95,U+9f9c,U+ac02-ac03,U+ac05-ac06,U+ac09-ac0f,U+ac17-ac18,U+ac1b,U+ac1e-ac1f,U+ac21-ac23;
 }
 
-/* nanum-myeongjo-[93]-800-normal */
-@font-face {
-  font-family: 'Nanum Myeongjo';
-  font-style: normal;
-  font-display: swap;
-  font-weight: 800;
-  src: url(./files/nanum-myeongjo-93-800-normal.woff2) format('woff2'), url(./files/nanum-myeongjo-93-800-normal.woff) format('woff');
-  unicode-range: U+338c-339c,U+339f-33a0,U+33a2-33cb,U+33cf-33d0,U+33d3,U+33d6,U+33d8,U+33db-33dd,U+4e01,U+4e03,U+4e07-4e08,U+4e11,U+4e14-4e15,U+4e18-4e19,U+4e1e,U+4e32,U+4e38-4e39,U+4e42-4e43,U+4e45,U+4e4d-4e4f,U+4e56,U+4e58-4e59,U+4e5d-4e5e,U+4e6b,U+4e6d,U+4e73,U+4e76-4e77,U+4e7e,U+4e82,U+4e86,U+4e88,U+4e8e,U+4e90-4e92,U+4e94-4e95,U+4e98,U+4e9b,U+4e9e,U+4ea1-4ea2,U+4ea4-4ea6,U+4ea8,U+4eab,U+4ead-4eae,U+4eb6,U+4ec0-4ec1,U+4ec4,U+4ec7,U+4ecb,U+4ecd,U+4ed4-4ed5,U+4ed7-4ed9,U+4edd,U+4edf,U+4ee4,U+4ef0,U+4ef2,U+4ef6-4ef7,U+4efb,U+4f01,U+4f09,U+4f0b,U+4f0d-4f11,U+4f2f,U+4f34,U+4f36,U+4f38,U+4f3a,U+4f3c-4f3d;
-}
-
 /* nanum-myeongjo-[94]-800-normal */
 @font-face {
   font-family: 'Nanum Myeongjo';
@@ -925,5 +915,5 @@
   font-display: swap;
   font-weight: 800;
   src: url(./files/nanum-myeongjo-latin-800-normal.woff2) format('woff2'), url(./files/nanum-myeongjo-latin-800-normal.woff) format('woff');
-  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
 }

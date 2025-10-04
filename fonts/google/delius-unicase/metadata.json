@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v28",
+  "lastModified": "2025-09-10",
+  "version": "v30",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2010, 2011, Natalia Raices<nraices@gmail.com>, with Reserved Font Name \"Delius\" \"Delius Unicase\" \"Delius Swash Caps\"."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2010, 2011, Natalia Raices<nraices@gmail.com>, with Reserved Font Name \"Delius\" \"Delius Unicase\" \"Delius Swash Caps\". DeliusUnicase-Bold.ttf: Copyright (c) 2010, 2011, Natalia Raices<nraices@gmail.com>, with Reserved Font Name \"Delius\" \"Delius Unicase\" \"Delius Swash Caps\"."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -9,13 +9,13 @@
     "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
     "wght": {"default": "400", "min": "400", "max": "900", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v2",
+  "lastModified": "2025-09-08",
+  "version": "v4",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2024 The Wittgenstein Project Authors (https://github.com/jrgdrs/Wittgenstein)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2024 The Wittgenstein Project Authors (https://github.com/jrgdrs/Wittgenstein) Wittgenstein-Italic[wght].ttf: Copyright 2024 The Wittgenstein Project Authors (https://github.com/jrgdrs/Wittgenstein)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

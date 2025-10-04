@@ -1,18 +1,18 @@
 {
   "id": "poly",
   "family": "Poly",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext"],
   "weights": [400],
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v16",
+  "lastModified": "2025-09-08",
+  "version": "v18",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2010 by Jos Nicols Silva Schwarzenberg.<info@nsilva.com>, with Reserved Font Names \"Poly\"."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2010 by Jos Nicols Silva Schwarzenberg.<info@nsilva.com>, with Reserved Font Names \"Poly\". Poly-Italic.ttf: Copyright (c) 2010 by Jos Nicols Silva Schwarzenberg.<info@nsilva.com>, with Reserved Font Names \"Poly\"."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

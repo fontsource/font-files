@@ -1,0 +1,21 @@
+{
+  "id": "matangi",
+  "family": "Matangi",
+  "subsets": ["devanagari", "latin", "latin-ext"],
+  "weights": [300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "wght": {"default": "400", "min": "300", "max": "900", "step": "1"}
+  },
+  "lastModified": "2025-08-26",
+  "version": "v5",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2021 The Matangi Project Authors (https://github.com/thegraphicant/Matangi)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

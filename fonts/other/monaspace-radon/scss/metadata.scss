@@ -1,14 +1,26 @@
-$id: 'monaspace-radon' !default;
-$family: 'Monaspace Radon' !default;
-$category: handwriting !default;
-$subsets: (latin) !default;
-$weights: (200, 300, 400, 500, 600, 700, 800) !default;
-$styles: (normal, italic) !default;
-$axes: null !default;
+$id: 'monaspace-radon';
+$family: 'Monaspace Radon';
+$category: handwriting;
+$subsets: (latin);
+$weights: (200, 300, 400, 500, 600, 700, 800);
+$styles: (normal, italic);
+$axes: null;
 $defaults: (
-  subset: latin,
-  weight: 400,
-  style: normal,
-  axis: null,
+	subset: latin,
+	weight: 400,
+	style: normal,
+	axis: null,
+);
+$unicode: null;
+
+$metadata: (
+  id: $id,
+  family: $family,
+  category: $category,
+  subsets: $subsets,
+  weights: $weights,
+  styles: $styles,
+  axes: $axes,
+  defaults: $defaults,
+  unicode: $unicode,
 ) !default;
-$unicode: null !default;

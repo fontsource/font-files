@@ -1,0 +1,8 @@
+/* menbere-vietnamese-500-normal */
+@font-face {
+  font-family: 'Menbere';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(./files/menbere-vietnamese-500-normal.woff2) format('woff2'), url(./files/menbere-vietnamese-500-normal.woff) format('woff');
+}

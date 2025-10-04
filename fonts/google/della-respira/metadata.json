@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v22",
+  "lastModified": "2025-09-16",
+  "version": "v24",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright (c) 2011-2012, Nathan Willis (nwillis@glyphography.com), with Reserved Font Names \"Della Respira\""
   },
   "source": "https://github.com/google/fonts",

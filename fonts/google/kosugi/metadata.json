@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-08-12",
-  "version": "v15",
+  "lastModified": "2025-09-08",
+  "version": "v19",
   "category": "sans-serif",
   "license": {
     "type": "Apache-2.0",
-    "url": "http://www.apache.org/licenses/LICENSE-2.0.html",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0",
     "attribution": "Copyright 2010 The Kosugi Project Authors (https://github.com/googlefonts/kosugi)"
   },
   "source": "https://github.com/google/fonts",

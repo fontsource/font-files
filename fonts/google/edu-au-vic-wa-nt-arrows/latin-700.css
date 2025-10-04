@@ -1,0 +1,8 @@
+/* edu-au-vic-wa-nt-arrows-latin-700-normal */
+@font-face {
+  font-family: 'Edu AU VIC WA NT Arrows';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./files/edu-au-vic-wa-nt-arrows-latin-700-normal.woff2) format('woff2'), url(./files/edu-au-vic-wa-nt-arrows-latin-700-normal.woff) format('woff');
+}

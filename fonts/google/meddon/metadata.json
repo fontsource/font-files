@@ -1,17 +1,17 @@
 {
   "id": "meddon",
   "family": "Meddon",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v24",
+  "lastModified": "2025-09-05",
+  "version": "v27",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright (c) 2011 by Vernon Adams (vern@newtypography.co.uk) with Reserved Font Name 'Meddon'. All rights reserved."
   },
   "source": "https://github.com/google/fonts",

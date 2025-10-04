@@ -1,18 +1,18 @@
 {
   "id": "linden-hill",
   "family": "Linden Hill",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext"],
   "weights": [400],
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v24",
+  "lastModified": "2025-09-10",
+  "version": "v27",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2010, Barry Schwartz (chemoelectric@chemoelectric.org)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2010, Barry Schwartz (chemoelectric@chemoelectric.org) LindenHill-Italic.ttf: Copyright (c) 2010, Barry Schwartz (chemoelectric@chemoelectric.org)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -10,13 +10,13 @@
     "wdth": {"default": "100", "min": "75", "max": "100", "step": "0.1"},
     "wght": {"default": "400", "min": "300", "max": "700", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v21",
+  "lastModified": "2025-09-05",
+  "version": "v26",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2017 The Radio-Canada Project Authors (https://github.com/cbcrc/radiocanadafonts)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2017 The Radio-Canada Project Authors (https://github.com/cbcrc/radiocanadafonts) RadioCanada-Italic[wdth,wght].ttf: Copyright 2017 The Radio-Canada Project Authors (https://github.com/cbcrc/radiocanadafonts)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

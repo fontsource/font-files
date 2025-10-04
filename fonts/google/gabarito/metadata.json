@@ -8,12 +8,12 @@
   "variable": {
     "wght": {"default": "400", "min": "400", "max": "900", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v7",
+  "lastModified": "2025-09-05",
+  "version": "v9",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2023 The Gabarito Project Authors (https://github.com/naipefoundry/gabarito)"
   },
   "source": "https://github.com/google/fonts",

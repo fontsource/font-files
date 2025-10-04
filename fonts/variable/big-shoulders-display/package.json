@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/big-shoulders-display",
-  "version": "5.1.0",
+  "version": "5.2.4",
   "description": "Self-host the Big Shoulders Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -18,13 +18,23 @@
     "typeface",
     "variable"
   ],
+  "exports": {
+    ".": {"sass": "./index.css", "default": "./index.css"},
+    "./*": {"sass": "./*.css", "default": "./*.css"},
+    "./files/*": {"sass": "./files/*", "default": "./files/*"},
+    "./package.json": "./package.json",
+    "./metadata.json": "./metadata.json",
+    "./unicode.json": "./unicode.json",
+    "./scss": {"sass": "./scss/metadata.scss"}
+  },
   "author": "Google Inc.",
   "license": "OFL-1.1",
   "homepage": "https://fontsource.org/fonts/big-shoulders-display",
+  "funding": "https://github.com/sponsors/ayuhito",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fontsource/font-files.git",
+    "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/big-shoulders-display"
   },
-  "publishHash": "7e528595fb07c448"
+  "publishHash": "cbdb6d5fb4f4086f"
 }

@@ -1,0 +1,8 @@
+/* chiron-sung-hk-symbols2-700-italic */
+@font-face {
+  font-family: 'Chiron Sung HK';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./files/chiron-sung-hk-symbols2-700-italic.woff2) format('woff2'), url(./files/chiron-sung-hk-symbols2-700-italic.woff) format('woff');
+}

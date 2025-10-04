@@ -6,13 +6,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-08-12",
-  "version": "v17",
+  "lastModified": "2025-09-05",
+  "version": "v18",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright © 2009 ParaType Ltd. All rights reserved."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright © 2009 ParaType Ltd. All rights reserved. PT_Sans-Web-Italic.ttf: Copyright © 2009 ParaType Ltd. All rights reserved. PT_Sans-Web-Bold.ttf: Copyright © 2009 ParaType Ltd. All rights reserved. PT_Sans-Web-BoldItalic.ttf: Copyright © 2009 ParaType Ltd. All rights reserved."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

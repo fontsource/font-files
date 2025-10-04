@@ -9,12 +9,12 @@
     "wght": {"default": "400", "min": "160", "max": "700", "step": "1"},
     "HEXP": {"default": "0", "min": "0", "max": "100", "step": "0.1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v21",
+  "lastModified": "2025-09-10",
+  "version": "v27",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2019 The Readex Pro Project Authors (https://github.com/ThomasJockin/readexpro)"
   },
   "source": "https://github.com/google/fonts",

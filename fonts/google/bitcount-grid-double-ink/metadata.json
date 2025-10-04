@@ -1,0 +1,19 @@
+{
+  "id": "bitcount-grid-double-ink",
+  "family": "Bitcount Grid Double Ink",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-09-16",
+  "version": "v2",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2024 The Bitcount Project Authors (https://github.com/petrvanblokland/TYPETR-Bitcount)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

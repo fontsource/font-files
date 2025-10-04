@@ -1,0 +1,19 @@
+{
+  "id": "wdxl-lubrifont-jp-n",
+  "family": "WDXL Lubrifont JP N",
+  "subsets": ["cyrillic", "japanese", "latin", "latin-ext", "symbols2"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-06-12",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2025 The WDXL Lubrifont Project Authors (https://github.com/NightFurySL2001/WD-XL-font)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

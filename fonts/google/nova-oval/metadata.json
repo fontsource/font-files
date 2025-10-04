@@ -1,17 +1,17 @@
 {
   "id": "nova-oval",
   "family": "Nova Oval",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v24",
+  "lastModified": "2025-09-02",
+  "version": "v26",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright (c) 2011, wmk69 (wmk69@o2.pl) with Reserved Font Names 'NovaOval' and 'Nova Oval'. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
   },
   "source": "https://github.com/google/fonts",

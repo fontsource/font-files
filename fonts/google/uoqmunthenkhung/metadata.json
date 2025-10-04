@@ -1,0 +1,19 @@
+{
+  "id": "uoqmunthenkhung",
+  "family": "UoqMunThenKhung",
+  "subsets": ["chinese-traditional", "cyrillic", "latin", "symbols2"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-06-25",
+  "version": "v1",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2025 The UoqMunThenKhung Project Authors (https://github.com/MoonlitOwen/ThenKhung)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

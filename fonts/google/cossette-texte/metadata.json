@@ -1,0 +1,19 @@
+{
+  "id": "cossette-texte",
+  "family": "Cossette Texte",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-08-26",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2025 The Cossette Texte Project Authors (https://github.com/cossette/cossette-fonts) CossetteTexte-Bold.ttf: Copyright 2025 The Cossette Texte Project Authors (https://github.com/cossette/cossette-fonts)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

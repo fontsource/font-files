@@ -6,13 +6,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v13",
+  "lastModified": "2025-09-05",
+  "version": "v15",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-ThinItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-ExtraLight.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-ExtraLightItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-Light.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-LightItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-Regular.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-Italic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-Medium.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-MediumItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-SemiBold.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-SemiBoldItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-Bold.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-BoldItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-ExtraBold.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-ExtraBoldItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-Black.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com) Taviraj-BlackItalic.ttf: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

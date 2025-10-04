@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v2",
+  "lastModified": "2025-05-30",
+  "version": "v4",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2024 The Matemasie Project Authors (https://github.com/YADAMSS/Matemasie-Font/)"
   },
   "source": "https://github.com/google/fonts",

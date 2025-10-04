@@ -1,18 +1,25 @@
 {
   "id": "caudex",
   "family": "Caudex",
-  "subsets": ["greek", "greek-ext", "latin", "latin-ext"],
+  "subsets": [
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "runic",
+    "vietnamese"
+  ],
   "weights": [400, 700],
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v17",
+  "lastModified": "2025-09-05",
+  "version": "v19",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2011 Hjort Nidudsson (nidud@users.sourceforge.net)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2011 Hjort Nidudsson (nidud@users.sourceforge.net) Caudex-Italic.ttf: Copyright (c) 2011 Hjort Nidudsson (nidud@users.sourceforge.net) Caudex-Bold.ttf: Copyright (c) 2011 Hjort Nidudsson (nidud@users.sourceforge.net) Caudex-BoldItalic.ttf: Copyright (c) 2011 Hjort Nidudsson (nidud@users.sourceforge.net)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

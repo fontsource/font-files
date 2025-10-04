@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v16",
+  "lastModified": "2025-09-05",
+  "version": "v18",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com) Hind-Regular.ttf: Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com) Hind-Medium.ttf: Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com) Hind-SemiBold.ttf: Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com) Hind-Bold.ttf: Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -1,0 +1,19 @@
+{
+  "id": "fusion-pixel-8px-monospaced-kr",
+  "family": "Fusion Pixel 8px Monospaced KR",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-07-15",
+  "version": "v2024.05.12",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://raw.githubusercontent.com/TakWolf/fusion-pixel-font/master/LICENSE-OFL",
+    "attribution": "TakWolf (https://takwolf.com)"
+  },
+  "source": "https://github.com/TakWolf/fusion-pixel-font",
+  "type": "other"
+}

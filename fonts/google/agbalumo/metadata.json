@@ -1,17 +1,17 @@
 {
   "id": "agbalumo",
   "family": "Agbalumo",
-  "subsets": ["cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+  "subsets": ["cyrillic-ext", "ethiopic", "latin", "latin-ext", "vietnamese"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v5",
+  "lastModified": "2025-06-25",
+  "version": "v6",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2023 The Agbalumo Project Authors (https://github.com/SorkinType/Agbalumo)"
   },
   "source": "https://github.com/google/fonts",

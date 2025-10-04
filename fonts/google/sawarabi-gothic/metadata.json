@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v13",
+  "lastModified": "2025-06-25",
+  "version": "v16",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2016 The Sawarabi Gothic Project Authors."
   },
   "source": "https://github.com/google/fonts",

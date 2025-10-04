@@ -14,12 +14,23 @@ jobs:
       - name: checkout
         uses: actions/checkout@v4
 
+      - name: Configure Git for large repositories
+        run: |
+          git config diff.renameLimit 999999
+          git config merge.renameLimit 999999
+          git config core.preloadindex true
+          git config core.fscache true
+          git config gc.auto 0
+
       - uses: oven-sh/setup-bun@v2
         with:
           bun-version: latest
 
       - name: Install
         run: bun install
+
+      - name: Playwright Setup
+        run: bunx playwright install --with-deps chromium
 
       - name: Fetch API # Calls Google Font Metadata to fetch the latest data from Google's Developer API
         run: bunx gfm generate $GOOGLE_API_KEY

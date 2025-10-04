@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-08-12",
-  "version": "v14",
+  "lastModified": "2025-08-26",
+  "version": "v19",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2010-2022 The Amiri Project Authors (https://github.com/aliftype/amiri)."
   },
   "source": "https://github.com/google/fonts",

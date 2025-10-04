@@ -1,0 +1,19 @@
+{
+  "id": "bytesized",
+  "family": "Bytesized",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-05-30",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2024 The Bytesized Project Authors (https://github.com/balt-dev/bytesized-gf)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

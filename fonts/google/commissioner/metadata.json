@@ -18,12 +18,12 @@
     "FLAR": {"default": "0", "min": "0", "max": "100", "step": "1"},
     "VOLM": {"default": "0", "min": "0", "max": "100", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v20",
+  "lastModified": "2025-09-10",
+  "version": "v24",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2019 The Commissioner Project Authors (github.com/kosbarts/Commissioner)"
   },
   "source": "https://github.com/google/fonts",

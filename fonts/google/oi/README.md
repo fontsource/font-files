@@ -23,7 +23,7 @@ import "@fontsource/oi/400-italic.css"; // Specify weight and style
 Supported variables:
 - Weights: `[400]`
 - Styles: `[normal]`
-- Subsets: `[cyrillic,cyrillic-ext,greek,latin,latin-ext,tamil,vietnamese]`
+- Subsets: `[arabic,cyrillic,cyrillic-ext,greek,latin,latin-ext,tamil,vietnamese]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what weights and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/oi).
 
@@ -39,9 +39,9 @@ body {
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
 Copyright 2019 The Oi Project Authors (github.com/kosbarts/Oi)
-[OFL-1.1](http://scripts.sil.org/OFL)
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v19`.
+Font version (provided by source): `v21`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

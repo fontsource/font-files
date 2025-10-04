@@ -16,12 +16,12 @@
   "variable": {
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v34",
+  "lastModified": "2025-09-08",
+  "version": "v36",
   "category": "serif",
   "license": {
     "type": "Apache-2.0",
-    "url": "http://www.apache.org/licenses/LICENSE-2.0.html",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0",
     "attribution": "Copyright 2018 The Roboto Slab Project Authors (https://github.com/googlefonts/robotoslab)"
   },
   "source": "https://github.com/google/fonts",

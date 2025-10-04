@@ -13,12 +13,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-08-07",
-  "version": "v16",
+  "lastModified": "2025-09-16",
+  "version": "v19",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2020 The Dela Gothic Project Authors (https://github.com/syakuzen/DelaGothic)"
   },
   "source": "https://github.com/google/fonts",

@@ -1,17 +1,17 @@
 {
   "id": "supermercado-one",
   "family": "Supermercado One",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v26",
+  "lastModified": "2025-09-10",
+  "version": "v29",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Name \"Supermercado One\"."
   },
   "source": "https://github.com/google/fonts",

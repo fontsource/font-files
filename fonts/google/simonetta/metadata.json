@@ -6,13 +6,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v27",
+  "lastModified": "2025-09-11",
+  "version": "v29",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2011-2012, Brownfox (www.brownfox.org gayaneh.b@gmail.com), with Reserved Font Name \"Simonetta\""
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2011-2012, Brownfox (www.brownfox.org gayaneh.b@gmail.com), with Reserved Font Name \"Simonetta\" Simonetta-Italic.ttf: Copyright (c) 2011-2012, Brownfox (www.brownfox.org gayaneh.b@gmail.com), with Reserved Font Name \"Simonetta\" Simonetta-Black.ttf: Copyright (c) 2011-2012, Brownfox (www.brownfox.org gayaneh.b@gmail.com), with Reserved Font Name \"Simonetta\" Simonetta-BlackItalic.ttf: Copyright (c) 2011-2012, Brownfox (www.brownfox.org gayaneh.b@gmail.com), with Reserved Font Name \"Simonetta\""
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

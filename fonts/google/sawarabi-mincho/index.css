@@ -1,3 +1,23 @@
+/* sawarabi-mincho-[2]-400-normal */
+@font-face {
+  font-family: 'Sawarabi Mincho';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/sawarabi-mincho-2-400-normal.woff2) format('woff2'), url(./files/sawarabi-mincho-2-400-normal.woff) format('woff');
+  unicode-range: U+ffd7,U+ffda-ffdc,U+ffe0-ffe2,U+ffe4,U+ffe6,U+ffe8-ffee,U+1f100-1f10c,U+1f110-1f16c,U+1f170-1f1ac,U+1f200-1f202,U+1f210-1f234;
+}
+
+/* sawarabi-mincho-[3]-400-normal */
+@font-face {
+  font-family: 'Sawarabi Mincho';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/sawarabi-mincho-3-400-normal.woff2) format('woff2'), url(./files/sawarabi-mincho-3-400-normal.woff) format('woff');
+  unicode-range: U+fa10,U+fa12-fa6d,U+fb00-fb04,U+fe10-fe19,U+fe30-fe42,U+fe44-fe52,U+fe54-fe66,U+fe68-fe6b,U+ff02,U+ff04,U+ff07,U+ff51,U+ff5b,U+ff5d,U+ff5f-ff60,U+ff66,U+ff69,U+ff87,U+ffa1-ffbe,U+ffc2-ffc7,U+ffca-ffcf,U+ffd2-ffd6;
+}
+
 /* sawarabi-mincho-[5]-400-normal */
 @font-face {
   font-family: 'Sawarabi Mincho';
@@ -36,6 +56,16 @@
   font-weight: 400;
   src: url(./files/sawarabi-mincho-8-400-normal.woff2) format('woff2'), url(./files/sawarabi-mincho-8-400-normal.woff) format('woff');
   unicode-range: U+98eb,U+98ed-98ee,U+98f0-98f1,U+98f3,U+98f6,U+9902,U+9907-9909,U+9911-9912,U+9914-9918,U+991a-9922,U+9924,U+9926-9927,U+992b-992c,U+992e,U+9931-9935,U+9939-993e,U+9940-9942,U+9945-9949,U+994b-994e,U+9950-9952,U+9954-9955,U+9958-9959,U+995b-995c,U+995e-9960,U+9963,U+9997-9998,U+999b,U+999d-999f,U+99a3,U+99a5-99a6,U+99a8,U+99ad-99ae,U+99b0-99b2,U+99b5,U+99b9-99ba,U+99bc-99bd,U+99bf,U+99c1,U+99c3,U+99c8-99c9,U+99d1,U+99d3-99d5,U+99d8-99df,U+99e1-99e2,U+99e7,U+99ea-99ee,U+99f0-99f2,U+99f4-99f5,U+99f8-99f9,U+99fb-99fe,U+9a01-9a05,U+9a08,U+9a0a-9a0c,U+9a0f-9a11,U+9a16,U+9a1a,U+9a1e,U+9a20,U+9a22-9a24,U+9a27,U+9a2b,U+9a2d-9a2e,U+9a31,U+9a33,U+9a35-9a38,U+9a3e,U+9a40-9a45,U+9a47,U+9a4a-9a4e,U+9a51-9a52,U+9a54-9a58,U+9a5b,U+9a5d,U+9a5f,U+9a62,U+9a64-9a65,U+9a69-9a6c,U+9aaa,U+9aac-9ab0,U+9ab2,U+9ab4-9ab7,U+9ab9,U+9abb-9ac1,U+9ac3,U+9ac6,U+9ac8,U+9ace-9ad3,U+9ad5-9ad7,U+9adb-9adc,U+9ade-9ae0,U+9ae2-9ae4;
+}
+
+/* sawarabi-mincho-[9]-400-normal */
+@font-face {
+  font-family: 'Sawarabi Mincho';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/sawarabi-mincho-9-400-normal.woff2) format('woff2'), url(./files/sawarabi-mincho-9-400-normal.woff) format('woff');
+  unicode-range: U+971d,U+9721-9724,U+9728,U+972a,U+9730-9731,U+9733,U+9736,U+9738-9739,U+973b,U+973d-973e,U+9741-9744,U+9746-974a,U+974d-974f,U+9751,U+9755,U+9757-9758,U+975a-975c,U+9760-9761,U+9763-9764,U+9766-9768,U+976a-976b,U+976e,U+9771,U+9773,U+9776-977d,U+977f-9781,U+9785-9786,U+9789,U+978b,U+978f-9790,U+9795-9797,U+9799-979a,U+979c,U+979e-97a0,U+97a2-97a3,U+97a6,U+97a8,U+97ab-97ac,U+97ae,U+97b1-97b6,U+97b8-97ba,U+97bc,U+97be-97bf,U+97c1,U+97c3-97ce,U+97d0-97d1,U+97d4,U+97d7-97d9,U+97db-97de,U+97e0-97e1,U+97e4,U+97e6,U+97ed-97ef,U+97f1-97f2,U+97f4-97f8,U+97fa,U+9804,U+9807,U+980a,U+980c-980f,U+9814,U+9816-9817,U+9819-981a,U+981c,U+981e,U+9820-9821,U+9823-9826,U+982b,U+982e-9830,U+9832-9835,U+9837,U+9839,U+983d-983e,U+9844,U+9846-9847,U+984a-984b,U+984f,U+9851-9853,U+9856-9857,U+9859-985b,U+9862-9863,U+9865-9866,U+986a-986c,U+986f-9871,U+9873-9875,U+98aa-98ab,U+98ad-98ae,U+98b0-98b1,U+98b4,U+98b6-98b8,U+98ba-98bc,U+98bf,U+98c2-98c8,U+98cb-98cc,U+98ce,U+98dc,U+98de,U+98e0-98e1,U+98e3,U+98e5-98e7,U+98e9-98ea;
 }
 
 /* sawarabi-mincho-[10]-400-normal */
@@ -126,6 +156,16 @@
   font-weight: 400;
   src: url(./files/sawarabi-mincho-18-400-normal.woff2) format('woff2'), url(./files/sawarabi-mincho-18-400-normal.woff) format('woff');
   unicode-range: U+8655-8659,U+865b,U+865d-8664,U+8667,U+8669,U+866c,U+866f,U+8671,U+8675-8677,U+867a-867b,U+867d,U+8687-8689,U+868b-868d,U+8691,U+8693,U+8695-8696,U+8698,U+869a,U+869c-869d,U+86a1,U+86a3-86a4,U+86a6-86ab,U+86ad,U+86af-86b1,U+86b3-86b9,U+86bf-86c1,U+86c3-86c6,U+86c9,U+86cb,U+86ce,U+86d1-86d2,U+86d4-86d5,U+86d7,U+86da,U+86dc,U+86de-86e0,U+86e3-86e7,U+86e9,U+86ec-86ed,U+86ef,U+86f8-86fe,U+8700,U+8703-870b,U+870d-8714,U+8719-871a,U+871e-871f,U+8721-8723,U+8725,U+8728-8729,U+872e-872f,U+8731-8732,U+8734,U+8737,U+8739-8740,U+8743,U+8745,U+8749,U+874b-874e,U+8751,U+8753,U+8755,U+8757-8759,U+875d,U+875f-8761,U+8763-8766,U+8768,U+876a,U+876e-876f,U+8771-8772,U+8774,U+8778,U+877b-877c,U+877f,U+8782-8789,U+878b-878c,U+878e,U+8790,U+8793,U+8795,U+8797-8799,U+879e-87a0,U+87a2-87a3,U+87a7,U+87ab-87af,U+87b1,U+87b3,U+87b5,U+87bb,U+87bd-87c1,U+87c4,U+87c6-87cb,U+87ce,U+87d0,U+87d2,U+87d5-87d6,U+87d9-87da,U+87dc,U+87df-87e0;
+}
+
+/* sawarabi-mincho-[19]-400-normal */
+@font-face {
+  font-family: 'Sawarabi Mincho';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/sawarabi-mincho-19-400-normal.woff2) format('woff2'), url(./files/sawarabi-mincho-19-400-normal.woff) format('woff');
+  unicode-range: U+84b4,U+84b9-84bb,U+84bd-84c2,U+84c6-84ca,U+84cc-84d1,U+84d3,U+84d6,U+84d9-84da,U+84dc,U+84e7,U+84ea,U+84ec,U+84ef-84f2,U+84f4,U+84f7,U+84fa-84fd,U+84ff-8500,U+8502-8503,U+8506-8507,U+850c,U+850e,U+8510,U+8514-8515,U+8517-8518,U+851a-851c,U+851e-851f,U+8521-8525,U+8527,U+852a-852c,U+852f,U+8532-8534,U+8536,U+853e-8541,U+8543,U+8546,U+8548,U+854a-854b,U+854f-8553,U+8555-855a,U+855c-8564,U+8569-856b,U+856d,U+856f,U+8577,U+8579-857b,U+857d-8581,U+8585-8586,U+8588-858c,U+858f-8591,U+8593,U+8597-8598,U+859b-859d,U+859f-85a0,U+85a2,U+85a4-85a5,U+85a7-85a8,U+85ad-85b0,U+85b4,U+85b6-85ba,U+85bc-85bf,U+85c1-85c2,U+85c7,U+85c9-85cb,U+85ce-85d0,U+85d5,U+85d8-85da,U+85dc,U+85df-85e1,U+85e5-85e6,U+85e8,U+85ed,U+85f3-85f4,U+85f6-85f7,U+85f9-85fa,U+85fc,U+85fe-8600,U+8602,U+8604-8606,U+860a-860b,U+860d-860e,U+8610-8613,U+8616-861b,U+861e,U+8621-8622,U+8624,U+8627,U+8629,U+862f-8630,U+8636,U+8638-863a,U+863c-863d,U+863f-8642,U+8646,U+864d,U+8652-8654;
 }
 
 /* sawarabi-mincho-[20]-400-normal */
@@ -436,6 +476,16 @@
   font-weight: 400;
   src: url(./files/sawarabi-mincho-50-400-normal.woff2) format('woff2'), url(./files/sawarabi-mincho-50-400-normal.woff) format('woff');
   unicode-range: U+4093,U+4103,U+4105,U+4148,U+414f,U+4163,U+41b4,U+41bf,U+41e6,U+41ee,U+41f3,U+4207,U+420e,U+4264,U+4293,U+42c6,U+42d6,U+42dd,U+4302,U+432b,U+4343,U+43ee,U+43f0,U+4408,U+440c,U+4417,U+441c,U+4422,U+4453,U+445b,U+4476,U+447a,U+4491,U+44b3,U+44be,U+44d4,U+4508,U+450d,U+4525,U+4543,U+457a,U+459d,U+45b8,U+45be,U+45e5,U+45ea,U+460f-4610,U+4641,U+4665,U+46a1,U+46ae-46af,U+470c,U+471f,U+4764,U+47e6,U+47fd,U+4816,U+481e,U+4844,U+484e,U+48b5,U+49b0,U+49e7,U+49fa,U+4a04,U+4a29,U+4abc,U+4b38,U+4b3b,U+4b7e,U+4bc2,U+4bca,U+4bd2,U+4be8,U+4c17,U+4c20,U+4c38,U+4cc4,U+4cd1,U+4ce1,U+4d07,U+4d77,U+4e02,U+4e04-4e05,U+4e0c,U+4e0f-4e12,U+4e15,U+4e17,U+4e19,U+4e1e-4e1f,U+4e23-4e24,U+4e28-4e2c,U+4e2e-4e31,U+4e35-4e37,U+4e3f-4e42,U+4e44,U+4e47-4e48,U+4e4d-4e4e,U+4e51,U+4e55-4e56,U+4e58,U+4e5a-4e5c,U+4e62-4e63,U+4e68-4e69,U+4e74-4e75,U+4e79,U+4e7f,U+4e82,U+4e85,U+4e8a,U+4e8d-4e8e,U+4e96-4e99,U+4e9d-4ea0,U+4ea2,U+4ea5-4ea6,U+4ea8,U+4eaf-4eb0,U+4eb3,U+4eb6,U+4eb9,U+4ebb-4ebc,U+4ec2-4ec4,U+4ec6-4ec8,U+4ecd,U+4ed0,U+4ed7,U+4eda-4edb,U+4edd-4ee2,U+4ee8,U+4eeb,U+4eed,U+4eef,U+4ef1,U+4ef3,U+4ef5,U+4ef7,U+4efc-4f00,U+4f02-4f03,U+4f08-4f09,U+4f0b-4f0d,U+4f12,U+4f15-4f17,U+4f19,U+4f1c,U+4f2b,U+4f2e,U+4f30-4f31,U+4f33,U+4f35-4f37,U+4f39,U+4f3b,U+4f3e,U+4f40,U+4f42-4f43,U+4f48-4f49,U+4f4b-4f4c,U+4f52,U+4f54,U+4f56;
+}
+
+/* sawarabi-mincho-[53]-400-normal */
+@font-face {
+  font-family: 'Sawarabi Mincho';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/sawarabi-mincho-53-400-normal.woff2) format('woff2'), url(./files/sawarabi-mincho-53-400-normal.woff) format('woff');
+  unicode-range: U+31c8-31e3,U+31f0-321e,U+3220-3230,U+3232-32b4;
 }
 
 /* sawarabi-mincho-[54]-400-normal */
@@ -1098,6 +1148,16 @@
   unicode-range: U+20,U+2027,U+3001-3002,U+3041-307f,U+3081-308f,U+3091-3093,U+3099-309a,U+309d-309e,U+30a1-30e1,U+30e3-30ed,U+30ef-30f0,U+30f2-30f4,U+30fb-30fe,U+ff0c,U+ff0e;
 }
 
+/* sawarabi-mincho-braille-400-normal */
+@font-face {
+  font-family: 'Sawarabi Mincho';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/sawarabi-mincho-braille-400-normal.woff2) format('woff2'), url(./files/sawarabi-mincho-braille-400-normal.woff) format('woff');
+  unicode-range: U+2800-28FF;
+}
+
 /* sawarabi-mincho-latin-ext-400-normal */
 @font-face {
   font-family: 'Sawarabi Mincho';
@@ -1105,7 +1165,7 @@
   font-display: swap;
   font-weight: 400;
   src: url(./files/sawarabi-mincho-latin-ext-400-normal.woff2) format('woff2'), url(./files/sawarabi-mincho-latin-ext-400-normal.woff) format('woff');
-  unicode-range: U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;
+  unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;
 }
 
 /* sawarabi-mincho-latin-400-normal */
@@ -1115,5 +1175,5 @@
   font-display: swap;
   font-weight: 400;
   src: url(./files/sawarabi-mincho-latin-400-normal.woff2) format('woff2'), url(./files/sawarabi-mincho-latin-400-normal.woff) format('woff');
-  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
 }

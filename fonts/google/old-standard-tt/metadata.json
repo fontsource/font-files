@@ -6,13 +6,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v20",
+  "lastModified": "2025-09-11",
+  "version": "v22",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2011 The Old Standard Project Authors (amkryukov@gmail.com)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2011 The Old Standard Project Authors (amkryukov@gmail.com) OldStandard-Italic.ttf: Copyright 2011 The Old Standard Project Authors (amkryukov@gmail.com) OldStandard-Bold.ttf: Copyright 2011 The Old Standard Project Authors (amkryukov@gmail.com)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

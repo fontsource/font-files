@@ -1,18 +1,27 @@
 {
   "id": "cardo",
   "family": "Cardo",
-  "subsets": ["greek", "greek-ext", "latin", "latin-ext"],
+  "subsets": [
+    "gothic",
+    "greek",
+    "greek-ext",
+    "hebrew",
+    "latin",
+    "latin-ext",
+    "old-italic",
+    "runic"
+  ],
   "weights": [400, 700],
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v19",
+  "lastModified": "2025-09-08",
+  "version": "v21",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2002-2011, David J. Perry (hospes02@scholarsfonts.net)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2002-2011, David J. Perry (hospes02@scholarsfonts.net) Cardo-Italic.ttf: Copyright (c) 2002-2011, David J. Perry (hospes02@scholarsfonts.net) Cardo-Bold.ttf: Copyright (c) 2002-2011, David J. Perry (hospes02@scholarsfonts.net)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

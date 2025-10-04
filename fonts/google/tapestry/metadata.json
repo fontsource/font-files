@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-08-25",
-  "version": "v4",
+  "lastModified": "2025-09-16",
+  "version": "v6",
   "category": "handwriting",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2003-2021 The Tapestry Project Authors (https://github.com/googlefonts/tapestry)"
   },
   "source": "https://github.com/google/fonts",

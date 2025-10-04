@@ -1,0 +1,19 @@
+{
+  "id": "noto-serif-todhri",
+  "family": "Noto Serif Todhri",
+  "subsets": ["latin", "latin-ext", "todhri"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-01-23",
+  "version": "v3",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2024 The Noto Project Authors (https://github.com/notofonts/todhri)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -6,13 +6,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v11",
+  "lastModified": "2025-09-08",
+  "version": "v12",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2016 The Sansita Project Authors (omnibus.type@gmail.com)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2016 The Sansita Project Authors (omnibus.type@gmail.com) Sansita-Italic.ttf: Copyright 2016 The Sansita Project Authors (omnibus.type@gmail.com) Sansita-Bold.ttf: Copyright 2016 The Sansita Project Authors (omnibus.type@gmail.com) Sansita-BoldItalic.ttf: Copyright 2016 The Sansita Project Authors (omnibus.type@gmail.com) Sansita-ExtraBold.ttf: Copyright 2016 The Sansita Project Authors (omnibus.type@gmail.com) Sansita-ExtraBoldItalic.ttf: Copyright 2016 The Sansita Project Authors (omnibus.type@gmail.com) Sansita-Black.ttf: Copyright 2016 The Sansita Project Authors (omnibus.type@gmail.com) Sansita-BlackItalic.ttf: Copyright 2016 The Sansita Project Authors (omnibus.type@gmail.com)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

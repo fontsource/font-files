@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "emoji",
   "variable": false,
-  "lastModified": "2024-09-03",
-  "version": "v32",
+  "lastModified": "2025-09-06",
+  "version": "v36",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2021 Google Inc. All Rights Reserved."
   },
   "source": "https://github.com/google/fonts",

@@ -16,13 +16,13 @@
     "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
     "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v1",
+  "lastModified": "2025-09-02",
+  "version": "v3",
   "category": "monospace",
   "license": {
     "type": "UFL-1.0",
     "url": "http://font.ubuntu.com/ufl/",
-    "attribution": "Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0"
+    "attribution": "Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0 UbuntuSansMono-Italic[wght].ttf: Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

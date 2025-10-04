@@ -1,0 +1,23 @@
+{
+  "id": "hubot-sans",
+  "family": "Hubot Sans",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": {
+    "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
+    "wdth": {"default": "100", "min": "75", "max": "125", "step": "0.1"},
+    "wght": {"default": "400", "min": "200", "max": "900", "step": "1"}
+  },
+  "lastModified": "2025-09-05",
+  "version": "v5",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2021 The Hubot Sans Project Authors (https://github.com/github/hubot-sans), with Reserved Font Name \"Hubot\" HubotSans-Italic[wdth,wght].ttf: Copyright 2021 The Hubot Sans Project Authors (https://github.com/github/hubot-sans), with Reserved Font Name \"Hubot\""
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

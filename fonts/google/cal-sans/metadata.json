@@ -1,0 +1,19 @@
+{
+  "id": "cal-sans",
+  "family": "Cal Sans",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-06-09",
+  "version": "v2",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2021 The Cal Sans Project Authors (https://github.com/calcom/font)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

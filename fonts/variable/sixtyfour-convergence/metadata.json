@@ -11,12 +11,12 @@
     "XELA": {"default": "0", "min": "-100", "max": "100", "step": "1"},
     "YELA": {"default": "0", "min": "-100", "max": "100", "step": "1"}
   },
-  "lastModified": "2024-09-30",
-  "version": "v1",
+  "lastModified": "2025-09-08",
+  "version": "v5",
   "category": "monospace",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2021 The Sixtyfour Convergence Project Authors (https://github.com/jenskutilek/homecomputer-fonts)"
   },
   "source": "https://github.com/google/fonts",

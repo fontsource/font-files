@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-07-24",
-  "version": "v17",
+  "lastModified": "2025-09-16",
+  "version": "v18",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/deseret)"
   },
   "source": "https://github.com/google/fonts",

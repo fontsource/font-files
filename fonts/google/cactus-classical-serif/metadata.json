@@ -2,7 +2,7 @@
   "id": "cactus-classical-serif",
   "family": "Cactus Classical Serif",
   "subsets": [
-    "chinese-hongkong",
+    "chinese-traditional",
     "cyrillic",
     "latin",
     "latin-ext",
@@ -12,12 +12,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v5",
+  "lastModified": "2025-07-16",
+  "version": "v13",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2024 The Cactus Classical Serif Project Authors (https://github.com/MoonlitOwen/CactusSerif)"
   },
   "source": "https://github.com/google/fonts",

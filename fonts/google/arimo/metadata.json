@@ -18,13 +18,13 @@
     "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
     "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v29",
+  "lastModified": "2025-09-08",
+  "version": "v35",
   "category": "sans-serif",
   "license": {
     "type": "Apache-2.0",
-    "url": "http://www.apache.org/licenses/LICENSE-2.0.html",
-    "attribution": "Copyright 2020 The Arimo Project Authors (https://github.com/googlefonts/arimo)"
+    "url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "attribution": "Copyright 2020 The Arimo Project Authors (https://github.com/googlefonts/arimo) Arimo-Italic[wght].ttf: Copyright 2020 The Arimo Project Authors (https://github.com/googlefonts/arimo)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

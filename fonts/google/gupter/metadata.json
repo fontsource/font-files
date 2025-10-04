@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-10-17",
-  "version": "v15",
+  "lastModified": "2025-09-11",
+  "version": "v18",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2019 The Gupter Project Authors (https://github.com/octaviopardo/GUPTER)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2019 The Gupter Project Authors (https://github.com/octaviopardo/GUPTER) Gupter-Medium.ttf: Copyright 2019 The Gupter Project Authors (https://github.com/octaviopardo/GUPTER) Gupter-Bold.ttf: Copyright 2019 The Gupter Project Authors (https://github.com/octaviopardo/GUPTER)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

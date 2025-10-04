@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v15",
+  "lastModified": "2025-09-16",
+  "version": "v16",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2019 The Sulphur Point Project Authors (https://github.com/noponies)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2019 The Sulphur Point Project Authors (https://github.com/noponies) SulphurPoint-Regular.ttf: Copyright 2019 The Sulphur Point Project Authors (https://github.com/noponies) SulphurPoint-Bold.ttf: Copyright 2019 The Sulphur Point Project Authors (https://github.com/noponies)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

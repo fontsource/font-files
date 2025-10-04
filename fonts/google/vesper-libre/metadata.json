@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v19",
+  "lastModified": "2025-09-05",
+  "version": "v21",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2007, Robert Keller (www.motaitalic.com)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2007, Robert Keller (www.motaitalic.com) VesperLibre-Medium.ttf: Copyright (c) 2007, Robert Keller (www.motaitalic.com) VesperLibre-Bold.ttf: Copyright (c) 2007, Robert Keller (www.motaitalic.com) VesperLibre-Heavy.ttf: Copyright (c) 2007, Robert Keller (www.motaitalic.com)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -6,13 +6,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v22",
+  "lastModified": "2025-09-11",
+  "version": "v24",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2011, UGR Design (www.ugrdesign.com.ar info@ugrdesign.com.ar), with Reserved Font Names \"Rosarivo\", \"Rosarivo Pro\", \"Rosarivo UGR\""
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2011, UGR Design (www.ugrdesign.com.ar info@ugrdesign.com.ar), with Reserved Font Names \"Rosarivo\", \"Rosarivo Pro\", \"Rosarivo UGR\" Rosarivo-Italic.ttf: Copyright (c) 2011, UGR Design (www.ugrdesign.com.ar info@ugrdesign.com.ar), with Reserved Font Names \"Rosarivo\", \"Rosarivo Pro\", \"Rosarivo UGR\""
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

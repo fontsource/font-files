@@ -6,13 +6,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v20",
+  "lastModified": "2025-09-10",
+  "version": "v21",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2011 The Philosopher Project Authors (https://github.com/alexeiva/philosopher)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2011 The Philosopher Project Authors (https://github.com/alexeiva/philosopher) Philosopher-Italic.ttf: Copyright 2011 The Philosopher Project Authors (https://github.com/alexeiva/philosopher) Philosopher-Bold.ttf: Copyright 2011 The Philosopher Project Authors (https://github.com/alexeiva/philosopher) Philosopher-BoldItalic.ttf: Copyright 2011 The Philosopher Project Authors (https://github.com/alexeiva/philosopher)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

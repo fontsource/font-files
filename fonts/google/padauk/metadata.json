@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v16",
+  "lastModified": "2025-09-11",
+  "version": "v17",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright (c) 2002-2022 SIL International"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2002-2022 SIL International Padauk-Bold.ttf: Copyright (c) 2002-2022 SIL International"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

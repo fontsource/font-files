@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v15",
+  "lastModified": "2025-09-05",
+  "version": "v17",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2021 The Shippori Mincho Project Authors (https://github.com/fontdasu/ShipporiMincho)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2021 The Shippori Mincho Project Authors (https://github.com/fontdasu/ShipporiMincho) ShipporiMincho-Medium.ttf: Copyright 2021 The Shippori Mincho Project Authors (https://github.com/fontdasu/ShipporiMincho) ShipporiMincho-SemiBold.ttf: Copyright 2021 The Shippori Mincho Project Authors (https://github.com/fontdasu/ShipporiMincho) ShipporiMincho-Bold.ttf: Copyright 2021 The Shippori Mincho Project Authors (https://github.com/fontdasu/ShipporiMincho) ShipporiMincho-ExtraBold.ttf: Copyright 2021 The Shippori Mincho Project Authors (https://github.com/fontdasu/ShipporiMincho)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -1,0 +1,8 @@
+/* libertinus-mono-latin-400-normal */
+@font-face {
+  font-family: 'Libertinus Mono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/libertinus-mono-latin-400-normal.woff2) format('woff2'), url(./files/libertinus-mono-latin-400-normal.woff) format('woff');
+}

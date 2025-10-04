@@ -18,13 +18,13 @@
     "opsz": {"default": "14", "min": "8", "max": "30", "step": "0.1"},
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
   },
-  "lastModified": "2024-09-30",
-  "version": "v36",
+  "lastModified": "2025-09-11",
+  "version": "v40",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2018 The Piazzolla Project Authors (https://github.com/huertatipografica/piazzolla)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2018 The Piazzolla Project Authors (https://github.com/huertatipografica/piazzolla) Piazzolla-Italic[opsz,wght].ttf: Copyright 2018 The Piazzolla Project Authors (https://github.com/huertatipografica/piazzolla)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

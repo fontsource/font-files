@@ -11,13 +11,13 @@
     "GRAD": {"min": "-25", "max": "200", "default": "0", "step": "1"},
     "opsz": {"default": "48", "min": "30", "max": "48", "step": "0.1"}
   },
-  "lastModified": "2024-10-16",
-  "version": "v212",
+  "lastModified": "2025-09-24",
+  "version": "v284",
   "category": "icons",
   "license": {
-    "type": "Apache-2.0",
-    "url": "http://www.apache.org/licenses/LICENSE-2.0.html",
-    "attribution": "Copyright 2022, 2022 Google LLC.  All Rights Reserved."
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Google Inc."
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

@@ -1,0 +1,22 @@
+{
+  "id": "funnel-sans",
+  "family": "Funnel Sans",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [300, 400, 500, 600, 700, 800],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": {
+    "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
+    "wght": {"default": "400", "min": "300", "max": "800", "step": "1"}
+  },
+  "lastModified": "2025-09-08",
+  "version": "v3",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2023 The Funnel Project Authors (https://github.com/Dicotype/Funnel) FunnelSans-Italic[wght].ttf: Copyright 2023 The Funnel Project Authors (https://github.com/Dicotype/Funnel)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

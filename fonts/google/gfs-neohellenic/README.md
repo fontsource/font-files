@@ -23,7 +23,7 @@ import "@fontsource/gfs-neohellenic/400-italic.css"; // Specify weight and style
 Supported variables:
 - Weights: `[400,700]`
 - Styles: `[italic,normal]`
-- Subsets: `[greek]`
+- Subsets: `[greek,greek-ext,latin,vietnamese]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what weights and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/gfs-neohellenic).
 
@@ -38,10 +38,10 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright (c) Takis Katsoulidis and George D. Matthiopoulos, 1993-2001. All rights reserved.
-[OFL-1.1](http://scripts.sil.org/OFL)
+Copyright (c) Takis Katsoulidis and George D. Matthiopoulos (gfs@greekfontsociety.gr), 1993-2001. All rights reserved. GFSNeohellenicItalic.ttf: Copyright (c) Takis Katsoulidis and George D. Matthiopoulos (gfs@greekfontsociety.gr) , 2001. All rights reserved. GFSNeohellenicBold.ttf: Copyright (c) Designed by Takis Katsoulidis and George D. Matthiopoulos (gfs@greekfontsociety.gr)., 2001. All rights reserved. GFSNeohellenicBoldItalic.ttf: Copyright (c) Designed by Takis Katsoulidis and George D. Matthiopoulos (gfs@greekfontsociety.gr)., 2001. All rights reserved.
+[OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v25`.
+Font version (provided by source): `v27`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

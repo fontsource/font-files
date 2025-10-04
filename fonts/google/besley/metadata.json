@@ -9,13 +9,13 @@
     "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
     "wght": {"default": "400", "min": "400", "max": "900", "step": "1"}
   },
-  "lastModified": "2024-09-30",
-  "version": "v20",
+  "lastModified": "2025-09-08",
+  "version": "v22",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2020 The Besley Project Authors (https://github.com/indestructible-type)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2020 The Besley Project Authors (https://github.com/indestructible-type) Besley-Italic[wght].ttf: Copyright 2020 The Besley Project Authors (https://github.com/indestructible-type)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

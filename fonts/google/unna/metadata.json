@@ -6,13 +6,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v23",
+  "lastModified": "2025-09-11",
+  "version": "v25",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2016 The Unna Project Authors (omnibus.type@gmail.com)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2016 The Unna Project Authors (omnibus.type@gmail.com) Unna-Italic.ttf: Copyright 2016 The Unna Project Authors (omnibus.type@gmail.com) Unna-Bold.ttf: Copyright 2016 The Unna Project Authors (omnibus.type@gmail.com) Unna-BoldItalic.ttf: Copyright 2016 The Unna Project Authors (omnibus.type@gmail.com)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

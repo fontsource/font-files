@@ -1,0 +1,8 @@
+/* bitcount-grid-double-ink-latin-800-normal */
+@font-face {
+  font-family: 'Bitcount Grid Double Ink';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src: url(./files/bitcount-grid-double-ink-latin-800-normal.woff2) format('woff2'), url(./files/bitcount-grid-double-ink-latin-800-normal.woff) format('woff');
+}

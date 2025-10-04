@@ -1,0 +1,21 @@
+{
+  "id": "tasa-explorer",
+  "family": "TASA Explorer",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400, 500, 600, 700, 800],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "wght": {"default": "400", "min": "400", "max": "800", "step": "1"}
+  },
+  "lastModified": "2025-08-26",
+  "version": "v2",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2022-2025 The TASA Typeface Collection Project Authors (https://github.com/localremotetw/TASA-Typeface-Collection)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

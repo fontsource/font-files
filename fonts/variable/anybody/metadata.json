@@ -10,13 +10,13 @@
     "wdth": {"default": "100", "min": "50", "max": "150", "step": "0.1"},
     "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v11",
+  "lastModified": "2025-09-16",
+  "version": "v13",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2020 The Anybody Project Authors (https://github.com/Etcetera-Type-Co/Anybody)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2020 The Anybody Project Authors (https://github.com/Etcetera-Type-Co/Anybody) Anybody-Italic[wdth,wght].ttf: Copyright 2020 The Anybody Project Authors (https://github.com/Etcetera-Type-Co/Anybody)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

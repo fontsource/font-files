@@ -6,12 +6,12 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
-  "version": "v26",
+  "lastModified": "2025-06-02",
+  "version": "v27",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
+    "url": "https://openfontlicense.org",
     "attribution": "Copyright 2011 Oleg Snarsky, Denis Masharov, Vladimir Rabdu."
   },
   "source": "https://github.com/google/fonts",

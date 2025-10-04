@@ -1,0 +1,27 @@
+{
+  "id": "libertinus-sans",
+  "family": "Libertinus Sans",
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "weights": [400, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-07-30",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2025 The Libertinus Sans Project Authors (https://github.com/googlefonts/libertinus) LibertinusSans-Italic.ttf: Copyright 2025 The Libertinus Sans Project Authors (https://github.com/googlefonts/libertinus) LibertinusSans-Bold.ttf: Copyright 2025 The Libertinus Sans Project Authors (https://github.com/googlefonts/libertinus)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

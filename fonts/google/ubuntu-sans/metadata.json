@@ -17,13 +17,13 @@
     "wdth": {"default": "100", "min": "75", "max": "100", "step": "0.1"},
     "wght": {"default": "400", "min": "100", "max": "800", "step": "1"}
   },
-  "lastModified": "2024-09-04",
-  "version": "v2",
+  "lastModified": "2025-09-02",
+  "version": "v4",
   "category": "sans-serif",
   "license": {
     "type": "UFL-1.0",
     "url": "http://font.ubuntu.com/ufl/",
-    "attribution": "Copyright 2011, 2022, 2023 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0"
+    "attribution": "Copyright 2011, 2022, 2023 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0 UbuntuSans-Italic[wdth,wght].ttf: Copyright 2011, 2022, 2023 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

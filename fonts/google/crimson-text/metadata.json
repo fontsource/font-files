@@ -6,13 +6,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2024-09-04",
+  "lastModified": "2025-05-30",
   "version": "v19",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Copyright 2010 The Crimson Text Project Authors (https://github.com/googlefonts/Crimson)"
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2010 The Crimson Text Project Authors (https://github.com/googlefonts/Crimson) CrimsonText-Italic.ttf: Copyright 2010 The Crimson Text Project Authors (https://github.com/googlefonts/Crimson) CrimsonText-SemiBold.ttf: Copyright 2010 The Crimson Text Project Authors (https://github.com/googlefonts/Crimson) CrimsonText-SemiBoldItalic.ttf: Copyright 2010 The Crimson Text Project Authors (https://github.com/googlefonts/Crimson) CrimsonText-Bold.ttf: Copyright 2010 The Crimson Text Project Authors (https://github.com/googlefonts/Crimson) CrimsonText-BoldItalic.ttf: Copyright 2010 The Crimson Text Project Authors (https://github.com/googlefonts/Crimson)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"
