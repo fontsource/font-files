@@ -1664,6 +1664,42 @@
     },
     "original": "Copyright 2012 The B612 Project Authors (https://github.com/polarsys/b612) B612Mono-Italic.ttf: Copyright 2012 The B612 Project Authors (https://github.com/polarsys/b612) B612Mono-Bold.ttf: Copyright 2012 The B612 Project Authors (https://github.com/polarsys/b612) B612Mono-BoldItalic.ttf: Copyright 2012 The B612 Project Authors (https://github.com/polarsys/b612)"
   },
+  "bbh-sans-bartle": {
+    "id": "bbh-sans-bartle",
+    "authors": {
+      "copyright": "Copyright 2025 The BBHSans Project Authors",
+      "website": "https://github.com/Studio-DRAMA/BBHSans"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2025 The BBHSans Project Authors (https://github.com/Studio-DRAMA/BBHSans)"
+  },
+  "bbh-sans-bogle": {
+    "id": "bbh-sans-bogle",
+    "authors": {
+      "copyright": "Copyright 2025 The BBHSans Project Authors",
+      "website": "https://github.com/Studio-DRAMA/BBHSans"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2025 The BBHSans Project Authors (https://github.com/Studio-DRAMA/BBHSans)"
+  },
+  "bbh-sans-hegarty": {
+    "id": "bbh-sans-hegarty",
+    "authors": {
+      "copyright": "Copyright 2025 The BBHSans Project Authors",
+      "website": "https://github.com/Studio-DRAMA/BBHSans"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2025 The BBHSans Project Authors (https://github.com/Studio-DRAMA/BBHSans)"
+  },
   "biz-udgothic": {
     "id": "biz-udgothic",
     "authors": {
