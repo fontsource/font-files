@@ -8075,11 +8075,11 @@
     "variants": {
       "wght": {
         "normal": {
-          "arabic": "https://fonts.gstatic.com/s/notonaskharabic/v39/RrQKbpV-9Dd1b1OAGA6M9PkyDuVBeN2DHV20Lg.woff2",
-          "math": "https://fonts.gstatic.com/s/notonaskharabic/v39/RrQKbpV-9Dd1b1OAGA6M9PkyDuVBeN36HV20Lg.woff2",
-          "symbols": "https://fonts.gstatic.com/s/notonaskharabic/v39/RrQKbpV-9Dd1b1OAGA6M9PkyDuVBeN3oHV20Lg.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notonaskharabic/v39/RrQKbpV-9Dd1b1OAGA6M9PkyDuVBeN2IHV20Lg.woff2",
-          "latin": "https://fonts.gstatic.com/s/notonaskharabic/v39/RrQKbpV-9Dd1b1OAGA6M9PkyDuVBeN2GHV0.woff2"
+          "arabic": "https://fonts.gstatic.com/s/notonaskharabic/v40/RrQKbpV-9Dd1b1OAGA6M9PkyDuVBeN2DHV20Lg.woff2",
+          "math": "https://fonts.gstatic.com/s/notonaskharabic/v40/RrQKbpV-9Dd1b1OAGA6M9PkyDuVBeN36HV20Lg.woff2",
+          "symbols": "https://fonts.gstatic.com/s/notonaskharabic/v40/RrQKbpV-9Dd1b1OAGA6M9PkyDuVBeN3oHV20Lg.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notonaskharabic/v40/RrQKbpV-9Dd1b1OAGA6M9PkyDuVBeN2IHV20Lg.woff2",
+          "latin": "https://fonts.gstatic.com/s/notonaskharabic/v40/RrQKbpV-9Dd1b1OAGA6M9PkyDuVBeN2GHV0.woff2"
         }
       }
     }
@@ -11784,9 +11784,10 @@
     "variants": {
       "wght": {
         "normal": {
-          "vietnamese": "https://fonts.gstatic.com/s/parastoo/v1/-F6yfj90ITQ4d9euQXrYhiRwxw.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/parastoo/v1/-F6yfj90ITQ4d9euQXrZhiRwxw.woff2",
-          "latin": "https://fonts.gstatic.com/s/parastoo/v1/-F6yfj90ITQ4d9euQXrXhiQ.woff2"
+          "arabic": "https://fonts.gstatic.com/s/parastoo/v3/-F6yfj90ITQ4d9euQXrShiRwxw.woff2",
+          "vietnamese": "https://fonts.gstatic.com/s/parastoo/v3/-F6yfj90ITQ4d9euQXrYhiRwxw.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/parastoo/v3/-F6yfj90ITQ4d9euQXrZhiRwxw.woff2",
+          "latin": "https://fonts.gstatic.com/s/parastoo/v3/-F6yfj90ITQ4d9euQXrXhiQ.woff2"
         }
       }
     }

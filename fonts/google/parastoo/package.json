@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/parastoo",
-  "version": "5.2.2",
+  "version": "5.2.3",
   "description": "Self-host the Parastoo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/parastoo"
   },
-  "publishHash": "2ad528a2fb7f2a41"
+  "publishHash": "4630fbc6b46ff437"
 }

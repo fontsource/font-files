@@ -4275,25 +4275,25 @@
     "id": "cossette-texte",
     "authors": {
       "copyright": "Copyright 2025 The Cossette Texte Project Authors CossetteTexte-Bold.ttf",
-      "website": "https://github.com/cossette/cossette-fonts, https://github.com/cossette/cossette-fonts"
+      "website": "https://github.com/googlefonts/cossette-fonts, https://github.com/googlefonts/cossette-fonts"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "https://openfontlicense.org"
     },
-    "original": "Copyright 2025 The Cossette Texte Project Authors (https://github.com/cossette/cossette-fonts) CossetteTexte-Bold.ttf: Copyright 2025 The Cossette Texte Project Authors (https://github.com/cossette/cossette-fonts)"
+    "original": "Copyright 2025 The Cossette Texte Project Authors (https://github.com/googlefonts/cossette-fonts) CossetteTexte-Bold.ttf: Copyright 2025 The Cossette Texte Project Authors (https://github.com/googlefonts/cossette-fonts)"
   },
   "cossette-titre": {
     "id": "cossette-titre",
     "authors": {
       "copyright": "Copyright 2025 The Cossette Titre Project Authors CossetteTitre-Bold.ttf",
-      "website": "https://github.com/cossette/cossette-fonts, https://github.com/cossette/cossette-fonts"
+      "website": "https://github.com/googlefonts/cossette-fonts, https://github.com/googlefonts/cossette-fonts"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "https://openfontlicense.org"
     },
-    "original": "Copyright 2025 The Cossette Titre Project Authors (https://github.com/cossette/cossette-fonts) CossetteTitre-Bold.ttf: Copyright 2025 The Cossette Titre Project Authors (https://github.com/cossette/cossette-fonts)"
+    "original": "Copyright 2025 The Cossette Titre Project Authors (https://github.com/googlefonts/cossette-fonts) CossetteTitre-Bold.ttf: Copyright 2025 The Cossette Titre Project Authors (https://github.com/googlefonts/cossette-fonts)"
   },
   "courgette": {
     "id": "courgette",
@@ -10947,6 +10947,42 @@
     },
     "original": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Name \"Spinnaker\"."
   },
+  "momo-signature": {
+    "id": "momo-signature",
+    "authors": {
+      "copyright": "Copyright 2024 The Momo Signature Project Authors",
+      "website": "https://github.com/typeassociates"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2024 The Momo Signature Project Authors (https://github.com/typeassociates)"
+  },
+  "momo-trust-display": {
+    "id": "momo-trust-display",
+    "authors": {
+      "copyright": "Copyright 2024 The Momo Trust Project Authors",
+      "website": "https://github.com/typeassociates/MomoTrustDisplay"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2024 The Momo Trust Project Authors (https://github.com/typeassociates/MomoTrustDisplay)"
+  },
+  "momo-trust-sans": {
+    "id": "momo-trust-sans",
+    "authors": {
+      "copyright": "Copyright 2024 The Momo Trust Project Authors",
+      "website": "https://github.com/typeassociates/MomoTrustSans"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2024 The Momo Trust Project Authors (https://github.com/typeassociates/MomoTrustSans)"
+  },
   "mona-sans": {
     "id": "mona-sans",
     "authors": {
@@ -13410,6 +13446,18 @@
   },
   "noto-sans-syriac-eastern": {
     "id": "noto-sans-syriac-eastern",
+    "authors": {
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/syriac"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/syriac)"
+  },
+  "noto-sans-syriac-western": {
+    "id": "noto-sans-syriac-western",
     "authors": {
       "copyright": "Copyright 2022 The Noto Project Authors",
       "website": "https://github.com/notofonts/syriac"

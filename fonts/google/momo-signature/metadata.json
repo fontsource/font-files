@@ -1,0 +1,19 @@
+{
+  "id": "momo-signature",
+  "family": "Momo Signature",
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-10-29",
+  "version": "v2",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2024 The Momo Signature Project Authors (https://github.com/typeassociates)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

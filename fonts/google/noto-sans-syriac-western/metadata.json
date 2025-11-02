@@ -1,0 +1,19 @@
+{
+  "id": "noto-sans-syriac-western",
+  "family": "Noto Sans Syriac Western",
+  "subsets": ["latin", "latin-ext", "syriac"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-10-29",
+  "version": "v2",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/syriac)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

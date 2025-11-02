@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-naskh-arabic",
-  "version": "5.2.8",
+  "version": "5.2.9",
   "description": "Self-host the Noto Naskh Arabic font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-naskh-arabic"
   },
-  "publishHash": "de98a0e8855ca5ce"
+  "publishHash": "b4be8e342b11de6b"
 }

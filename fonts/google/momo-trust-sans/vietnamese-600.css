@@ -1,0 +1,8 @@
+/* momo-trust-sans-vietnamese-600-normal */
+@font-face {
+  font-family: 'Momo Trust Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(./files/momo-trust-sans-vietnamese-600-normal.woff2) format('woff2'), url(./files/momo-trust-sans-vietnamese-600-normal.woff) format('woff');
+}
