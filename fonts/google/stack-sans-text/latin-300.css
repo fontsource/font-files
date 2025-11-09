@@ -1,0 +1,8 @@
+/* stack-sans-text-latin-300-normal */
+@font-face {
+  font-family: 'Stack Sans Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url(./files/stack-sans-text-latin-300-normal.woff2) format('woff2'), url(./files/stack-sans-text-latin-300-normal.woff) format('woff');
+}

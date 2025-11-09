@@ -5242,6 +5242,18 @@
     },
     "original": "Copyright (c) 2011, Cyreal (www.cyreal.org a@cyreal.org) with Reserved Font Name \"Electrolize\" This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
   },
+  "elms-sans": {
+    "id": "elms-sans",
+    "authors": {
+      "copyright": "Copyright 2025 The Elms Sans Project Authors ElmsSans-Italic[wght].ttf",
+      "website": "https://github.com/mara-aa/elms-sans.git, https://github.com/mara-aa/elms-sans.git"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git) ElmsSans-Italic[wght].ttf: Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)"
+  },
   "elsie": {
     "id": "elsie",
     "authors": {
@@ -19762,6 +19774,42 @@
       "url": "https://openfontlicense.org"
     },
     "original": "Copyright 2018 The Staatliches Project Authors (https://github.com/googlefonts/staatliches)"
+  },
+  "stack-sans-headline": {
+    "id": "stack-sans-headline",
+    "authors": {
+      "copyright": "Copyright 2025 The Stack Sans Project Authors",
+      "website": "https://github.com/DylanYoungKoto/Stack-Sans"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2025 The Stack Sans Project Authors (https://github.com/DylanYoungKoto/Stack-Sans)"
+  },
+  "stack-sans-notch": {
+    "id": "stack-sans-notch",
+    "authors": {
+      "copyright": "Copyright 2025 The Stack Sans Project Authors",
+      "website": "https://github.com/DylanYoungKoto/Stack-Sans"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2025 The Stack Sans Project Authors (https://github.com/DylanYoungKoto/Stack-Sans)"
+  },
+  "stack-sans-text": {
+    "id": "stack-sans-text",
+    "authors": {
+      "copyright": "Copyright 2025 The Stack Sans Project Authors",
+      "website": "https://github.com/DylanYoungKoto/Stack-Sans"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2025 The Stack Sans Project Authors (https://github.com/DylanYoungKoto/Stack-Sans)"
   },
   "stalemate": {
     "id": "stalemate",

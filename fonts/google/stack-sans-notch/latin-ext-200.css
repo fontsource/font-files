@@ -1,0 +1,8 @@
+/* stack-sans-notch-latin-ext-200-normal */
+@font-face {
+  font-family: 'Stack Sans Notch';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: url(./files/stack-sans-notch-latin-ext-200-normal.woff2) format('woff2'), url(./files/stack-sans-notch-latin-ext-200-normal.woff) format('woff');
+}
