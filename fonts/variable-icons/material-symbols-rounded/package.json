@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/material-symbols-rounded",
-  "version": "5.2.28",
+  "version": "5.2.29",
   "description": "Self-host the Material Symbols Rounded font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/material-symbols-rounded"
   },
-  "publishHash": "7eb00d85a9b0bcb1"
+  "publishHash": "2311ecf8fa49c3f9"
 }
