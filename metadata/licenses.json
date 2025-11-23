@@ -6715,6 +6715,15 @@
     },
     "original": "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code) GoogleSansCode-Italic[wght].ttf: Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)"
   },
+  "google-sans-flex": {
+    "id": "google-sans-flex",
+    "authors": {"copyright": "Copyright 2015 Google LLC. All Rights Reserved."},
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2015 Google LLC. All Rights Reserved."
+  },
   "gorditas": {
     "id": "gorditas",
     "authors": {
@@ -8691,6 +8700,17 @@
     },
     "original": "Copyright (c) 2012, Julia Petretta (julia.petretta@googlemail.com), with Reserved Font Name 'Keania'"
   },
+  "kedebideri": {
+    "id": "kedebideri",
+    "authors": {
+      "copyright": "Copyright 2007-2025 SIL Global Kedebideri-Medium.ttf"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright (c) 2007-2025 SIL Global Kedebideri-Medium.ttf: Copyright (c) 2007-2025 SIL Global Kedebideri-SemiBold.ttf: Copyright (c) 2007-2025 SIL Global Kedebideri-Bold.ttf: Copyright (c) 2007-2025 SIL Global Kedebideri-ExtraBold.ttf: Copyright (c) 2007-2025 SIL Global Kedebideri-Black.ttf: Copyright (c) 2007-2025 SIL Global"
+  },
   "kelly-slab": {
     "id": "kelly-slab",
     "authors": {
@@ -9553,14 +9573,14 @@
   "libre-baskerville": {
     "id": "libre-baskerville",
     "authors": {
-      "copyright": "Copyright 2012 The Libre Baskerville Project Authors LibreBaskerville-Italic.ttf",
-      "website": "https://github.com/impallari/Libre-Baskerville, https://github.com/impallari/Libre-Baskerville, https://github.com/impallari/Libre-Baskerville"
+      "copyright": "Copyright 2012 The Libre Baskerville Project Authors LibreBaskerville-Italic[wght].ttf",
+      "website": "https://github.com/impallari/Libre-Baskerville, https://github.com/impallari/Libre-Baskerville"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "https://openfontlicense.org"
     },
-    "original": "Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville) LibreBaskerville-Italic.ttf: Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville) LibreBaskerville-Bold.ttf: Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville)"
+    "original": "Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville) LibreBaskerville-Italic[wght].ttf: Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville)"
   },
   "libre-bodoni": {
     "id": "libre-bodoni",
@@ -18716,6 +18736,18 @@
       "url": "http://www.apache.org/licenses/LICENSE-2.0"
     },
     "original": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved."
+  },
+  "science-gothic": {
+    "id": "science-gothic",
+    "authors": {
+      "copyright": "Copyright © 2025 The Science Gothic Project Authors",
+      "website": "https://github.com/googlefonts/science-gothic/blob/main/AUTHORS.txt"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright © 2025 The Science Gothic Project Authors (https://github.com/googlefonts/science-gothic/blob/main/AUTHORS.txt)"
   },
   "scope-one": {
     "id": "scope-one",

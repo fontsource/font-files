@@ -1,0 +1,19 @@
+{
+  "id": "kedebideri",
+  "family": "Kedebideri",
+  "subsets": ["latin"],
+  "weights": [400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-11-20",
+  "version": "v2",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2007-2025 SIL Global Kedebideri-Medium.ttf: Copyright (c) 2007-2025 SIL Global Kedebideri-SemiBold.ttf: Copyright (c) 2007-2025 SIL Global Kedebideri-Bold.ttf: Copyright (c) 2007-2025 SIL Global Kedebideri-ExtraBold.ttf: Copyright (c) 2007-2025 SIL Global Kedebideri-Black.ttf: Copyright (c) 2007-2025 SIL Global"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

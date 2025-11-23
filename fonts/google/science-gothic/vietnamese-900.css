@@ -1,0 +1,8 @@
+/* science-gothic-vietnamese-900-normal */
+@font-face {
+  font-family: 'Science Gothic';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url(./files/science-gothic-vietnamese-900-normal.woff2) format('woff2'), url(./files/science-gothic-vietnamese-900-normal.woff) format('woff');
+}

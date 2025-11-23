@@ -1,0 +1,19 @@
+{
+  "id": "science-gothic",
+  "family": "Science Gothic",
+  "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-11-20",
+  "version": "v5",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright © 2025 The Science Gothic Project Authors (https://github.com/googlefonts/science-gothic/blob/main/AUTHORS.txt)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

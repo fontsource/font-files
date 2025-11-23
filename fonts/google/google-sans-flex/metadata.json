@@ -1,0 +1,30 @@
+{
+  "id": "google-sans-flex",
+  "family": "Google Sans Flex",
+  "subsets": [
+    "canadian-aboriginal",
+    "cherokee",
+    "latin",
+    "latin-ext",
+    "math",
+    "nushu",
+    "symbols",
+    "syriac",
+    "tifinagh",
+    "vietnamese"
+  ],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-11-17",
+  "version": "v15",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2015 Google LLC. All Rights Reserved."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/momo-trust-sans",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Momo Trust Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/momo-trust-sans"
   },
-  "publishHash": "4bcdab15d8ccc44e"
+  "publishHash": "561dccd47b4ae61d"
 }

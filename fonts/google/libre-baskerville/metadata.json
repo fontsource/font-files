@@ -2,17 +2,17 @@
   "id": "libre-baskerville",
   "family": "Libre Baskerville",
   "subsets": ["latin", "latin-ext"],
-  "weights": [400, 700],
+  "weights": [400, 500, 600, 700],
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2025-11-04",
-  "version": "v17",
+  "lastModified": "2025-11-20",
+  "version": "v24",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
     "url": "https://openfontlicense.org",
-    "attribution": "Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville) LibreBaskerville-Italic.ttf: Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville) LibreBaskerville-Bold.ttf: Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville)"
+    "attribution": "Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville) LibreBaskerville-Italic[wght].ttf: Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"
