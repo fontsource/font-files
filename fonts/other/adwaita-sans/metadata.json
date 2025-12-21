@@ -1,0 +1,19 @@
+{
+  "id": "adwaita-sans",
+  "family": "Adwaita Sans",
+  "subsets": ["latin"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-12-21",
+  "version": "49.0",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://gitlab.gnome.org/GNOME/adwaita-fonts/-/raw/main/LICENSE?ref_type=heads",
+    "attribution": "The GNOME Project (based on Inter by Rasmus Andersson)"
+  },
+  "source": "https://gitlab.gnome.org/GNOME/adwaita-fonts",
+  "type": "other"
+}
