@@ -14,8 +14,8 @@
   "variable": {
     "wght": {"default": "400", "min": "200", "max": "900", "step": "1"}
   },
-  "lastModified": "2025-09-08",
-  "version": "v34",
+  "lastModified": "2025-12-10",
+  "version": "v35",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",

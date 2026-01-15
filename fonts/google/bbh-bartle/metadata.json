@@ -1,0 +1,19 @@
+{
+  "id": "bbh-bartle",
+  "family": "BBH Bartle",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-12-10",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2025 The BBH Project Authors (https://github.com/Studio-DRAMA/BBH)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

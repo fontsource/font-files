@@ -1,0 +1,19 @@
+{
+  "id": "amarna",
+  "family": "Amarna",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [100, 200, 300, 400, 500, 600, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-12-10",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2025 The Amarna Project Authors (https://github.com/ijvanl/Amarna) Amarna-Italic[wght].ttf: Copyright 2025 The Amarna Project Authors (https://github.com/ijvanl/Amarna)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}
