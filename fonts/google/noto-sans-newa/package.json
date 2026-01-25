@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-newa",
-  "version": "5.2.6",
+  "version": "5.2.7",
   "description": "Self-host the Noto Sans Newa font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-newa"
   },
-  "publishHash": "b7bb74143e24adde"
+  "publishHash": "0716ee149c1e091e"
 }

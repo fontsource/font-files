@@ -12987,13 +12987,14 @@
   "noto-sans-myanmar": {
     "id": "noto-sans-myanmar",
     "authors": {
-      "copyright": "Copyright 2015 Google Inc. All Rights Reserved. NotoSansMyanmar-ExtraLight.ttf"
+      "copyright": "Copyright 2022 The Noto Project Authors",
+      "website": "https://github.com/notofonts/myanmar"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "https://openfontlicense.org"
     },
-    "original": "Copyright 2015 Google Inc. All Rights Reserved. NotoSansMyanmar-ExtraLight.ttf: Copyright 2015 Google Inc. All Rights Reserved. NotoSansMyanmar-Light.ttf: Copyright 2015 Google Inc. All Rights Reserved. NotoSansMyanmar-Regular.ttf: Copyright 2015 Google Inc. All Rights Reserved. NotoSansMyanmar-Medium.ttf: Copyright 2015 Google Inc. All Rights Reserved. NotoSansMyanmar-SemiBold.ttf: Copyright 2015 Google Inc. All Rights Reserved. NotoSansMyanmar-Bold.ttf: Copyright 2015 Google Inc. All Rights Reserved. NotoSansMyanmar-ExtraBold.ttf: Copyright 2015 Google Inc. All Rights Reserved. NotoSansMyanmar-Black.ttf: Copyright 2015 Google Inc. All Rights Reserved."
+    "original": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/myanmar)"
   },
   "noto-sans-n'ko": {
     "id": "noto-sans-n'ko",

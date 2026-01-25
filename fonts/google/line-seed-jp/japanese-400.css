@@ -1,0 +1,8 @@
+/* line-seed-jp-japanese-400-normal */
+@font-face {
+  font-family: 'LINE Seed JP';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/line-seed-jp-japanese-400-normal.woff2) format('woff2'), url(./files/line-seed-jp-japanese-400-normal.woff) format('woff');
+}

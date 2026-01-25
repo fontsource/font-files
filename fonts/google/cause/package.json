@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cause",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Cause font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cause"
   },
-  "publishHash": "08669362365a3437"
+  "publishHash": "f25a5d86b058c6ff"
 }
