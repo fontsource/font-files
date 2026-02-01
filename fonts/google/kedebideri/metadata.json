@@ -1,13 +1,13 @@
 {
   "id": "kedebideri",
   "family": "Kedebideri",
-  "subsets": ["latin"],
+  "subsets": ["beria-erfe", "latin"],
   "weights": [400, 500, 600, 700, 800, 900],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2025-11-20",
-  "version": "v2",
+  "lastModified": "2026-01-29",
+  "version": "v6",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

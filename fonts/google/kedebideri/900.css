@@ -1,3 +1,13 @@
+/* kedebideri-beria-erfe-900-normal */
+@font-face {
+  font-family: 'Kedebideri';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url(./files/kedebideri-beria-erfe-900-normal.woff2) format('woff2'), url(./files/kedebideri-beria-erfe-900-normal.woff) format('woff');
+  unicode-range: U+16EA0-16EB8,U+16EBB-16ED3;
+}
+
 /* kedebideri-latin-900-normal */
 @font-face {
   font-family: 'Kedebideri';

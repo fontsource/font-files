@@ -16424,6 +16424,30 @@
     },
     "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
   },
+  "playwrite-new-zealand-basic": {
+    "id": "playwrite-new-zealand-basic",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
+  "playwrite-new-zealand-basic-guides": {
+    "id": "playwrite-new-zealand-basic-guides",
+    "authors": {
+      "copyright": "Copyright 2023 The Playwrite Project Authors",
+      "website": "https://github.com/TypeTogether/Playwrite"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
+  },
   "playwrite-new-zealand-guides": {
     "id": "playwrite-new-zealand-guides",
     "authors": {
@@ -18428,6 +18452,18 @@
       "url": "https://openfontlicense.org"
     },
     "original": "Copyright (c) 2012, Sorkin Type Co (eben@eyebytes.com) with Reserved Font Name 'Rye'"
+  },
+  "sn-pro": {
+    "id": "sn-pro",
+    "authors": {
+      "copyright": "Copyright 2024 The SN Pro Project Authors SNPro-Italic[wght].ttf",
+      "website": "https://github.com/supernotes/sn-pro, https://github.com/supernotes/sn-pro"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2024 The SN Pro Project Authors (https://github.com/supernotes/sn-pro) SNPro-Italic[wght].ttf: Copyright 2024 The SN Pro Project Authors (https://github.com/supernotes/sn-pro)"
   },
   "stix-two-text": {
     "id": "stix-two-text",

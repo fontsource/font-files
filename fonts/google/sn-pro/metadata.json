@@ -1,0 +1,19 @@
+{
+  "id": "sn-pro",
+  "family": "SN Pro",
+  "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+  "weights": [200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2026-01-28",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2024 The SN Pro Project Authors (https://github.com/supernotes/sn-pro) SNPro-Italic[wght].ttf: Copyright 2024 The SN Pro Project Authors (https://github.com/supernotes/sn-pro)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}
