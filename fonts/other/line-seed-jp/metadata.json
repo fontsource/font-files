@@ -1,0 +1,19 @@
+{
+  "id": "line-seed-jp",
+  "family": "LINE Seed JP",
+  "subsets": ["latin"],
+  "weights": [100, 400, 700, 800],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-12-19",
+  "version": "v20241105",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://seed.line.me/index_jp.html",
+    "attribution": "LY Corporation"
+  },
+  "source": "https://seed.line.me/index_jp.html",
+  "type": "other"
+}
