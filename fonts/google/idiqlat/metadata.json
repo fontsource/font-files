@@ -1,0 +1,19 @@
+{
+  "id": "idiqlat",
+  "family": "Idiqlat",
+  "subsets": ["latin", "syriac"],
+  "weights": [200, 300, 400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2026-02-17",
+  "version": "v2",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright (c) 2025, SIL Global (https://www.sil.org/), with Reserved Font Names \"Idiqlat\" and \"SIL\". Original fonts copyright (c) 1997-2025, Sparksoft Systems, with Reserved Font Names \"Marcus\" and \"Nohadra\". Latin glyphs copyright (c) 2018 The Crimson Pro Project Authors (https://github.com/Fonthausen/CrimsonPro). Idiqlat-Light.ttf: Copyright (c) 2025, SIL Global (https://www.sil.org/), with Reserved Font Names \"Idiqlat\" and \"SIL\". Original fonts copyright (c) 1997-2025, Sparksoft Systems, with Reserved Font Names \"Marcus\" and \"Nohadra\". Latin glyphs copyright (c) 2018 The Crimson Pro Project Authors (https://github.com/Fonthausen/CrimsonPro). Idiqlat-Regular.ttf: Copyright (c) 2025, SIL Global (https://www.sil.org/), with Reserved Font Names \"Idiqlat\" and \"SIL\". Original fonts copyright (c) 1997-2025, Sparksoft Systems, with Reserved Font Names \"Marcus\" and \"Nohadra\". Latin glyphs copyright (c) 2018 The Crimson Pro Project Authors (https://github.com/Fonthausen/CrimsonPro)."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

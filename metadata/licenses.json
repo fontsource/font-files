@@ -566,6 +566,18 @@
     },
     "original": "Copyright 2020 The Allison Project Authors (https://github.com/googlefonts/allison)"
   },
+  "allkin": {
+    "id": "allkin",
+    "authors": {
+      "copyright": "Copyright 2025 The Allkin Project Authors with Reserved Font Name \"Allkin\".",
+      "website": "https://github.com/googlefonts/allkin"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2025 The Allkin Project Authors (https://github.com/googlefonts/allkin), with Reserved Font Name \"Allkin\"."
+  },
   "allura": {
     "id": "allura",
     "authors": {
@@ -684,6 +696,18 @@
       "url": "https://openfontlicense.org"
     },
     "original": "Copyright 2015 The Alumni Sans Project Authors (https://github.com/googlefonts/alumni) AlumniSansSC-Italic[wght].ttf: Copyright 2015 The Alumni Sans Project Authors (https://github.com/googlefonts/alumni)"
+  },
+  "alyamama": {
+    "id": "alyamama",
+    "authors": {
+      "copyright": "Copyright 2025 The Alyamama Project Authors",
+      "website": "https://github.com/Mestaratype/AlYamama"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2025 The Alyamama Project Authors (https://github.com/Mestaratype/AlYamama)"
   },
   "amarante": {
     "id": "amarante",
@@ -2348,6 +2372,54 @@
     },
     "original": "Copyright 2020 The Besley Project Authors (https://github.com/indestructible-type) Besley-Italic[wght].ttf: Copyright 2020 The Besley Project Authors (https://github.com/indestructible-type)"
   },
+  "betania-patmos": {
+    "id": "betania-patmos",
+    "authors": {
+      "copyright": "Copyright 2024 The Betania Patmos Project Authors",
+      "website": "https://github.com/huertatipografica/betania-patmos"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2024 The Betania Patmos Project Authors (https://github.com/huertatipografica/betania-patmos)"
+  },
+  "betania-patmos-guideline": {
+    "id": "betania-patmos-guideline",
+    "authors": {
+      "copyright": "Copyright 2024 The Betania Patmos Project Authors",
+      "website": "https://github.com/huertatipografica/betania-patmos"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2024 The Betania Patmos Project Authors (https://github.com/huertatipografica/betania-patmos)"
+  },
+  "betania-patmos-in": {
+    "id": "betania-patmos-in",
+    "authors": {
+      "copyright": "Copyright 2024 The Betania Patmos Project Authors",
+      "website": "https://github.com/huertatipografica/betania-patmos"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2024 The Betania Patmos Project Authors (https://github.com/huertatipografica/betania-patmos)"
+  },
+  "betania-patmos-in-guideline": {
+    "id": "betania-patmos-in-guideline",
+    "authors": {
+      "copyright": "Copyright 2024 The Betania Patmos Project Authors",
+      "website": "https://github.com/huertatipografica/betania-patmos"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2024 The Betania Patmos Project Authors (https://github.com/huertatipografica/betania-patmos)"
+  },
   "beth-ellen": {
     "id": "beth-ellen",
     "authors": {
@@ -2909,6 +2981,42 @@
       "url": "https://openfontlicense.org"
     },
     "original": "Copyright (c) 2011, vernon adams (vern@newtypography.co.uk), with Reserved Font Names \"Bowlby\""
+  },
+  "bpmf-huninn": {
+    "id": "bpmf-huninn",
+    "authors": {
+      "copyright": "Copyright 2025 The Bpmf Project Authors",
+      "website": "https://github.com/ButTaiwan/bpmfvs"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2025 The Bpmf Project Authors (https://github.com/ButTaiwan/bpmfvs)"
+  },
+  "bpmf-iansui": {
+    "id": "bpmf-iansui",
+    "authors": {
+      "copyright": "Copyright 2025 The Bpmf Project Authors",
+      "website": "https://github.com/ButTaiwan/bpmfvs"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2025 The Bpmf Project Authors (https://github.com/ButTaiwan/bpmfvs)"
+  },
+  "bpmf-zihi-kai-std": {
+    "id": "bpmf-zihi-kai-std",
+    "authors": {
+      "copyright": "Copyright 2025 The Bpmf Project Authors",
+      "website": "https://github.com/ButTaiwan/bpmfvs"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2025 The Bpmf Project Authors (https://github.com/ButTaiwan/bpmfvs)"
   },
   "braah-one": {
     "id": "braah-one",
@@ -7055,6 +7163,18 @@
     },
     "original": "Copyright (c) 2012 Silicon Andhra (fonts.siliconandhra.org)"
   },
+  "gveret-levin": {
+    "id": "gveret-levin",
+    "authors": {
+      "copyright": "Copyright 2024 The Gveret Levin Project Authors",
+      "website": "https://github.com/AlefAlefAlef/gveret-levin"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2024 The Gveret Levin Project Authors (https://github.com/AlefAlefAlef/gveret-levin)"
+  },
   "gwendolyn": {
     "id": "gwendolyn",
     "authors": {
@@ -7676,6 +7796,18 @@
       "url": "https://openfontlicense.org"
     },
     "original": "Copyright (c) 2011, Cyreal (www.cyreal.org a@cyreal.org) with Reserved Font Name \"Iceland\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+  },
+  "idiqlat": {
+    "id": "idiqlat",
+    "authors": {
+      "copyright": "Copyright 2025, SIL Global with Reserved Font Names \"Idiqlat\" and \"SIL\". Original fonts copyright 1997-2025, Sparksoft Systems, with Reserved Font Names \"Marcus\" and \"Nohadra\". Latin glyphs copyright 2018 The Crimson Pro Project Authors Idiqlat-Light.ttf",
+      "website": "https://www.sil.org/, https://github.com/Fonthausen/CrimsonPro., https://www.sil.org/, https://github.com/Fonthausen/CrimsonPro., https://www.sil.org/, https://github.com/Fonthausen/CrimsonPro."
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright (c) 2025, SIL Global (https://www.sil.org/), with Reserved Font Names \"Idiqlat\" and \"SIL\". Original fonts copyright (c) 1997-2025, Sparksoft Systems, with Reserved Font Names \"Marcus\" and \"Nohadra\". Latin glyphs copyright (c) 2018 The Crimson Pro Project Authors (https://github.com/Fonthausen/CrimsonPro). Idiqlat-Light.ttf: Copyright (c) 2025, SIL Global (https://www.sil.org/), with Reserved Font Names \"Idiqlat\" and \"SIL\". Original fonts copyright (c) 1997-2025, Sparksoft Systems, with Reserved Font Names \"Marcus\" and \"Nohadra\". Latin glyphs copyright (c) 2018 The Crimson Pro Project Authors (https://github.com/Fonthausen/CrimsonPro). Idiqlat-Regular.ttf: Copyright (c) 2025, SIL Global (https://www.sil.org/), with Reserved Font Names \"Idiqlat\" and \"SIL\". Original fonts copyright (c) 1997-2025, Sparksoft Systems, with Reserved Font Names \"Marcus\" and \"Nohadra\". Latin glyphs copyright (c) 2018 The Crimson Pro Project Authors (https://github.com/Fonthausen/CrimsonPro)."
   },
   "imbue": {
     "id": "imbue",
@@ -17418,6 +17550,18 @@
     },
     "original": "Copyright 2020 The Rampart Project Authors (https://github.com/fontworks-fonts/Rampart/)"
   },
+  "ramsina": {
+    "id": "ramsina",
+    "authors": {
+      "copyright": "Original fonts copyright 1997-2025, Sparksoft Systems, with Reserved Font Names \"Marcus\" and \"Nohadra\". Latin glyphs copyright 2018 The Crimson Pro Project Authors Copyright 2025, SIL Global with Reserved Font Names \"Ramsina\" and \"SIL\".",
+      "website": "https://github.com/Fonthausen/CrimsonPro., https://www.sil.org/"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Original fonts copyright (c) 1997-2025, Sparksoft Systems, with Reserved Font Names \"Marcus\" and \"Nohadra\". Latin glyphs copyright (c) 2018 The Crimson Pro Project Authors (https://github.com/Fonthausen/CrimsonPro). Copyright (c) 2025, SIL Global (https://www.sil.org/), with Reserved Font Names \"Ramsina\" and \"SIL\"."
+  },
   "ranchers": {
     "id": "ranchers",
     "authors": {
@@ -22006,13 +22150,13 @@
     "id": "zcool-kuaile",
     "authors": {
       "copyright": "Copyright 2018 The ZCOOL KuaiLe Project Authors",
-      "website": "https://www.github.com/googlefonts/zcool-kuaile"
+      "website": "https://github.com/googlefonts/zcool-kuaile"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "https://openfontlicense.org"
     },
-    "original": "Copyright 2018 The ZCOOL KuaiLe Project Authors (https://www.github.com/googlefonts/zcool-kuaile)"
+    "original": "Copyright 2018 The ZCOOL KuaiLe Project Authors (https://github.com/googlefonts/zcool-kuaile)"
   },
   "zcool-qingke-huangyou": {
     "id": "zcool-qingke-huangyou",

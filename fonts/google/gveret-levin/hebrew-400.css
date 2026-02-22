@@ -1,0 +1,8 @@
+/* gveret-levin-hebrew-400-normal */
+@font-face {
+  font-family: 'Gveret Levin';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/gveret-levin-hebrew-400-normal.woff2) format('woff2'), url(./files/gveret-levin-hebrew-400-normal.woff) format('woff');
+}

@@ -1,0 +1,8 @@
+/* allkin-latin-400-normal */
+@font-face {
+  font-family: 'Allkin';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/allkin-latin-400-normal.woff2) format('woff2'), url(./files/allkin-latin-400-normal.woff) format('woff');
+}

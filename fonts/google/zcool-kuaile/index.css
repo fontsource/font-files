@@ -668,6 +668,16 @@
   unicode-range: U+3129,U+3131,U+3134,U+3137,U+3139,U+3141-3142,U+3145,U+3147-3148,U+314b,U+314d-314e,U+315c,U+3160-3161,U+3163-3164,U+3186,U+318d,U+3192,U+3196-3198,U+319e-319f,U+3220-3229,U+3231,U+3268,U+3297,U+3299,U+32a3,U+338e-338f,U+3395,U+339c-339e,U+33c4,U+33d1-33d2,U+33d5,U+3434,U+34dc,U+34ee,U+353e,U+355d,U+3566,U+3575,U+3592,U+35a0-35a1,U+35ad,U+35ce,U+36a2,U+36ab,U+38a8,U+3dab,U+3de7,U+3deb,U+3e1a,U+3f1b,U+3f6d,U+4495,U+4723,U+48fa,U+4ca3,U+4db6-4dbf,U+4e02,U+4e04-4e06,U+4e0c,U+4e0f,U+4e15,U+4e17,U+4e1f-4e21,U+4e26,U+4e29,U+4e2c,U+4e2f,U+4e31,U+4e35,U+4e37,U+4e3c,U+4e3f-4e42,U+4e44,U+4e46-4e47,U+4e57,U+4e5a-4e5c,U+4e64-4e65,U+4e67,U+4e69,U+4e6d,U+4e78,U+4e7f-4e82,U+4e85,U+4e87,U+4e8a,U+4e8d,U+4e93,U+4e96,U+4e98-4e99,U+4e9c,U+4e9e-4ea0,U+4ea2;
 }
 
+/* zcool-kuaile-[86]-400-normal */
+@font-face {
+  font-family: 'ZCOOL KuaiLe';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/zcool-kuaile-86-400-normal.woff2) format('woff2'), url(./files/zcool-kuaile-86-400-normal.woff) format('woff');
+  unicode-range: U+279f-27a2,U+27a4-27a5,U+27a8,U+27b0,U+27b2-27b3,U+27b9,U+27e8-27e9,U+27f6,U+2800,U+28ec,U+2913,U+2921-2922,U+2934-2935,U+2a2f,U+2b05-2b07,U+2b50,U+2b55,U+2bc5-2bc6,U+2e1c-2e1d,U+2ebb,U+2f00,U+2f08,U+2f24,U+2f2d,U+2f2f-2f30,U+2f3c,U+2f45,U+2f63-2f64,U+2f74,U+2f83,U+2f8f,U+2fbc,U+3003,U+3005-3007,U+3012-3013,U+301c-301e,U+3021,U+3023-3024,U+3030,U+3034-3035,U+3041,U+3043,U+3045,U+3047,U+3049,U+3056,U+3058,U+305c,U+305e,U+3062,U+306c,U+3074,U+3077,U+307a,U+307c-307d,U+3080,U+308e,U+3090-3091,U+3099-309b,U+309d-309e,U+30a5,U+30bc,U+30be,U+30c2,U+30c5,U+30cc,U+30d8,U+30e2,U+30e8,U+30ee,U+30f0-30f2,U+30f4-30f6,U+30fd-30fe,U+3105-3126,U+3128;
+}
+
 /* zcool-kuaile-[90]-400-normal */
 @font-face {
   font-family: 'ZCOOL KuaiLe';

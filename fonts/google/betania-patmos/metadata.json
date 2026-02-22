@@ -1,0 +1,19 @@
+{
+  "id": "betania-patmos",
+  "family": "Betania Patmos",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2026-02-17",
+  "version": "v2",
+  "category": "handwriting",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2024 The Betania Patmos Project Authors (https://github.com/huertatipografica/betania-patmos)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

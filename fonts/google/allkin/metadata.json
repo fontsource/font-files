@@ -1,0 +1,19 @@
+{
+  "id": "allkin",
+  "family": "Allkin",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2026-02-19",
+  "version": "v5",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2025 The Allkin Project Authors (https://github.com/googlefonts/allkin), with Reserved Font Name \"Allkin\"."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "bpmf-huninn",
+  "family": "Bpmf Huninn",
+  "subsets": ["chinese-traditional", "latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2026-02-19",
+  "version": "v2",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2025 The Bpmf Project Authors (https://github.com/ButTaiwan/bpmfvs)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

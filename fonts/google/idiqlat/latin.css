@@ -1,0 +1,26 @@
+/* idiqlat-latin-200-normal */
+@font-face {
+  font-family: 'Idiqlat';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: url(./files/idiqlat-latin-200-normal.woff2) format('woff2'), url(./files/idiqlat-latin-200-normal.woff) format('woff');
+}
+
+/* idiqlat-latin-300-normal */
+@font-face {
+  font-family: 'Idiqlat';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url(./files/idiqlat-latin-300-normal.woff2) format('woff2'), url(./files/idiqlat-latin-300-normal.woff) format('woff');
+}
+
+/* idiqlat-latin-400-normal */
+@font-face {
+  font-family: 'Idiqlat';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/idiqlat-latin-400-normal.woff2) format('woff2'), url(./files/idiqlat-latin-400-normal.woff) format('woff');
+}
