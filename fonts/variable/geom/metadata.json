@@ -1,0 +1,22 @@
+{
+  "id": "geom",
+  "family": "Geom",
+  "subsets": ["greek", "latin", "latin-ext"],
+  "weights": [300, 400, 500, 600, 700, 800, 900],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": {
+    "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
+    "wght": {"default": "400", "min": "300", "max": "900", "step": "1"}
+  },
+  "lastModified": "2025-12-10",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2022 The Geom Project Authors (https://github.com/ThanosPoulakidas/Geom) Geom-Italic[wght].ttf: Copyright 2022 The Geom Project Authors (https://github.com/ThanosPoulakidas/Geom)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

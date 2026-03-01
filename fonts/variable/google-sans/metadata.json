@@ -1,0 +1,50 @@
+{
+  "id": "google-sans",
+  "family": "Google Sans",
+  "subsets": [
+    "armenian",
+    "bengali",
+    "canadian-aboriginal",
+    "cyrillic",
+    "cyrillic-ext",
+    "devanagari",
+    "ethiopic",
+    "georgian",
+    "greek",
+    "greek-ext",
+    "gujarati",
+    "gurmukhi",
+    "hebrew",
+    "khmer",
+    "lao",
+    "latin",
+    "latin-ext",
+    "malayalam",
+    "oriya",
+    "sinhala",
+    "symbols",
+    "tamil",
+    "telugu",
+    "thai",
+    "vietnamese"
+  ],
+  "weights": [400, 500, 600, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": {
+    "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
+    "opsz": {"default": "18", "min": "17", "max": "18", "step": "0.1"},
+    "wght": {"default": "400", "min": "400", "max": "700", "step": "1"},
+    "GRAD": {"default": "0", "min": "-50", "max": "200", "step": "1"}
+  },
+  "lastModified": "2025-12-10",
+  "version": "v67",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2017 Google, Inc. All Rights Reserved. GoogleSans-Italic[GRAD,opsz,wght].ttf: Copyright 2017 Google, Inc. All Rights Reserved."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}
