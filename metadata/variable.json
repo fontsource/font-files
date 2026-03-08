@@ -9598,23 +9598,23 @@
     "variants": {
       "wdth": {
         "normal": {
-          "kannada": "https://fonts.gstatic.com/s/notosanskannada/v31/8vIS7xs32H97qzQKnzfeXycxXZyUmw65TY_9CQ.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notosanskannada/v31/8vIS7xs32H97qzQKnzfeXycxXZyUmw6tTY_9CQ.woff2",
-          "latin": "https://fonts.gstatic.com/s/notosanskannada/v31/8vIS7xs32H97qzQKnzfeXycxXZyUmw6jTY8.woff2"
+          "kannada": "https://fonts.gstatic.com/s/notosanskannada/v32/8vIS7xs32H97qzQKnzfeXycxXZyUmw65TY_9CQ.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notosanskannada/v32/8vIS7xs32H97qzQKnzfeXycxXZyUmw6tTY_9CQ.woff2",
+          "latin": "https://fonts.gstatic.com/s/notosanskannada/v32/8vIS7xs32H97qzQKnzfeXycxXZyUmw6jTY8.woff2"
         }
       },
       "wght": {
         "normal": {
-          "kannada": "https://fonts.gstatic.com/s/notosanskannada/v31/8vIh7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgoD4F-Yo3w.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notosanskannada/v31/8vIh7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgoD9F-Yo3w.woff2",
-          "latin": "https://fonts.gstatic.com/s/notosanskannada/v31/8vIh7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgoD-l-Y.woff2"
+          "kannada": "https://fonts.gstatic.com/s/notosanskannada/v32/8vIh7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgoD4F-Yo3w.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notosanskannada/v32/8vIh7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgoD9F-Yo3w.woff2",
+          "latin": "https://fonts.gstatic.com/s/notosanskannada/v32/8vIh7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgoD-l-Y.woff2"
         }
       },
       "standard": {
         "normal": {
-          "kannada": "https://fonts.gstatic.com/s/notosanskannada/v31/8vIS7xs32H97qzQKnzfeXycxXZyUmw65TY_9CQ.woff2",
-          "latin-ext": "https://fonts.gstatic.com/s/notosanskannada/v31/8vIS7xs32H97qzQKnzfeXycxXZyUmw6tTY_9CQ.woff2",
-          "latin": "https://fonts.gstatic.com/s/notosanskannada/v31/8vIS7xs32H97qzQKnzfeXycxXZyUmw6jTY8.woff2"
+          "kannada": "https://fonts.gstatic.com/s/notosanskannada/v32/8vIS7xs32H97qzQKnzfeXycxXZyUmw65TY_9CQ.woff2",
+          "latin-ext": "https://fonts.gstatic.com/s/notosanskannada/v32/8vIS7xs32H97qzQKnzfeXycxXZyUmw6tTY_9CQ.woff2",
+          "latin": "https://fonts.gstatic.com/s/notosanskannada/v32/8vIS7xs32H97qzQKnzfeXycxXZyUmw6jTY8.woff2"
         }
       }
     }
