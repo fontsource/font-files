@@ -885,7 +885,7 @@
   font-display: swap;
   font-weight: 500;
   src: url(./files/chiron-hei-hk-93-500-normal.woff2) format('woff2'), url(./files/chiron-hei-hk-93-500-normal.woff) format('woff');
-  unicode-range: U+1d0a-1d0b,U+1d0d,U+1d0f,U+1d17-1d18,U+1d1b-1d1c,U+1d20-1d22,U+1d25,U+1d2c,U+1d2e,U+1d30-1d31,U+1d33-1d3a,U+1d3c,U+1d3e-1d42,U+1d52,U+1d55,U+1d5b,U+1d5e,U+1d9c,U+1da0,U+1dc4-1dc5,U+1e3b,U+1e43,U+1e45,U+1e47,U+1e63,U+1e6d,U+1e73,U+1ea0,U+1ea2,U+1ea4-1ea9,U+1eab-1eaf,U+1eb1,U+1eb3,U+1eb5,U+1eb7,U+1eb9,U+1ebb,U+1ebd-1ebe,U+1ec0-1ec3,U+1ec5-1ec6,U+1ec9,U+1ecb-1ecd,U+1ecf-1ed1,U+1ed3-1ed5,U+1ed7-1edd,U+1edf,U+1ee1,U+1ee3-1ee7,U+1ee9,U+1eeb,U+1eed,U+1eef-1ef1,U+1ef3,U+1ef7,U+1ef9,U+1f62,U+1fa2,U+2001-2006,U+2009-200a,U+200c-200d,U+200f-2012,U+2015-2016,U+201a,U+201e,U+2020-2021,U+2023-2025,U+2028,U+202a-202d,U+202f-2030,U+2032-2033,U+2035,U+2038,U+203e-203f,U+2042-2044,U+2049,U+204d-204e,U+2060-2061,U+2063,U+2070,U+2074-207b,U+207d-2083,U+208a;
+  unicode-range: U+1d0a-1d0b,U+1d0d,U+1d0f,U+1d17-1d18,U+1d1b-1d1c,U+1d20-1d22,U+1d25,U+1d2c,U+1d2e,U+1d30-1d31,U+1d33-1d39,U+1d3c,U+1d3e-1d42,U+1d52,U+1d55,U+1d5b,U+1d5e,U+1d9c,U+1da0,U+1dc4-1dc5,U+1e3b,U+1e43,U+1e45,U+1e47,U+1e63,U+1e6d,U+1e73,U+1ea0,U+1ea2,U+1ea4-1ea9,U+1eab-1eaf,U+1eb1,U+1eb3,U+1eb5,U+1eb7,U+1eb9,U+1ebb,U+1ebd-1ebe,U+1ec0-1ec3,U+1ec5-1ec6,U+1ec9,U+1ecb-1ecd,U+1ecf-1ed1,U+1ed3-1ed5,U+1ed7-1edd,U+1edf,U+1ee1,U+1ee3-1ee7,U+1ee9,U+1eeb,U+1eed,U+1eef-1ef1,U+1ef3,U+1ef7,U+1ef9,U+1f62,U+1fa2,U+2001-2006,U+2009-200a,U+200c-200d,U+200f-2012,U+2015-2016,U+201a,U+201e,U+2020-2021,U+2023-2025,U+2028,U+202a-202d,U+202f-2030,U+2032-2033,U+2035,U+2038,U+203e-203f,U+2042-2044,U+2049,U+204d-204e,U+2060-2061,U+2063,U+2070,U+2074-207b,U+207d-207e,U+2080-2083,U+208a;
 }
 
 /* chiron-hei-hk-[94]-500-normal */
@@ -915,7 +915,7 @@
   font-display: swap;
   font-weight: 500;
   src: url(./files/chiron-hei-hk-98-500-normal.woff2) format('woff2'), url(./files/chiron-hei-hk-98-500-normal.woff) format('woff');
-  unicode-range: U+1fb-1ff,U+219,U+221,U+225-226,U+228-22b,U+22e-22f,U+231-235,U+239,U+23b,U+23e,U+250-252,U+254-255,U+259-25e,U+261-263,U+268-26b,U+26d,U+26f-277,U+279-27a,U+27d-281,U+283,U+28a-28c,U+28f,U+292,U+294-296,U+298-29a,U+29c,U+29f,U+2a1-2a2,U+2a4-2a7,U+2a9-2aa,U+2ae-2b3,U+2b5-2b7,U+2b9-2bf,U+2c2-2c4,U+2c6-2c9,U+2cc-2cd,U+2d0,U+2d8,U+2da,U+2dc,U+2e1-2e3,U+2e7,U+2eb,U+2ee,U+2f1-2ff,U+302-304,U+306-309,U+30c-30d,U+311,U+31b,U+321,U+323-325,U+328-329,U+32b-32c,U+32e-32f,U+331-33a,U+33c-33f,U+348,U+353,U+358-359;
+  unicode-range: U+1fb-1ff,U+219,U+221,U+225-226,U+228-22b,U+22e-22f,U+231-235,U+239,U+23b,U+23e,U+250-252,U+254-255,U+259-25e,U+261-263,U+268-26b,U+26d,U+26f-277,U+279-27a,U+27d-281,U+283,U+28a-28c,U+28f,U+292,U+294-296,U+298-29a,U+29c,U+29f,U+2a1-2a2,U+2a4-2a7,U+2a9-2aa,U+2ae-2b3,U+2b5-2b7,U+2b9-2bf,U+2c2-2c4,U+2c6-2c9,U+2cc-2cd,U+2d0,U+2d8,U+2da,U+2dc,U+2e1-2e3,U+2e7,U+2eb,U+2ee,U+2f1-2ff,U+303,U+307-309,U+311,U+31b,U+321,U+323-325,U+328-329,U+32b-32c,U+32e-32f,U+331-33a,U+33c-33f,U+348,U+353,U+359;
 }
 
 /* chiron-hei-hk-[99]-500-normal */
@@ -925,7 +925,7 @@
   font-display: swap;
   font-weight: 500;
   src: url(./files/chiron-hei-hk-99-500-normal.woff2) format('woff2'), url(./files/chiron-hei-hk-99-500-normal.woff) format('woff');
-  unicode-range: U+a1-a2,U+a4,U+a6-a8,U+aa,U+ac,U+af,U+b1,U+b5-b6,U+b8-ba,U+bc-be,U+c0-c8,U+ca-cc,U+ce-d5,U+d8-df,U+f0,U+f5,U+f8,U+fb,U+fe-100,U+102,U+105,U+107,U+109-10b,U+10f,U+112,U+115,U+117,U+119,U+11b,U+11f,U+121,U+123-124,U+127,U+129,U+12c-12d,U+130-13f,U+141-142,U+144,U+148,U+14b-14c,U+14f-153,U+159-15b,U+15e-160,U+163-166,U+169-16a,U+16d-171,U+173-17e,U+192,U+1a0,U+1a4,U+1aa,U+1ac-1ad,U+1af,U+1b1,U+1b4-1be,U+1d0,U+1d2,U+1d4,U+1da,U+1dc-1dd,U+1e1,U+1e3-1e4,U+1e7,U+1e9,U+1eb-1ec,U+1f0-1f1,U+1f3-1f5,U+1f7,U+1f9-1fa;
+  unicode-range: U+a1-a2,U+a4,U+a6-a8,U+aa,U+ac,U+af,U+b1,U+b5-b6,U+b8-ba,U+bc-be,U+c3-c7,U+cb,U+cf-d1,U+d5,U+d8,U+dc-df,U+f0,U+f5,U+f8,U+fe-ff,U+105,U+107,U+109-10b,U+10f,U+117,U+119,U+11f,U+121,U+123-124,U+127,U+129,U+130,U+132-13f,U+141-142,U+14b,U+152-153,U+159-15b,U+15e-160,U+163-166,U+169,U+16e-16f,U+173-17e,U+192,U+1a0,U+1a4,U+1aa,U+1ac-1ad,U+1af,U+1b1,U+1b4-1be,U+1da,U+1dc-1dd,U+1e1,U+1e3-1e4,U+1e7,U+1e9,U+1eb-1ec,U+1f0-1f1,U+1f3-1f5,U+1f7,U+1fa;
 }
 
 /* chiron-hei-hk-[100]-500-normal */
@@ -1125,7 +1125,7 @@
   font-display: swap;
   font-weight: 500;
   src: url(./files/chiron-hei-hk-119-500-normal.woff2) format('woff2'), url(./files/chiron-hei-hk-119-500-normal.woff) format('woff');
-  unicode-range: U+20-22,U+27-2a,U+2c-3b,U+3f,U+41-5d,U+61-7b,U+7d,U+ab,U+ae,U+b2-b3,U+bb,U+bf,U+c9,U+cd,U+d6,U+e0-ef,U+f1-f4,U+f6,U+f9-fa,U+fc-fd,U+101,U+103,U+110-111,U+113,U+12b,U+14d,U+16b,U+1a1,U+1b0,U+1ce,U+300-301,U+1ea1,U+1ea3,U+1ebf,U+1ec7,U+2013-2014,U+2039-203a,U+203c,U+2122,U+3001-3002,U+3113-3114,U+3118,U+311a-3129,U+4e00,U+4e0a-4e0b,U+4e0d,U+4e2d,U+4eba,U+4ee5,U+4f5c,U+500b,U+5165,U+5168,U+516c,U+51fa,U+5206,U+5230,U+52d5,U+53ef-53f0,U+570b,U+5728,U+5730,U+591a,U+5927,U+5b50,U+5bb6,U+5c0f,U+5fc3,U+6211,U+6587,U+65b0,U+65bc,U+65e5,U+662f,U+6642,U+6700,U+6703,U+6708-6709,U+672c,U+6b63,U+70b9-70ba,U+751f,U+7528,U+767c,U+7684,U+7db2,U+884c,U+958b,U+95dc,U+96fb,U+9801,U+ff0c,U+ff1a;
+  unicode-range: U+20-22,U+27-2a,U+2c-3b,U+3f,U+41-5d,U+61-7b,U+7d,U+ab,U+ae,U+b2-b3,U+bb,U+bf-c2,U+c8-ca,U+cc-ce,U+d2-d4,U+d6,U+d9-db,U+e0-ef,U+f1-f4,U+f6,U+f9-fd,U+100-103,U+110-115,U+11a-11b,U+12a-12d,U+131,U+143-144,U+147-148,U+14c-151,U+16a-16d,U+170-171,U+1a1,U+1b0,U+1cd-1d4,U+1f8-1f9,U+300-302,U+304,U+306,U+30b-30d,U+358,U+1d3a,U+1e3e-1e3f,U+1ea1,U+1ea3,U+1ebf,U+1ec7,U+2013-2014,U+2039-203a,U+203c,U+207f,U+2122,U+3001-3002,U+3113-3114,U+3118,U+311a-3129,U+4e00,U+4e0a-4e0b,U+4e0d,U+4e2d,U+4eba,U+4ee5,U+4f5c,U+500b,U+5165,U+5168,U+516c,U+51fa,U+5206,U+5230,U+52d5,U+53ef-53f0,U+570b,U+5728,U+5730,U+591a,U+5927,U+5b50,U+5bb6,U+5c0f,U+5fc3,U+6211,U+6587,U+65b0,U+65bc,U+65e5,U+662f,U+6642,U+6700,U+6703,U+6708-6709,U+672c,U+6b63,U+70b9-70ba,U+751f,U+7528,U+767c,U+7684,U+7db2,U+884c,U+958b,U+95dc,U+96fb,U+9801,U+ff0c,U+ff1a;
 }
 
 /* chiron-hei-hk-chinese-traditional-500-normal */

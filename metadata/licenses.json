@@ -4725,6 +4725,18 @@
     },
     "original": "Copyright 2020 The Darumadrop Project Authors (https://github.com/ManiackersDesign/darumadrop), all rights reserved."
   },
+  "datatype": {
+    "id": "datatype",
+    "authors": {
+      "copyright": "Copyright 2026 The Datatype Project Authors",
+      "website": "https://github.com/franktisellano/datatype"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2026 The Datatype Project Authors (https://github.com/franktisellano/datatype)"
+  },
   "david-libre": {
     "id": "david-libre",
     "authors": {
@@ -8022,6 +8034,30 @@
       "url": "https://openfontlicense.org"
     },
     "original": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight) InterTight-Italic[wght].ttf: Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)"
+  },
+  "iosevka-charon": {
+    "id": "iosevka-charon",
+    "authors": {
+      "copyright": "Copyright 2015-2025 The Iosevka Project Authors IosevkaCharon-LightItalic.ttf",
+      "website": "https://github.com/be5invis/Iosevka, https://github.com/be5invis/Iosevka, https://github.com/be5invis/Iosevka, https://github.com/be5invis/Iosevka, https://github.com/be5invis/Iosevka, https://github.com/be5invis/Iosevka, https://github.com/be5invis/Iosevka, https://github.com/be5invis/Iosevka"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharon-LightItalic.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharon-Regular.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharon-Italic.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharon-Medium.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharon-MediumItalic.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharon-Bold.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharon-BoldItalic.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka)"
+  },
+  "iosevka-charon-mono": {
+    "id": "iosevka-charon-mono",
+    "authors": {
+      "copyright": "Copyright 2015-2025 The Iosevka Project Authors IosevkaCharonMono-LightItalic.ttf",
+      "website": "https://github.com/be5invis/Iosevka, https://github.com/be5invis/Iosevka, https://github.com/be5invis/Iosevka, https://github.com/be5invis/Iosevka, https://github.com/be5invis/Iosevka, https://github.com/be5invis/Iosevka, https://github.com/be5invis/Iosevka, https://github.com/be5invis/Iosevka"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharonMono-LightItalic.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharonMono-Regular.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharonMono-Italic.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharonMono-Medium.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharonMono-MediumItalic.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharonMono-Bold.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharonMono-BoldItalic.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka)"
   },
   "irish-grover": {
     "id": "irish-grover",

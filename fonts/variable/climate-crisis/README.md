@@ -23,7 +23,7 @@ import "@fontsource-variable/climate-crisis/wght-italic.css"; // Specify axis an
 Supported variables:
 - Weights: `[400]`
 - Styles: `[normal]`
-- Subsets: `[latin,latin-ext]`
+- Subsets: `[cyrillic,cyrillic-ext,latin,latin-ext]`
 - Axes: `[YEAR]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what axes and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/climate-crisis).
@@ -43,6 +43,6 @@ Copyright 2020 The Climate Crisis Project Authors (https://github.com/dancoull/C
 [OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v14`.
+Font version (provided by source): `v15`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

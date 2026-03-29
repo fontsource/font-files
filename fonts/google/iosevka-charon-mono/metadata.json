@@ -1,0 +1,32 @@
+{
+  "id": "iosevka-charon-mono",
+  "family": "Iosevka Charon Mono",
+  "subsets": [
+    "armenian",
+    "braille",
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols",
+    "symbols2",
+    "vietnamese"
+  ],
+  "weights": [300, 400, 500, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2026-03-11",
+  "version": "v1",
+  "category": "monospace",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharonMono-LightItalic.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharonMono-Regular.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharonMono-Italic.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharonMono-Medium.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharonMono-MediumItalic.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharonMono-Bold.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka) IosevkaCharonMono-BoldItalic.ttf: Copyright 2015-2025 The Iosevka Project Authors (https://github.com/be5invis/Iosevka)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

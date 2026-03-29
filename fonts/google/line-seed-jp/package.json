@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/line-seed-jp",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the LINE Seed JP font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/line-seed-jp"
   },
-  "publishHash": "1c47a8af52ed5f00"
+  "publishHash": "ed9788b25b743852"
 }

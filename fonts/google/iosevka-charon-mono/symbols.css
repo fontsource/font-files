@@ -1,0 +1,35 @@
+/* iosevka-charon-mono-symbols-300-normal */
+@font-face {
+  font-family: 'Iosevka Charon Mono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url(./files/iosevka-charon-mono-symbols-300-normal.woff2) format('woff2'), url(./files/iosevka-charon-mono-symbols-300-normal.woff) format('woff');
+}
+
+/* iosevka-charon-mono-symbols-400-normal */
+@font-face {
+  font-family: 'Iosevka Charon Mono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/iosevka-charon-mono-symbols-400-normal.woff2) format('woff2'), url(./files/iosevka-charon-mono-symbols-400-normal.woff) format('woff');
+}
+
+/* iosevka-charon-mono-symbols-500-normal */
+@font-face {
+  font-family: 'Iosevka Charon Mono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(./files/iosevka-charon-mono-symbols-500-normal.woff2) format('woff2'), url(./files/iosevka-charon-mono-symbols-500-normal.woff) format('woff');
+}
+
+/* iosevka-charon-mono-symbols-700-normal */
+@font-face {
+  font-family: 'Iosevka Charon Mono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./files/iosevka-charon-mono-symbols-700-normal.woff2) format('woff2'), url(./files/iosevka-charon-mono-symbols-700-normal.woff) format('woff');
+}

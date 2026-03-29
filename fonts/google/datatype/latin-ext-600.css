@@ -1,0 +1,8 @@
+/* datatype-latin-ext-600-normal */
+@font-face {
+  font-family: 'Datatype';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(./files/datatype-latin-ext-600-normal.woff2) format('woff2'), url(./files/datatype-latin-ext-600-normal.woff) format('woff');
+}

@@ -1,15 +1,15 @@
 {
   "id": "climate-crisis",
   "family": "Climate Crisis",
-  "subsets": ["latin", "latin-ext"],
+  "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": {
     "YEAR": {"default": "1979", "min": "1979", "max": "2050", "step": "1"}
   },
-  "lastModified": "2025-09-02",
-  "version": "v14",
+  "lastModified": "2026-03-11",
+  "version": "v15",
   "category": "display",
   "license": {
     "type": "OFL-1.1",
