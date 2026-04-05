@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/google-sans-flex",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Google Sans Flex font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/google-sans-flex"
   },
-  "publishHash": "faa3fa2c343154e8"
+  "publishHash": "aea426ffa4afe31d"
 }

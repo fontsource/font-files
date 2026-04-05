@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/zalando-sans-semiexpanded",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Zalando Sans SemiExpanded font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/zalando-sans-semiexpanded"
   },
-  "publishHash": "c2f46b1d9903ea41"
+  "publishHash": "6b62920adaa76b33"
 }
