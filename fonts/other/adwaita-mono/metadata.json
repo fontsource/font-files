@@ -1,0 +1,19 @@
+{
+  "id": "adwaita-mono",
+  "family": "Adwaita Mono",
+  "subsets": ["latin"],
+  "weights": [400, 700],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2025-12-21",
+  "version": "49.0",
+  "category": "monospace",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://gitlab.gnome.org/GNOME/adwaita-fonts/-/raw/main/LICENSE?ref_type=heads",
+    "attribution": "The GNOME Project (based on Iosevka by Belleve Invis)"
+  },
+  "source": "https://gitlab.gnome.org/GNOME/adwaita-fonts",
+  "type": "other"
+}
