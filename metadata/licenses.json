@@ -6886,13 +6886,13 @@
   "google-sans-code": {
     "id": "google-sans-code",
     "authors": {
-      "copyright": "Copyright 2025 The Google Sans Code Project Authors github.com/googlefonts/googlesans-code GoogleSansCode-Italic[wght].ttf"
+      "copyright": "Copyright 2025 The Google Sans Code Project Authors github.com/googlefonts/googlesans-code GoogleSansCode-Italic[MONO,wght].ttf"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "https://openfontlicense.org"
     },
-    "original": "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code) GoogleSansCode-Italic[wght].ttf: Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)"
+    "original": "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code) GoogleSansCode-Italic[MONO,wght].ttf: Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)"
   },
   "google-sans-flex": {
     "id": "google-sans-flex",

@@ -17,6 +17,12 @@ $axes: (
     max: 800,
     step: 1,
   ),
+  MONO: (
+    default: 1,
+    min: 0,
+    max: 1,
+    step: 0.01,
+  ),
 );
 $defaults: (
 	subset: latin,
