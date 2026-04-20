@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/open-runde",
-  "version": "5.2.0",
+  "version": "5.2.1",
   "description": "Self-host the Open Runde font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -42,5 +42,6 @@
     "type": "git",
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/open-runde"
-  }
+  },
+  "publishHash": "bc7ad38f0aa6b31e"
 }
