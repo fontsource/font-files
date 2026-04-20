@@ -1,0 +1,19 @@
+{
+  "id": "open-runde",
+  "family": "Open Runde",
+  "subsets": ["latin"],
+  "weights": [400, 500, 600, 700],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2026-03-15",
+  "version": "v1.0.1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/lauridskern/open-runde/blob/main/LICENSE.txt",
+    "attribution": "Laurids Kern"
+  },
+  "source": "https://github.com/lauridskern/open-runde",
+  "type": "other"
+}
