@@ -1,0 +1,35 @@
+/* bjcree-canadian-aboriginal-400-normal */
+@font-face {
+  font-family: 'BJCree';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/bjcree-canadian-aboriginal-400-normal.woff2) format('woff2'), url(./files/bjcree-canadian-aboriginal-400-normal.woff) format('woff');
+}
+
+/* bjcree-canadian-aboriginal-500-normal */
+@font-face {
+  font-family: 'BJCree';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(./files/bjcree-canadian-aboriginal-500-normal.woff2) format('woff2'), url(./files/bjcree-canadian-aboriginal-500-normal.woff) format('woff');
+}
+
+/* bjcree-canadian-aboriginal-600-normal */
+@font-face {
+  font-family: 'BJCree';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(./files/bjcree-canadian-aboriginal-600-normal.woff2) format('woff2'), url(./files/bjcree-canadian-aboriginal-600-normal.woff) format('woff');
+}
+
+/* bjcree-canadian-aboriginal-700-normal */
+@font-face {
+  font-family: 'BJCree';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./files/bjcree-canadian-aboriginal-700-normal.woff2) format('woff2'), url(./files/bjcree-canadian-aboriginal-700-normal.woff) format('woff');
+}

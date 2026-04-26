@@ -1,0 +1,22 @@
+{
+  "id": "miranda-sans",
+  "family": "Miranda Sans",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400, 500, 600, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": {
+    "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
+    "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
+  },
+  "lastModified": "2026-04-02",
+  "version": "v3",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2025 The Miranda Sans Project Authors (https://github.com/maxthunberg/miranda-sans/) MirandaSans-Italic[wght].ttf: Copyright 2025 The Miranda Sans Project Authors (https://github.com/maxthunberg/miranda-sans/)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

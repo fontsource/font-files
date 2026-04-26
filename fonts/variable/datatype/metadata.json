@@ -1,0 +1,22 @@
+{
+  "id": "datatype",
+  "family": "Datatype",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": {
+    "wdth": {"default": "100", "min": "50", "max": "150", "step": "0.1"},
+    "wght": {"default": "400", "min": "100", "max": "900", "step": "1"}
+  },
+  "lastModified": "2026-03-11",
+  "version": "v3",
+  "category": "monospace",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2026 The Datatype Project Authors (https://github.com/franktisellano/datatype)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

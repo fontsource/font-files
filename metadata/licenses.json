@@ -1784,8 +1784,8 @@
     },
     "original": "Copyright 2022 The BIZ UDMincho Project Authors (https://github.com/googlefonts/morisawa-biz-ud-mincho) BIZUDPMincho-Bold.ttf: Copyright 2022 The BIZ UDMincho Project Authors (https://github.com/googlefonts/morisawa-biz-ud-mincho)"
   },
-  "bj-cree": {
-    "id": "bj-cree",
+  "bjcree": {
+    "id": "bjcree",
     "authors": {
       "copyright": "Copyright 2000-2026 SIL Global Latin glyphs originally copyright 2014-2015 URW++ Design and Development, with modifications copyright 2024-2026 SIL Global. BJCree-Medium.ttf",
       "website": "https://www.sil.org., https://www.sil.org., https://www.sil.org., https://www.sil.org."
