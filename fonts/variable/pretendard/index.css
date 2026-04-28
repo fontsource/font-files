@@ -1,0 +1,8 @@
+/* pretendard-latin-400wght-normal */
+@font-face {
+  font-family: 'Pretendard Variable';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 45 920;
+  src: url(./files/pretendard-latin-wght-normal.woff2) format('woff2-variations');
+}

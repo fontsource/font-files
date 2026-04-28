@@ -1,0 +1,21 @@
+{
+  "id": "pretendard",
+  "family": "Pretendard",
+  "subsets": ["latin"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+	"variable": {
+    "wght": {"default": "400", "min": "45", "max": "920", "step": "1"}
+  },
+  "lastModified": "2026-04-22",
+  "version": "v1.3.9",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/orioncactus/pretendard/blob/main/LICENSE",
+    "attribution": "2021 Kil Hyung-jin, 2014-2021 Adobe, 2016 The Inter Project Authors, 2021 The M+ FONTS Project Authors"
+  },
+  "source": "https://github.com/orioncactus/pretendard",
+  "type": "other"
+}
