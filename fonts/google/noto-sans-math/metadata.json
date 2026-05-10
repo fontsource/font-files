@@ -1,13 +1,13 @@
 {
   "id": "noto-sans-math",
   "family": "Noto Sans Math",
-  "subsets": ["cyrillic", "latin", "math"],
+  "subsets": ["latin"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2025-09-02",
-  "version": "v18",
+  "lastModified": "2026-05-05",
+  "version": "v19",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

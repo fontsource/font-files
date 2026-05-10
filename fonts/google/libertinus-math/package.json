@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/libertinus-math",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Self-host the Libertinus Math font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/libertinus-math"
   },
-  "publishHash": "d148791660949b30"
+  "publishHash": "94d8b3f657ec61dc"
 }

@@ -1,0 +1,19 @@
+{
+  "id": "stix-two-math",
+  "family": "STIX Two Math",
+  "subsets": ["latin"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2026-05-05",
+  "version": "v12",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2001-2021 The STIX Fonts Project Authors (https://github.com/stipub/stixfonts)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

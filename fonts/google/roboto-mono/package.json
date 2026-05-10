@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/roboto-mono",
-  "version": "5.2.8",
+  "version": "5.2.9",
   "description": "Self-host the Roboto Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -43,5 +43,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/roboto-mono"
   },
-  "publishHash": "f63bc6f3c2468841"
+  "publishHash": "67e90008d8e2e3ce"
 }

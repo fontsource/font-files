@@ -1,22 +1,13 @@
 {
   "id": "libertinus-math",
   "family": "Libertinus Math",
-  "subsets": [
-    "cyrillic",
-    "cyrillic-ext",
-    "greek",
-    "greek-ext",
-    "latin",
-    "latin-ext",
-    "math",
-    "vietnamese"
-  ],
+  "subsets": ["latin"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2025-06-25",
-  "version": "v1",
+  "lastModified": "2026-05-05",
+  "version": "v2",
   "category": "display",
   "license": {
     "type": "OFL-1.1",

@@ -18669,6 +18669,18 @@
     },
     "original": "Copyright 2024 The SN Pro Project Authors (https://github.com/supernotes/sn-pro) SNPro-Italic[wght].ttf: Copyright 2024 The SN Pro Project Authors (https://github.com/supernotes/sn-pro)"
   },
+  "stix-two-math": {
+    "id": "stix-two-math",
+    "authors": {
+      "copyright": "Copyright 2001-2021 The STIX Fonts Project Authors",
+      "website": "https://github.com/stipub/stixfonts"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2001-2021 The STIX Fonts Project Authors (https://github.com/stipub/stixfonts)"
+  },
   "stix-two-text": {
     "id": "stix-two-text",
     "authors": {
