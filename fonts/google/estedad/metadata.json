@@ -1,0 +1,19 @@
+{
+  "id": "estedad",
+  "family": "Estedad",
+  "subsets": ["arabic", "latin", "latin-ext", "vietnamese"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2026-05-13",
+  "version": "v3",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2026 The Estedad Project Authors (https://github.com/aminabedi68/Estedad)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

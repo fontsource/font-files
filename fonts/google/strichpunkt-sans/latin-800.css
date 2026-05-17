@@ -1,0 +1,8 @@
+/* strichpunkt-sans-latin-800-normal */
+@font-face {
+  font-family: 'Strichpunkt Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src: url(./files/strichpunkt-sans-latin-800-normal.woff2) format('woff2'), url(./files/strichpunkt-sans-latin-800-normal.woff) format('woff');
+}

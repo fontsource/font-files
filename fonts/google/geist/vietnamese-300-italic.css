@@ -1,0 +1,8 @@
+/* geist-vietnamese-300-italic */
+@font-face {
+  font-family: 'Geist';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src: url(./files/geist-vietnamese-300-italic.woff2) format('woff2'), url(./files/geist-vietnamese-300-italic.woff) format('woff');
+}

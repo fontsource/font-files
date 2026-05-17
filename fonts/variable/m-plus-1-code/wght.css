@@ -528,6 +528,16 @@
   unicode-range: U+25e4-25e6,U+2601-2603,U+2609,U+260e-260f,U+2616-2617,U+261c-261f,U+262f,U+2641,U+2660,U+2662-2664,U+2666-2668,U+266d-266e,U+2672-267d,U+26bd-26be,U+2702,U+271a,U+273d,U+2740,U+2756,U+2776-2793,U+27a1,U+2934-2935,U+29bf,U+29fa-29fb,U+2b05-2b07,U+2b1a,U+2b95,U+2e3a-2e3b,U+2e80-2e99,U+2e9b-2ef3,U+2f00-2f13;
 }
 
+/* m-plus-1-code-[57]-wght-normal */
+@font-face {
+  font-family: 'M PLUS 1 Code Variable';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 700;
+  src: url(./files/m-plus-1-code-57-wght-normal.woff2) format('woff2-variations');
+  unicode-range: U+24d1-24ff,U+2503-2513,U+2515-2516,U+2518-251b,U+251d-2522,U+2524-259f,U+25a2-25ab,U+25b1,U+25b7,U+25c0-25c1,U+25c9-25ca,U+25cc,U+25d0-25d3,U+25e2-25e3;
+}
+
 /* m-plus-1-code-[58]-wght-normal */
 @font-face {
   font-family: 'M PLUS 1 Code Variable';

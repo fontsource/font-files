@@ -1,0 +1,27 @@
+{
+  "id": "akt",
+  "family": "Akt",
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2026-05-13",
+  "version": "v2",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2024 The Akt Project Authors (https://github.com/dimgrenev/akt)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

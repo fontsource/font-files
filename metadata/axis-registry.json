@@ -90,6 +90,15 @@
     "precision": -1
   },
   {
+    "name": "Enlarge",
+    "tag": "ENLA",
+    "description": "Scales lowercase letters to an intermediate size between minuscule and majuscule, as used in medieval manuscripts for enlarged minuscules at sentence openings. Adjusts x-height and character width continuously from 0 (default lowercase) to 100 (fully enlarged).",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "precision": -2
+  },
+  {
     "name": "Extrusion Depth",
     "tag": "EDPT",
     "description": "Controls the 3D depth on contours.",
@@ -117,12 +126,30 @@
     "precision": 0
   },
   {
+    "name": "Geometric Form",
+    "tag": "GEOM",
+    "description": "It transforms complex letterforms into simplified geometric shapes like circles, triangles, and squares. This transition can occurs through gradual structural shifting and/or character swaps at specific intervals.",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "precision": 1
+  },
+  {
     "name": "Grade",
     "tag": "GRAD",
     "description": "Finesse the style from lighter to bolder in typographic color, without any changes overall width, line breaks or page layout. Negative grade makes the style lighter, while positive grade makes it bolder. The units are the same as in the Weight axis.",
     "min": -1000,
     "max": 1000,
     "default": 0,
+    "precision": 0
+  },
+  {
+    "name": "Guides Opacity",
+    "tag": "GDOP",
+    "description": "Adjust opacity of guides from 100 (fully visible) down to 0 (fully invisible).",
+    "min": 0,
+    "max": 100,
+    "default": 100,
     "precision": 0
   },
   {
