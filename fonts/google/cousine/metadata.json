@@ -15,13 +15,13 @@
   "styles": ["italic", "normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2025-09-08",
-  "version": "v29",
+  "lastModified": "2026-05-18",
+  "version": "v30",
   "category": "monospace",
   "license": {
     "type": "OFL-1.1",
-    "url": "http://scripts.sil.org/OFL",
-    "attribution": "Google Inc."
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine) Cousine-Italic.ttf: Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine) Cousine-Bold.ttf: Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine) Cousine-BoldItalic.ttf: Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

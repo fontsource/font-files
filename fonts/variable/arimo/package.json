@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/arimo",
-  "version": "5.2.8",
+  "version": "5.2.9",
   "description": "Self-host the Arimo font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -35,7 +35,7 @@
     "./scss": {"sass": "./scss/metadata.scss"}
   },
   "author": "Google Inc.",
-  "license": "Apache-2.0",
+  "license": "OFL-1.1",
   "homepage": "https://fontsource.org/fonts/arimo",
   "funding": "https://github.com/sponsors/ayuhito",
   "repository": {

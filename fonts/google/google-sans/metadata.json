@@ -31,9 +31,14 @@
   "weights": [400, 500, 600, 700],
   "styles": ["italic", "normal"],
   "defSubset": "latin",
-  "variable": false,
-  "lastModified": "2025-12-10",
-  "version": "v67",
+  "variable": {
+    "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
+    "opsz": {"default": "18", "min": "17", "max": "18", "step": "0.1"},
+    "wght": {"default": "400", "min": "400", "max": "700", "step": "1"},
+    "GRAD": {"default": "0", "min": "-50", "max": "200", "step": "1"}
+  },
+  "lastModified": "2026-05-21",
+  "version": "v69",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

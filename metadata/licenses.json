@@ -1309,8 +1309,8 @@
       "website": "https://github.com/googlefonts/arimo, https://github.com/googlefonts/arimo"
     },
     "license": {
-      "type": "Apache License, Version 2.0",
-      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
     },
     "original": "Copyright 2020 The Arimo Project Authors (https://github.com/googlefonts/arimo) Arimo-Italic[wght].ttf: Copyright 2020 The Arimo Project Authors (https://github.com/googlefonts/arimo)"
   },
@@ -4474,6 +4474,18 @@
       "url": "https://openfontlicense.org"
     },
     "original": "Copyright 2015 The Courier Prime Project Authors (https://github.com/quoteunquoteapps/CourierPrime). CourierPrime-Italic.ttf: Copyright 2015 The Courier Prime Project Authors (https://github.com/quoteunquoteapps/CourierPrime). CourierPrime-Bold.ttf: Copyright 2015 The Courier Prime Project Authors (https://github.com/quoteunquoteapps/CourierPrime). CourierPrime-BoldItalic.ttf: Copyright 2015 The Courier Prime Project Authors (https://github.com/quoteunquoteapps/CourierPrime)."
+  },
+  "cousine": {
+    "id": "cousine",
+    "authors": {
+      "copyright": "Copyright 2026 The Cousine Project Authors Cousine-Italic.ttf",
+      "website": "https://github.com/googlefonts/cousine, https://github.com/googlefonts/cousine, https://github.com/googlefonts/cousine, https://github.com/googlefonts/cousine"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine) Cousine-Italic.ttf: Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine) Cousine-Bold.ttf: Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine) Cousine-BoldItalic.ttf: Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine)"
   },
   "coustard": {
     "id": "coustard",
@@ -20889,6 +20901,18 @@
       "url": "https://openfontlicense.org"
     },
     "original": "Copyright (c) 2012 Andhrapradesh Society for Knowledge Networks (fonts.siliconandhra.org). Copyright (c) 2011, Sergiy Tkachenko (www.4thfebruary.com.ua info@4thfebruary.com.ua), with Reserved Font Names 'Sansus', 'Webissimo'."
+  },
+  "tinos": {
+    "id": "tinos",
+    "authors": {
+      "copyright": "Copyright 2026 The Tinos Project Authors Tinos-Italic.ttf",
+      "website": "https://github.com/googlefonts/tinos, https://github.com/googlefonts/tinos, https://github.com/googlefonts/tinos, https://github.com/googlefonts/tinos"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2026 The Tinos Project Authors (https://github.com/googlefonts/tinos) Tinos-Italic.ttf: Copyright 2026 The Tinos Project Authors (https://github.com/googlefonts/tinos) Tinos-Bold.ttf: Copyright 2026 The Tinos Project Authors (https://github.com/googlefonts/tinos) Tinos-BoldItalic.ttf: Copyright 2026 The Tinos Project Authors (https://github.com/googlefonts/tinos)"
   },
   "tiny5": {
     "id": "tiny5",
