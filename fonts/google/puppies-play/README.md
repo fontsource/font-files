@@ -1,6 +1,6 @@
 # Fontsource Puppies Play
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/puppies-play?color=brightgreen)](https://www.npmjs.com/package/@fontsource/puppies-play) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/puppies-play)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/puppies-play)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/puppies-play?color=brightgreen)](https://www.npmjs.com/package/@fontsource/puppies-play) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/puppies-play)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/puppies-play)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Puppies Play” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/puppies-play) to view more details on this package.
 

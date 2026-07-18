@@ -1,6 +1,6 @@
 # Fontsource Playwrite DE VA Guides
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/playwrite-de-va-guides?color=brightgreen)](https://www.npmjs.com/package/@fontsource/playwrite-de-va-guides) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/playwrite-de-va-guides)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/playwrite-de-va-guides)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/playwrite-de-va-guides?color=brightgreen)](https://www.npmjs.com/package/@fontsource/playwrite-de-va-guides) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/playwrite-de-va-guides)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/playwrite-de-va-guides)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Playwrite DE VA Guides” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/playwrite-de-va-guides) to view more details on this package.
 

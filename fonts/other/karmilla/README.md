@@ -1,6 +1,6 @@
 # Fontsource Karmilla
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/karmilla?color=brightgreen)](https://www.npmjs.com/package/@fontsource/karmilla) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/karmilla)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/karmilla)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/karmilla?color=brightgreen)](https://www.npmjs.com/package/@fontsource/karmilla) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/karmilla)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/karmilla)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Karmilla” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/karmilla) to view more details on this package.
 

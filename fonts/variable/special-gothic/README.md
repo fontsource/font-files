@@ -1,6 +1,6 @@
 # Fontsource Special Gothic
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource-variable/special-gothic?color=brightgreen)](https://www.npmjs.com/package/@fontsource-variable/special-gothic) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource-variable/special-gothic)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource-variable/special-gothic)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource-variable/special-gothic?color=brightgreen)](https://www.npmjs.com/package/@fontsource-variable/special-gothic) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource-variable/special-gothic)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource-variable/special-gothic)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Special Gothic” variable font. Please visit the main [Fontsource website](https://fontsource.org/fonts/special-gothic) to view more details on this package.
 

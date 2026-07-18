@@ -1,6 +1,6 @@
 # Fontsource IBM Plex Sans KR
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/ibm-plex-sans-kr?color=brightgreen)](https://www.npmjs.com/package/@fontsource/ibm-plex-sans-kr) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/ibm-plex-sans-kr)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/ibm-plex-sans-kr)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/ibm-plex-sans-kr?color=brightgreen)](https://www.npmjs.com/package/@fontsource/ibm-plex-sans-kr) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/ibm-plex-sans-kr)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/ibm-plex-sans-kr)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “IBM Plex Sans KR” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/ibm-plex-sans-kr) to view more details on this package.
 

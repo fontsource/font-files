@@ -1,6 +1,6 @@
 # Fontsource Liu Jian Mao Cao
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/liu-jian-mao-cao?color=brightgreen)](https://www.npmjs.com/package/@fontsource/liu-jian-mao-cao) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/liu-jian-mao-cao)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/liu-jian-mao-cao)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/liu-jian-mao-cao?color=brightgreen)](https://www.npmjs.com/package/@fontsource/liu-jian-mao-cao) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/liu-jian-mao-cao)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/liu-jian-mao-cao)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Liu Jian Mao Cao” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/liu-jian-mao-cao) to view more details on this package.
 

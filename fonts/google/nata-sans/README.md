@@ -1,6 +1,6 @@
 # Fontsource Nata Sans
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/nata-sans?color=brightgreen)](https://www.npmjs.com/package/@fontsource/nata-sans) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/nata-sans)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/nata-sans)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/nata-sans?color=brightgreen)](https://www.npmjs.com/package/@fontsource/nata-sans) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/nata-sans)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/nata-sans)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Nata Sans” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/nata-sans) to view more details on this package.
 

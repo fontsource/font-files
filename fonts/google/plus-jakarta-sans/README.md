@@ -1,6 +1,6 @@
 # Fontsource Plus Jakarta Sans
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/plus-jakarta-sans?color=brightgreen)](https://www.npmjs.com/package/@fontsource/plus-jakarta-sans) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/plus-jakarta-sans)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/plus-jakarta-sans)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/plus-jakarta-sans?color=brightgreen)](https://www.npmjs.com/package/@fontsource/plus-jakarta-sans) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/plus-jakarta-sans)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/plus-jakarta-sans)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Plus Jakarta Sans” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/plus-jakarta-sans) to view more details on this package.
 

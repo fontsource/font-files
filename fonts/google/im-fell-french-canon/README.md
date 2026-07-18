@@ -1,6 +1,6 @@
 # Fontsource IM Fell French Canon
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/im-fell-french-canon?color=brightgreen)](https://www.npmjs.com/package/@fontsource/im-fell-french-canon) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/im-fell-french-canon)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/im-fell-french-canon)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/im-fell-french-canon?color=brightgreen)](https://www.npmjs.com/package/@fontsource/im-fell-french-canon) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/im-fell-french-canon)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/im-fell-french-canon)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “IM Fell French Canon” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/im-fell-french-canon) to view more details on this package.
 

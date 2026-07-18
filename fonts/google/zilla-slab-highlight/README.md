@@ -1,6 +1,6 @@
 # Fontsource Zilla Slab Highlight
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/zilla-slab-highlight?color=brightgreen)](https://www.npmjs.com/package/@fontsource/zilla-slab-highlight) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/zilla-slab-highlight)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/zilla-slab-highlight)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/zilla-slab-highlight?color=brightgreen)](https://www.npmjs.com/package/@fontsource/zilla-slab-highlight) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/zilla-slab-highlight)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/zilla-slab-highlight)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Zilla Slab Highlight” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/zilla-slab-highlight) to view more details on this package.
 

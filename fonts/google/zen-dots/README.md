@@ -1,6 +1,6 @@
 # Fontsource Zen Dots
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/zen-dots?color=brightgreen)](https://www.npmjs.com/package/@fontsource/zen-dots) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/zen-dots)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/zen-dots)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/zen-dots?color=brightgreen)](https://www.npmjs.com/package/@fontsource/zen-dots) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/zen-dots)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/zen-dots)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Zen Dots” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/zen-dots) to view more details on this package.
 

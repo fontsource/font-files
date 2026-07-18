@@ -1,6 +1,6 @@
 # Fontsource Port Lligat Slab
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/port-lligat-slab?color=brightgreen)](https://www.npmjs.com/package/@fontsource/port-lligat-slab) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/port-lligat-slab)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/port-lligat-slab)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/port-lligat-slab?color=brightgreen)](https://www.npmjs.com/package/@fontsource/port-lligat-slab) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/port-lligat-slab)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/port-lligat-slab)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Port Lligat Slab” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/port-lligat-slab) to view more details on this package.
 

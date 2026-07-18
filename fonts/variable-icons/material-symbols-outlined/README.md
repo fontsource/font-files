@@ -1,6 +1,6 @@
 # Fontsource Material Symbols Outlined
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource-variable/material-symbols-outlined?color=brightgreen)](https://www.npmjs.com/package/@fontsource-variable/material-symbols-outlined) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource-variable/material-symbols-outlined)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource-variable/material-symbols-outlined)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource-variable/material-symbols-outlined?color=brightgreen)](https://www.npmjs.com/package/@fontsource-variable/material-symbols-outlined) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource-variable/material-symbols-outlined)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource-variable/material-symbols-outlined)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Material Symbols Outlined” variable font. Please visit the main [Fontsource website](https://fontsource.org/fonts/material-symbols-outlined) to view more details on this package.
 
@@ -43,6 +43,6 @@ Google Inc.
 [OFL-1.1](http://scripts.sil.org/OFL)
 
 ## Other Notes
-Font version (provided by source): `v344`.
+Font version (provided by source): `v361`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

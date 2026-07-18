@@ -1,6 +1,6 @@
 # Fontsource Playwrite GB J
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/playwrite-gb-j?color=brightgreen)](https://www.npmjs.com/package/@fontsource/playwrite-gb-j) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/playwrite-gb-j)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/playwrite-gb-j)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/playwrite-gb-j?color=brightgreen)](https://www.npmjs.com/package/@fontsource/playwrite-gb-j) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/playwrite-gb-j)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/playwrite-gb-j)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Playwrite GB J” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/playwrite-gb-j) to view more details on this package.
 

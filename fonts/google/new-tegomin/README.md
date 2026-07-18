@@ -1,6 +1,6 @@
 # Fontsource New Tegomin
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/new-tegomin?color=brightgreen)](https://www.npmjs.com/package/@fontsource/new-tegomin) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/new-tegomin)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/new-tegomin)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/new-tegomin?color=brightgreen)](https://www.npmjs.com/package/@fontsource/new-tegomin) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/new-tegomin)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/new-tegomin)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “New Tegomin” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/new-tegomin) to view more details on this package.
 

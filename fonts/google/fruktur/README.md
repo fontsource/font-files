@@ -1,6 +1,6 @@
 # Fontsource Fruktur
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/fruktur?color=brightgreen)](https://www.npmjs.com/package/@fontsource/fruktur) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/fruktur)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/fruktur)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/fruktur?color=brightgreen)](https://www.npmjs.com/package/@fontsource/fruktur) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/fruktur)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/fruktur)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Fruktur” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/fruktur) to view more details on this package.
 

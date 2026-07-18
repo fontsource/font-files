@@ -1,6 +1,6 @@
 # Fontsource Hind Madurai
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/hind-madurai?color=brightgreen)](https://www.npmjs.com/package/@fontsource/hind-madurai) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/hind-madurai)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/hind-madurai)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/hind-madurai?color=brightgreen)](https://www.npmjs.com/package/@fontsource/hind-madurai) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/hind-madurai)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/hind-madurai)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Hind Madurai” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/hind-madurai) to view more details on this package.
 

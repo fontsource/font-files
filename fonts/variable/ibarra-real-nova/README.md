@@ -1,6 +1,6 @@
 # Fontsource Ibarra Real Nova
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource-variable/ibarra-real-nova?color=brightgreen)](https://www.npmjs.com/package/@fontsource-variable/ibarra-real-nova) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource-variable/ibarra-real-nova)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource-variable/ibarra-real-nova)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource-variable/ibarra-real-nova?color=brightgreen)](https://www.npmjs.com/package/@fontsource-variable/ibarra-real-nova) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource-variable/ibarra-real-nova)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource-variable/ibarra-real-nova)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Ibarra Real Nova” variable font. Please visit the main [Fontsource website](https://fontsource.org/fonts/ibarra-real-nova) to view more details on this package.
 

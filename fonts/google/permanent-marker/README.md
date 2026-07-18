@@ -1,6 +1,6 @@
 # Fontsource Permanent Marker
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/permanent-marker?color=brightgreen)](https://www.npmjs.com/package/@fontsource/permanent-marker) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/permanent-marker)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/permanent-marker)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/permanent-marker?color=brightgreen)](https://www.npmjs.com/package/@fontsource/permanent-marker) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/permanent-marker)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/permanent-marker)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Permanent Marker” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/permanent-marker) to view more details on this package.
 

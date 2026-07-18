@@ -1,6 +1,6 @@
 # Fontsource Noto Serif Tangut
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/noto-serif-tangut?color=brightgreen)](https://www.npmjs.com/package/@fontsource/noto-serif-tangut) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/noto-serif-tangut)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/noto-serif-tangut)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/noto-serif-tangut?color=brightgreen)](https://www.npmjs.com/package/@fontsource/noto-serif-tangut) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/noto-serif-tangut)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/noto-serif-tangut)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Noto Serif Tangut” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/noto-serif-tangut) to view more details on this package.
 

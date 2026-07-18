@@ -1,6 +1,6 @@
 # Fontsource DSEG Weather
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/dseg-weather?color=brightgreen)](https://www.npmjs.com/package/@fontsource/dseg-weather) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/dseg-weather)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/dseg-weather)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/dseg-weather?color=brightgreen)](https://www.npmjs.com/package/@fontsource/dseg-weather) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/dseg-weather)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/dseg-weather)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “DSEG Weather” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/dseg-weather) to view more details on this package.
 

@@ -1,6 +1,6 @@
 # Fontsource Inclusive Sans
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/inclusive-sans?color=brightgreen)](https://www.npmjs.com/package/@fontsource/inclusive-sans) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/inclusive-sans)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/inclusive-sans)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/inclusive-sans?color=brightgreen)](https://www.npmjs.com/package/@fontsource/inclusive-sans) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/inclusive-sans)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/inclusive-sans)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Inclusive Sans” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/inclusive-sans) to view more details on this package.
 
@@ -42,6 +42,6 @@ Copyright 2024 The Inclusive Sans Project Authors (https://github.com/LivKing/In
 [OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v4`.
+Font version (provided by source): `v5`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

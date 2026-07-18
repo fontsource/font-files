@@ -1,6 +1,6 @@
 # Fontsource Noto Sans Tai Tham
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/noto-sans-tai-tham?color=brightgreen)](https://www.npmjs.com/package/@fontsource/noto-sans-tai-tham) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/noto-sans-tai-tham)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/noto-sans-tai-tham)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/noto-sans-tai-tham?color=brightgreen)](https://www.npmjs.com/package/@fontsource/noto-sans-tai-tham) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/noto-sans-tai-tham)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/noto-sans-tai-tham)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Noto Sans Tai Tham” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/noto-sans-tai-tham) to view more details on this package.
 

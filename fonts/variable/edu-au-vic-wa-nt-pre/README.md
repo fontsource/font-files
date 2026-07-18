@@ -1,6 +1,6 @@
 # Fontsource Edu AU VIC WA NT Pre
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource-variable/edu-au-vic-wa-nt-pre?color=brightgreen)](https://www.npmjs.com/package/@fontsource-variable/edu-au-vic-wa-nt-pre) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource-variable/edu-au-vic-wa-nt-pre)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource-variable/edu-au-vic-wa-nt-pre)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource-variable/edu-au-vic-wa-nt-pre?color=brightgreen)](https://www.npmjs.com/package/@fontsource-variable/edu-au-vic-wa-nt-pre) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource-variable/edu-au-vic-wa-nt-pre)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource-variable/edu-au-vic-wa-nt-pre)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Edu AU VIC WA NT Pre” variable font. Please visit the main [Fontsource website](https://fontsource.org/fonts/edu-au-vic-wa-nt-pre) to view more details on this package.
 

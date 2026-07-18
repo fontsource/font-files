@@ -1,6 +1,6 @@
 # Fontsource Golos Text
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/golos-text?color=brightgreen)](https://www.npmjs.com/package/@fontsource/golos-text) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/golos-text)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/golos-text)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/golos-text?color=brightgreen)](https://www.npmjs.com/package/@fontsource/golos-text) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/golos-text)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/golos-text)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Golos Text” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/golos-text) to view more details on this package.
 

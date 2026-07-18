@@ -1,6 +1,6 @@
 # Fontsource Swanky and Moo Moo
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/swanky-and-moo-moo?color=brightgreen)](https://www.npmjs.com/package/@fontsource/swanky-and-moo-moo) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/swanky-and-moo-moo)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/swanky-and-moo-moo)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/swanky-and-moo-moo?color=brightgreen)](https://www.npmjs.com/package/@fontsource/swanky-and-moo-moo) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/swanky-and-moo-moo)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/swanky-and-moo-moo)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Swanky and Moo Moo” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/swanky-and-moo-moo) to view more details on this package.
 

@@ -1,6 +1,6 @@
 # Fontsource Sankofa Display
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/sankofa-display?color=brightgreen)](https://www.npmjs.com/package/@fontsource/sankofa-display) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/sankofa-display)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/sankofa-display)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/sankofa-display?color=brightgreen)](https://www.npmjs.com/package/@fontsource/sankofa-display) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/sankofa-display)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/sankofa-display)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Sankofa Display” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/sankofa-display) to view more details on this package.
 

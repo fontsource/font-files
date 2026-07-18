@@ -1,6 +1,6 @@
 # Fontsource Nanum Brush Script
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/nanum-brush-script?color=brightgreen)](https://www.npmjs.com/package/@fontsource/nanum-brush-script) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/nanum-brush-script)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/nanum-brush-script)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/nanum-brush-script?color=brightgreen)](https://www.npmjs.com/package/@fontsource/nanum-brush-script) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/nanum-brush-script)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/nanum-brush-script)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Nanum Brush Script” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/nanum-brush-script) to view more details on this package.
 

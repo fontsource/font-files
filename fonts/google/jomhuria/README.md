@@ -1,6 +1,6 @@
 # Fontsource Jomhuria
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/jomhuria?color=brightgreen)](https://www.npmjs.com/package/@fontsource/jomhuria) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/jomhuria)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/jomhuria)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/jomhuria?color=brightgreen)](https://www.npmjs.com/package/@fontsource/jomhuria) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/jomhuria)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/jomhuria)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Jomhuria” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/jomhuria) to view more details on this package.
 
@@ -23,7 +23,7 @@ import "@fontsource/jomhuria/400-italic.css"; // Specify weight and style
 Supported variables:
 - Weights: `[400]`
 - Styles: `[normal]`
-- Subsets: `[latin,latin-ext]`
+- Subsets: `[arabic,latin,latin-ext]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what weights and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/jomhuria).
 
@@ -42,6 +42,6 @@ Copyright 2015 KB-Studio (www.k-b-studio.com|tarobish@gmail.com). Copyright 2015
 [OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v22`.
+Font version (provided by source): `v23`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

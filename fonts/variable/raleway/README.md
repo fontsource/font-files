@@ -1,6 +1,6 @@
 # Fontsource Raleway
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource-variable/raleway?color=brightgreen)](https://www.npmjs.com/package/@fontsource-variable/raleway) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource-variable/raleway)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource-variable/raleway)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource-variable/raleway?color=brightgreen)](https://www.npmjs.com/package/@fontsource-variable/raleway) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource-variable/raleway)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource-variable/raleway)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Raleway” variable font. Please visit the main [Fontsource website](https://fontsource.org/fonts/raleway) to view more details on this package.
 

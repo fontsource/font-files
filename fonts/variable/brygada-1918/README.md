@@ -1,6 +1,6 @@
 # Fontsource Brygada 1918
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource-variable/brygada-1918?color=brightgreen)](https://www.npmjs.com/package/@fontsource-variable/brygada-1918) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource-variable/brygada-1918)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource-variable/brygada-1918)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource-variable/brygada-1918?color=brightgreen)](https://www.npmjs.com/package/@fontsource-variable/brygada-1918) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource-variable/brygada-1918)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource-variable/brygada-1918)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Brygada 1918” variable font. Please visit the main [Fontsource website](https://fontsource.org/fonts/brygada-1918) to view more details on this package.
 

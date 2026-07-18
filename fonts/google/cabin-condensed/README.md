@@ -1,6 +1,6 @@
 # Fontsource Cabin Condensed
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/cabin-condensed?color=brightgreen)](https://www.npmjs.com/package/@fontsource/cabin-condensed) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/cabin-condensed)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/cabin-condensed)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/cabin-condensed?color=brightgreen)](https://www.npmjs.com/package/@fontsource/cabin-condensed) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/cabin-condensed)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/cabin-condensed)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Cabin Condensed” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/cabin-condensed) to view more details on this package.
 

@@ -1,6 +1,6 @@
 # Fontsource Brawler
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/brawler?color=brightgreen)](https://www.npmjs.com/package/@fontsource/brawler) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/brawler)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/brawler)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/brawler?color=brightgreen)](https://www.npmjs.com/package/@fontsource/brawler) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/brawler)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/brawler)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Brawler” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/brawler) to view more details on this package.
 

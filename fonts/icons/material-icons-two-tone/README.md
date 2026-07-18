@@ -1,6 +1,6 @@
 # Fontsource Material Icons Two Tone
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/material-icons-two-tone?color=brightgreen)](https://www.npmjs.com/package/@fontsource/material-icons-two-tone) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/material-icons-two-tone)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/material-icons-two-tone)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/material-icons-two-tone?color=brightgreen)](https://www.npmjs.com/package/@fontsource/material-icons-two-tone) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/material-icons-two-tone)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/material-icons-two-tone)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Material Icons Two Tone” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/material-icons-two-tone) to view more details on this package.
 

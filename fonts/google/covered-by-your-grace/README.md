@@ -1,6 +1,6 @@
 # Fontsource Covered By Your Grace
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/covered-by-your-grace?color=brightgreen)](https://www.npmjs.com/package/@fontsource/covered-by-your-grace) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/covered-by-your-grace)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/covered-by-your-grace)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/covered-by-your-grace?color=brightgreen)](https://www.npmjs.com/package/@fontsource/covered-by-your-grace) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/covered-by-your-grace)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/covered-by-your-grace)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Covered By Your Grace” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/covered-by-your-grace) to view more details on this package.
 

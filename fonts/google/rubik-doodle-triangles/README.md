@@ -1,6 +1,6 @@
 # Fontsource Rubik Doodle Triangles
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/rubik-doodle-triangles?color=brightgreen)](https://www.npmjs.com/package/@fontsource/rubik-doodle-triangles) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/rubik-doodle-triangles)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/rubik-doodle-triangles)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/rubik-doodle-triangles?color=brightgreen)](https://www.npmjs.com/package/@fontsource/rubik-doodle-triangles) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/rubik-doodle-triangles)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/rubik-doodle-triangles)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Rubik Doodle Triangles” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/rubik-doodle-triangles) to view more details on this package.
 

@@ -1,0 +1,19 @@
+{
+  "id": "geist-pixel",
+  "family": "Geist Pixel",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2026-06-30",
+  "version": "v1",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2026 The Geist Project Authors (https://github.com/vercel/geist-font)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

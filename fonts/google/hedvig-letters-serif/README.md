@@ -1,6 +1,6 @@
 # Fontsource Hedvig Letters Serif
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/hedvig-letters-serif?color=brightgreen)](https://www.npmjs.com/package/@fontsource/hedvig-letters-serif) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/hedvig-letters-serif)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/hedvig-letters-serif)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/hedvig-letters-serif?color=brightgreen)](https://www.npmjs.com/package/@fontsource/hedvig-letters-serif) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/hedvig-letters-serif)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/hedvig-letters-serif)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Hedvig Letters Serif” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/hedvig-letters-serif) to view more details on this package.
 

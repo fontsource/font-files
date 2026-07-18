@@ -1,6 +1,6 @@
 # Fontsource Jomolhari
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/jomolhari?color=brightgreen)](https://www.npmjs.com/package/@fontsource/jomolhari) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/jomolhari)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/jomolhari)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/jomolhari?color=brightgreen)](https://www.npmjs.com/package/@fontsource/jomolhari) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/jomolhari)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/jomolhari)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Jomolhari” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/jomolhari) to view more details on this package.
 

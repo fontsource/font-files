@@ -1,6 +1,6 @@
 # Fontsource Bacasime Antique
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/bacasime-antique?color=brightgreen)](https://www.npmjs.com/package/@fontsource/bacasime-antique) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/bacasime-antique)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/bacasime-antique)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/bacasime-antique?color=brightgreen)](https://www.npmjs.com/package/@fontsource/bacasime-antique) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/bacasime-antique)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/bacasime-antique)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Bacasime Antique” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/bacasime-antique) to view more details on this package.
 

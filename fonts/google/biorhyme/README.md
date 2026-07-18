@@ -1,6 +1,6 @@
 # Fontsource BioRhyme
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/biorhyme?color=brightgreen)](https://www.npmjs.com/package/@fontsource/biorhyme) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/biorhyme)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/biorhyme)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/biorhyme?color=brightgreen)](https://www.npmjs.com/package/@fontsource/biorhyme) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/biorhyme)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/biorhyme)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “BioRhyme” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/biorhyme) to view more details on this package.
 

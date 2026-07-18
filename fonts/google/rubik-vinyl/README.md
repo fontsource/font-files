@@ -1,6 +1,6 @@
 # Fontsource Rubik Vinyl
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/rubik-vinyl?color=brightgreen)](https://www.npmjs.com/package/@fontsource/rubik-vinyl) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/rubik-vinyl)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/rubik-vinyl)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/rubik-vinyl?color=brightgreen)](https://www.npmjs.com/package/@fontsource/rubik-vinyl) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/rubik-vinyl)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/rubik-vinyl)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Rubik Vinyl” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/rubik-vinyl) to view more details on this package.
 

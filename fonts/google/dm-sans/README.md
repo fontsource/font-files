@@ -1,6 +1,6 @@
 # Fontsource DM Sans
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/dm-sans?color=brightgreen)](https://www.npmjs.com/package/@fontsource/dm-sans) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/dm-sans)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/dm-sans)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/dm-sans?color=brightgreen)](https://www.npmjs.com/package/@fontsource/dm-sans) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/dm-sans)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/dm-sans)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “DM Sans” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/dm-sans) to view more details on this package.
 

@@ -1,6 +1,6 @@
 # Fontsource Bai Jamjuree
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/bai-jamjuree?color=brightgreen)](https://www.npmjs.com/package/@fontsource/bai-jamjuree) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/bai-jamjuree)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/bai-jamjuree)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/bai-jamjuree?color=brightgreen)](https://www.npmjs.com/package/@fontsource/bai-jamjuree) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/bai-jamjuree)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/bai-jamjuree)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Bai Jamjuree” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/bai-jamjuree) to view more details on this package.
 

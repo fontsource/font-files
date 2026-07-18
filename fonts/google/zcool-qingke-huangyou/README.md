@@ -1,6 +1,6 @@
 # Fontsource ZCOOL QingKe HuangYou
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/zcool-qingke-huangyou?color=brightgreen)](https://www.npmjs.com/package/@fontsource/zcool-qingke-huangyou) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/zcool-qingke-huangyou)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/zcool-qingke-huangyou)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/zcool-qingke-huangyou?color=brightgreen)](https://www.npmjs.com/package/@fontsource/zcool-qingke-huangyou) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/zcool-qingke-huangyou)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/zcool-qingke-huangyou)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “ZCOOL QingKe HuangYou” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/zcool-qingke-huangyou) to view more details on this package.
 

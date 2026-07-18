@@ -1,6 +1,6 @@
 # Fontsource Encode Sans Expanded
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/encode-sans-expanded?color=brightgreen)](https://www.npmjs.com/package/@fontsource/encode-sans-expanded) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/encode-sans-expanded)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/encode-sans-expanded)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/encode-sans-expanded?color=brightgreen)](https://www.npmjs.com/package/@fontsource/encode-sans-expanded) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/encode-sans-expanded)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/encode-sans-expanded)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Encode Sans Expanded” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/encode-sans-expanded) to view more details on this package.
 
@@ -42,6 +42,6 @@ Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved F
 [OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v12`.
+Font version (provided by source): `v15`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

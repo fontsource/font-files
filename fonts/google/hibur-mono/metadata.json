@@ -1,0 +1,19 @@
+{
+  "id": "hibur-mono",
+  "family": "Hibur Mono",
+  "subsets": ["ethiopic", "latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2026-07-09",
+  "version": "v1",
+  "category": "monospace",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2025-2026 The Hibur Mono Font Project Authors (https://github.com/typehabesha/HiburMono)."
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

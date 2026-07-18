@@ -1,6 +1,6 @@
 # Fontsource Mr De Haviland
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/mr-de-haviland?color=brightgreen)](https://www.npmjs.com/package/@fontsource/mr-de-haviland) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/mr-de-haviland)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/mr-de-haviland)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/mr-de-haviland?color=brightgreen)](https://www.npmjs.com/package/@fontsource/mr-de-haviland) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/mr-de-haviland)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/mr-de-haviland)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Mr De Haviland” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/mr-de-haviland) to view more details on this package.
 

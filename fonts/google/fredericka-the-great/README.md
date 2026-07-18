@@ -1,6 +1,6 @@
 # Fontsource Fredericka the Great
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/fredericka-the-great?color=brightgreen)](https://www.npmjs.com/package/@fontsource/fredericka-the-great) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/fredericka-the-great)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/fredericka-the-great)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/fredericka-the-great?color=brightgreen)](https://www.npmjs.com/package/@fontsource/fredericka-the-great) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/fredericka-the-great)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/fredericka-the-great)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Fredericka the Great” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/fredericka-the-great) to view more details on this package.
 

@@ -1,6 +1,6 @@
 # Fontsource Noto Sans Nandinagari
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/noto-sans-nandinagari?color=brightgreen)](https://www.npmjs.com/package/@fontsource/noto-sans-nandinagari) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/noto-sans-nandinagari)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/noto-sans-nandinagari)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/noto-sans-nandinagari?color=brightgreen)](https://www.npmjs.com/package/@fontsource/noto-sans-nandinagari) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/noto-sans-nandinagari)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/noto-sans-nandinagari)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Noto Sans Nandinagari” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/noto-sans-nandinagari) to view more details on this package.
 

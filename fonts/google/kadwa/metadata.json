@@ -6,13 +6,13 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2025-09-10",
-  "version": "v13",
+  "lastModified": "2026-06-30",
+  "version": "v15",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",
     "url": "https://openfontlicense.org",
-    "attribution": "Copyright (c) 2014-2015, Sol Matas (www.huertatipografica.com - sol@huertatipografica.com) Kadwa-Bold.ttf: Copyright (c) 2014-2015, Sol Matas (www.huertatipografica.com - sol@huertatipografica.com)"
+    "attribution": "Copyright (c) 2014-2015, Sol Matas (sol@sonnenshine.com.ar) Kadwa-Bold.ttf: Copyright (c) 2014-2015, Sol Matas (sol@sonnenshine.com.ar)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

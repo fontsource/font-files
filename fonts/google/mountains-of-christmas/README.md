@@ -1,6 +1,6 @@
 # Fontsource Mountains of Christmas
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/mountains-of-christmas?color=brightgreen)](https://www.npmjs.com/package/@fontsource/mountains-of-christmas) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/mountains-of-christmas)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/mountains-of-christmas)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/mountains-of-christmas?color=brightgreen)](https://www.npmjs.com/package/@fontsource/mountains-of-christmas) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/mountains-of-christmas)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/mountains-of-christmas)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Mountains of Christmas” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/mountains-of-christmas) to view more details on this package.
 

@@ -1,6 +1,6 @@
 # Fontsource Chocolate Classical Sans
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/chocolate-classical-sans?color=brightgreen)](https://www.npmjs.com/package/@fontsource/chocolate-classical-sans) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/chocolate-classical-sans)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/chocolate-classical-sans)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/chocolate-classical-sans?color=brightgreen)](https://www.npmjs.com/package/@fontsource/chocolate-classical-sans) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/chocolate-classical-sans)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/chocolate-classical-sans)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Chocolate Classical Sans” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/chocolate-classical-sans) to view more details on this package.
 

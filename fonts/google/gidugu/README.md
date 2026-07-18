@@ -1,6 +1,6 @@
 # Fontsource Gidugu
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/gidugu?color=brightgreen)](https://www.npmjs.com/package/@fontsource/gidugu) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/gidugu)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/gidugu)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/gidugu?color=brightgreen)](https://www.npmjs.com/package/@fontsource/gidugu) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/gidugu)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/gidugu)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Gidugu” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/gidugu) to view more details on this package.
 

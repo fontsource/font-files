@@ -1,6 +1,6 @@
 # Fontsource The Nautigal
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/the-nautigal?color=brightgreen)](https://www.npmjs.com/package/@fontsource/the-nautigal) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/the-nautigal)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/the-nautigal)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/the-nautigal?color=brightgreen)](https://www.npmjs.com/package/@fontsource/the-nautigal) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/the-nautigal)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/the-nautigal)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “The Nautigal” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/the-nautigal) to view more details on this package.
 

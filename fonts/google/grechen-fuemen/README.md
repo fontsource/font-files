@@ -1,6 +1,6 @@
 # Fontsource Grechen Fuemen
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/grechen-fuemen?color=brightgreen)](https://www.npmjs.com/package/@fontsource/grechen-fuemen) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/grechen-fuemen)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/grechen-fuemen)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/grechen-fuemen?color=brightgreen)](https://www.npmjs.com/package/@fontsource/grechen-fuemen) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/grechen-fuemen)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/grechen-fuemen)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Grechen Fuemen” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/grechen-fuemen) to view more details on this package.
 

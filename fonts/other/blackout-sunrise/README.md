@@ -1,6 +1,6 @@
 # Fontsource Blackout Sunrise
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/blackout-sunrise?color=brightgreen)](https://www.npmjs.com/package/@fontsource/blackout-sunrise) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/blackout-sunrise)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/blackout-sunrise)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/blackout-sunrise?color=brightgreen)](https://www.npmjs.com/package/@fontsource/blackout-sunrise) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/blackout-sunrise)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/blackout-sunrise)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Blackout Sunrise” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/blackout-sunrise) to view more details on this package.
 

@@ -1,6 +1,6 @@
 # Fontsource Chunk Five
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/chunk-five?color=brightgreen)](https://www.npmjs.com/package/@fontsource/chunk-five) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/chunk-five)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/chunk-five)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/chunk-five?color=brightgreen)](https://www.npmjs.com/package/@fontsource/chunk-five) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/chunk-five)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/chunk-five)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Chunk Five” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/chunk-five) to view more details on this package.
 

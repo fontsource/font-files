@@ -1,6 +1,6 @@
 # Fontsource Tiro Devanagari Marathi
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/tiro-devanagari-marathi?color=brightgreen)](https://www.npmjs.com/package/@fontsource/tiro-devanagari-marathi) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/tiro-devanagari-marathi)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/tiro-devanagari-marathi)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/tiro-devanagari-marathi?color=brightgreen)](https://www.npmjs.com/package/@fontsource/tiro-devanagari-marathi) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/tiro-devanagari-marathi)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/tiro-devanagari-marathi)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Tiro Devanagari Marathi” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/tiro-devanagari-marathi) to view more details on this package.
 
@@ -42,6 +42,6 @@ Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indi
 [OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v5`.
+Font version (provided by source): `v7`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

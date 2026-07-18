@@ -1,6 +1,6 @@
 # Fontsource Lisu Bosa
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/lisu-bosa?color=brightgreen)](https://www.npmjs.com/package/@fontsource/lisu-bosa) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/lisu-bosa)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/lisu-bosa)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/lisu-bosa?color=brightgreen)](https://www.npmjs.com/package/@fontsource/lisu-bosa) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/lisu-bosa)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/lisu-bosa)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Lisu Bosa” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/lisu-bosa) to view more details on this package.
 

@@ -1,13 +1,13 @@
 {
   "id": "jomhuria",
   "family": "Jomhuria",
-  "subsets": ["latin", "latin-ext"],
+  "subsets": ["arabic", "latin", "latin-ext"],
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2025-06-02",
-  "version": "v22",
+  "lastModified": "2026-06-30",
+  "version": "v23",
   "category": "display",
   "license": {
     "type": "OFL-1.1",

@@ -1,6 +1,6 @@
 # Fontsource Playpen Sans Arabic
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/playpen-sans-arabic?color=brightgreen)](https://www.npmjs.com/package/@fontsource/playpen-sans-arabic) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/playpen-sans-arabic)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/playpen-sans-arabic)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/playpen-sans-arabic?color=brightgreen)](https://www.npmjs.com/package/@fontsource/playpen-sans-arabic) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/playpen-sans-arabic)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/playpen-sans-arabic)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Playpen Sans Arabic” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/playpen-sans-arabic) to view more details on this package.
 

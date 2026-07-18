@@ -108,13 +108,13 @@
     "id": "acme",
     "authors": {
       "copyright": "Copyright 2011 by Juan Pablo del Peral with Reserved Font Name \"Acme\"",
-      "email": "info@huertatipografica.com.ar"
+      "email": "info@htfonts.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "https://openfontlicense.org"
     },
-    "original": "Copyright (c) 2011 by Juan Pablo del Peral (info@huertatipografica.com.ar), with Reserved Font Name \"Acme\""
+    "original": "Copyright (c) 2011 by Juan Pablo del Peral (info@htfonts.com), with Reserved Font Name \"Acme\""
   },
   "actor": {
     "id": "actor",
@@ -484,6 +484,18 @@
       "url": "https://openfontlicense.org"
     },
     "original": "Copyright 2011 The Alice Project Authors (https://github.com/cyrealtype/Alice)"
+  },
+  "alien-block": {
+    "id": "alien-block",
+    "authors": {
+      "copyright": "Copyright 2025 The Alien Block Project Authors",
+      "website": "https://github.com/koci-design/AlienBlock"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2025 The Alien Block Project Authors (https://github.com/koci-design/AlienBlock)"
   },
   "alike": {
     "id": "alike",
@@ -3451,13 +3463,13 @@
     "id": "cambo",
     "authors": {
       "copyright": "Copyright 2011, Carolina Giovagnoli Copyright 2011, Andres Torresi with Reserved Font Name Cambo.",
-      "email": "caro@huertatipografica.com.ar, andres@huertatipografica.com.ar"
+      "email": "carolina.giovagnoli@htfonts.com, andres.torresi@htfonts.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "https://openfontlicense.org"
     },
-    "original": "Copyright (c) 2011, Carolina Giovagnoli (caro@huertatipografica.com.ar), Copyright (c) 2011, Andres Torresi (andres@huertatipografica.com.ar), with Reserved Font Name Cambo."
+    "original": "Copyright (c) 2011, Carolina Giovagnoli (carolina.giovagnoli@htfonts.com), Copyright (c) 2011, Andres Torresi (andres.torresi@htfonts.com), with Reserved Font Name Cambo."
   },
   "candal": {
     "id": "candal",
@@ -6583,6 +6595,18 @@
     },
     "original": "Copyright 2024 The Geist Project Authors (https://github.com/vercel/geist-font.git) GeistMono-Italic[wght].ttf: Copyright 2024 The Geist Project Authors (https://github.com/vercel/geist-font.git)"
   },
+  "geist-pixel": {
+    "id": "geist-pixel",
+    "authors": {
+      "copyright": "Copyright 2026 The Geist Project Authors",
+      "website": "https://github.com/vercel/geist-font"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2026 The Geist Project Authors (https://github.com/vercel/geist-font)"
+  },
   "gelasio": {
     "id": "gelasio",
     "authors": {
@@ -6676,6 +6700,18 @@
       "url": "https://openfontlicense.org"
     },
     "original": "Copyright 2022 The Geom Project Authors (https://github.com/ThanosPoulakidas/Geom) Geom-Italic[wght].ttf: Copyright 2022 The Geom Project Authors (https://github.com/ThanosPoulakidas/Geom)"
+  },
+  "geomini": {
+    "id": "geomini",
+    "authors": {
+      "copyright": "Copyright 2026 The Geomini Project Authors",
+      "website": "https://github.com/fontbob/geomini"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2026 The Geomini Project Authors (https://github.com/fontbob/geomini)"
   },
   "georama": {
     "id": "georama",
@@ -6887,14 +6923,14 @@
   "gochi-hand": {
     "id": "gochi-hand",
     "authors": {
-      "copyright": "Copyright 2011, Huerta Tipografica www.huertatipografica.com.ar with Reserved Font Names \"Gochi\" and \"Gochi Hand\"",
-      "email": "info@huertatipografica.com.ar"
+      "copyright": "Copyright 2011, HT Fonts www.htfonts.com with Reserved Font Names \"Gochi\" and \"Gochi Hand\"",
+      "email": "info@htfonts.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "https://openfontlicense.org"
     },
-    "original": "Copyright (c) 2011, Huerta Tipografica (www.huertatipografica.com.ar info@huertatipografica.com.ar), with Reserved Font Names \"Gochi\" and \"Gochi Hand\""
+    "original": "Copyright (c) 2011, HT Fonts (www.htfonts.com info@htfonts.com), with Reserved Font Names \"Gochi\" and \"Gochi Hand\""
   },
   "goldman": {
     "id": "goldman",
@@ -7507,6 +7543,18 @@
       "url": "https://openfontlicense.org"
     },
     "original": "Copyright (c) YoonDesign Inc. All Rights Reserved."
+  },
+  "hibur-mono": {
+    "id": "hibur-mono",
+    "authors": {
+      "copyright": "Copyright 2025-2026 The Hibur Mono Font Project Authors",
+      "website": "https://github.com/typehabesha/HiburMono."
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2025-2026 The Hibur Mono Font Project Authors (https://github.com/typehabesha/HiburMono)."
   },
   "hina-mincho": {
     "id": "hina-mincho",
@@ -8681,14 +8729,14 @@
   "kadwa": {
     "id": "kadwa",
     "authors": {
-      "copyright": "Copyright 2014-2015, Sol Matas www.huertatipografica.com - Kadwa-Bold.ttf",
-      "email": "sol@huertatipografica.com, sol@huertatipografica.com"
+      "copyright": "Copyright 2014-2015, Sol Matas Kadwa-Bold.ttf",
+      "email": "sol@sonnenshine.com.ar, sol@sonnenshine.com.ar"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "https://openfontlicense.org"
     },
-    "original": "Copyright (c) 2014-2015, Sol Matas (www.huertatipografica.com - sol@huertatipografica.com) Kadwa-Bold.ttf: Copyright (c) 2014-2015, Sol Matas (www.huertatipografica.com - sol@huertatipografica.com)"
+    "original": "Copyright (c) 2014-2015, Sol Matas (sol@sonnenshine.com.ar) Kadwa-Bold.ttf: Copyright (c) 2014-2015, Sol Matas (sol@sonnenshine.com.ar)"
   },
   "kaisei-decol": {
     "id": "kaisei-decol",
@@ -11446,6 +11494,18 @@
       "url": "https://openfontlicense.org"
     },
     "original": "Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/monte-carlo)"
+  },
+  "montenegrin-gothic-one": {
+    "id": "montenegrin-gothic-one",
+    "authors": {
+      "copyright": "Copyright 2014 The Montenegrin Gothic One Project Authors",
+      "website": "https://github.com/MagicformDesign/montenegrin-gothic-one"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2014 The Montenegrin Gothic One Project Authors (https://github.com/MagicformDesign/montenegrin-gothic-one)"
   },
   "montez": {
     "id": "montez",
@@ -14777,8 +14837,8 @@
     },
     "original": "Copyright (c) 2010 by Sorkin Type Co (eben@eyebytes.com) with Reserved Font Name Oldenburgh."
   },
-  "ole": {
-    "id": "ole",
+  "olé": {
+    "id": "olé",
     "authors": {
       "copyright": "Copyright 2008 The Ole Project Authors",
       "website": "https://github.com/googlefonts/ole"
@@ -16952,6 +17012,18 @@
     },
     "original": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)"
   },
+  "pliant": {
+    "id": "pliant",
+    "authors": {
+      "copyright": "Copyright 2025 The Pliant Project Authors Pliant-Italic[wdth,wght].ttf",
+      "website": "https://github.com/TheJonassss/Pliant, https://github.com/TheJonassss/Pliant"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2025 The Pliant Project Authors (https://github.com/TheJonassss/Pliant) Pliant-Italic[wdth,wght].ttf: Copyright 2025 The Pliant Project Authors (https://github.com/TheJonassss/Pliant)"
+  },
   "plus-jakarta-sans": {
     "id": "plus-jakarta-sans",
     "authors": {
@@ -18793,13 +18865,13 @@
     "id": "sahitya",
     "authors": {
       "copyright": "Copyright 2015 by Juan Pablo del Peral All rights reserved. Sahitya-Bold.ttf",
-      "website": "http://www.huertatipografica.com., http://www.huertatipografica.com."
+      "website": "http://www.htfonts.com., http://www.htfonts.com."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "https://openfontlicense.org"
     },
-    "original": "Copyright (c) 2015 by Juan Pablo del Peral (http://www.huertatipografica.com). All rights reserved. Sahitya-Bold.ttf: Copyright (c) 2015 by Juan Pablo del Peral (http://www.huertatipografica.com). All rights reserved."
+    "original": "Copyright (c) 2015 by Juan Pablo del Peral (http://www.htfonts.com). All rights reserved. Sahitya-Bold.ttf: Copyright (c) 2015 by Juan Pablo del Peral (http://www.htfonts.com). All rights reserved."
   },
   "sail": {
     "id": "sail",
@@ -20725,13 +20797,13 @@
     "id": "telex",
     "authors": {
       "copyright": "Copyright 2011 The Telex Project Authors with Reserved Font Name Telex.",
-      "email": "info@andrestorresi.com.ar"
+      "email": "andres.torresi@htfonts.com"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "https://openfontlicense.org"
     },
-    "original": "Copyright 2011 The Telex Project Authors (info@andrestorresi.com.ar), with Reserved Font Name Telex."
+    "original": "Copyright 2011 The Telex Project Authors (andres.torresi@htfonts.com), with Reserved Font Name Telex."
   },
   "tenali-ramakrishna": {
     "id": "tenali-ramakrishna",
@@ -22301,6 +22373,30 @@
       "url": "https://openfontlicense.org"
     },
     "original": "Copyright 2020 The Yusei Magic Project Authors (https://github.com/tanukifont/YuseiMagic)"
+  },
+  "yuyu": {
+    "id": "yuyu",
+    "authors": {
+      "copyright": "Copyright 2026 The Yuyu Font Project Authors",
+      "website": "https://github.com/JuliaGarciaLopez/Yuyu-Font"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2026 The Yuyu Font Project Authors (https://github.com/JuliaGarciaLopez/Yuyu-Font)"
+  },
+  "yuyu-short": {
+    "id": "yuyu-short",
+    "authors": {
+      "copyright": "Copyright 2026 The Yuyu Font Project Authors",
+      "website": "https://github.com/JuliaGarciaLopez/Yuyu-Font"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2026 The Yuyu Font Project Authors (https://github.com/JuliaGarciaLopez/Yuyu-Font)"
   },
   "zcool-kuaile": {
     "id": "zcool-kuaile",

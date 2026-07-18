@@ -1,6 +1,6 @@
 # Fontsource Saira Semi Condensed
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/saira-semi-condensed?color=brightgreen)](https://www.npmjs.com/package/@fontsource/saira-semi-condensed) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/saira-semi-condensed)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/saira-semi-condensed)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/saira-semi-condensed?color=brightgreen)](https://www.npmjs.com/package/@fontsource/saira-semi-condensed) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/saira-semi-condensed)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/saira-semi-condensed)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Saira Semi Condensed” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/saira-semi-condensed) to view more details on this package.
 

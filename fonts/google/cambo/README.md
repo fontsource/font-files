@@ -1,6 +1,6 @@
 # Fontsource Cambo
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/cambo?color=brightgreen)](https://www.npmjs.com/package/@fontsource/cambo) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/cambo)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/cambo)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/cambo?color=brightgreen)](https://www.npmjs.com/package/@fontsource/cambo) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/cambo)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/cambo)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Cambo” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/cambo) to view more details on this package.
 
@@ -38,10 +38,10 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright (c) 2011, Carolina Giovagnoli (caro@huertatipografica.com.ar), Copyright (c) 2011, Andres Torresi (andres@huertatipografica.com.ar), with Reserved Font Name Cambo.
+Copyright (c) 2011, Carolina Giovagnoli (carolina.giovagnoli@htfonts.com), Copyright (c) 2011, Andres Torresi (andres.torresi@htfonts.com), with Reserved Font Name Cambo.
 [OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v19`.
+Font version (provided by source): `v21`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

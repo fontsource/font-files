@@ -1,6 +1,6 @@
 # Fontsource Amethysta
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/amethysta?color=brightgreen)](https://www.npmjs.com/package/@fontsource/amethysta) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/amethysta)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/amethysta)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/amethysta?color=brightgreen)](https://www.npmjs.com/package/@fontsource/amethysta) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/amethysta)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/amethysta)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Amethysta” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/amethysta) to view more details on this package.
 

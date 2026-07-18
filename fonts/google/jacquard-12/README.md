@@ -1,6 +1,6 @@
 # Fontsource Jacquard 12
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/jacquard-12?color=brightgreen)](https://www.npmjs.com/package/@fontsource/jacquard-12) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/jacquard-12)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/jacquard-12)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/jacquard-12?color=brightgreen)](https://www.npmjs.com/package/@fontsource/jacquard-12) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/jacquard-12)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/jacquard-12)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Jacquard 12” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/jacquard-12) to view more details on this package.
 

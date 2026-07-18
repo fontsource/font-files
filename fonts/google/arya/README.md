@@ -1,6 +1,6 @@
 # Fontsource Arya
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/arya?color=brightgreen)](https://www.npmjs.com/package/@fontsource/arya) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/arya)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/arya)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/arya?color=brightgreen)](https://www.npmjs.com/package/@fontsource/arya) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/arya)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/arya)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Arya” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/arya) to view more details on this package.
 

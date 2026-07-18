@@ -1,6 +1,6 @@
 # Fontsource Reddit Mono
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource-variable/reddit-mono?color=brightgreen)](https://www.npmjs.com/package/@fontsource-variable/reddit-mono) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource-variable/reddit-mono)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource-variable/reddit-mono)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource-variable/reddit-mono?color=brightgreen)](https://www.npmjs.com/package/@fontsource-variable/reddit-mono) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource-variable/reddit-mono)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource-variable/reddit-mono)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Reddit Mono” variable font. Please visit the main [Fontsource website](https://fontsource.org/fonts/reddit-mono) to view more details on this package.
 

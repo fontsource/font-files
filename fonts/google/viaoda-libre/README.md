@@ -1,6 +1,6 @@
 # Fontsource Viaoda Libre
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/viaoda-libre?color=brightgreen)](https://www.npmjs.com/package/@fontsource/viaoda-libre) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/viaoda-libre)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/viaoda-libre)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/viaoda-libre?color=brightgreen)](https://www.npmjs.com/package/@fontsource/viaoda-libre) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/viaoda-libre)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/viaoda-libre)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Viaoda Libre” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/viaoda-libre) to view more details on this package.
 

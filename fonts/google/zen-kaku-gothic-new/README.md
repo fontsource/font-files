@@ -1,6 +1,6 @@
 # Fontsource Zen Kaku Gothic New
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/zen-kaku-gothic-new?color=brightgreen)](https://www.npmjs.com/package/@fontsource/zen-kaku-gothic-new) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/zen-kaku-gothic-new)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/zen-kaku-gothic-new)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/zen-kaku-gothic-new?color=brightgreen)](https://www.npmjs.com/package/@fontsource/zen-kaku-gothic-new) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/zen-kaku-gothic-new)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/zen-kaku-gothic-new)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Zen Kaku Gothic New” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/zen-kaku-gothic-new) to view more details on this package.
 

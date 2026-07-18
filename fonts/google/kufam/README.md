@@ -1,6 +1,6 @@
 # Fontsource Kufam
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/kufam?color=brightgreen)](https://www.npmjs.com/package/@fontsource/kufam) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/kufam)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/kufam)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/kufam?color=brightgreen)](https://www.npmjs.com/package/@fontsource/kufam) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/kufam)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/kufam)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Kufam” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/kufam) to view more details on this package.
 

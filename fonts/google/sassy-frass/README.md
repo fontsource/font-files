@@ -1,6 +1,6 @@
 # Fontsource Sassy Frass
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/sassy-frass?color=brightgreen)](https://www.npmjs.com/package/@fontsource/sassy-frass) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/sassy-frass)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/sassy-frass)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/sassy-frass?color=brightgreen)](https://www.npmjs.com/package/@fontsource/sassy-frass) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/sassy-frass)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/sassy-frass)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Sassy Frass” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/sassy-frass) to view more details on this package.
 

@@ -5,7 +5,12 @@
   "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
   "styles": ["normal"],
   "defSubset": "latin",
-  "variable": false,
+  "variable": {
+    "slnt": {"default": "0", "min": "-10", "max": "0", "step": "1"},
+    "wdth": {"default": "100", "min": "50", "max": "200", "step": "0.1"},
+    "wght": {"default": "400", "min": "100", "max": "900", "step": "1"},
+    "CTRS": {"default": "0", "min": "0", "max": "85", "step": "1"}
+  },
   "lastModified": "2025-11-20",
   "version": "v5",
   "category": "sans-serif",

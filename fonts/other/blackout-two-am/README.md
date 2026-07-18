@@ -1,6 +1,6 @@
 # Fontsource Blackout Two AM
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/blackout-two-am?color=brightgreen)](https://www.npmjs.com/package/@fontsource/blackout-two-am) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/blackout-two-am)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/blackout-two-am)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/blackout-two-am?color=brightgreen)](https://www.npmjs.com/package/@fontsource/blackout-two-am) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/blackout-two-am)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/blackout-two-am)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Blackout Two AM” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/blackout-two-am) to view more details on this package.
 

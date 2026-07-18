@@ -1,6 +1,6 @@
 # Fontsource Moo Lah Lah
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/moo-lah-lah?color=brightgreen)](https://www.npmjs.com/package/@fontsource/moo-lah-lah) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/moo-lah-lah)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/moo-lah-lah)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/moo-lah-lah?color=brightgreen)](https://www.npmjs.com/package/@fontsource/moo-lah-lah) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/moo-lah-lah)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/moo-lah-lah)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Moo Lah Lah” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/moo-lah-lah) to view more details on this package.
 

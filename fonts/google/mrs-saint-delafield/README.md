@@ -1,6 +1,6 @@
 # Fontsource Mrs Saint Delafield
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/mrs-saint-delafield?color=brightgreen)](https://www.npmjs.com/package/@fontsource/mrs-saint-delafield) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/mrs-saint-delafield)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/mrs-saint-delafield)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/mrs-saint-delafield?color=brightgreen)](https://www.npmjs.com/package/@fontsource/mrs-saint-delafield) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/mrs-saint-delafield)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/mrs-saint-delafield)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Mrs Saint Delafield” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/mrs-saint-delafield) to view more details on this package.
 

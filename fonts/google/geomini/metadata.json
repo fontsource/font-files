@@ -1,0 +1,19 @@
+{
+  "id": "geomini",
+  "family": "Geomini",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [200, 300, 400, 500, 600, 700, 800],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2026-07-09",
+  "version": "v2",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2026 The Geomini Project Authors (https://github.com/fontbob/geomini)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

@@ -1,6 +1,6 @@
 # Fontsource M PLUS 1p
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/m-plus-1p?color=brightgreen)](https://www.npmjs.com/package/@fontsource/m-plus-1p) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/m-plus-1p)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/m-plus-1p)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/m-plus-1p?color=brightgreen)](https://www.npmjs.com/package/@fontsource/m-plus-1p) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/m-plus-1p)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/m-plus-1p)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “M PLUS 1p” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/m-plus-1p) to view more details on this package.
 

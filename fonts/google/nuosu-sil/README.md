@@ -1,6 +1,6 @@
 # Fontsource Nuosu SIL
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/nuosu-sil?color=brightgreen)](https://www.npmjs.com/package/@fontsource/nuosu-sil) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/nuosu-sil)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/nuosu-sil)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/nuosu-sil?color=brightgreen)](https://www.npmjs.com/package/@fontsource/nuosu-sil) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/nuosu-sil)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/nuosu-sil)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Nuosu SIL” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/nuosu-sil) to view more details on this package.
 

@@ -1,6 +1,6 @@
 # Fontsource Baloo Bhaina 2
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource-variable/baloo-bhaina-2?color=brightgreen)](https://www.npmjs.com/package/@fontsource-variable/baloo-bhaina-2) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource-variable/baloo-bhaina-2)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource-variable/baloo-bhaina-2)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource-variable/baloo-bhaina-2?color=brightgreen)](https://www.npmjs.com/package/@fontsource-variable/baloo-bhaina-2) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource-variable/baloo-bhaina-2)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource-variable/baloo-bhaina-2)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Baloo Bhaina 2” variable font. Please visit the main [Fontsource website](https://fontsource.org/fonts/baloo-bhaina-2) to view more details on this package.
 

@@ -1,6 +1,6 @@
 # Fontsource iA Writer Quattro
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/ia-writer-quattro?color=brightgreen)](https://www.npmjs.com/package/@fontsource/ia-writer-quattro) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/ia-writer-quattro)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/ia-writer-quattro)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/ia-writer-quattro?color=brightgreen)](https://www.npmjs.com/package/@fontsource/ia-writer-quattro) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/ia-writer-quattro)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/ia-writer-quattro)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “iA Writer Quattro” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/ia-writer-quattro) to view more details on this package.
 

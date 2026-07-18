@@ -5,7 +5,9 @@
   "weights": [100, 200, 300, 400],
   "styles": ["normal"],
   "defSubset": "latin",
-  "variable": false,
+  "variable": {
+    "wght": {"default": "400", "min": "100", "max": "400", "step": "1"}
+  },
   "lastModified": "2026-01-28",
   "version": "v1",
   "category": "handwriting",

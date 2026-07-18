@@ -1,6 +1,6 @@
 # Fontsource Shippori Mincho
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/shippori-mincho?color=brightgreen)](https://www.npmjs.com/package/@fontsource/shippori-mincho) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/shippori-mincho)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/shippori-mincho)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/shippori-mincho?color=brightgreen)](https://www.npmjs.com/package/@fontsource/shippori-mincho) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/shippori-mincho)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/shippori-mincho)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Shippori Mincho” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/shippori-mincho) to view more details on this package.
 

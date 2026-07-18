@@ -1,6 +1,6 @@
 # Fontsource Open Sauce Two
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/open-sauce-two?color=brightgreen)](https://www.npmjs.com/package/@fontsource/open-sauce-two) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/open-sauce-two)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/open-sauce-two)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/open-sauce-two?color=brightgreen)](https://www.npmjs.com/package/@fontsource/open-sauce-two) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/open-sauce-two)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/open-sauce-two)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Open Sauce Two” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/open-sauce-two) to view more details on this package.
 

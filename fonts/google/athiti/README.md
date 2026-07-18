@@ -1,6 +1,6 @@
 # Fontsource Athiti
 
-[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/athiti?color=brightgreen)](https://www.npmjs.com/package/@fontsource/athiti) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/athiti)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/athiti)](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource.svg?style=social&label=Star)](https://github.com/fontsource/fontsource/stargazers)
+[![npm (scoped)](https://img.shields.io/npm/v/@fontsource/athiti?color=brightgreen)](https://www.npmjs.com/package/@fontsource/athiti) [![Generic badge](https://img.shields.io/badge/fontsource-passing-brightgreen)](https://github.com/fontsource/fontsource) [![Monthly downloads](https://badgen.net/npm/dm/@fontsource/athiti)](https://github.com/fontsource/fontsource) [![Total downloads](https://badgen.net/npm/dt/@fontsource/athiti)](https://github.com/fontsource/fontsource)
 
 The CSS and web font files to easily self-host the “Athiti” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/athiti) to view more details on this package.
 
