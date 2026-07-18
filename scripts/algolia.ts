@@ -1,4 +1,4 @@
-import algoliasearch from "algoliasearch";
+import { algoliasearch } from "algoliasearch";
 import metadataImport from "../metadata/fontsource.json";
 
 interface AlgoliaMetadata {
@@ -75,12 +75,17 @@ const updateAlgoliaIndex = async (force?: boolean) => {
 			index++;
 		}
 
-		const searchIndex = client.initIndex("prod_NAME");
 		if (force) {
-			await searchIndex.replaceAllObjects(indexArray);
+			await client.replaceAllObjects({
+				indexName: "prod_NAME",
+				objects: indexArray,
+			});
 			console.log("Replaced Algolia index");
 		} else {
-			await searchIndex.saveObjects(indexArray);
+			await client.saveObjects({
+				indexName: "prod_NAME",
+				objects: indexArray,
+			});
 			console.log("Updated Algolia index");
 		}
 	} catch (error) {

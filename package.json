@@ -15,14 +15,14 @@
 	"author": "Ayuhito <hello@ayuhito.com>",
 	"license": "MIT",
 	"dependencies": {
-		"@fontsource-utils/cli": "0.7.1",
-		"@fontsource-utils/publish": "^0.4.1",
-		"@types/node": "^22.14.1",
-		"algoliasearch": "4.24.0",
+		"@fontsource-utils/cli": "0.7.2",
+		"@fontsource-utils/publish": "^0.4.2",
+		"@types/node": "^26.1.1",
+		"algoliasearch": "5.56.0",
 		"consola": "^3.4.2",
 		"google-font-metadata": "^6.0.8",
 		"json-stringify-pretty-compact": "^4.0.0",
-		"pathe": "1.1.2"
+		"pathe": "2.0.3"
 	},
 	"homepage": "https://fontsource.org",
 	"repository": {
