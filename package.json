@@ -15,7 +15,7 @@
 	"author": "Ayuhito <hello@ayuhito.com>",
 	"license": "MIT",
 	"dependencies": {
-		"@fontsource-utils/cli": "0.7.2",
+		"@fontsource-utils/cli": "0.7.3",
 		"@fontsource-utils/publish": "^0.4.2",
 		"@types/node": "^26.1.1",
 		"algoliasearch": "5.56.0",

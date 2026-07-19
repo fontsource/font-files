@@ -5,7 +5,7 @@
     "": {
       "name": "font-files",
       "dependencies": {
-        "@fontsource-utils/cli": "0.7.2",
+        "@fontsource-utils/cli": "^0.7.3",
         "@fontsource-utils/publish": "^0.4.2",
         "@types/node": "^26.1.1",
         "algoliasearch": "5.56.0",
@@ -51,7 +51,7 @@
 
     "@evan/concurrency": ["@evan/concurrency@0.0.3", "", {}, "sha512-vjhkm2nrXoM39G4aP/U4CC5vFv/ZlMRSjbTII0N65J9R0EpgjdGswnHKS1KSjfGAp/9zKSNaojBgi0SxKnGapw=="],
 
-    "@fontsource-utils/cli": ["@fontsource-utils/cli@0.7.2", "", { "dependencies": { "@clack/prompts": "^1.7.0", "@fontsource-utils/generate": "^0.4.2", "cac": "^7.0.0", "consola": "^3.1.0", "dotenv": "^17.4.2", "fs-extra": "^11.1.1", "json-stringify-pretty-compact": "^4.0.0", "p-queue": "^9.3.1", "pathe": "^2.0.3", "picocolors": "^1.0.0" }, "peerDependencies": { "google-font-metadata": "^6.0.4" }, "bin": { "fontsource": "dist/cli.mjs" } }, "sha512-C+A8vHDb9i30pDzTM++Ulo/l1ob07cu+agWWI+TTiVxdTCZUP23wLi5NyqmjyWo8YCPtLjZ86tQ/LNKuHmalJQ=="],
+    "@fontsource-utils/cli": ["@fontsource-utils/cli@0.7.3", "", { "dependencies": { "@clack/prompts": "^1.7.0", "@fontsource-utils/generate": "^0.4.2", "cac": "^7.0.0", "consola": "^3.1.0", "dotenv": "^17.4.2", "fs-extra": "^11.1.1", "json-stringify-pretty-compact": "^4.0.0", "p-queue": "^9.3.1", "pathe": "^2.0.3", "picocolors": "^1.0.0" }, "peerDependencies": { "google-font-metadata": "^6.0.4" }, "bin": { "fontsource": "dist/cli.mjs" } }, "sha512-i0tUvofemvhflxTmg0Drr4L3a5sdd+qZNtKmnnkWMapkHv8+OCkMMQ/GV87rNyZDl9/F0yr6vzrl0nepsUmNIg=="],
 
     "@fontsource-utils/generate": ["@fontsource-utils/generate@0.4.2", "", {}, "sha512-kGZohdvXiJyVXlF33lyD6MHuXh9Z4sWY0UZtBlY/cPGVh6HvYLEyrkNSgqEjAOp9ZpwA7spoK+HjPmB1xhXceA=="],
 
