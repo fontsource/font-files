@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/huninn",
-  "version": "5.2.4",
+  "version": "5.3.0",
   "description": "Self-host the Huninn font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/huninn"
   },
-  "publishHash": "c6bdeb92c48c1200"
+  "publishHash": "4af46f7ccac5403f"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-sk-guides",
-  "version": "5.2.6",
+  "version": "5.3.0",
   "description": "Self-host the Playwrite SK Guides font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-sk-guides"
   },
-  "publishHash": "7a85e0bd4d733dae"
+  "publishHash": "731cd7acd0230146"
 }

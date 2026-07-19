@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-be-vlg-guides",
-  "version": "5.2.6",
+  "version": "5.3.0",
   "description": "Self-host the Playwrite BE VLG Guides font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-be-vlg-guides"
   },
-  "publishHash": "694c142b72bac51b"
+  "publishHash": "8de1b2ed8f13264b"
 }

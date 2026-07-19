@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/puppies-play",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Puppies Play font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/puppies-play"
   },
-  "publishHash": "fa2ff2540591cfe0"
+  "publishHash": "1477d4c8f71ef313"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/tasa-explorer",
-  "version": "5.2.2",
+  "version": "5.3.0",
   "description": "Self-host the TASA Explorer font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/tasa-explorer"
   },
-  "publishHash": "321602f7d0045f1f"
+  "publishHash": "bd994e9c721a9ec7"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/iosevka-etoile",
-  "version": "5.2.4",
+  "version": "5.3.0",
   "description": "Self-host the Iosevka Etoile font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/iosevka-etoile"
   },
-  "publishHash": "a54e56afa01ce4b5"
+  "publishHash": "f5204fc88d2b2462"
 }

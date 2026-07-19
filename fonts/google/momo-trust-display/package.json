@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/momo-trust-display",
-  "version": "5.2.1",
+  "version": "5.3.0",
   "description": "Self-host the Momo Trust Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/momo-trust-display"
   },
-  "publishHash": "0b01a387e26bc148"
+  "publishHash": "e6689250a6d5d751"
 }

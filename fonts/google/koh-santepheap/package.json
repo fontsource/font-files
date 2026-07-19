@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/koh-santepheap",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Koh Santepheap font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/koh-santepheap"
   },
-  "publishHash": "3326f278eef7a177"
+  "publishHash": "4d2f6a31baf32e04"
 }

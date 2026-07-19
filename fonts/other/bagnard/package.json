@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bagnard",
-  "version": "5.2.4",
+  "version": "5.3.0",
   "description": "Self-host the Bagnard font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/bagnard"
   },
-  "publishHash": "b4a83da51be33e89"
+  "publishHash": "163bca0f705e7392"
 }

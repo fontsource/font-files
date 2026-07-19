@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/jersey-15",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Jersey 15 font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/jersey-15"
   },
-  "publishHash": "28d1d03c214387d5"
+  "publishHash": "14edc41b71ebfea3"
 }

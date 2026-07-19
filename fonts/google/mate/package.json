@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mate",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Mate font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mate"
   },
-  "publishHash": "de1fdd6f838fe24c"
+  "publishHash": "e2b7cb7e64fdc48d"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lavishly-yours",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Lavishly Yours font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lavishly-yours"
   },
-  "publishHash": "db3606ecd4d6e8de"
+  "publishHash": "3d2350515e4edc56"
 }

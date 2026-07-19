@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/stix-two-text",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the STIX Two Text font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/stix-two-text"
   },
-  "publishHash": "6b6396903974179a"
+  "publishHash": "072a2bee6f3546a9"
 }

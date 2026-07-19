@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/pitagon-sans",
-  "version": "5.2.4",
+  "version": "5.3.0",
   "description": "Self-host the Pitagon Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/pitagon-sans"
   },
-  "publishHash": "1b8f8a6be6963664"
+  "publishHash": "70aed7d1ff7679b0"
 }

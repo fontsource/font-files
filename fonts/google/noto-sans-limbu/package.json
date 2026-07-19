@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-limbu",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Noto Sans Limbu font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-limbu"
   },
-  "publishHash": "97207229dc065cb6"
+  "publishHash": "8a0d84a60ebdf6d9"
 }

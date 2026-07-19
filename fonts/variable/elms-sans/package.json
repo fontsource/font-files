@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/elms-sans",
-  "version": "5.2.1",
+  "version": "5.3.0",
   "description": "Self-host the Elms Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/elms-sans"
   },
-  "publishHash": "74f5cf81742344f5"
+  "publishHash": "7fe5ad6097b2b29e"
 }

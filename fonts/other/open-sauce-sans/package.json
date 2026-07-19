@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/open-sauce-sans",
-  "version": "5.2.4",
+  "version": "5.3.0",
   "description": "Self-host the Open Sauce Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/open-sauce-sans"
   },
-  "publishHash": "8026daeb37037346"
+  "publishHash": "7b22b7fa620144b9"
 }

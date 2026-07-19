@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bigelow-rules",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Bigelow Rules font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bigelow-rules"
   },
-  "publishHash": "408a8f1ee21e1ecd"
+  "publishHash": "908e39c30c2c9e80"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/anek-bangla",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Anek Bangla font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/anek-bangla"
   },
-  "publishHash": "2f2be1e108eb31bc"
+  "publishHash": "16c4c2c289917b8b"
 }

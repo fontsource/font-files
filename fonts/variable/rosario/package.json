@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/rosario",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Rosario font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/rosario"
   },
-  "publishHash": "72ecc3f017febc61"
+  "publishHash": "d8b42a8e8947479a"
 }

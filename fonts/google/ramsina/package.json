@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ramsina",
-  "version": "5.2.2",
+  "version": "5.3.0",
   "description": "Self-host the Ramsina font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ramsina"
   },
-  "publishHash": "b0378ad6305be323"
+  "publishHash": "7962133ac9da251c"
 }

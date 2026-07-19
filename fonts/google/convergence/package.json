@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/convergence",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Convergence font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/convergence"
   },
-  "publishHash": "94389a4846cd2b0a"
+  "publishHash": "a64814f8ace3d02b"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bitter",
-  "version": "5.2.10",
+  "version": "5.3.0",
   "description": "Self-host the Bitter font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bitter"
   },
-  "publishHash": "04c224a929e6adc0"
+  "publishHash": "bc65b18a7df8147e"
 }

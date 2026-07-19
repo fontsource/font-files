@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/amita",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Amita font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/amita"
   },
-  "publishHash": "8957e29d3744161d"
+  "publishHash": "24822fc26a39f331"
 }

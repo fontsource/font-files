@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/grenze",
-  "version": "5.2.1",
+  "version": "5.3.0",
   "description": "Self-host the Grenze font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/grenze"
   },
-  "publishHash": "a3a7425378daa927"
+  "publishHash": "545eb6003cba65ef"
 }

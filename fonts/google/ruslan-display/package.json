@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ruslan-display",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Ruslan Display font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ruslan-display"
   },
-  "publishHash": "c27057d6c8678fca"
+  "publishHash": "9d55eca21fc83f5f"
 }

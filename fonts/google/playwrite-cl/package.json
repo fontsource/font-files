@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-cl",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Playwrite CL font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-cl"
   },
-  "publishHash": "5a611ed97c1c9234"
+  "publishHash": "bf61c0299cb4d2a0"
 }

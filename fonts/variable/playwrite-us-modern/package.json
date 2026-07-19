@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/playwrite-us-modern",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Playwrite US Modern font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/playwrite-us-modern"
   },
-  "publishHash": "c5d93df15bc24f58"
+  "publishHash": "6c85df53c862e233"
 }

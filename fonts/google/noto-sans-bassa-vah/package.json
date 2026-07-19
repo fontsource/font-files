@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-bassa-vah",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Noto Sans Bassa Vah font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-bassa-vah"
   },
-  "publishHash": "de3cad4d47b54067"
+  "publishHash": "79e5c0c5a6de7113"
 }

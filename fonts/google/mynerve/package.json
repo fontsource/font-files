@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mynerve",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Mynerve font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mynerve"
   },
-  "publishHash": "2a7592fbfb3b5ba8"
+  "publishHash": "6d7ae432b3d0df21"
 }

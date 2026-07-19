@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-cz",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Playwrite CZ font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-cz"
   },
-  "publishHash": "806b3ccbc754f169"
+  "publishHash": "d4d983dab2c07a20"
 }

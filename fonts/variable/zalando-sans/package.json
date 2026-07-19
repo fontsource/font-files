@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/zalando-sans",
-  "version": "5.2.2",
+  "version": "5.3.0",
   "description": "Self-host the Zalando Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/zalando-sans"
   },
-  "publishHash": "4d1c7e5ab1ecd520"
+  "publishHash": "3009a2162988f599"
 }

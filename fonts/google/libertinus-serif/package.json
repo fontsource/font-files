@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/libertinus-serif",
-  "version": "5.2.1",
+  "version": "5.3.0",
   "description": "Self-host the Libertinus Serif font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/libertinus-serif"
   },
-  "publishHash": "f7670ea17be52d0b"
+  "publishHash": "376e2620c04be27f"
 }

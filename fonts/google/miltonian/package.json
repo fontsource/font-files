@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/miltonian",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Miltonian font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/miltonian"
   },
-  "publishHash": "4005f9c197617455"
+  "publishHash": "bcbb87c4213aeefc"
 }

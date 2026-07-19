@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-nag-mundari",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Noto Sans Nag Mundari font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-nag-mundari"
   },
-  "publishHash": "602d17e65c360866"
+  "publishHash": "9b3660836e3fd470"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/jua",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Jua font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/jua"
   },
-  "publishHash": "2f9fa0ddaa2ace30"
+  "publishHash": "effa32431551a1d9"
 }

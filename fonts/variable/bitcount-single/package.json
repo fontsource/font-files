@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/bitcount-single",
-  "version": "5.2.2",
+  "version": "5.3.0",
   "description": "Self-host the Bitcount Single font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/bitcount-single"
   },
-  "publishHash": "c89c9988ea510ab0"
+  "publishHash": "01822967790b4e27"
 }

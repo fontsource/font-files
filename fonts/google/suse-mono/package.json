@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/suse-mono",
-  "version": "5.2.1",
+  "version": "5.3.0",
   "description": "Self-host the SUSE Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/suse-mono"
   },
-  "publishHash": "233433f84c243fd9"
+  "publishHash": "23f45b34df6c30e0"
 }

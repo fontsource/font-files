@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fusion-kai-j",
-  "version": "5.2.4",
+  "version": "5.3.0",
   "description": "Self-host the Fusion Kai J font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/fusion-kai-j"
   },
-  "publishHash": "413f851fc7f43c4d"
+  "publishHash": "f6f516b1775a8db8"
 }

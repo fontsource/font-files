@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-tai-tham",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Noto Sans Tai Tham font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-tai-tham"
   },
-  "publishHash": "6ee16a4d986b10b7"
+  "publishHash": "2012d33cb3859345"
 }

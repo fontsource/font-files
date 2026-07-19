@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/playwrite-nz-basic",
-  "version": "5.2.1",
+  "version": "5.3.0",
   "description": "Self-host the Playwrite NZ Basic font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/playwrite-nz-basic"
   },
-  "publishHash": "826db76a3c80119c"
+  "publishHash": "5bb8979874e2bee4"
 }

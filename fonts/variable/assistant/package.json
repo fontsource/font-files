@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/assistant",
-  "version": "5.2.9",
+  "version": "5.3.0",
   "description": "Self-host the Assistant font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/assistant"
   },
-  "publishHash": "132e4a93c82260d4"
+  "publishHash": "1f90187e65166a19"
 }

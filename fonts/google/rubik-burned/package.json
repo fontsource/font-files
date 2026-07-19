@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/rubik-burned",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Rubik Burned font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/rubik-burned"
   },
-  "publishHash": "c4f83d7b36fb18fe"
+  "publishHash": "aeeee8ebd8568c21"
 }

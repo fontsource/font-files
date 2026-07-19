@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-ie-guides",
-  "version": "5.2.6",
+  "version": "5.3.0",
   "description": "Self-host the Playwrite IE Guides font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-ie-guides"
   },
-  "publishHash": "354eda74f9f5aab1"
+  "publishHash": "f0078e13ec69cebc"
 }

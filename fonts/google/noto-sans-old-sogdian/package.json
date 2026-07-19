@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-old-sogdian",
-  "version": "5.2.6",
+  "version": "5.3.0",
   "description": "Self-host the Noto Sans Old Sogdian font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-old-sogdian"
   },
-  "publishHash": "3b80e41b79375c0f"
+  "publishHash": "38ef3c4b80548394"
 }

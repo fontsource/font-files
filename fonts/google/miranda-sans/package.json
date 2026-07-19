@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/miranda-sans",
-  "version": "5.2.1",
+  "version": "5.3.0",
   "description": "Self-host the Miranda Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/miranda-sans"
   },
-  "publishHash": "a146f21ebebcdbaf"
+  "publishHash": "ffcc2795e92c02e0"
 }

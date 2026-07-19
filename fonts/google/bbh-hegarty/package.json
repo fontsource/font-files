@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bbh-hegarty",
-  "version": "5.2.1",
+  "version": "5.3.0",
   "description": "Self-host the BBH Hegarty font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bbh-hegarty"
   },
-  "publishHash": "782f0e56778b8cb9"
+  "publishHash": "05dac5bce3015ac9"
 }

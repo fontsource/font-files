@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/reddit-sans-condensed",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Reddit Sans Condensed font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/reddit-sans-condensed"
   },
-  "publishHash": "20885b0966815d5e"
+  "publishHash": "04c9f1afd78c31ff"
 }

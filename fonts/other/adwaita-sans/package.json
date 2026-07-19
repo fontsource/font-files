@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/adwaita-sans",
-  "version": "5.2.1",
+  "version": "5.3.0",
   "description": "Self-host the Adwaita Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/adwaita-sans"
   },
-  "publishHash": "68d54ef2b4ebc62a"
+  "publishHash": "74bab5cd3e8cc105"
 }

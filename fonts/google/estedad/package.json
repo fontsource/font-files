@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/estedad",
-  "version": "5.2.1",
+  "version": "5.3.0",
   "description": "Self-host the Estedad font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/estedad"
   },
-  "publishHash": "a46a3621b82f12bd"
+  "publishHash": "aa641d29760fa689"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/jaini-purva",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Jaini Purva font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/jaini-purva"
   },
-  "publishHash": "e92c75672822b910"
+  "publishHash": "2fa126bb6f60ae0f"
 }

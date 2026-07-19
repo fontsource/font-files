@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fusion-pixel-10px-monospaced-tc",
-  "version": "5.2.4",
+  "version": "5.3.0",
   "description": "Self-host the Fusion Pixel 10px Monospaced TC font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/fusion-pixel-10px-monospaced-tc"
   },
-  "publishHash": "f84f440848c4ad45"
+  "publishHash": "a6fac73a1d721a86"
 }

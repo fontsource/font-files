@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-kr",
-  "version": "5.2.9",
+  "version": "5.3.0",
   "description": "Self-host the Noto Serif KR font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-kr"
   },
-  "publishHash": "9d2229e53898e733"
+  "publishHash": "63ea2450f0fcad3b"
 }

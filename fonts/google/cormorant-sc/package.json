@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cormorant-sc",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Cormorant SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cormorant-sc"
   },
-  "publishHash": "42b5406faf1cc758"
+  "publishHash": "1cd58eaecb16108f"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/diplomata",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Diplomata font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/diplomata"
   },
-  "publishHash": "c4339277a1083746"
+  "publishHash": "fb38b9ed1fe1f991"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/bokor",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Bokor font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/bokor"
   },
-  "publishHash": "c40bba194958b367"
+  "publishHash": "cde0900aad01ec8d"
 }

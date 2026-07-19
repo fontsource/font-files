@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-khitan-small-script",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Noto Serif Khitan Small Script font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-khitan-small-script"
   },
-  "publishHash": "17ed0bc0465f841f"
+  "publishHash": "2c677a197bdca348"
 }

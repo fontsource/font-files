@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-bhaiksuki",
-  "version": "5.2.6",
+  "version": "5.3.0",
   "description": "Self-host the Noto Sans Bhaiksuki font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-bhaiksuki"
   },
-  "publishHash": "ba10aa35cc702df3"
+  "publishHash": "5c01b780a726b243"
 }

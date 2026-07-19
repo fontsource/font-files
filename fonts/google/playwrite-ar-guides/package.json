@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-ar-guides",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Playwrite AR Guides font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-ar-guides"
   },
-  "publishHash": "9d8ac6b581c19f1f"
+  "publishHash": "1df41c4a14bf4d49"
 }

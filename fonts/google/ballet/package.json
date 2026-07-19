@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ballet",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Ballet font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ballet"
   },
-  "publishHash": "6a6e482350d6784e"
+  "publishHash": "8c5cfb55e7b33a7c"
 }

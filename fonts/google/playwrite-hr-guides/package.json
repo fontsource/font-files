@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-hr-guides",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Playwrite HR Guides font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-hr-guides"
   },
-  "publishHash": "c64735c7db524d0a"
+  "publishHash": "84c91b454ee3439e"
 }

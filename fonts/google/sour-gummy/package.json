@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sour-gummy",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Sour Gummy font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sour-gummy"
   },
-  "publishHash": "51d19f0d6a614ee5"
+  "publishHash": "fec16f3b7c552258"
 }

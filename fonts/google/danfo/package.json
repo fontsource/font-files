@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/danfo",
-  "version": "5.2.10",
+  "version": "5.3.0",
   "description": "Self-host the Danfo font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/danfo"
   },
-  "publishHash": "923dd074ab6704b8"
+  "publishHash": "1ab8d588ae8c268d"
 }

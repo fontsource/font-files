@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/karla-tamil-inclined",
-  "version": "5.2.6",
+  "version": "5.3.0",
   "description": "Self-host the Karla Tamil Inclined font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/karla-tamil-inclined"
   },
-  "publishHash": "834533a684018485"
+  "publishHash": "fab1fe109f7d628b"
 }

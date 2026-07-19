@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/nata-sans",
-  "version": "5.2.2",
+  "version": "5.3.0",
   "description": "Self-host the Nata Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/nata-sans"
   },
-  "publishHash": "0b639218ccb80700"
+  "publishHash": "e9a8498c9e66b625"
 }

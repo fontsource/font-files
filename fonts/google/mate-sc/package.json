@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mate-sc",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Mate SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mate-sc"
   },
-  "publishHash": "9e7503eab7cc17ae"
+  "publishHash": "8fa12d2c07580909"
 }

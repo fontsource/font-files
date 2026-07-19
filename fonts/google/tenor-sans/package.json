@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tenor-sans",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Tenor Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tenor-sans"
   },
-  "publishHash": "020358d61f171a50"
+  "publishHash": "e3cc0f78436e3f32"
 }

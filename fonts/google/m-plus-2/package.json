@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/m-plus-2",
-  "version": "5.2.9",
+  "version": "5.3.0",
   "description": "Self-host the M PLUS 2 font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/m-plus-2"
   },
-  "publishHash": "bf90ce3216d8474f"
+  "publishHash": "f2aec24a9e0fa12a"
 }

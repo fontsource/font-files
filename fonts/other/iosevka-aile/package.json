@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/iosevka-aile",
-  "version": "5.2.4",
+  "version": "5.3.0",
   "description": "Self-host the Iosevka Aile font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/iosevka-aile"
   },
-  "publishHash": "a60f97b0fbcdd683"
+  "publishHash": "6f8b25438426bfbf"
 }

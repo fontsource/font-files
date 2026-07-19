@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lilex",
-  "version": "5.2.1",
+  "version": "5.3.0",
   "description": "Self-host the Lilex font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lilex"
   },
-  "publishHash": "75ada79678dd02f8"
+  "publishHash": "c0c0d4439aef3bc1"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/piazzolla",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Piazzolla font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/piazzolla"
   },
-  "publishHash": "6882f48753a9b6a1"
+  "publishHash": "a8da9ac19380731a"
 }

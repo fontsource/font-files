@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ia-writer-quattro",
-  "version": "5.2.4",
+  "version": "5.3.0",
   "description": "Self-host the iA Writer Quattro font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/ia-writer-quattro"
   },
-  "publishHash": "e88143eca7d1df1c"
+  "publishHash": "b9002c78ad7a5083"
 }

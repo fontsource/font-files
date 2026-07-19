@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/almendra",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Almendra font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/almendra"
   },
-  "publishHash": "ff6005695cabb699"
+  "publishHash": "5fece66447d5ed07"
 }

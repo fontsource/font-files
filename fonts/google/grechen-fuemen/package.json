@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/grechen-fuemen",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Grechen Fuemen font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/grechen-fuemen"
   },
-  "publishHash": "88664b3dd3750629"
+  "publishHash": "d321df9e87151aad"
 }

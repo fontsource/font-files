@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/material-icons-two-tone",
-  "version": "5.2.6",
+  "version": "5.3.0",
   "description": "Self-host the Material Icons Two Tone font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/material-icons-two-tone"
   },
-  "publishHash": "d014ae93fabb85d4"
+  "publishHash": "5cda8afe44b02632"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/seymour-one",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Seymour One font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/seymour-one"
   },
-  "publishHash": "cc1df9a98b816be0"
+  "publishHash": "8958ff1a9ff0eb80"
 }

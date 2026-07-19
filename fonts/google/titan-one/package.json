@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/titan-one",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Titan One font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/titan-one"
   },
-  "publishHash": "8371d414502a5c60"
+  "publishHash": "40ebdaace2e3d058"
 }

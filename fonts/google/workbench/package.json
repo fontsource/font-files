@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/workbench",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Workbench font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/workbench"
   },
-  "publishHash": "c12a8ebb9937941b"
+  "publishHash": "f0b2cd21f79bdd76"
 }

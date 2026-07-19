@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/amiko",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Amiko font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/amiko"
   },
-  "publishHash": "830977838ea541a4"
+  "publishHash": "6c34db935e77ffa7"
 }

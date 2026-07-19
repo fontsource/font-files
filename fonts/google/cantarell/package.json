@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/cantarell",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Cantarell font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/cantarell"
   },
-  "publishHash": "139b87c95fd04b15"
+  "publishHash": "7f90ba1d40221045"
 }

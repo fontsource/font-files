@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/single-day",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Single Day font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/single-day"
   },
-  "publishHash": "03ffbe308780b810"
+  "publishHash": "d01e0ba419b6f87f"
 }

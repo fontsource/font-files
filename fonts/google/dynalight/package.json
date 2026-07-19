@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dynalight",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Dynalight font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/dynalight"
   },
-  "publishHash": "6c8264db7636c2d8"
+  "publishHash": "63fc0bc912a303a9"
 }

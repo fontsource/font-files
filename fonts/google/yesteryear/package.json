@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/yesteryear",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Yesteryear font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/yesteryear"
   },
-  "publishHash": "a6c6d0079c24c5ec"
+  "publishHash": "d2f3d1407ecbf544"
 }

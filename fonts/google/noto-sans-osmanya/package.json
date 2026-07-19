@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-osmanya",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Noto Sans Osmanya font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-osmanya"
   },
-  "publishHash": "46961ae580969205"
+  "publishHash": "2376c182bac163f4"
 }

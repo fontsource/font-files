@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-cuneiform",
-  "version": "5.2.6",
+  "version": "5.3.0",
   "description": "Self-host the Noto Sans Cuneiform font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-cuneiform"
   },
-  "publishHash": "a7056c5773e424ac"
+  "publishHash": "e3f1deaabe26b65e"
 }

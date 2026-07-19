@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/abril-fatface",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Abril Fatface font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/abril-fatface"
   },
-  "publishHash": "4c5ab5801247d3db"
+  "publishHash": "a50820af5b2d1694"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/shadows-into-light-two",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Shadows Into Light Two font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/shadows-into-light-two"
   },
-  "publishHash": "372f08ed971e6b1a"
+  "publishHash": "f6775cf29b543aa9"
 }

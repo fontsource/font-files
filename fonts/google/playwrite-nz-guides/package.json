@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playwrite-nz-guides",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Playwrite NZ Guides font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playwrite-nz-guides"
   },
-  "publishHash": "432cd3d3c3ba8d99"
+  "publishHash": "26377c84ee97145c"
 }

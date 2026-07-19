@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dejavu-sans",
-  "version": "5.2.4",
+  "version": "5.3.0",
   "description": "Self-host the DejaVu Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/dejavu-sans"
   },
-  "publishHash": "c634700ab145c613"
+  "publishHash": "5f0416192d165aa2"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fusion-pixel-12px-proportional-jp",
-  "version": "5.2.4",
+  "version": "5.3.0",
   "description": "Self-host the Fusion Pixel 12px Proportional JP font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/fusion-pixel-12px-proportional-jp"
   },
-  "publishHash": "8f6bce0ea2533aac"
+  "publishHash": "304b211cd0910be5"
 }

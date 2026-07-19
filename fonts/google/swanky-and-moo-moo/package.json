@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/swanky-and-moo-moo",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Swanky and Moo Moo font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/swanky-and-moo-moo"
   },
-  "publishHash": "1a661f14385f561a"
+  "publishHash": "25c10d8dc60bd9c0"
 }

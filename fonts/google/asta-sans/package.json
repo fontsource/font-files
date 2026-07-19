@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/asta-sans",
-  "version": "5.2.3",
+  "version": "5.3.0",
   "description": "Self-host the Asta Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/asta-sans"
   },
-  "publishHash": "dcaf2f08e5215e9f"
+  "publishHash": "2258ce014cce3a17"
 }

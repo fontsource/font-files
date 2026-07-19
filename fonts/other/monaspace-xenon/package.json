@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/monaspace-xenon",
-  "version": "5.2.4",
+  "version": "5.3.0",
   "description": "Self-host the Monaspace Xenon font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/monaspace-xenon"
   },
-  "publishHash": "bba1cea09bf2eeaa"
+  "publishHash": "5e43a63dbdef2b6e"
 }

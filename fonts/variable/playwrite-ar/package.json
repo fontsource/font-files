@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/playwrite-ar",
-  "version": "5.2.9",
+  "version": "5.3.0",
   "description": "Self-host the Playwrite AR font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/playwrite-ar"
   },
-  "publishHash": "aacefa81180c84b4"
+  "publishHash": "2916dbb2c4ff1898"
 }

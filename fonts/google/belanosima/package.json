@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/belanosima",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Belanosima font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/belanosima"
   },
-  "publishHash": "048972b0be4633b1"
+  "publishHash": "34bef9cba9bc6d9f"
 }

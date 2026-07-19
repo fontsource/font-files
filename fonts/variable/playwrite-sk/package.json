@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/playwrite-sk",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Playwrite SK font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/playwrite-sk"
   },
-  "publishHash": "3b26a2c395cb3f62"
+  "publishHash": "bc1d1f8df51f0908"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/barlow",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Barlow font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/barlow"
   },
-  "publishHash": "3a0cb3d10596cd58"
+  "publishHash": "6cde41c6e90d693c"
 }

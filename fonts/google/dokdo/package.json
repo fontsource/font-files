@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/dokdo",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Dokdo font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/dokdo"
   },
-  "publishHash": "71dbb883dad29812"
+  "publishHash": "48ec086bb0a84a17"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/denk-one",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Denk One font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/denk-one"
   },
-  "publishHash": "476ca5e2ea893f19"
+  "publishHash": "edc3557406563e1c"
 }

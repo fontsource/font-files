@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fusion-kai-g",
-  "version": "5.2.4",
+  "version": "5.3.0",
   "description": "Self-host the Fusion Kai G font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/fusion-kai-g"
   },
-  "publishHash": "8b24734cb1bc031d"
+  "publishHash": "ce2ba24c6ae47ece"
 }

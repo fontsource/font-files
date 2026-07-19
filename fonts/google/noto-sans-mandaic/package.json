@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-mandaic",
-  "version": "5.2.6",
+  "version": "5.3.0",
   "description": "Self-host the Noto Sans Mandaic font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-mandaic"
   },
-  "publishHash": "c54938c0728fbcf7"
+  "publishHash": "1c153dc85b6fd3a2"
 }

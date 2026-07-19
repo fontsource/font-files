@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-serif-kannada",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Noto Serif Kannada font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-serif-kannada"
   },
-  "publishHash": "6ed0d24c5ecb0aec"
+  "publishHash": "5a6ce96e0916c73e"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/stack-sans-text",
-  "version": "5.2.1",
+  "version": "5.3.0",
   "description": "Self-host the Stack Sans Text font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/stack-sans-text"
   },
-  "publishHash": "4c438ffa52b9d577"
+  "publishHash": "216f0eefec8ed87b"
 }

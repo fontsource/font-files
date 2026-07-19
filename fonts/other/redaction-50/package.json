@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/redaction-50",
-  "version": "5.2.4",
+  "version": "5.3.0",
   "description": "Self-host the Redaction 50 font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/redaction-50"
   },
-  "publishHash": "38bac51c62b8c720"
+  "publishHash": "824cd2a7b96898b4"
 }

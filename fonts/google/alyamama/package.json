@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/alyamama",
-  "version": "5.2.1",
+  "version": "5.3.0",
   "description": "Self-host the Alyamama font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/alyamama"
   },
-  "publishHash": "9e8dfa4f72bd6cc9"
+  "publishHash": "ad8ed30b53ed709f"
 }

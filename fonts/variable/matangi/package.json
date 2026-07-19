@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/matangi",
-  "version": "5.2.3",
+  "version": "5.3.0",
   "description": "Self-host the Matangi font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/matangi"
   },
-  "publishHash": "9b2244c83fc351b0"
+  "publishHash": "53d8cf987418d845"
 }

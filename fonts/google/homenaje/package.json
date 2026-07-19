@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/homenaje",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Homenaje font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/homenaje"
   },
-  "publishHash": "3bf8c17914c4bdbf"
+  "publishHash": "7f5b793afc34d3bb"
 }

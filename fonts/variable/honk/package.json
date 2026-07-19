@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/honk",
-  "version": "5.2.10",
+  "version": "5.3.0",
   "description": "Self-host the Honk font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/honk"
   },
-  "publishHash": "7b8894f16c1aefe3"
+  "publishHash": "0ef0ca994b7e576f"
 }

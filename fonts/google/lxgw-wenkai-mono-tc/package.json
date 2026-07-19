@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/lxgw-wenkai-mono-tc",
-  "version": "5.2.9",
+  "version": "5.3.0",
   "description": "Self-host the LXGW WenKai Mono TC font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/lxgw-wenkai-mono-tc"
   },
-  "publishHash": "ccc11c1a069d6ee6"
+  "publishHash": "8ee5b20402c8068f"
 }

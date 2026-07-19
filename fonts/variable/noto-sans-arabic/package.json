@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/noto-sans-arabic",
-  "version": "5.2.10",
+  "version": "5.3.0",
   "description": "Self-host the Noto Sans Arabic font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/noto-sans-arabic"
   },
-  "publishHash": "c9b0b05bfd3b7b6e"
+  "publishHash": "f19fd2a12da088d5"
 }

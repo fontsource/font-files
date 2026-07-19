@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ibm-plex-sans-jp",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the IBM Plex Sans JP font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ibm-plex-sans-jp"
   },
-  "publishHash": "e8d3e0b026648bc4"
+  "publishHash": "f668e393b7cc195b"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/actor",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Actor font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/actor"
   },
-  "publishHash": "e861355b41e06d98"
+  "publishHash": "74d216c5c8057a9b"
 }

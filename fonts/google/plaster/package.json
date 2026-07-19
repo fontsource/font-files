@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/plaster",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Plaster font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/plaster"
   },
-  "publishHash": "5b7a741a17408fc4"
+  "publishHash": "dddc96cdd93bc67d"
 }

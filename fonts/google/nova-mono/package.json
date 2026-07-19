@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/nova-mono",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Nova Mono font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/nova-mono"
   },
-  "publishHash": "0af5ce294362b506"
+  "publishHash": "f3661450af99d7dd"
 }

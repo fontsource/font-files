@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/jacques-francois-shadow",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Jacques Francois Shadow font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/jacques-francois-shadow"
   },
-  "publishHash": "b4cb2ab23ccb9817"
+  "publishHash": "2fb66a48b39f5950"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/funnel-sans",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Funnel Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/funnel-sans"
   },
-  "publishHash": "ef6abc204e040847"
+  "publishHash": "c1841b52026e7d8a"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/iceberg",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Iceberg font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/iceberg"
   },
-  "publishHash": "378039c3b098bb73"
+  "publishHash": "45c52ec8da130fb8"
 }

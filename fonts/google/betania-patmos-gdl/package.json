@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/betania-patmos-gdl",
-  "version": "5.2.1",
+  "version": "5.3.0",
   "description": "Self-host the Betania Patmos GDL font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/betania-patmos-gdl"
   },
-  "publishHash": "8c5a408fdfff0e32"
+  "publishHash": "57ae1c6eba805790"
 }

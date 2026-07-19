@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/radley",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Radley font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/radley"
   },
-  "publishHash": "74bc406fa5a36e1a"
+  "publishHash": "01be1c1dd48f56a1"
 }

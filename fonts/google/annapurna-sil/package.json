@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/annapurna-sil",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Annapurna SIL font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/annapurna-sil"
   },
-  "publishHash": "4166f457bc0828b1"
+  "publishHash": "0a1014c1ef964988"
 }

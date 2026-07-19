@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/goblin-one",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Goblin One font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/goblin-one"
   },
-  "publishHash": "0a52a591ace88a57"
+  "publishHash": "7d19c6048f1a2f50"
 }

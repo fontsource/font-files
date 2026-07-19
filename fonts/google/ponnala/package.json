@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/ponnala",
-  "version": "5.2.6",
+  "version": "5.3.0",
   "description": "Self-host the Ponnala font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/ponnala"
   },
-  "publishHash": "498ff9f2f2bca85b"
+  "publishHash": "57904df9d0410d7a"
 }

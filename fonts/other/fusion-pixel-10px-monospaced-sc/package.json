@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/fusion-pixel-10px-monospaced-sc",
-  "version": "5.2.4",
+  "version": "5.3.0",
   "description": "Self-host the Fusion Pixel 10px Monospaced SC font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/fusion-pixel-10px-monospaced-sc"
   },
-  "publishHash": "7b4ca5b1dfbee1d5"
+  "publishHash": "6c37c8e2b173965e"
 }

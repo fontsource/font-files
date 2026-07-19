@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/datatype",
-  "version": "5.2.1",
+  "version": "5.3.0",
   "description": "Self-host the Datatype font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/datatype"
   },
-  "publishHash": "c7008f660c1863a9"
+  "publishHash": "0740aa8f56c9e09f"
 }

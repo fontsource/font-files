@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/protest-riot",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Protest Riot font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/protest-riot"
   },
-  "publishHash": "dde50734aa323d45"
+  "publishHash": "f885b8d45636450c"
 }

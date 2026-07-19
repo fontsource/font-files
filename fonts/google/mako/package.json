@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mako",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Mako font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mako"
   },
-  "publishHash": "ed98c913596ae6f7"
+  "publishHash": "ad104b7c090f9b82"
 }

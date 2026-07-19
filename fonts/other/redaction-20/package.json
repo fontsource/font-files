@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/redaction-20",
-  "version": "5.2.4",
+  "version": "5.3.0",
   "description": "Self-host the Redaction 20 font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/redaction-20"
   },
-  "publishHash": "987ce0e788f07057"
+  "publishHash": "7014798e4943f998"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/playwrite-tz",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Playwrite TZ font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/playwrite-tz"
   },
-  "publishHash": "9cc8b7d4d868e28e"
+  "publishHash": "7845c6a03d326129"
 }

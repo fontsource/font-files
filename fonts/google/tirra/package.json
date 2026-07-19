@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/tirra",
-  "version": "5.2.2",
+  "version": "5.3.0",
   "description": "Self-host the Tirra font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/tirra"
   },
-  "publishHash": "218d2736daa06c3a"
+  "publishHash": "b96f26aa4a9c51a3"
 }

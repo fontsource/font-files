@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/miss-fajardose",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Miss Fajardose font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/miss-fajardose"
   },
-  "publishHash": "90956e6bac236236"
+  "publishHash": "e64a7fc73f51ef1e"
 }

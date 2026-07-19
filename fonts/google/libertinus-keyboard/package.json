@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/libertinus-keyboard",
-  "version": "5.2.2",
+  "version": "5.3.0",
   "description": "Self-host the Libertinus Keyboard font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/libertinus-keyboard"
   },
-  "publishHash": "794260e1191a1d91"
+  "publishHash": "eb35dc9749568372"
 }

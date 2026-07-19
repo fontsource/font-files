@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/atkinson-hyperlegible-next",
-  "version": "5.2.6",
+  "version": "5.3.0",
   "description": "Self-host the Atkinson Hyperlegible Next font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/atkinson-hyperlegible-next"
   },
-  "publishHash": "23e4c387393dfe90"
+  "publishHash": "e9b1fff82730178f"
 }

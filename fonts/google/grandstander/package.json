@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/grandstander",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Grandstander font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/grandstander"
   },
-  "publishHash": "edf364478151bb10"
+  "publishHash": "68c16c2d6af3c93c"
 }

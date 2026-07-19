@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/open-sans",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Open Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/open-sans"
   },
-  "publishHash": "8106a544aecd711b"
+  "publishHash": "5bce36f3c3f1d5b0"
 }

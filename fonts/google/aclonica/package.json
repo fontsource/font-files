@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/aclonica",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Aclonica font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/aclonica"
   },
-  "publishHash": "df8beaebc2f7a4a5"
+  "publishHash": "7c938ca05273d8a7"
 }

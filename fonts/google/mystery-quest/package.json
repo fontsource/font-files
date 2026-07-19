@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/mystery-quest",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Mystery Quest font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/mystery-quest"
   },
-  "publishHash": "b4f3e4a1d59eeda4"
+  "publishHash": "29eb060e643a9c2c"
 }

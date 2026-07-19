@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/teko",
-  "version": "5.2.7",
+  "version": "5.3.0",
   "description": "Self-host the Teko font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/teko"
   },
-  "publishHash": "2c0387c016497164"
+  "publishHash": "e5b2629ac8605c74"
 }

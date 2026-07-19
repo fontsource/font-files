@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/exile",
-  "version": "5.2.2",
+  "version": "5.3.0",
   "description": "Self-host the Exile font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/exile"
   },
-  "publishHash": "932e7faaf8282e03"
+  "publishHash": "de146abf38092c29"
 }

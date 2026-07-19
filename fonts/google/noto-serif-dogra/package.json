@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-serif-dogra",
-  "version": "5.2.6",
+  "version": "5.3.0",
   "description": "Self-host the Noto Serif Dogra font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-serif-dogra"
   },
-  "publishHash": "36e05fe27c2ae1a8"
+  "publishHash": "10c2aeb1c8d0e13d"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/playpen-sans-deva",
-  "version": "5.2.4",
+  "version": "5.3.0",
   "description": "Self-host the Playpen Sans Deva font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/playpen-sans-deva"
   },
-  "publishHash": "5681c7f10861f5a4"
+  "publishHash": "93efc80b18f49363"
 }

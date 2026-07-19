@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/luxurious-roman",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Luxurious Roman font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/luxurious-roman"
   },
-  "publishHash": "f9e4f9c9de11a18a"
+  "publishHash": "cb7af4fd1de2e638"
 }

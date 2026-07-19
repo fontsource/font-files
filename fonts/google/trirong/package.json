@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/trirong",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Trirong font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/trirong"
   },
-  "publishHash": "7b4dbaa582f6ba6e"
+  "publishHash": "d2e3b7cc6b3102d3"
 }

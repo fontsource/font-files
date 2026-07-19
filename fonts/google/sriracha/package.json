@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/sriracha",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Sriracha font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/sriracha"
   },
-  "publishHash": "2fe384d53548cc85"
+  "publishHash": "5c1e1ce4e2dbf2b6"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/menbere",
-  "version": "5.2.2",
+  "version": "5.3.0",
   "description": "Self-host the Menbere font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/menbere"
   },
-  "publishHash": "f0ec29de74c88c78"
+  "publishHash": "73544c08be3484ce"
 }

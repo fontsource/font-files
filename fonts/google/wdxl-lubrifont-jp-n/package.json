@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/wdxl-lubrifont-jp-n",
-  "version": "5.2.3",
+  "version": "5.3.0",
   "description": "Self-host the WDXL Lubrifont JP N font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/wdxl-lubrifont-jp-n"
   },
-  "publishHash": "9453fca96aa5f757"
+  "publishHash": "a63652299089506a"
 }

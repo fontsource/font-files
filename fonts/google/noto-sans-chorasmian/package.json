@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-chorasmian",
-  "version": "5.2.6",
+  "version": "5.3.0",
   "description": "Self-host the Noto Sans Chorasmian font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-chorasmian"
   },
-  "publishHash": "3269308a19d6c540"
+  "publishHash": "de2884637f5d4ba3"
 }

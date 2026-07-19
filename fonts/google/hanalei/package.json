@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/hanalei",
-  "version": "5.2.8",
+  "version": "5.3.0",
   "description": "Self-host the Hanalei font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/hanalei"
   },
-  "publishHash": "90934bc8150b911f"
+  "publishHash": "745f1c33aa0420ee"
 }
