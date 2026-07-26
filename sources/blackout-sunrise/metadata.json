@@ -4,8 +4,6 @@
 	"classifications": [
 		"display"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Tyler Finck",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://github.com/theleagueof/blackout",
 		"revision": "4864cfc1749590e9f78549c6e57116fe98480c0f"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/Blackout Sunrise.ttf",

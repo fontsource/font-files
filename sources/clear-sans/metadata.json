@@ -4,8 +4,6 @@
 	"classifications": [
 		"sans-serif"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Daniel Rhatigan",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://github.com/intel/clear-sans",
 		"revision": "1993725b24a36af21e7ebaa8977103983b608572"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/ClearSans-Bold.ttf",

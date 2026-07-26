@@ -4,8 +4,6 @@
 	"classifications": [
 		"monospace"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Tyler Finck",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://github.com/theleagueof/league-mono",
 		"revision": "7a3b0f7393f17f54f6c65b3ca983fe52b2af101f"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/LeagueMonoVariable.ttf",

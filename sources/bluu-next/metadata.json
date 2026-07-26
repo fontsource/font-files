@@ -4,8 +4,6 @@
 	"classifications": [
 		"serif"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Jean-Baptiste Morizot",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://github.com/jbmorizot/BluuNext",
 		"revision": "82101a9970b26a7421cfe27bce32fd6533f02109"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/BluuNext-Bold.otf",

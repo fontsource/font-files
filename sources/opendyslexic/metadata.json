@@ -4,8 +4,6 @@
 	"classifications": [
 		"sans-serif"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Abbie Gonzalez",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://forge.hackers.town/antijingoist/opendyslexic",
 		"revision": "48218028cc8bd9f4f244cd4ce4049e6c879d4d1a"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/OpenDyslexic-Bold.otf",

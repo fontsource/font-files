@@ -4,8 +4,6 @@
 	"classifications": [
 		"sans-serif"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Chris Simpson",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://github.com/dw5/Metropolis",
 		"revision": "79b4b2e1164f5184edd5e3ba8b4acb590a9e7821"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/Metropolis-Black.ttf",

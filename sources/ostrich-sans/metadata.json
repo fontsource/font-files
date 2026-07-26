@@ -5,8 +5,6 @@
 		"display",
 		"sans-serif"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Tyler Finck",
 	"license": {
@@ -18,7 +16,6 @@
 		"repository": "https://github.com/theleagueof/ostrich-sans",
 		"revision": "a949d40d0576d12ba26e2a45e19c91fd0228c964"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/OstrichSans-Black.otf",

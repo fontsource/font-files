@@ -4,8 +4,6 @@
 	"classifications": [
 		"monospace"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Shannon Miwa and dtinth",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://github.com/dtinth/comic-mono-font",
 		"revision": "13eb162648d01d61ece424088dbf750ec80a1a62"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/ComicMono-Bold.ttf",

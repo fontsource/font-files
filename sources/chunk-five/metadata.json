@@ -5,8 +5,6 @@
 		"display",
 		"serif"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Meredith Mandel",
 	"license": {
@@ -18,7 +16,6 @@
 		"repository": "https://github.com/theleagueof/chunk",
 		"revision": "12a243f3fb7c7a68844901023f7d95d6eaf14104"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/ChunkFive-Regular.ttf",

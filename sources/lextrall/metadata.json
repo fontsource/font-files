@@ -4,8 +4,6 @@
 	"classifications": [
 		"sans-serif"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Amuzil",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://github.com/amuzil/lextrall",
 		"revision": "69bffcbc19ac72542b82dd74462075dcfb912813"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/Lextrall[HEXP,wght].ttf",

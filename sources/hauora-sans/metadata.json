@@ -4,8 +4,6 @@
 	"classifications": [
 		"sans-serif"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "WCYS & Co.",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://github.com/WCYS-Co/Hauora-Sans",
 		"revision": "75131397db767f52236dde990405aad2deaf9cb6"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/Hauora[wght].ttf",

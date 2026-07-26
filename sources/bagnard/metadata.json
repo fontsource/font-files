@@ -4,8 +4,6 @@
 	"classifications": [
 		"serif"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Sébastien Sanfilippo",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://github.com/dconstruct/Bagnard",
 		"revision": "92146404d08a0a12259b5abb9a658b94f4480058"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/Bagnard.otf",

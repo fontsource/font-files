@@ -5,8 +5,6 @@
 		"monospace",
 		"sans-serif"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "GitHub Next",
 	"license": {
@@ -18,7 +16,6 @@
 		"repository": "https://github.com/githubnext/monaspace",
 		"revision": "f31794b6e9e65698a062262e2f826f679dcb7070"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/Monaspace Argon Var.ttf",

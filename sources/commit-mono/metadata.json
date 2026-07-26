@@ -4,8 +4,6 @@
 	"classifications": [
 		"monospace"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Eigil Nikolajsen",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://github.com/eigilnikolajsen/commit-mono",
 		"revision": "d407cd2bf8e01ca1db70544052fbbb9606406c3b"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/CommitMonoV143-VF.ttf",

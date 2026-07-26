@@ -4,8 +4,6 @@
 	"classifications": [
 		"sans-serif"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "The Argentum Sans Project Authors",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://github.com/cssobral2013/Argentum-Sans",
 		"revision": "396d0c5b9a1c520215e2c4d2fd7e8b9165c4e4d6"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/ArgentumSans-Italic-VF.ttf",
