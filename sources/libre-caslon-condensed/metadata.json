@@ -1,0 +1,85 @@
+{
+	"id": "libre-caslon-condensed",
+	"family": "Libre Caslon Condensed",
+	"classifications": [
+		"serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Ertekin Erdin",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/ertekinno/libre-caslon-condensed/e3b55edea5a9d67a347caaa1d9c04618ffe7b4d7/OFL.txt",
+		"attribution": "Ertekin Erdin"
+	},
+	"project": {
+		"repository": "https://github.com/ertekinno/libre-caslon-condensed",
+		"revision": "e3b55edea5a9d67a347caaa1d9c04618ffe7b4d7"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/LibreCaslonCondensed-Bold.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/LibreCaslonCondensed-BoldItalic.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/LibreCaslonCondensed-Italic.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/LibreCaslonCondensed-Italic[wght].ttf"
+		},
+		{
+			"path": "files/LibreCaslonCondensed-Medium.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/LibreCaslonCondensed-MediumItalic.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/LibreCaslonCondensed-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/LibreCaslonCondensed-SemiBold.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/LibreCaslonCondensed-SemiBoldItalic.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/LibreCaslonCondensed[wght].ttf"
+		}
+	]
+}

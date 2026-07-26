@@ -1,0 +1,110 @@
+{
+	"id": "uncut-sans",
+	"family": "Uncut Sans",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Kasper Nordkvist",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/kaspernordkvist/uncut_sans/b3b42467781e3bd98c68f2d70eba325196e7d9c5/LICENSE.txt",
+		"attribution": "Kasper Nordkvist"
+	},
+	"project": {
+		"repository": "https://github.com/kaspernordkvist/uncut_sans",
+		"revision": "b3b42467781e3bd98c68f2d70eba325196e7d9c5"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/UncutSans-Bold.otf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/UncutSans-BoldItalic.otf",
+			"variant": {
+				"weight": 700,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/UncutSans-Book.otf",
+			"variant": {
+				"weight": 350,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/UncutSans-BookItalic.otf",
+			"variant": {
+				"weight": 350,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/UncutSans-Light.otf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/UncutSans-LightItalic.otf",
+			"variant": {
+				"weight": 300,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/UncutSans-Medium.otf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/UncutSans-MediumItalic.otf",
+			"variant": {
+				"weight": 500,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/UncutSans-Regular.otf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/UncutSans-RegularItalic.otf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/UncutSans-Semibold.otf",
+			"variant": {
+				"weight": 600,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/UncutSans-SemiboldItalic.otf",
+			"variant": {
+				"weight": 600,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/UncutSans-Variable.ttf"
+		}
+	]
+}

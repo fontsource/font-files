@@ -1,0 +1,155 @@
+{
+	"id": "argentum-sans",
+	"family": "Argentum Sans",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "The Argentum Sans Project Authors",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/cssobral2013/Argentum-Sans/396d0c5b9a1c520215e2c4d2fd7e8b9165c4e4d6/OFL.txt",
+		"attribution": "The Argentum Sans Project Authors"
+	},
+	"project": {
+		"repository": "https://github.com/cssobral2013/Argentum-Sans",
+		"revision": "396d0c5b9a1c520215e2c4d2fd7e8b9165c4e4d6"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/ArgentumSans-Black.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/ArgentumSans-BlackItalic.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/ArgentumSans-Bold.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/ArgentumSans-BoldItalic.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/ArgentumSans-ExtraBold.ttf",
+			"variant": {
+				"weight": 800,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/ArgentumSans-ExtraBoldItalic.ttf",
+			"variant": {
+				"weight": 800,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/ArgentumSans-ExtraLight.ttf",
+			"variant": {
+				"weight": 200,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/ArgentumSans-ExtraLightItalic.ttf",
+			"variant": {
+				"weight": 200,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/ArgentumSans-Italic-VF.ttf"
+		},
+		{
+			"path": "files/ArgentumSans-Italic.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/ArgentumSans-Light.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/ArgentumSans-LightItalic.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/ArgentumSans-Medium.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/ArgentumSans-MediumItalic.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/ArgentumSans-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/ArgentumSans-SemiBold.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/ArgentumSans-SemiBoldItalic.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/ArgentumSans-Thin.ttf",
+			"variant": {
+				"weight": 100,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/ArgentumSans-ThinItalic.ttf",
+			"variant": {
+				"weight": 100,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/ArgentumSans-VF.ttf"
+		}
+	]
+}
