@@ -7,7 +7,6 @@
 	"tags": [
 		"special-use/redaction"
 	],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Jeremy Mickel",
 	"license": {
@@ -19,7 +18,6 @@
 		"repository": "https://www.redaction.us/",
 		"revision": "2.001"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/Redaction-Bold.otf",
