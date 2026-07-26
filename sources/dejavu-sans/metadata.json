@@ -4,8 +4,6 @@
 	"classifications": [
 		"sans-serif"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "DejaVu Fonts team",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://github.com/dejavu-fonts/dejavu-fonts",
 		"revision": "0eda8a319c08835009849583cd090bb5b141ce25"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/DejaVuSans-Bold.ttf",

@@ -5,7 +5,6 @@
 	"classifications": [
 		"symbols"
 	],
-	"tags": [],
 	"languages": [],
 	"primaryScript": "Zsym",
 	"designer": "DejaVu Fonts team",
@@ -18,7 +17,6 @@
 		"repository": "https://github.com/dejavu-fonts/dejavu-fonts",
 		"revision": "0eda8a319c08835009849583cd090bb5b141ce25"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/DejaVuMathTeXGyre.ttf",
