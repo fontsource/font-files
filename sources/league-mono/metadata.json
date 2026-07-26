@@ -1,0 +1,30 @@
+{
+	"id": "league-mono",
+	"family": "League Mono",
+	"classifications": [
+		"monospace"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Tyler Finck",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/theleagueof/league-mono/7a3b0f7393f17f54f6c65b3ca983fe52b2af101f/ofl.markdown",
+		"attribution": "Tyler Finck"
+	},
+	"project": {
+		"repository": "https://github.com/theleagueof/league-mono",
+		"revision": "7a3b0f7393f17f54f6c65b3ca983fe52b2af101f"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/LeagueMonoVariable.ttf",
+			"variant": {
+				"weight": 100,
+				"style": "normal"
+			}
+		}
+	]
+}

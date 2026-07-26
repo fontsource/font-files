@@ -1,0 +1,31 @@
+{
+	"id": "syne-italic",
+	"family": "Syne Italic",
+	"classifications": [
+		"display",
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Lucas Descroix with Bonjour Monde",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://gitlab.com/bonjour-monde/fonderie/syne-typeface/-/raw/e536e8f1a8724bf282da74bbae410f91231ce94c/OFL.txt",
+		"attribution": "The Syne Project Authors"
+	},
+	"project": {
+		"repository": "https://gitlab.com/bonjour-monde/fonderie/syne-typeface",
+		"revision": "e536e8f1a8724bf282da74bbae410f91231ce94c"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/Syne-Italic.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		}
+	]
+}

@@ -1,0 +1,121 @@
+{
+	"id": "open-sauce-two",
+	"family": "Open Sauce Two",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Alfredo Marco Pradil",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/marcologous/Open-Sauce-Fonts/1747e4467caf9ecce17690ae6880d86a03e17c41/Open%20Sauce%20Two%20OFL.txt",
+		"attribution": "The Open Sauce Two Authors"
+	},
+	"project": {
+		"repository": "https://github.com/marcologous/Open-Sauce-Fonts",
+		"revision": "1747e4467caf9ecce17690ae6880d86a03e17c41"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/OpenSauceTwo-Black.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OpenSauceTwo-BlackItalic.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/OpenSauceTwo-Bold.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OpenSauceTwo-BoldItalic.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/OpenSauceTwo-ExtraBold.ttf",
+			"variant": {
+				"weight": 800,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OpenSauceTwo-ExtraBoldItalic.ttf",
+			"variant": {
+				"weight": 800,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/OpenSauceTwo-Italic.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/OpenSauceTwo-Light.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OpenSauceTwo-LightItalic.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/OpenSauceTwo-Medium.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OpenSauceTwo-MediumItalic.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/OpenSauceTwo-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OpenSauceTwo-SemiBold.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OpenSauceTwo-SemiBoldItalic.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "italic"
+			}
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": "bluu-next",
+	"family": "Bluu Next",
+	"classifications": [
+		"serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Jean-Baptiste Morizot",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/jbmorizot/BluuNext/82101a9970b26a7421cfe27bce32fd6533f02109/OFL_BluuNext.txt",
+		"attribution": "Jean-Baptiste Morizot"
+	},
+	"project": {
+		"repository": "https://github.com/jbmorizot/BluuNext",
+		"revision": "82101a9970b26a7421cfe27bce32fd6533f02109"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/BluuNext-Bold.otf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/BluuNext-Bolditalic.otf",
+			"variant": {
+				"weight": 700,
+				"style": "italic"
+			}
+		}
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"id": "open-runde",
+	"family": "Open Runde",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Laurids Kern",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/lauridskern/open-runde/3e7ed7f3cdfa5523766db7e430066472615fc935/LICENSE.txt",
+		"attribution": "Laurids Kern"
+	},
+	"project": {
+		"repository": "https://github.com/lauridskern/open-runde",
+		"revision": "3e7ed7f3cdfa5523766db7e430066472615fc935"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/OpenRunde-Bold.otf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OpenRunde-Medium.otf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OpenRunde-Regular.otf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OpenRunde-Semibold.otf",
+			"variant": {
+				"weight": 600,
+				"style": "normal"
+			}
+		}
+	]
+}

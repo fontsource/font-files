@@ -1,0 +1,52 @@
+{
+	"id": "ostrich-sans",
+	"family": "Ostrich Sans",
+	"classifications": [
+		"display",
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Tyler Finck",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/theleagueof/ostrich-sans/a949d40d0576d12ba26e2a45e19c91fd0228c964/Open%20Font%20License.markdown",
+		"attribution": "Tyler Finck"
+	},
+	"project": {
+		"repository": "https://github.com/theleagueof/ostrich-sans",
+		"revision": "a949d40d0576d12ba26e2a45e19c91fd0228c964"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/OstrichSans-Black.otf",
+			"variant": {
+				"weight": 900,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OstrichSans-Bold.otf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OstrichSans-Light.otf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OstrichSans-Medium.otf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}

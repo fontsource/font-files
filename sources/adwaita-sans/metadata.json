@@ -1,0 +1,37 @@
+{
+	"id": "adwaita-sans",
+	"family": "Adwaita Sans",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "The GNOME Project",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://gitlab.gnome.org/GNOME/adwaita-fonts/-/raw/bd828c71418f7ae3af76687d6ca2a809111770f2/LICENSE",
+		"attribution": "The GNOME Project (based on Inter by Rasmus Andersson)"
+	},
+	"project": {
+		"repository": "https://gitlab.gnome.org/GNOME/adwaita-fonts",
+		"revision": "bd828c71418f7ae3af76687d6ca2a809111770f2"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/AdwaitaSans-Italic.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/AdwaitaSans-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"id": "opendyslexic",
+	"family": "OpenDyslexic",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Abbie Gonzalez",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://forge.hackers.town/antijingoist/opendyslexic/raw/commit/48218028cc8bd9f4f244cd4ce4049e6c879d4d1a/OFL.txt",
+		"attribution": "Abbie Gonzalez"
+	},
+	"project": {
+		"repository": "https://forge.hackers.town/antijingoist/opendyslexic",
+		"revision": "48218028cc8bd9f4f244cd4ce4049e6c879d4d1a"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/OpenDyslexic-Bold.otf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OpenDyslexic-BoldItalic.otf",
+			"variant": {
+				"weight": 700,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/OpenDyslexic-Italic.otf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/OpenDyslexic-Regular.otf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}
