@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/chiron-hei-hk",
-  "version": "5.3.0",
+  "version": "5.3.1",
   "description": "Self-host the Chiron Hei HK font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/chiron-hei-hk"
   },
-  "publishHash": "b6c9f292ab89ada4"
+  "publishHash": "810980486b6901dd"
 }
