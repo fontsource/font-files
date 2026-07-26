@@ -1,0 +1,31 @@
+{
+	"id": "dejavu-math",
+	"family": "DejaVu Math",
+	"displayName": "DejaVu Math TeX Gyre",
+	"classifications": [
+		"symbols"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Zsym",
+	"designer": "DejaVu Fonts team",
+	"license": {
+		"id": "Bitstream-Vera",
+		"url": "https://raw.githubusercontent.com/dejavu-fonts/dejavu-fonts/0eda8a319c08835009849583cd090bb5b141ce25/LICENSE",
+		"attribution": "Bitstream, Inc., the DejaVu Fonts team, and contributors"
+	},
+	"project": {
+		"repository": "https://github.com/dejavu-fonts/dejavu-fonts",
+		"revision": "0eda8a319c08835009849583cd090bb5b141ce25"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/DejaVuMathTeXGyre.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}
