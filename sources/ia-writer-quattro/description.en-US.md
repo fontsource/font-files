@@ -1,0 +1,1 @@
+iA Writer Quattro is a four-width writing typeface built on IBM Plex. It approaches proportional spacing while retaining generous word spacing and monospaced punctuation, producing a compact, regular text image suited to smaller screens.

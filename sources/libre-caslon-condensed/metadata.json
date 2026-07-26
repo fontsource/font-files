@@ -20,66 +20,18 @@
 	"declaredSubsets": [],
 	"sourceFiles": [
 		{
-			"path": "files/LibreCaslonCondensed-Bold.ttf",
-			"variant": {
-				"weight": 700,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/LibreCaslonCondensed-BoldItalic.ttf",
-			"variant": {
-				"weight": 700,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/LibreCaslonCondensed-Italic.ttf",
+			"path": "files/LibreCaslonCondensed-Italic[wght].ttf",
 			"variant": {
 				"weight": 400,
 				"style": "italic"
 			}
 		},
 		{
-			"path": "files/LibreCaslonCondensed-Italic[wght].ttf"
-		},
-		{
-			"path": "files/LibreCaslonCondensed-Medium.ttf",
-			"variant": {
-				"weight": 500,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/LibreCaslonCondensed-MediumItalic.ttf",
-			"variant": {
-				"weight": 500,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/LibreCaslonCondensed-Regular.ttf",
+			"path": "files/LibreCaslonCondensed[wght].ttf",
 			"variant": {
 				"weight": 400,
 				"style": "normal"
 			}
-		},
-		{
-			"path": "files/LibreCaslonCondensed-SemiBold.ttf",
-			"variant": {
-				"weight": 600,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/LibreCaslonCondensed-SemiBoldItalic.ttf",
-			"variant": {
-				"weight": 600,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/LibreCaslonCondensed[wght].ttf"
 		}
 	]
 }

@@ -20,136 +20,18 @@
 	"declaredSubsets": [],
 	"sourceFiles": [
 		{
-			"path": "files/ArgentumSans-Black.ttf",
-			"variant": {
-				"weight": 900,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/ArgentumSans-BlackItalic.ttf",
-			"variant": {
-				"weight": 900,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/ArgentumSans-Bold.ttf",
-			"variant": {
-				"weight": 700,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/ArgentumSans-BoldItalic.ttf",
-			"variant": {
-				"weight": 700,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/ArgentumSans-ExtraBold.ttf",
-			"variant": {
-				"weight": 800,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/ArgentumSans-ExtraBoldItalic.ttf",
-			"variant": {
-				"weight": 800,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/ArgentumSans-ExtraLight.ttf",
-			"variant": {
-				"weight": 200,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/ArgentumSans-ExtraLightItalic.ttf",
-			"variant": {
-				"weight": 200,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/ArgentumSans-Italic-VF.ttf"
-		},
-		{
-			"path": "files/ArgentumSans-Italic.ttf",
+			"path": "files/ArgentumSans-Italic-VF.ttf",
 			"variant": {
 				"weight": 400,
 				"style": "italic"
 			}
 		},
 		{
-			"path": "files/ArgentumSans-Light.ttf",
-			"variant": {
-				"weight": 300,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/ArgentumSans-LightItalic.ttf",
-			"variant": {
-				"weight": 300,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/ArgentumSans-Medium.ttf",
-			"variant": {
-				"weight": 500,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/ArgentumSans-MediumItalic.ttf",
-			"variant": {
-				"weight": 500,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/ArgentumSans-Regular.ttf",
+			"path": "files/ArgentumSans-VF.ttf",
 			"variant": {
 				"weight": 400,
 				"style": "normal"
 			}
-		},
-		{
-			"path": "files/ArgentumSans-SemiBold.ttf",
-			"variant": {
-				"weight": 600,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/ArgentumSans-SemiBoldItalic.ttf",
-			"variant": {
-				"weight": 600,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/ArgentumSans-Thin.ttf",
-			"variant": {
-				"weight": 100,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/ArgentumSans-ThinItalic.ttf",
-			"variant": {
-				"weight": 100,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/ArgentumSans-VF.ttf"
 		}
 	]
 }

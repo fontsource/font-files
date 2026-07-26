@@ -1,0 +1,1 @@
+Monaspace Argon is one of five distinct, metrics-compatible variable typefaces in GitHub Next's Monaspace superfamily for code. It supports weight, width, and slant axes alongside texture healing, coding ligatures, and character variants.

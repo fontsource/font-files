@@ -1,0 +1,1 @@
+Hauora Sans is an open-source, semi-condensed neo-grotesque derived from Manrope. WCYS adapted it for the Tiaki Hauora research project, with Latin and Cyrillic coverage and a range of OpenType features.

@@ -21,104 +21,10 @@
 	"declaredSubsets": [],
 	"sourceFiles": [
 		{
-			"path": "files/Monaspace Radon Var.ttf"
-		},
-		{
-			"path": "files/MonaspaceRadon-Bold.otf",
-			"variant": {
-				"weight": 700,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceRadon-BoldItalic.otf",
-			"variant": {
-				"weight": 700,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MonaspaceRadon-ExtraBold.otf",
-			"variant": {
-				"weight": 800,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceRadon-ExtraBoldItalic.otf",
-			"variant": {
-				"weight": 800,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MonaspaceRadon-ExtraLight.otf",
+			"path": "files/Monaspace Radon Var.ttf",
 			"variant": {
 				"weight": 200,
 				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceRadon-ExtraLightItalic.otf",
-			"variant": {
-				"weight": 200,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MonaspaceRadon-Italic.otf",
-			"variant": {
-				"weight": 400,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MonaspaceRadon-Light.otf",
-			"variant": {
-				"weight": 300,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceRadon-LightItalic.otf",
-			"variant": {
-				"weight": 300,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MonaspaceRadon-Medium.otf",
-			"variant": {
-				"weight": 500,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceRadon-MediumItalic.otf",
-			"variant": {
-				"weight": 500,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MonaspaceRadon-Regular.otf",
-			"variant": {
-				"weight": 400,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceRadon-SemiBold.otf",
-			"variant": {
-				"weight": 600,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceRadon-SemiBoldItalic.otf",
-			"variant": {
-				"weight": 600,
-				"style": "italic"
 			}
 		}
 	]

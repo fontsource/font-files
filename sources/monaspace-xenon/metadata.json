@@ -21,104 +21,10 @@
 	"declaredSubsets": [],
 	"sourceFiles": [
 		{
-			"path": "files/Monaspace Xenon Var.ttf"
-		},
-		{
-			"path": "files/MonaspaceXenon-Bold.otf",
-			"variant": {
-				"weight": 700,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceXenon-BoldItalic.otf",
-			"variant": {
-				"weight": 700,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MonaspaceXenon-ExtraBold.otf",
-			"variant": {
-				"weight": 800,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceXenon-ExtraBoldItalic.otf",
-			"variant": {
-				"weight": 800,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MonaspaceXenon-ExtraLight.otf",
+			"path": "files/Monaspace Xenon Var.ttf",
 			"variant": {
 				"weight": 200,
 				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceXenon-ExtraLightItalic.otf",
-			"variant": {
-				"weight": 200,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MonaspaceXenon-Italic.otf",
-			"variant": {
-				"weight": 400,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MonaspaceXenon-Light.otf",
-			"variant": {
-				"weight": 300,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceXenon-LightItalic.otf",
-			"variant": {
-				"weight": 300,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MonaspaceXenon-Medium.otf",
-			"variant": {
-				"weight": 500,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceXenon-MediumItalic.otf",
-			"variant": {
-				"weight": 500,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MonaspaceXenon-Regular.otf",
-			"variant": {
-				"weight": 400,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceXenon-SemiBold.otf",
-			"variant": {
-				"weight": 600,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceXenon-SemiBoldItalic.otf",
-			"variant": {
-				"weight": 600,
-				"style": "italic"
 			}
 		}
 	]

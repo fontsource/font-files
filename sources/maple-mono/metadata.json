@@ -20,122 +20,18 @@
 	"declaredSubsets": [],
 	"sourceFiles": [
 		{
-			"path": "files/MapleMono-Bold.ttf",
-			"variant": {
-				"weight": 700,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MapleMono-BoldItalic.ttf",
-			"variant": {
-				"weight": 700,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MapleMono-ExtraBold.ttf",
-			"variant": {
-				"weight": 800,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MapleMono-ExtraBoldItalic.ttf",
-			"variant": {
-				"weight": 800,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MapleMono-ExtraLight.ttf",
-			"variant": {
-				"weight": 275,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MapleMono-ExtraLightItalic.ttf",
-			"variant": {
-				"weight": 275,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MapleMono-Italic.ttf",
+			"path": "files/MapleMono-Italic[wght].ttf",
 			"variant": {
 				"weight": 400,
 				"style": "italic"
 			}
 		},
 		{
-			"path": "files/MapleMono-Italic[wght].ttf"
-		},
-		{
-			"path": "files/MapleMono-Light.ttf",
-			"variant": {
-				"weight": 300,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MapleMono-LightItalic.ttf",
-			"variant": {
-				"weight": 300,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MapleMono-Medium.ttf",
-			"variant": {
-				"weight": 500,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MapleMono-MediumItalic.ttf",
-			"variant": {
-				"weight": 500,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MapleMono-Regular.ttf",
+			"path": "files/MapleMono[wght].ttf",
 			"variant": {
 				"weight": 400,
 				"style": "normal"
 			}
-		},
-		{
-			"path": "files/MapleMono-SemiBold.ttf",
-			"variant": {
-				"weight": 600,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MapleMono-SemiBoldItalic.ttf",
-			"variant": {
-				"weight": 600,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MapleMono-Thin.ttf",
-			"variant": {
-				"weight": 250,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MapleMono-ThinItalic.ttf",
-			"variant": {
-				"weight": 250,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MapleMono[wght].ttf"
 		}
 	]
 }

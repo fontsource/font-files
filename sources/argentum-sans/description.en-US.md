@@ -1,0 +1,1 @@
+Argentum Sans is an open-source geometric sans-serif derived from Montserrat 5.001. It began as a response to upstream weight changes and developed its own details, including a tailed lowercase l and broad Latin, Greek, and Cyrillic coverage.

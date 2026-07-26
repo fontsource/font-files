@@ -20,70 +20,11 @@
 	"declaredSubsets": [],
 	"sourceFiles": [
 		{
-			"path": "files/Lextrall-Black.ttf",
-			"variant": {
-				"weight": 900,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/Lextrall-Bold.ttf",
-			"variant": {
-				"weight": 700,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/Lextrall-ExtraBold.ttf",
-			"variant": {
-				"weight": 800,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/Lextrall-ExtraLight.ttf",
-			"variant": {
-				"weight": 200,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/Lextrall-Light.ttf",
-			"variant": {
-				"weight": 300,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/Lextrall-Medium.ttf",
-			"variant": {
-				"weight": 500,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/Lextrall-Regular.ttf",
+			"path": "files/Lextrall[HEXP,wght].ttf",
 			"variant": {
 				"weight": 400,
 				"style": "normal"
 			}
-		},
-		{
-			"path": "files/Lextrall-SemiBold.ttf",
-			"variant": {
-				"weight": 600,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/Lextrall-Thin.ttf",
-			"variant": {
-				"weight": 100,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/Lextrall[HEXP,wght].ttf"
 		}
 	]
 }

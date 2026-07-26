@@ -1,0 +1,1 @@
+iA Writer Mono is a monospaced writing typeface built on IBM Plex and redesigned as part of the iA Writer family. Its regular rhythm, generous word spacing, and monospaced punctuation emphasize the draft-like character of text in progress.

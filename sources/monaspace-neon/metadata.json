@@ -21,104 +21,10 @@
 	"declaredSubsets": [],
 	"sourceFiles": [
 		{
-			"path": "files/Monaspace Neon Var.ttf"
-		},
-		{
-			"path": "files/MonaspaceNeon-Bold.otf",
-			"variant": {
-				"weight": 700,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceNeon-BoldItalic.otf",
-			"variant": {
-				"weight": 700,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MonaspaceNeon-ExtraBold.otf",
-			"variant": {
-				"weight": 800,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceNeon-ExtraBoldItalic.otf",
-			"variant": {
-				"weight": 800,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MonaspaceNeon-ExtraLight.otf",
+			"path": "files/Monaspace Neon Var.ttf",
 			"variant": {
 				"weight": 200,
 				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceNeon-ExtraLightItalic.otf",
-			"variant": {
-				"weight": 200,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MonaspaceNeon-Italic.otf",
-			"variant": {
-				"weight": 400,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MonaspaceNeon-Light.otf",
-			"variant": {
-				"weight": 300,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceNeon-LightItalic.otf",
-			"variant": {
-				"weight": 300,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MonaspaceNeon-Medium.otf",
-			"variant": {
-				"weight": 500,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceNeon-MediumItalic.otf",
-			"variant": {
-				"weight": 500,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/MonaspaceNeon-Regular.otf",
-			"variant": {
-				"weight": 400,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceNeon-SemiBold.otf",
-			"variant": {
-				"weight": 600,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/MonaspaceNeon-SemiBoldItalic.otf",
-			"variant": {
-				"weight": 600,
-				"style": "italic"
 			}
 		}
 	]

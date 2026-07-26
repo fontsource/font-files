@@ -20,38 +20,18 @@
 	"declaredSubsets": [],
 	"sourceFiles": [
 		{
-			"path": "files/iAWriterQuattroS-Bold.ttf",
-			"variant": {
-				"weight": 700,
-				"style": "normal"
-			}
-		},
-		{
-			"path": "files/iAWriterQuattroS-BoldItalic.ttf",
-			"variant": {
-				"weight": 700,
-				"style": "italic"
-			}
-		},
-		{
-			"path": "files/iAWriterQuattroS-Italic.ttf",
+			"path": "files/iAWriterQuattroV-Italic.ttf",
 			"variant": {
 				"weight": 400,
 				"style": "italic"
 			}
 		},
 		{
-			"path": "files/iAWriterQuattroS-Regular.ttf",
+			"path": "files/iAWriterQuattroV.ttf",
 			"variant": {
 				"weight": 400,
 				"style": "normal"
 			}
-		},
-		{
-			"path": "files/iAWriterQuattroV-Italic.ttf"
-		},
-		{
-			"path": "files/iAWriterQuattroV.ttf"
 		}
 	]
 }
