@@ -1,0 +1,38 @@
+{
+	"id": "pitagon-sans-mono",
+	"family": "Pitagon Sans Mono",
+	"classifications": [
+		"monospace",
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Travis Tran and Pitagon",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/ThePitagon/pitagon-sans-mono/56c2a56f2097b6f0c7c111b8f05234d983cb5d35/OFL.txt",
+		"attribution": "The Pitagon Sans Mono Project Authors"
+	},
+	"project": {
+		"repository": "https://github.com/ThePitagon/pitagon-sans-mono",
+		"revision": "56c2a56f2097b6f0c7c111b8f05234d983cb5d35"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/PitagonSansMono-Italic[wght].ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/PitagonSansMono[wght].ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}

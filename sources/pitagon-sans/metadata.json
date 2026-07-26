@@ -1,0 +1,33 @@
+{
+	"id": "pitagon-sans",
+	"family": "Pitagon Sans",
+	"classifications": [
+		"display",
+		"sans-serif"
+	],
+	"tags": [
+		"sans/geometric"
+	],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Travis Tran and Pitagon",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/ThePitagon/pitagon-sans/70e53c42e411bde9512c156ad88ec5eacdb18883/OFL.txt",
+		"attribution": "The Pitagon Sans Project Authors"
+	},
+	"project": {
+		"repository": "https://github.com/ThePitagon/pitagon-sans",
+		"revision": "70e53c42e411bde9512c156ad88ec5eacdb18883"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/PitagonSans[wght].ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}
