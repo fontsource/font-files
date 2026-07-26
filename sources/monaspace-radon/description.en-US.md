@@ -1,3 +1,3 @@
-Monaspace Radon is the handwriting voice in Monaspace, a five-family type system created by GitHub Next and Lettermatic for displaying code. All five families share the same metrics, so Radon can add an informal or provisional tone without disturbing the monospaced grid.
+Monaspace Radon is the handwriting member of Monaspace, a five-family type system created by GitHub Next and Lettermatic for displaying code. The five families share metrics so they can be mixed while preserving the monospaced grid.
 
-Its variable font spans weight, width, and slant. OpenType features include coding ligatures, character variants, and texture healing, which adjusts neighboring letterforms to create a more even texture while preserving fixed character widths.
+Its variable font spans weight, width, and slant. OpenType features include coding ligatures, character variants, and texture healing, which substitutes neighboring letterforms to produce a more even typographic texture without changing their fixed widths.

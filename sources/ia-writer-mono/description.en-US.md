@@ -1,3 +1,3 @@
-iA Writer Mono is the monospaced member of the iA Writer type family, a modification of IBM Plex created for the iA Writer apps. Every character occupies the same width, producing a steady rhythm that makes the structure of a draft immediately visible.
+iA Writer Mono is the single-width member of the iA Writer type family, built on IBM Plex and bundled with the iA Writer apps. Every letter, numeral, punctuation mark, and space occupies the same width.
 
-Generous word spacing and monospaced punctuation reinforce the typewriter-like character of text in progress while keeping longer passages comfortable to read.
+iA uses this regular rhythm and generous word spacing to give unfinished text a draft-like appearance, make words and letters easier to distinguish, and encourage a measured writing pace.

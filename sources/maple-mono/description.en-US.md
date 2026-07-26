@@ -1,3 +1,3 @@
-Maple Mono is an open-source monospaced typeface by Subframe7536, designed to make the visual flow of code feel smoother. Its rounded corners and distinctive forms give it a friendly character, while cursive italic letters provide a clear change of voice for comments and emphasis.
+Maple Mono is an open-source monospaced typeface by Subframe7536, focused on smoothing the flow of coding. Its features include rounded corners, cursive italic letters, smart coding ligatures, and configurable OpenType features.
 
-Version 7 rebuilt the family with variable fonts, redesigned more than half of its glyphs, and introduced smarter coding ligatures. OpenType options allow many of these details to be customized.
+Version 7 completely rebuilt the family, added variable fonts and project source files, and redesigned more than half of the glyphs.

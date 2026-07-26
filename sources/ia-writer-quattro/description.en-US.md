@@ -1,3 +1,3 @@
-iA Writer Quattro is the four-width member of the iA Writer type family, a modification of IBM Plex created for the iA Writer apps. Its four character widths let letters find more natural proportions while retaining the disciplined texture shared by Mono and Duo.
+iA Writer Quattro is the four-width member of the iA Writer type family, built on IBM Plex and bundled with the iA Writer apps. Its four character widths bring it closer to proportional type while retaining wider word spaces and monospaced punctuation.
 
-Quattro combines compact spacing with generous word spaces and monospaced punctuation, producing a regular text image that is particularly well suited to smaller screens.
+Compared with Mono and Duo, Quattro uses less space on small screens and produces a cleaner, more regular text image.
