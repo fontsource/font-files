@@ -5,8 +5,6 @@
 		"monospace",
 		"sans-serif"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Renzhi Li (Belleve Invis)",
 	"license": {
@@ -18,7 +16,6 @@
 		"repository": "https://github.com/be5invis/Iosevka",
 		"revision": "ca3ad8e280e2f0b614a5a7721b047daaf023713d"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/IosevkaCurly-Bold.ttf",
