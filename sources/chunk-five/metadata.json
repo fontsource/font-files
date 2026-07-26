@@ -1,0 +1,31 @@
+{
+	"id": "chunk-five",
+	"family": "Chunk Five",
+	"classifications": [
+		"display",
+		"serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Meredith Mandel",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/theleagueof/chunk/12a243f3fb7c7a68844901023f7d95d6eaf14104/Open%20Font%20License.markdown",
+		"attribution": "Meredith Mandel"
+	},
+	"project": {
+		"repository": "https://github.com/theleagueof/chunk",
+		"revision": "12a243f3fb7c7a68844901023f7d95d6eaf14104"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/ChunkFive-Regular.ttf",
+			"variant": {
+				"weight": 800,
+				"style": "normal"
+			}
+		}
+	]
+}

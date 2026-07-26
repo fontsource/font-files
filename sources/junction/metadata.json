@@ -1,0 +1,44 @@
+{
+	"id": "junction",
+	"family": "Junction",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Caroline Hadilaksono and Tyler Finck",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/theleagueof/junction/fb73260e86dd301b383cf6cc9ca8e726ef806535/Open%20Font%20License.markdown",
+		"attribution": "Caroline Hadilaksono and Tyler Finck"
+	},
+	"project": {
+		"repository": "https://github.com/theleagueof/junction",
+		"revision": "fb73260e86dd301b383cf6cc9ca8e726ef806535"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/Junction-bold.otf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Junction-light.otf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Junction-regular.otf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": "karmilla",
+	"family": "Karmilla",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "The Karmilla Project Authors",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/ms-studio/karmilla/2071ea77d2bca635b61ed6e4db4aeff56f9f90ac/OFL.txt",
+		"attribution": "The Karmilla Project Authors"
+	},
+	"project": {
+		"repository": "https://github.com/ms-studio/karmilla",
+		"revision": "2071ea77d2bca635b61ed6e4db4aeff56f9f90ac"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/Karmilla-Bold-015.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Karmilla-Regular-015.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}

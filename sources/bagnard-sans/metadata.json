@@ -1,0 +1,30 @@
+{
+	"id": "bagnard-sans",
+	"family": "Bagnard Sans",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Sébastien Sanfilippo",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/dconstruct/Bagnard/92146404d08a0a12259b5abb9a658b94f4480058/OFL.txt",
+		"attribution": "Sébastien Sanfilippo"
+	},
+	"project": {
+		"repository": "https://github.com/dconstruct/Bagnard",
+		"revision": "92146404d08a0a12259b5abb9a658b94f4480058"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/BagnardSans.otf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}

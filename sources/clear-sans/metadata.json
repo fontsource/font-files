@@ -1,0 +1,79 @@
+{
+	"id": "clear-sans",
+	"family": "Clear Sans",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Daniel Rhatigan",
+	"license": {
+		"id": "Apache-2.0",
+		"url": "https://raw.githubusercontent.com/intel/clear-sans/1993725b24a36af21e7ebaa8977103983b608572/LICENSE.txt",
+		"attribution": "Intel"
+	},
+	"project": {
+		"repository": "https://github.com/intel/clear-sans",
+		"revision": "1993725b24a36af21e7ebaa8977103983b608572"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/ClearSans-Bold.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/ClearSans-BoldItalic.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/ClearSans-Italic.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/ClearSans-Light.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/ClearSans-Medium.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/ClearSans-MediumItalic.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/ClearSans-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/ClearSans-Thin.ttf",
+			"variant": {
+				"weight": 100,
+				"style": "normal"
+			}
+		}
+	]
+}

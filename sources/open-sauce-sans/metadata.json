@@ -1,0 +1,121 @@
+{
+	"id": "open-sauce-sans",
+	"family": "Open Sauce Sans",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Alfredo Marco Pradil",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/marcologous/Open-Sauce-Fonts/1747e4467caf9ecce17690ae6880d86a03e17c41/Open%20Sauce%20Sans%20OFL.txt",
+		"attribution": "The Open Sauce Sans Authors"
+	},
+	"project": {
+		"repository": "https://github.com/marcologous/Open-Sauce-Fonts",
+		"revision": "1747e4467caf9ecce17690ae6880d86a03e17c41"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/OpenSauceSans-Black.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OpenSauceSans-BlackItalic.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/OpenSauceSans-Bold.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OpenSauceSans-BoldItalic.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/OpenSauceSans-ExtraBold.ttf",
+			"variant": {
+				"weight": 800,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OpenSauceSans-ExtraBoldItalic.ttf",
+			"variant": {
+				"weight": 800,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/OpenSauceSans-Italic.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/OpenSauceSans-Light.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OpenSauceSans-LightItalic.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/OpenSauceSans-Medium.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OpenSauceSans-MediumItalic.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/OpenSauceSans-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OpenSauceSans-SemiBold.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/OpenSauceSans-SemiBoldItalic.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "italic"
+			}
+		}
+	]
+}

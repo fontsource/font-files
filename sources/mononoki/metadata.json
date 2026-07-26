@@ -1,0 +1,51 @@
+{
+	"id": "mononoki",
+	"family": "Mononoki",
+	"classifications": [
+		"monospace"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Matthias Tellen",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/madmalik/mononoki/089d2a4c07fe805432bbe54dc097dc715f90071a/LICENSE",
+		"attribution": "Matthias Tellen"
+	},
+	"project": {
+		"repository": "https://github.com/madmalik/mononoki",
+		"revision": "089d2a4c07fe805432bbe54dc097dc715f90071a"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/mononoki-Bold.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/mononoki-BoldItalic.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/mononoki-Italic.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/mononoki-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}

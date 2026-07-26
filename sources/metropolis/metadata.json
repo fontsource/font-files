@@ -1,0 +1,149 @@
+{
+	"id": "metropolis",
+	"family": "Metropolis",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Chris Simpson",
+	"license": {
+		"id": "Unlicense",
+		"url": "https://raw.githubusercontent.com/dw5/Metropolis/79b4b2e1164f5184edd5e3ba8b4acb590a9e7821/UNLICENSE",
+		"attribution": "Chris Simpson"
+	},
+	"project": {
+		"repository": "https://github.com/dw5/Metropolis",
+		"revision": "79b4b2e1164f5184edd5e3ba8b4acb590a9e7821"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/Metropolis-Black.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Metropolis-BlackItalic.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Metropolis-Bold.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Metropolis-BoldItalic.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Metropolis-ExtraBold.ttf",
+			"variant": {
+				"weight": 800,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Metropolis-ExtraBoldItalic.ttf",
+			"variant": {
+				"weight": 800,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Metropolis-ExtraLight.ttf",
+			"variant": {
+				"weight": 200,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Metropolis-ExtraLightItalic.ttf",
+			"variant": {
+				"weight": 200,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Metropolis-Light.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Metropolis-LightItalic.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Metropolis-Medium.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Metropolis-MediumItalic.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Metropolis-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Metropolis-RegularItalic.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Metropolis-SemiBold.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Metropolis-SemiBoldItalic.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Metropolis-Thin.ttf",
+			"variant": {
+				"weight": 100,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Metropolis-ThinItalic.ttf",
+			"variant": {
+				"weight": 100,
+				"style": "italic"
+			}
+		}
+	]
+}

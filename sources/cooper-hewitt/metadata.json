@@ -1,0 +1,121 @@
+{
+	"id": "cooper-hewitt",
+	"family": "Cooper Hewitt",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Chester Jenkins",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/cooperhewitt/cooperhewitt-typeface/4480445381f1fe6633d7a59504b7bddd4bc0e82e/files/-CooperHewitt-OFL-201406.txt",
+		"attribution": "Cooper Hewitt Smithsonian Design Museum"
+	},
+	"project": {
+		"repository": "https://github.com/cooperhewitt/cooperhewitt-typeface",
+		"revision": "4480445381f1fe6633d7a59504b7bddd4bc0e82e"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/CooperHewitt-Bold.otf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/CooperHewitt-BoldItalic.otf",
+			"variant": {
+				"weight": 700,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/CooperHewitt-Book.otf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/CooperHewitt-BookItalic.otf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/CooperHewitt-Heavy.otf",
+			"variant": {
+				"weight": 800,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/CooperHewitt-HeavyItalic.otf",
+			"variant": {
+				"weight": 800,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/CooperHewitt-Light.otf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/CooperHewitt-LightItalic.otf",
+			"variant": {
+				"weight": 300,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/CooperHewitt-Medium.otf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/CooperHewitt-MediumItalic.otf",
+			"variant": {
+				"weight": 500,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/CooperHewitt-Semibold.otf",
+			"variant": {
+				"weight": 600,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/CooperHewitt-SemiboldItalic.otf",
+			"variant": {
+				"weight": 600,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/CooperHewitt-Thin.otf",
+			"variant": {
+				"weight": 100,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/CooperHewitt-ThinItalic.otf",
+			"variant": {
+				"weight": 100,
+				"style": "italic"
+			}
+		}
+	]
+}
