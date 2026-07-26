@@ -1,0 +1,150 @@
+{
+	"id": "iosevka-curly-slab",
+	"family": "Iosevka Curly Slab",
+	"classifications": [
+		"monospace",
+		"slab-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Renzhi Li (Belleve Invis)",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/be5invis/Iosevka/ca3ad8e280e2f0b614a5a7721b047daaf023713d/LICENSE.md",
+		"attribution": "Renzhi Li (Belleve Invis)"
+	},
+	"project": {
+		"repository": "https://github.com/be5invis/Iosevka",
+		"revision": "ca3ad8e280e2f0b614a5a7721b047daaf023713d"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/IosevkaCurlySlab-Bold.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/IosevkaCurlySlab-BoldItalic.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/IosevkaCurlySlab-ExtraBold.ttf",
+			"variant": {
+				"weight": 800,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/IosevkaCurlySlab-ExtraBoldItalic.ttf",
+			"variant": {
+				"weight": 800,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/IosevkaCurlySlab-ExtraLight.ttf",
+			"variant": {
+				"weight": 200,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/IosevkaCurlySlab-ExtraLightItalic.ttf",
+			"variant": {
+				"weight": 200,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/IosevkaCurlySlab-Heavy.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/IosevkaCurlySlab-HeavyItalic.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/IosevkaCurlySlab-Italic.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/IosevkaCurlySlab-Light.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/IosevkaCurlySlab-LightItalic.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/IosevkaCurlySlab-Medium.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/IosevkaCurlySlab-MediumItalic.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/IosevkaCurlySlab-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/IosevkaCurlySlab-SemiBold.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/IosevkaCurlySlab-SemiBoldItalic.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/IosevkaCurlySlab-Thin.ttf",
+			"variant": {
+				"weight": 100,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/IosevkaCurlySlab-ThinItalic.ttf",
+			"variant": {
+				"weight": 100,
+				"style": "italic"
+			}
+		}
+	]
+}
