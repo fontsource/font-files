@@ -1,0 +1,8 @@
+/* kripa-wght-normal */
+@font-face {
+	font-family: "Kripa Variable";
+	font-style: normal;
+	font-display: swap;
+	font-weight: 200 800;
+	src: url(./files/kripa-wght-normal.woff2) format("woff2");
+}
