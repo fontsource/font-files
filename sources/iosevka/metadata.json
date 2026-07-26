@@ -1,0 +1,147 @@
+{
+	"id": "iosevka",
+	"family": "Iosevka",
+	"classifications": [
+		"monospace",
+		"sans-serif"
+	],
+	"primaryScript": "Latn",
+	"designer": "Renzhi Li (Belleve Invis)",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/be5invis/Iosevka/ca3ad8e280e2f0b614a5a7721b047daaf023713d/LICENSE.md",
+		"attribution": "Renzhi Li (Belleve Invis)"
+	},
+	"project": {
+		"repository": "https://github.com/be5invis/Iosevka",
+		"revision": "ca3ad8e280e2f0b614a5a7721b047daaf023713d"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/Iosevka-Bold.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Iosevka-BoldItalic.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Iosevka-ExtraBold.ttf",
+			"variant": {
+				"weight": 800,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Iosevka-ExtraBoldItalic.ttf",
+			"variant": {
+				"weight": 800,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Iosevka-ExtraLight.ttf",
+			"variant": {
+				"weight": 200,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Iosevka-ExtraLightItalic.ttf",
+			"variant": {
+				"weight": 200,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Iosevka-Heavy.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Iosevka-HeavyItalic.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Iosevka-Italic.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Iosevka-Light.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Iosevka-LightItalic.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Iosevka-Medium.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Iosevka-MediumItalic.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Iosevka-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Iosevka-SemiBold.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Iosevka-SemiBoldItalic.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Iosevka-Thin.ttf",
+			"variant": {
+				"weight": 100,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Iosevka-ThinItalic.ttf",
+			"variant": {
+				"weight": 100,
+				"style": "italic"
+			}
+		}
+	]
+}
