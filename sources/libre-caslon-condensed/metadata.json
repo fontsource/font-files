@@ -1,0 +1,37 @@
+{
+	"id": "libre-caslon-condensed",
+	"family": "Libre Caslon Condensed",
+	"classifications": [
+		"serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Ertekin Erdin",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/ertekinno/libre-caslon-condensed/e3b55edea5a9d67a347caaa1d9c04618ffe7b4d7/OFL.txt",
+		"attribution": "Ertekin Erdin"
+	},
+	"project": {
+		"repository": "https://github.com/ertekinno/libre-caslon-condensed",
+		"revision": "e3b55edea5a9d67a347caaa1d9c04618ffe7b4d7"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/LibreCaslonCondensed-Italic[wght].ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/LibreCaslonCondensed[wght].ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}

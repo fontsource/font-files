@@ -1,0 +1,37 @@
+{
+	"id": "ia-writer-quattro",
+	"family": "iA Writer Quattro",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Information Architects Inc.",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/iaolo/iA-Fonts/f32c04c3058a75d7ce28919ce70fe8800817491b/iA%20Writer%20Quattro/LICENSE.md",
+		"attribution": "Information Architects Inc."
+	},
+	"project": {
+		"repository": "https://github.com/iaolo/iA-Fonts",
+		"revision": "f32c04c3058a75d7ce28919ce70fe8800817491b"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/iAWriterQuattroV-Italic.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/iAWriterQuattroV.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}

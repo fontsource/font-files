@@ -1,0 +1,37 @@
+{
+	"id": "maple-mono",
+	"family": "Maple Mono",
+	"classifications": [
+		"monospace"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Subframe7536",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/subframe7536/maple-font/4d847729cbfc5b5d8cbae5795fd2348c70112648/OFL.txt",
+		"attribution": "Subframe7536"
+	},
+	"project": {
+		"repository": "https://github.com/subframe7536/maple-font",
+		"revision": "4d847729cbfc5b5d8cbae5795fd2348c70112648"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/MapleMono-Italic[wght].ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/MapleMono[wght].ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}

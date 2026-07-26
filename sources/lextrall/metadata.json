@@ -1,0 +1,30 @@
+{
+	"id": "lextrall",
+	"family": "Lextrall",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Amuzil",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/amuzil/lextrall/69bffcbc19ac72542b82dd74462075dcfb912813/licence.txt",
+		"attribution": "Amuzil"
+	},
+	"project": {
+		"repository": "https://github.com/amuzil/lextrall",
+		"revision": "69bffcbc19ac72542b82dd74462075dcfb912813"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/Lextrall[HEXP,wght].ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}

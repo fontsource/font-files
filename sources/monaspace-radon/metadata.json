@@ -1,0 +1,31 @@
+{
+	"id": "monaspace-radon",
+	"family": "Monaspace Radon",
+	"classifications": [
+		"monospace",
+		"handwriting"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "GitHub Next",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/githubnext/monaspace/f31794b6e9e65698a062262e2f826f679dcb7070/LICENSE",
+		"attribution": "GitHub Next"
+	},
+	"project": {
+		"repository": "https://github.com/githubnext/monaspace",
+		"revision": "f31794b6e9e65698a062262e2f826f679dcb7070"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/Monaspace Radon Var.ttf",
+			"variant": {
+				"weight": 200,
+				"style": "normal"
+			}
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"id": "uncut-sans",
+	"family": "Uncut Sans",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "Kasper Nordkvist",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/kaspernordkvist/uncut_sans/b3b42467781e3bd98c68f2d70eba325196e7d9c5/LICENSE.txt",
+		"attribution": "Kasper Nordkvist"
+	},
+	"project": {
+		"repository": "https://github.com/kaspernordkvist/uncut_sans",
+		"revision": "b3b42467781e3bd98c68f2d70eba325196e7d9c5"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/UncutSans-Variable.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}

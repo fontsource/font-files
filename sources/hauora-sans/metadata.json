@@ -1,0 +1,30 @@
+{
+	"id": "hauora-sans",
+	"family": "Hauora Sans",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [],
+	"languages": [],
+	"primaryScript": "Latn",
+	"designer": "WCYS & Co.",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/WCYS-Co/Hauora-Sans/75131397db767f52236dde990405aad2deaf9cb6/OFL.txt",
+		"attribution": "WCYS & Co."
+	},
+	"project": {
+		"repository": "https://github.com/WCYS-Co/Hauora-Sans",
+		"revision": "75131397db767f52236dde990405aad2deaf9cb6"
+	},
+	"declaredSubsets": [],
+	"sourceFiles": [
+		{
+			"path": "files/Hauora[wght].ttf",
+			"variant": {
+				"weight": 200,
+				"style": "normal"
+			}
+		}
+	]
+}
