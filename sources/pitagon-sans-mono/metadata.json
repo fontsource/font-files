@@ -5,8 +5,6 @@
 		"monospace",
 		"sans-serif"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Travis Tran and Pitagon",
 	"license": {
@@ -18,7 +16,6 @@
 		"repository": "https://github.com/ThePitagon/pitagon-sans-mono",
 		"revision": "56c2a56f2097b6f0c7c111b8f05234d983cb5d35"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/PitagonSansMono-Italic[wght].ttf",

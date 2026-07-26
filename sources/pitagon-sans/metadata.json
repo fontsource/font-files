@@ -8,7 +8,6 @@
 	"tags": [
 		"sans/geometric"
 	],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Travis Tran and Pitagon",
 	"license": {
@@ -20,7 +19,6 @@
 		"repository": "https://github.com/ThePitagon/pitagon-sans",
 		"revision": "70e53c42e411bde9512c156ad88ec5eacdb18883"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/PitagonSans[wght].ttf",
