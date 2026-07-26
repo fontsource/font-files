@@ -4,8 +4,6 @@
 	"classifications": [
 		"display"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "keshikan",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://github.com/keshikan/DSEG",
 		"revision": "a5019e1351dfa7b3c52aa3eff52ffb9c49538719"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/DSEG7ModernMini-Bold.ttf",
