@@ -1,0 +1,30 @@
+{
+	"id": "dseg7-segg-chan",
+	"family": "DSEG7 SEGG CHAN",
+	"classifications": [
+		"display"
+	],
+	"tags": [
+		"theme/techno"
+	],
+	"primaryScript": "Latn",
+	"designer": "keshikan",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/keshikan/DSEG/a5019e1351dfa7b3c52aa3eff52ffb9c49538719/DSEG-LICENSE.txt",
+		"attribution": "keshikan"
+	},
+	"project": {
+		"repository": "https://github.com/keshikan/DSEG",
+		"revision": "a5019e1351dfa7b3c52aa3eff52ffb9c49538719"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/DSEG7SEGGCHAN-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}

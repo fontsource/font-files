@@ -1,0 +1,65 @@
+{
+	"id": "dseg7-modern-mini",
+	"family": "DSEG7 Modern Mini",
+	"classifications": [
+		"display"
+	],
+	"tags": [
+		"theme/techno"
+	],
+	"primaryScript": "Latn",
+	"designer": "keshikan",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/keshikan/DSEG/a5019e1351dfa7b3c52aa3eff52ffb9c49538719/DSEG-LICENSE.txt",
+		"attribution": "keshikan"
+	},
+	"project": {
+		"repository": "https://github.com/keshikan/DSEG",
+		"revision": "a5019e1351dfa7b3c52aa3eff52ffb9c49538719"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/DSEG7ModernMini-Bold.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/DSEG7ModernMini-BoldItalic.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/DSEG7ModernMini-Italic.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/DSEG7ModernMini-Light.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/DSEG7ModernMini-LightItalic.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/DSEG7ModernMini-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}
