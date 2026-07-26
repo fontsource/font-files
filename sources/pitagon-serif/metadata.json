@@ -1,0 +1,34 @@
+{
+	"id": "pitagon-serif",
+	"family": "Pitagon Serif",
+	"classifications": [
+		"serif"
+	],
+	"primaryScript": "Latn",
+	"designer": "Travis Tran and Pitagon",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/ThePitagon/pitagon-serif/928ec2a9f054bb3a6fe676477b4a88e9de70ccfd/OFL.txt",
+		"attribution": "The Pitagon Serif Project Authors"
+	},
+	"project": {
+		"repository": "https://github.com/ThePitagon/pitagon-serif",
+		"revision": "928ec2a9f054bb3a6fe676477b4a88e9de70ccfd"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/PitagonSerif-Italic[wght].ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/PitagonSerif[wght].ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}
