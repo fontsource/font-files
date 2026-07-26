@@ -5,8 +5,6 @@
 		"display",
 		"sans-serif"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Lucas Descroix with Bonjour Monde",
 	"license": {
@@ -18,7 +16,6 @@
 		"repository": "https://gitlab.com/bonjour-monde/fonderie/syne-typeface",
 		"revision": "e536e8f1a8724bf282da74bbae410f91231ce94c"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/Syne-Italic.ttf",

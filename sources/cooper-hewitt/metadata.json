@@ -4,8 +4,6 @@
 	"classifications": [
 		"sans-serif"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Chester Jenkins",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://github.com/cooperhewitt/cooperhewitt-typeface",
 		"revision": "4480445381f1fe6633d7a59504b7bddd4bc0e82e"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/CooperHewitt-Bold.otf",

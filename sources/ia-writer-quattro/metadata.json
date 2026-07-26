@@ -4,8 +4,6 @@
 	"classifications": [
 		"sans-serif"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Information Architects Inc.",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://github.com/iaolo/iA-Fonts",
 		"revision": "f32c04c3058a75d7ce28919ce70fe8800817491b"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/iAWriterQuattroV-Italic.ttf",

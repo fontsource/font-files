@@ -4,8 +4,6 @@
 	"classifications": [
 		"monospace"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Matthias Tellen",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://github.com/madmalik/mononoki",
 		"revision": "089d2a4c07fe805432bbe54dc097dc715f90071a"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/mononoki-Bold.ttf",

@@ -4,8 +4,6 @@
 	"classifications": [
 		"sans-serif"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Laurids Kern",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://github.com/lauridskern/open-runde",
 		"revision": "3e7ed7f3cdfa5523766db7e430066472615fc935"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/OpenRunde-Bold.otf",

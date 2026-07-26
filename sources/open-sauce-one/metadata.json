@@ -4,8 +4,6 @@
 	"classifications": [
 		"sans-serif"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Alfredo Marco Pradil",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://github.com/marcologous/Open-Sauce-Fonts",
 		"revision": "1747e4467caf9ecce17690ae6880d86a03e17c41"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/OpenSauceOne-Black.ttf",

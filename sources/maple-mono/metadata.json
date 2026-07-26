@@ -4,8 +4,6 @@
 	"classifications": [
 		"monospace"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "Subframe7536",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://github.com/subframe7536/maple-font",
 		"revision": "4d847729cbfc5b5d8cbae5795fd2348c70112648"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/MapleMono-Italic[wght].ttf",

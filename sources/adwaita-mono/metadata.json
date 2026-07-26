@@ -4,8 +4,6 @@
 	"classifications": [
 		"monospace"
 	],
-	"tags": [],
-	"languages": [],
 	"primaryScript": "Latn",
 	"designer": "The GNOME Project",
 	"license": {
@@ -17,7 +15,6 @@
 		"repository": "https://gitlab.gnome.org/GNOME/adwaita-fonts",
 		"revision": "bd828c71418f7ae3af76687d6ca2a809111770f2"
 	},
-	"declaredSubsets": [],
 	"sourceFiles": [
 		{
 			"path": "files/AdwaitaMono-Bold.ttf",
