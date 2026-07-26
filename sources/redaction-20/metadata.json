@@ -1,0 +1,45 @@
+{
+	"id": "redaction-20",
+	"family": "Redaction 20",
+	"classifications": [
+		"display",
+		"serif"
+	],
+	"tags": [
+		"special-use/redaction"
+	],
+	"primaryScript": "Latn",
+	"designer": "Jeremy Mickel",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://www.redaction.us/static/redaction.zip",
+		"attribution": "MCKL Inc."
+	},
+	"project": {
+		"repository": "https://www.redaction.us/",
+		"revision": "2.001"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/Redaction20-Bold.otf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Redaction20-Italic.otf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Redaction20-Regular.otf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}
