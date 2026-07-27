@@ -1,7 +1,13 @@
 name: Package Verifier
-on: [pull_request, push]
+on:
+  pull_request:
+  push:
+    branches: [main]
 
 jobs:
+  registry:
+    uses: fontsource/fontsource/.github/workflows/registry-check.yml@main
+
   build:
     runs-on: ubuntu-latest
     steps:
