@@ -1,0 +1,31 @@
+{
+	"id": "fusion-kai-g",
+	"family": "Fusion Kai G",
+	"classifications": [
+		"handwriting"
+	],
+	"tags": [
+		"script/handwritten"
+	],
+	"primaryLanguage": "zh_Hans",
+	"primaryScript": "Hans",
+	"designer": "lxgw",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/lxgw/FusionKai/0bd3ae7ffcd1f290b8db5047ef31b74573368407/OFL.txt",
+		"attribution": "lxgw and upstream contributors"
+	},
+	"project": {
+		"repository": "https://github.com/lxgw/FusionKai",
+		"revision": "0bd3ae7ffcd1f290b8db5047ef31b74573368407"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/FusionKaiG-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}
