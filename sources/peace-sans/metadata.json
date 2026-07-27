@@ -1,0 +1,28 @@
+{
+	"id": "peace-sans",
+	"family": "Peace Sans",
+	"classifications": [
+		"display",
+		"sans-serif"
+	],
+	"primaryScript": "Latn",
+	"designer": "Sergey Ryadovoy and Jovanny Lemonad",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://ryadovoy.com/assets/Peace%20Sans.zip",
+		"attribution": "Sergey Ryadovoy and Jovanny Lemonad"
+	},
+	"project": {
+		"repository": "https://ryadovoy.com/",
+		"revision": "1.0.0"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/Peace Sans.otf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}

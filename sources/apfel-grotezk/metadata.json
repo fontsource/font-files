@@ -1,0 +1,52 @@
+{
+	"id": "apfel-grotezk",
+	"family": "Apfel Grotezk",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [
+		"sans/geometric",
+		"sans/neo-grotesque"
+	],
+	"primaryScript": "Latn",
+	"designer": "Luigi Gorlero",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/collletttivo/apfel-grotezk/8b4c9f2682d274d7fae81d8eceef24f7f2fba4ea/LICENSE.txt",
+		"attribution": "Collletttivo"
+	},
+	"project": {
+		"repository": "https://github.com/collletttivo/apfel-grotezk",
+		"revision": "8b4c9f2682d274d7fae81d8eceef24f7f2fba4ea"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/ApfelGrotezk-Regular.otf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/ApfelGrotezk-Mittel.otf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/ApfelGrotezk-Fett.otf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/ApfelGrotezk-Satt.otf",
+			"variant": {
+				"weight": 900,
+				"style": "normal"
+			}
+		}
+	]
+}
