@@ -1,0 +1,32 @@
+{
+	"id": "fusion-pixel-8px-proportional-jp",
+	"family": "Fusion Pixel 8px Proportional JP",
+	"classifications": [
+		"display",
+		"sans-serif"
+	],
+	"tags": [
+		"theme/pixel"
+	],
+	"primaryLanguage": "ja_Jpan",
+	"primaryScript": "Jpan",
+	"designer": "TakWolf",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/TakWolf/fusion-pixel-font/c29615e1f629c6bb27dac3e6dcaa4556e629d09f/LICENSE-OFL",
+		"attribution": "TakWolf and upstream contributors"
+	},
+	"project": {
+		"repository": "https://github.com/TakWolf/fusion-pixel-font",
+		"revision": "c29615e1f629c6bb27dac3e6dcaa4556e629d09f"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/fusion-pixel-8px-proportional-ja.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}
