@@ -1,0 +1,30 @@
+{
+	"id": "unifontex",
+	"family": "UnifontEX",
+	"classifications": [
+		"monospace",
+		"sans-serif"
+	],
+	"tags": [
+		"theme/pixel"
+	],
+	"designer": "stgiga",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://www.unifoundry.com/LICENSE.txt",
+		"attribution": "stgiga and GNU Unifont contributors"
+	},
+	"project": {
+		"repository": "https://github.com/stgiga/UnifontEX",
+		"revision": "76b80b0832ab183f453ac7610a3b068ec98d1b08"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/UnifontExMono.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}
