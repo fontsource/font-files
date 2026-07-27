@@ -1,0 +1,94 @@
+{
+	"id": "pretendard",
+	"family": "Pretendard",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [
+		"sans/neo-grotesque"
+	],
+	"primaryLanguage": "ko_Kore",
+	"primaryScript": "Kore",
+	"designer": "Kil Hyung-jin",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/orioncactus/pretendard/5c41199ea0024a9e0b2cb31735265056e5472d76/LICENSE",
+		"attribution": "Kil Hyung-jin"
+	},
+	"project": {
+		"repository": "https://github.com/orioncactus/pretendard",
+		"revision": "5c41199ea0024a9e0b2cb31735265056e5472d76"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/PretendardVariable.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Pretendard-Thin.ttf",
+			"variant": {
+				"weight": 100,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Pretendard-ExtraLight.ttf",
+			"variant": {
+				"weight": 200,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Pretendard-Light.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Pretendard-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Pretendard-Medium.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Pretendard-SemiBold.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Pretendard-Bold.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Pretendard-ExtraBold.ttf",
+			"variant": {
+				"weight": 800,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Pretendard-Black.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "normal"
+			}
+		}
+	]
+}

@@ -1,0 +1,84 @@
+{
+	"id": "noto-mono",
+	"family": "Noto Mono",
+	"classifications": [
+		"monospace",
+		"sans-serif"
+	],
+	"primaryScript": "Latn",
+	"designer": "The Noto Project Authors",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/notofonts/noto-fonts/eaa31bdfd6881e0506ef5a711aaf4b0d4f85a7c1/LICENSE",
+		"attribution": "The Noto Project Authors"
+	},
+	"project": {
+		"repository": "https://github.com/notofonts/noto-fonts",
+		"revision": "eaa31bdfd6881e0506ef5a711aaf4b0d4f85a7c1"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/NotoMono-Thin.ttf",
+			"variant": {
+				"weight": 100,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/NotoMono-ExtraLight.ttf",
+			"variant": {
+				"weight": 200,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/NotoMono-Light.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/NotoMono-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/NotoMono-Medium.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/NotoMono-SemiBold.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/NotoMono-Bold.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/NotoMono-ExtraBold.ttf",
+			"variant": {
+				"weight": 800,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/NotoMono-Black.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "normal"
+			}
+		}
+	]
+}

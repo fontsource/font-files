@@ -1,0 +1,73 @@
+{
+	"id": "genjyuu-gothic",
+	"family": "Genjyuu Gothic",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [
+		"sans/rounded"
+	],
+	"primaryLanguage": "ja_Jpan",
+	"primaryScript": "Jpan",
+	"designer": "Jikasei Font Studio",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://ftp.iij.ad.jp/pub/osdn.jp/users/8/8642/genjyuugothic-20150607.zip",
+		"attribution": "Jikasei Font Studio, Adobe, and the M+ Fonts Project"
+	},
+	"project": {
+		"repository": "https://ftp.iij.ad.jp/pub/osdn.jp/users/8/8642/genjyuugothic-20150607.zip",
+		"revision": "20150607"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/GenJyuuGothic-ExtraLight.ttf",
+			"variant": {
+				"weight": 100,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/GenJyuuGothic-Light.ttf",
+			"variant": {
+				"weight": 200,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/GenJyuuGothic-Normal.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/GenJyuuGothic-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/GenJyuuGothic-Medium.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/GenJyuuGothic-Bold.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/GenJyuuGothic-Heavy.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "normal"
+			}
+		}
+	]
+}
