@@ -1,0 +1,29 @@
+{
+	"id": "unifont",
+	"family": "Unifont",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [
+		"theme/pixel"
+	],
+	"designer": "GNU Unifont contributors",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://www.unifoundry.com/LICENSE.txt",
+		"attribution": "GNU Unifont contributors"
+	},
+	"project": {
+		"repository": "https://unifoundry.com/unifont/index.html",
+		"revision": "17.0.05"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/unifont-17.0.05.otf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}
