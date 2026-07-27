@@ -1,0 +1,72 @@
+{
+	"id": "yakuhanrps",
+	"family": "YakuHanRPs",
+	"classifications": [
+		"sans-serif",
+		"symbols"
+	],
+	"languages": [],
+	"primaryLanguage": "ja_Jpan",
+	"primaryScript": "Jpan",
+	"designer": "Qrac",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/qrac/yakuhanjp/3c7c89f68f7e604bb161b1c47cb4c403a4e517bc/resource/M_PLUS_Rounded_1c/OFL.txt",
+		"attribution": "Qrac and upstream contributors"
+	},
+	"project": {
+		"repository": "https://github.com/qrac/yakuhanjp",
+		"revision": "3c7c89f68f7e604bb161b1c47cb4c403a4e517bc"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/YakuHanRPs-Thin.ttf",
+			"variant": {
+				"weight": 100,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/YakuHanRPs-Light.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/YakuHanRPs-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/YakuHanRPs-Medium.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/YakuHanRPs-Bold.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/YakuHanRPs-ExtraBold.ttf",
+			"variant": {
+				"weight": 800,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/YakuHanRPs-Black.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "normal"
+			}
+		}
+	]
+}

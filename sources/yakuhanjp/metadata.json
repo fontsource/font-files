@@ -1,0 +1,86 @@
+{
+	"id": "yakuhanjp",
+	"family": "YakuHanJP",
+	"classifications": [
+		"sans-serif",
+		"symbols"
+	],
+	"languages": [],
+	"primaryLanguage": "ja_Jpan",
+	"primaryScript": "Jpan",
+	"designer": "Qrac",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/qrac/yakuhanjp/3c7c89f68f7e604bb161b1c47cb4c403a4e517bc/resource/Noto_Sans_JP/OFL.txt",
+		"attribution": "Qrac and upstream contributors"
+	},
+	"project": {
+		"repository": "https://github.com/qrac/yakuhanjp",
+		"revision": "3c7c89f68f7e604bb161b1c47cb4c403a4e517bc"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/YakuHanJP-Thin.ttf",
+			"variant": {
+				"weight": 100,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/YakuHanJP-ExtraLight.ttf",
+			"variant": {
+				"weight": 200,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/YakuHanJP-Light.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/YakuHanJP-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/YakuHanJP-Medium.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/YakuHanJP-SemiBold.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/YakuHanJP-Bold.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/YakuHanJP-ExtraBold.ttf",
+			"variant": {
+				"weight": 800,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/YakuHanJP-Black.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "normal"
+			}
+		}
+	]
+}
