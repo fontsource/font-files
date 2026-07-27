@@ -1,0 +1,145 @@
+{
+	"id": "firago",
+	"family": "FiraGO",
+	"classifications": [
+		"sans-serif"
+	],
+	"designer": "Carrois Corporate GbR and bBox Type GmbH",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/bBoxType/FiraGO/5bbcb9d066ab563686ed1de1e6f62eec0148e82d/OFL.txt",
+		"attribution": "Carrois Corporate GbR and HERE Europe B.V."
+	},
+	"project": {
+		"repository": "https://github.com/bBoxType/FiraGO",
+		"revision": "5bbcb9d066ab563686ed1de1e6f62eec0148e82d"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/FiraGO-Thin.ttf",
+			"variant": {
+				"weight": 100,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/FiraGO-ThinItalic.ttf",
+			"variant": {
+				"weight": 100,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/FiraGO-ExtraLight.ttf",
+			"variant": {
+				"weight": 200,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/FiraGO-ExtraLightItalic.ttf",
+			"variant": {
+				"weight": 200,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/FiraGO-Light.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/FiraGO-LightItalic.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/FiraGO-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/FiraGO-Italic.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/FiraGO-Medium.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/FiraGO-MediumItalic.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/FiraGO-SemiBold.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/FiraGO-SemiBoldItalic.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/FiraGO-Bold.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/FiraGO-BoldItalic.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/FiraGO-ExtraBold.ttf",
+			"variant": {
+				"weight": 800,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/FiraGO-ExtraBoldItalic.ttf",
+			"variant": {
+				"weight": 800,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/FiraGO-Heavy.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/FiraGO-HeavyItalic.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "italic"
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"id": "lxgw-wenkai",
+	"family": "LXGW WenKai",
+	"classifications": [
+		"handwriting"
+	],
+	"tags": [
+		"script/handwritten"
+	],
+	"primaryLanguage": "zh_Hans",
+	"primaryScript": "Hans",
+	"designer": "LXGW",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/lxgw/LxgwWenKai/e8b5b48b79f19f29aa68b0a178eab3472ea9f7e8/OFL.txt",
+		"attribution": "LXGW and The Klee Project Authors"
+	},
+	"project": {
+		"repository": "https://github.com/lxgw/LxgwWenKai",
+		"revision": "e8b5b48b79f19f29aa68b0a178eab3472ea9f7e8"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/LXGWWenKai-Light.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/LXGWWenKai-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/LXGWWenKai-Medium.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		}
+	]
+}
