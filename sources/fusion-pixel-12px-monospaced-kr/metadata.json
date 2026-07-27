@@ -1,0 +1,33 @@
+{
+	"id": "fusion-pixel-12px-monospaced-kr",
+	"family": "Fusion Pixel 12px Monospaced KR",
+	"classifications": [
+		"display",
+		"monospace",
+		"sans-serif"
+	],
+	"tags": [
+		"theme/pixel"
+	],
+	"primaryLanguage": "ko_Kore",
+	"primaryScript": "Kore",
+	"designer": "TakWolf",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/TakWolf/fusion-pixel-font/c29615e1f629c6bb27dac3e6dcaa4556e629d09f/LICENSE-OFL",
+		"attribution": "TakWolf and upstream contributors"
+	},
+	"project": {
+		"repository": "https://github.com/TakWolf/fusion-pixel-font",
+		"revision": "c29615e1f629c6bb27dac3e6dcaa4556e629d09f"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/fusion-pixel-12px-monospaced-ko.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}
