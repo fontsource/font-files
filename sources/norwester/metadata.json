@@ -1,0 +1,31 @@
+{
+	"id": "norwester",
+	"family": "Norwester",
+	"classifications": [
+		"display",
+		"sans-serif"
+	],
+	"tags": [
+		"sans/geometric"
+	],
+	"primaryScript": "Latn",
+	"designer": "Jamie Wilson",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/jamiewilson/norwester/eb5eb75aa86c8f178ab8aa88343a8e13353ba67d/assets/norwester.zip",
+		"attribution": "Jamie Wilson"
+	},
+	"project": {
+		"repository": "https://github.com/jamiewilson/norwester",
+		"revision": "eb5eb75aa86c8f178ab8aa88343a8e13353ba67d"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/norwester.otf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}

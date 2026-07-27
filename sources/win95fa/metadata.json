@@ -1,0 +1,31 @@
+{
+	"id": "win95fa",
+	"family": "WIN95FA",
+	"classifications": [
+		"display",
+		"sans-serif"
+	],
+	"tags": [
+		"theme/pixel"
+	],
+	"primaryScript": "Latn",
+	"designer": "Alina Sava",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://fontsarena.com/wp-content/uploads/2020/01/W95FA.zip",
+		"attribution": "Alina Sava"
+	},
+	"project": {
+		"repository": "https://fontsarena.com/w95fa-by-alina-sava/",
+		"revision": "1.0"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/W95FA.otf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}

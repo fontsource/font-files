@@ -1,0 +1,107 @@
+{
+	"id": "nebula-sans",
+	"family": "Nebula Sans",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [
+		"sans/humanist"
+	],
+	"primaryScript": "Latn",
+	"designer": "Nebula Entertainment & Broadcasting LLC",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://www.nebulasans.com/license",
+		"attribution": "Nebula Entertainment & Broadcasting LLC and Adobe"
+	},
+	"project": {
+		"repository": "https://www.nebulasans.com/",
+		"revision": "1.010"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/NebulaSans-Light.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/NebulaSans-LightItalic.ttf",
+			"variant": {
+				"weight": 300,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/NebulaSans-Book.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/NebulaSans-BookItalic.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/NebulaSans-Medium.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/NebulaSans-MediumItalic.ttf",
+			"variant": {
+				"weight": 500,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/NebulaSans-Semibold.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/NebulaSans-SemiboldItalic.ttf",
+			"variant": {
+				"weight": 600,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/NebulaSans-Bold.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/NebulaSans-BoldItalic.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/NebulaSans-Black.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/NebulaSans-BlackItalic.ttf",
+			"variant": {
+				"weight": 900,
+				"style": "italic"
+			}
+		}
+	]
+}

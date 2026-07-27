@@ -1,0 +1,135 @@
+{
+	"id": "aileron",
+	"family": "Aileron",
+	"classifications": [
+		"sans-serif"
+	],
+	"tags": [
+		"sans/neo-grotesque"
+	],
+	"primaryScript": "Latn",
+	"designer": "Sora Sagano",
+	"license": {
+		"id": "CC0-1.0",
+		"url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt",
+		"attribution": "Sora Sagano"
+	},
+	"project": {
+		"repository": "https://dotcolon.net/fonts/aileron/",
+		"revision": "0.102"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/Aileron-UltraLight.otf",
+			"variant": {
+				"weight": 100,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Aileron-UltraLightItalic.otf",
+			"variant": {
+				"weight": 100,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Aileron-Thin.otf",
+			"variant": {
+				"weight": 200,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Aileron-ThinItalic.otf",
+			"variant": {
+				"weight": 200,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Aileron-Light.otf",
+			"variant": {
+				"weight": 300,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Aileron-LightItalic.otf",
+			"variant": {
+				"weight": 300,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Aileron-Regular.otf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Aileron-Italic.otf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Aileron-SemiBold.otf",
+			"variant": {
+				"weight": 600,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Aileron-SemiBoldItalic.otf",
+			"variant": {
+				"weight": 600,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Aileron-Bold.otf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Aileron-BoldItalic.otf",
+			"variant": {
+				"weight": 700,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Aileron-Heavy.otf",
+			"variant": {
+				"weight": 800,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Aileron-HeavyItalic.otf",
+			"variant": {
+				"weight": 800,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Aileron-Black.otf",
+			"variant": {
+				"weight": 900,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Aileron-BlackItalic.otf",
+			"variant": {
+				"weight": 900,
+				"style": "italic"
+			}
+		}
+	]
+}
