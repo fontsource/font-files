@@ -1,0 +1,34 @@
+{
+	"id": "geist-sans",
+	"family": "Geist Sans",
+	"classifications": [
+		"sans-serif"
+	],
+	"primaryScript": "Latn",
+	"designer": "The Geist Project Authors",
+	"license": {
+		"id": "OFL-1.1",
+		"url": "https://raw.githubusercontent.com/vercel/geist-font/a73329da8fc62afc917f796555202e4997f79b7c/OFL.txt",
+		"attribution": "Copyright 2024 The Geist Project Authors (https://github.com/vercel/geist-font)"
+	},
+	"project": {
+		"repository": "https://github.com/vercel/geist-font",
+		"revision": "a73329da8fc62afc917f796555202e4997f79b7c"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/Geist-Italic[wght].ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Geist[wght].ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}
