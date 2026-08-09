@@ -180,6 +180,15 @@
     "precision": 0
   },
   {
+    "name": "Jitter",
+    "tag": "JITT",
+    "description": "Controls the amount of jitter applied to the glyphs. Higher values emulate the mechanical imperfection and displacement of vintage printers.",
+    "min": 0,
+    "max": 100,
+    "default": 0,
+    "precision": 0
+  },
+  {
     "name": "Monospace",
     "tag": "MONO",
     "description": "Adjust the style from Proportional (natural widths, default) to Monospace (fixed width). With proportional spacing, each glyph takes up a unique amount of space on a line, while monospace is when all glyphs have the same total character width.",
