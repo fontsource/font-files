@@ -1,13 +1,13 @@
 {
   "id": "song-myung",
   "family": "Song Myung",
-  "subsets": ["korean"],
+  "subsets": ["korean", "latin"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "korean",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2025-09-08",
-  "version": "v22",
+  "lastModified": "2026-08-10",
+  "version": "v23",
   "category": "serif",
   "license": {
     "type": "OFL-1.1",

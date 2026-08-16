@@ -319,7 +319,7 @@
     "tag": "wdth",
     "description": "Adjust the style from narrower to wider, by varying the proportions of counters, strokes, spacing and kerning, and other aspects of the type. This typically changes the typographic color in a subtle way, and so may be used in conjunction with Weight and Grade axes.",
     "min": 25,
-    "max": 200,
+    "max": 300,
     "default": 100,
     "precision": -1
   },
@@ -382,7 +382,7 @@
     "tag": "XTRA",
     "description": "A parametric axis for varying counter widths in the X dimension.",
     "min": -1000,
-    "max": 2000,
+    "max": 3330,
     "default": 400,
     "precision": 0
   },

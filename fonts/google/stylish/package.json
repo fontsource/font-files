@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/stylish",
-  "version": "5.3.0",
+  "version": "5.3.1",
   "description": "Self-host the Stylish font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/stylish"
   },
-  "publishHash": "5198107bf9ff4beb"
+  "publishHash": "dc7e7115a3969630"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-color-emoji",
-  "version": "5.3.0",
+  "version": "5.3.1",
   "description": "Self-host the Noto Color Emoji font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-color-emoji"
   },
-  "publishHash": "2fce3ccfde51b323"
+  "publishHash": "911e6552345d1b3b"
 }

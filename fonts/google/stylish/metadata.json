@@ -1,13 +1,13 @@
 {
   "id": "stylish",
   "family": "Stylish",
-  "subsets": ["korean"],
+  "subsets": ["korean", "latin"],
   "weights": [400],
   "styles": ["normal"],
-  "defSubset": "korean",
+  "defSubset": "latin",
   "variable": false,
-  "lastModified": "2025-06-25",
-  "version": "v25",
+  "lastModified": "2026-08-10",
+  "version": "v26",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
