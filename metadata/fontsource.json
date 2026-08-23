@@ -27106,7 +27106,7 @@
     },
     "source": "https://github.com/google/fonts",
     "type": "google",
-    "npmVersion": "5.3.0",
+    "npmVersion": "5.3.1",
     "unicodeRange": {
       "tamil": "U+0964-0965,U+0B82-0BFA,U+200C-200D,U+20B9,U+25CC,U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD"
     }
@@ -27129,7 +27129,7 @@
     },
     "source": "https://github.com/google/fonts",
     "type": "google",
-    "npmVersion": "5.3.0",
+    "npmVersion": "5.3.1",
     "unicodeRange": {
       "tamil": "U+0964-0965,U+0B82-0BFA,U+200C-200D,U+20B9,U+25CC,U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD"
     }
@@ -33669,7 +33669,7 @@
     },
     "source": "https://github.com/google/fonts",
     "type": "google",
-    "npmVersion": "5.3.2",
+    "npmVersion": "5.3.3",
     "unicodeRange": {
       "latin": "U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD"
     }
@@ -33697,7 +33697,7 @@
     },
     "source": "https://github.com/google/fonts",
     "type": "google",
-    "npmVersion": "5.3.2",
+    "npmVersion": "5.3.3",
     "unicodeRange": {
       "latin": "U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD"
     }
@@ -33725,7 +33725,7 @@
     },
     "source": "https://github.com/google/fonts",
     "type": "google",
-    "npmVersion": "5.3.2",
+    "npmVersion": "5.3.3",
     "unicodeRange": {
       "latin": "U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD"
     }
@@ -33753,7 +33753,7 @@
     },
     "source": "https://github.com/google/fonts",
     "type": "google",
-    "npmVersion": "5.3.2",
+    "npmVersion": "5.3.3",
     "unicodeRange": {
       "latin": "U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD"
     }
@@ -37962,7 +37962,7 @@
     },
     "source": "https://github.com/google/fonts",
     "type": "google",
-    "npmVersion": "5.3.0",
+    "npmVersion": "5.3.1",
     "unicodeRange": {
       "[0]": "U+1f1e6-1f1ff",
       "[1]": "U+200d,U+2620,U+26a7,U+fe0f,U+1f308,U+1f38c,U+1f3c1,U+1f3f3-1f3f4,U+1f6a9,U+e0062-e0063,U+e0065,U+e0067,U+e006c,U+e006e,U+e0073-e0074,U+e0077,U+e007f",
@@ -57499,7 +57499,7 @@
     },
     "source": "https://github.com/google/fonts",
     "type": "google",
-    "npmVersion": "5.3.0",
+    "npmVersion": "5.3.1",
     "unicodeRange": {
       "[0]": "U+f9ca-fa0b,U+ff03-ff05,U+ff07,U+ff0a-ff0b,U+ff0d-ff19,U+ff1b,U+ff1d,U+ff20-ff5b,U+ff5d,U+ffe0-ffe3,U+ffe5-ffe6",
       "[2]": "U+d723-d728,U+d72a-d733,U+d735-d748,U+d74a-d74f,U+d752-d753,U+d755-d757,U+d75a-d75f,U+d762-d764,U+d766-d768,U+d76a-d76b,U+d76d-d76f,U+d771-d787,U+d789-d78b,U+d78d-d78f,U+d791-d797,U+d79a,U+d79c,U+d79e-d7a3,U+f900-f909,U+f90b-f92e",
@@ -58377,7 +58377,7 @@
     },
     "source": "https://github.com/google/fonts",
     "type": "google",
-    "npmVersion": "5.3.0",
+    "npmVersion": "5.3.1",
     "unicodeRange": {
       "[2]": "U+d723-d728,U+d72a-d733,U+d735-d748,U+d74a-d74f,U+d752-d753,U+d755-d757,U+d75a-d75f,U+d762-d764,U+d766-d768,U+d76a-d76b,U+d76d-d76f,U+d771-d787,U+d789-d78b,U+d78d-d78f,U+d791-d797,U+d79a,U+d79c,U+d79e-d7a3,U+f900-f909,U+f90b-f92e",
       "[3]": "U+d679-d68b,U+d68e-d69e,U+d6a0,U+d6a2-d6a7,U+d6a9-d6c3,U+d6c6-d6c7,U+d6c9-d6cb,U+d6cd-d6d3,U+d6d5-d6d6,U+d6d8-d6e3,U+d6e5-d6e7,U+d6e9-d6fb,U+d6fd-d717,U+d719-d71f,U+d721-d722",
@@ -59867,7 +59867,7 @@
     },
     "source": "https://github.com/google/fonts",
     "type": "google",
-    "npmVersion": "5.3.0",
+    "npmVersion": "5.3.1",
     "unicodeRange": {
       "[2]": "U+d723-d728,U+d72a-d733,U+d735-d748,U+d74a-d74f,U+d752-d753,U+d755-d757,U+d75a-d75f,U+d762-d764,U+d766-d768,U+d76a-d76b,U+d76d-d76f,U+d771-d787,U+d789-d78b,U+d78d-d78f,U+d791-d797,U+d79a,U+d79c,U+d79e-d7a3,U+f900-f909,U+f90b-f92e",
       "[3]": "U+d679-d68b,U+d68e-d69e,U+d6a0,U+d6a2-d6a7,U+d6a9-d6c3,U+d6c6-d6c7,U+d6c9-d6cb,U+d6cd-d6d3,U+d6d5-d6d6,U+d6d8-d6e3,U+d6e5-d6e7,U+d6e9-d6fb,U+d6fd-d717,U+d719-d71f,U+d721-d722",
@@ -60074,7 +60074,7 @@
     },
     "source": "https://github.com/google/fonts",
     "type": "google",
-    "npmVersion": "5.3.0",
+    "npmVersion": "5.3.1",
     "unicodeRange": {
       "[2]": "U+d723-d728,U+d72a-d733,U+d735-d748,U+d74a-d74f,U+d752-d753,U+d755-d757,U+d75a-d75f,U+d762-d764,U+d766-d768,U+d76a-d76b,U+d76d-d76f,U+d771-d787,U+d789-d78b,U+d78d-d78f,U+d791-d797,U+d79a,U+d79c,U+d79e-d7a3,U+f900-f909,U+f90b-f92e",
       "[3]": "U+d679-d68b,U+d68e-d69e,U+d6a0,U+d6a2-d6a7,U+d6a9-d6c3,U+d6c6-d6c7,U+d6c9-d6cb,U+d6cd-d6d3,U+d6d5-d6d6,U+d6d8-d6e3,U+d6e5-d6e7,U+d6e9-d6fb,U+d6fd-d717,U+d719-d71f,U+d721-d722",
