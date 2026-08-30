@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/yuyu-short",
-  "version": "5.3.0",
+  "version": "5.3.1",
   "description": "Self-host the Yuyu Short font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/yuyu-short"
   },
-  "publishHash": "84d62c2523b07f79"
+  "publishHash": "9bbc50a58baf7f22"
 }

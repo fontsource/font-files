@@ -23,7 +23,7 @@ import "@fontsource-variable/alan-sans/wght-italic.css"; // Specify axis and sty
 Supported variables:
 - Weights: `[300,400,500,600,700,800,900]`
 - Styles: `[normal]`
-- Subsets: `[latin,latin-ext]`
+- Subsets: `[arabic,latin,latin-ext]`
 - Axes: `[wght]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what axes and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/alan-sans).
@@ -43,6 +43,6 @@ Copyright 2025 The Alan Sans Project Authors (https://github.com/alan-eu/Alan-Sa
 [OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v5`.
+Font version (provided by source): `v7`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

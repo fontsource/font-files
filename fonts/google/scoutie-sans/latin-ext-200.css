@@ -1,0 +1,8 @@
+/* scoutie-sans-latin-ext-200-normal */
+@font-face {
+  font-family: 'Scoutie Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: url(./files/scoutie-sans-latin-ext-200-normal.woff2) format('woff2'), url(./files/scoutie-sans-latin-ext-200-normal.woff) format('woff');
+}

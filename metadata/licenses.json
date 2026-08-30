@@ -1429,6 +1429,18 @@
     },
     "original": "Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-ExtraLightItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-Light.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-LightItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-Regular.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-Italic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-Medium.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-MediumItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-SemiBold.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-SemiBoldItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-Bold.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-BoldItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-ExtraBold.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-ExtraBoldItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-Black.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) AsapCondensed-BlackItalic.ttf: Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap)"
   },
+  "asap-sharp": {
+    "id": "asap-sharp",
+    "authors": {
+      "copyright": "Copyright 2026 The Asap Sharp Project Authors AsapSharp-Italic[wdth,wght].ttf",
+      "website": "https://github.com/Omnibus-Type/Asap_Sharp, https://github.com/Omnibus-Type/Asap_Sharp"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2026 The Asap Sharp Project Authors (https://github.com/Omnibus-Type/Asap_Sharp) AsapSharp-Italic[wdth,wght].ttf: Copyright 2026 The Asap Sharp Project Authors (https://github.com/Omnibus-Type/Asap_Sharp)"
+  },
   "asar": {
     "id": "asar",
     "authors": {
@@ -3303,6 +3315,18 @@
       "url": "https://openfontlicense.org"
     },
     "original": "Copyright 2024 The Bytesized Project Authors (https://github.com/balt-dev/bytesized-gf)"
+  },
+  "caacupé-one": {
+    "id": "caacupé-one",
+    "authors": {
+      "copyright": "Copyright 2014-2026 The Caacupe One Project Authors",
+      "website": "https://github.com/googlefonts/caacupe"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2014-2026 The Caacupe One Project Authors (https://github.com/googlefonts/caacupe)"
   },
   "cabin": {
     "id": "cabin",
@@ -17458,13 +17482,13 @@
   "qahiri": {
     "id": "qahiri",
     "authors": {
-      "copyright": "Copyright 2021 The Qahiri Project Authors github.com/alif-type/qahiri."
+      "copyright": "Copyright 2021 The Qahiri Project Authors github.com/aliftype/qahiri."
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "https://openfontlicense.org"
     },
-    "original": "Copyright 2021 The Qahiri Project Authors (github.com/alif-type/qahiri)."
+    "original": "Copyright 2021 The Qahiri Project Authors (github.com/aliftype/qahiri)."
   },
   "quando": {
     "id": "quando",
@@ -19204,6 +19228,18 @@
       "url": "https://openfontlicense.org"
     },
     "original": "Copyright 2015 Dalton Maag Ltd (info@daltonmaag.com)"
+  },
+  "scoutie-sans": {
+    "id": "scoutie-sans",
+    "authors": {
+      "copyright": "Copyright 2026 The Scoutie Sans Project Authors ScoutieSans-Italic[wght].ttf",
+      "website": "https://github.com/sursly/scoutie, https://github.com/sursly/scoutie"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2026 The Scoutie Sans Project Authors (https://github.com/sursly/scoutie) ScoutieSans-Italic[wght].ttf: Copyright 2026 The Scoutie Sans Project Authors (https://github.com/sursly/scoutie)"
   },
   "seaweed-script": {
     "id": "seaweed-script",
@@ -21554,6 +21590,18 @@
       "url": "https://openfontlicense.org"
     },
     "original": "Copyright 2011, The VT323 Project Authors (peter.hull@oikoi.com)"
+  },
+  "valley-sans": {
+    "id": "valley-sans",
+    "authors": {
+      "copyright": "Copyright 2026 The Valley Sans Project Authors ValleySans-Italic[wght].ttf",
+      "website": "https://github.com/HelsinkiTypeStudio/valley-sans, https://github.com/HelsinkiTypeStudio/valley-sans"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2026 The Valley Sans Project Authors (https://github.com/HelsinkiTypeStudio/valley-sans) ValleySans-Italic[wght].ttf: Copyright 2026 The Valley Sans Project Authors (https://github.com/HelsinkiTypeStudio/valley-sans)"
   },
   "vampiro-one": {
     "id": "vampiro-one",
