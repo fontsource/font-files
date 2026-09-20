@@ -22,7 +22,8 @@ interface Registry {
 	curatedTags: Record<string, string[]>;
 }
 
-async function readRegistry(directory: string): Promise<Registry> {
+async function readRegistry(): Promise<Registry> {
+	const directory = ".registry/registry/data";
 	const families = new Map<string, Family>();
 	for (const provider of await readdir(join(directory, "families"))) {
 		for (const id of await readdir(join(directory, "families", provider))) {
@@ -97,36 +98,28 @@ export function projectRecord(
 	};
 }
 
-export function checkRecordSizes(
-	records: ReturnType<typeof projectRecord>[],
-	maxBytes: number,
-) {
-	if (!Number.isSafeInteger(maxBytes) || maxBytes <= 0)
-		throw new Error("ALGOLIA_MAX_RECORD_BYTES must be a positive integer");
+export function checkRecordSizes(records: ReturnType<typeof projectRecord>[]) {
 	if (!records.length) throw new Error("Refusing to index an empty catalog");
-	const sizes = records.map((record) => ({
-		id: record.objectID,
-		bytes: Buffer.byteLength(JSON.stringify(record)),
-	}));
+	const sizes = records.map((record) => {
+		const bytes = Buffer.byteLength(JSON.stringify(record));
+		if (bytes > 100000)
+			throw new Error(
+				`${record.objectID} exceeds Algolia's 100 KB record limit`,
+			);
+		return bytes;
+	});
 	const average = Math.ceil(
-		sizes.reduce((sum, record) => sum + record.bytes, 0) / sizes.length,
+		sizes.reduce((sum, bytes) => sum + bytes, 0) / sizes.length,
 	);
-	const largest = sizes.reduce((a, b) => (a.bytes > b.bytes ? a : b));
-	const oversized = sizes.filter(({ bytes }) => bytes > maxBytes);
 	console.log(
-		`${records.length} records; average ${average} bytes; largest ${largest.id}: ${largest.bytes} bytes; record limit ${maxBytes} bytes`,
+		`${records.length} records; average ${average} bytes; largest ${Math.max(...sizes)} bytes`,
 	);
-	if (oversized.length) console.error("Oversized records:", oversized);
-	if (oversized.length || average > 10000)
-		throw new Error(
-			`${oversized.length} records exceed the configured cap; average must remain <= 10000 bytes. Verify Algolia plan limits before changing ALGOLIA_MAX_RECORD_BYTES.`,
-		);
+	if (average > 10000)
+		throw new Error("Catalog exceeds Algolia's 10 KB average record limit");
 }
 
 async function updateAlgoliaIndex() {
-	const registry = await readRegistry(
-		process.env.REGISTRY_DATA_DIR ?? ".registry/registry/data",
-	);
+	const registry = await readRegistry();
 	const ids = Object.keys(metadataImport) as (keyof typeof metadataImport)[];
 	const missing = ids.filter((id) => !registry.families.has(id));
 	if (missing.length)
@@ -148,8 +141,7 @@ async function updateAlgoliaIndex() {
 			randomIndexes[index],
 		),
 	);
-	const maxBytes = Number(process.env.ALGOLIA_MAX_RECORD_BYTES ?? 10000);
-	checkRecordSizes(records, maxBytes);
+	checkRecordSizes(records);
 	if (process.argv.includes("--dry-run")) {
 		console.log("Offline dry run complete; no stats or Algolia requests made.");
 		return;

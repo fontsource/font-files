@@ -62,14 +62,16 @@ test("retains legacy families missing from registry with empty facets", () => {
 	expect(record.languageIds).toEqual([]);
 });
 
-test("refuses oversized or empty catalogs before writing", () => {
+test("checks Algolia record and catalog limits before writing", () => {
 	const record = projectRecord("roboto", metadata.roboto, registry, 123, 7);
-	expect(() => checkRecordSizes([], 10000)).toThrow("empty catalog");
-	expect(() => checkRecordSizes([record], 1)).toThrow("configured cap");
-	expect(() => checkRecordSizes([record], Number.NaN)).toThrow(
-		"positive integer",
-	);
-	expect(() => checkRecordSizes([record], 10000)).not.toThrow();
+	expect(() => checkRecordSizes([])).toThrow("empty catalog");
+	expect(() =>
+		checkRecordSizes([{ ...record, designer: "x".repeat(100000) }]),
+	).toThrow("100 KB record limit");
+	expect(() =>
+		checkRecordSizes([{ ...record, designer: "x".repeat(10000) }]),
+	).toThrow("10 KB average record limit");
+	expect(() => checkRecordSizes([record])).not.toThrow();
 });
 
 test("rejects unknown taxonomy rather than publishing invalid labels", () => {

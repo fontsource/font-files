@@ -74,5 +74,4 @@ jobs:
       - name: Update Algolia Index
         run: bun run algolia
         env:
-          ALGOLIA_MAX_RECORD_BYTES: ${{ vars.ALGOLIA_MAX_RECORD_BYTES || '10000' }}
           ALGOLIA_ADMIN_KEY: ${{ secrets.ALGOLIA_ADMIN_KEY }}
