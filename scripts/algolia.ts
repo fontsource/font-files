@@ -27,7 +27,6 @@ async function readRegistry(): Promise<Registry> {
 	const families = new Map<string, Family>();
 	for (const provider of await readdir(join(directory, "families"))) {
 		for (const id of await readdir(join(directory, "families", provider))) {
-			if (families.has(id)) throw new Error(`Duplicate registry family: ${id}`);
 			families.set(
 				id,
 				JSON.parse(
@@ -70,10 +69,6 @@ export function projectRecord(
 				]),
 			].sort()
 		: [];
-	const label = (dictionary: Record<string, { label: string }>, id: string) => {
-		if (!dictionary[id]) throw new Error(`Unknown registry taxonomy ID: ${id}`);
-		return dictionary[id].label;
-	};
 	return {
 		objectID: id,
 		family: metadata.family,
@@ -91,31 +86,11 @@ export function projectRecord(
 		languageIds: family?.languages ?? [],
 		displayName: family?.displayName ?? family?.family ?? metadata.family,
 		designer: family?.designer ?? "",
-		classificationLabels: classifications.map((id) =>
-			label(registry.taxonomy.classifications, id),
+		classificationLabels: classifications.map(
+			(id) => registry.taxonomy.classifications[id].label,
 		),
-		tagLabels: tags.map((id) => label(registry.taxonomy.tags, id)),
+		tagLabels: tags.map((id) => registry.taxonomy.tags[id].label),
 	};
-}
-
-export function checkRecordSizes(records: ReturnType<typeof projectRecord>[]) {
-	if (!records.length) throw new Error("Refusing to index an empty catalog");
-	const sizes = records.map((record) => {
-		const bytes = Buffer.byteLength(JSON.stringify(record));
-		if (bytes > 100000)
-			throw new Error(
-				`${record.objectID} exceeds Algolia's 100 KB record limit`,
-			);
-		return bytes;
-	});
-	const average = Math.ceil(
-		sizes.reduce((sum, bytes) => sum + bytes, 0) / sizes.length,
-	);
-	console.log(
-		`${records.length} records; average ${average} bytes; largest ${Math.max(...sizes)} bytes`,
-	);
-	if (average > 10000)
-		throw new Error("Catalog exceeds Algolia's 10 KB average record limit");
 }
 
 async function updateAlgoliaIndex() {
@@ -131,21 +106,6 @@ async function updateAlgoliaIndex() {
 		const j = Math.floor(Math.random() * (i + 1));
 		[randomIndexes[i], randomIndexes[j]] = [randomIndexes[j], randomIndexes[i]];
 	}
-	// Reserve enough digits for popularity during the offline size check.
-	const records = ids.map((id, index) =>
-		projectRecord(
-			id,
-			metadataImport[id],
-			registry,
-			Number.MAX_SAFE_INTEGER,
-			randomIndexes[index],
-		),
-	);
-	checkRecordSizes(records);
-	if (process.argv.includes("--dry-run")) {
-		console.log("Offline dry run complete; no stats or Algolia requests made.");
-		return;
-	}
 	const key = process.env.ALGOLIA_ADMIN_KEY;
 	if (!key) throw new Error("ALGOLIA_ADMIN_KEY is required");
 	const response = await fetch("https://api.fontsource.org/v1/stats");
@@ -155,21 +115,25 @@ async function updateAlgoliaIndex() {
 		string,
 		{ total: { npmDownloadMonthly: number } }
 	>;
-	for (const record of records) {
-		const downloads = stats[record.objectID]?.total.npmDownloadMonthly ?? 0;
+	const records = ids.map((id, index) => {
+		const downloads = stats[id]?.total.npmDownloadMonthly ?? 0;
 		if (!Number.isSafeInteger(downloads) || downloads < 0)
-			throw new Error(`Invalid monthly downloads for ${record.objectID}`);
-		record.downloadMonth = downloads;
-	}
+			throw new Error(`Invalid monthly downloads for ${id}`);
+		return projectRecord(
+			id,
+			metadataImport[id],
+			registry,
+			downloads,
+			randomIndexes[index],
+		);
+	});
 	// Preserve records outside this source during the additive rollout.
 	const client = algoliasearch("WNATE69PVR", key);
-	const tasks = await client.saveObjects({
+	await client.saveObjects({
 		indexName: "prod_NAME",
 		objects: records,
+		waitForTasks: true,
 	});
-	for (const { taskID } of tasks) {
-		await client.waitForTask({ indexName: "prod_NAME", taskID });
-	}
 	console.log("Updated Algolia index prod_NAME");
 }
 

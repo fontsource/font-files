@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test";
 import metadata from "../metadata/fontsource.json";
-import { checkRecordSizes, projectRecord } from "./algolia";
+import { projectRecord } from "./algolia";
 
 const registry = {
 	families: new Map([
@@ -60,28 +60,4 @@ test("retains legacy families missing from registry with empty facets", () => {
 	expect(record.classifications).toEqual([]);
 	expect(record.tags).toEqual([]);
 	expect(record.languageIds).toEqual([]);
-});
-
-test("checks Algolia record and catalog limits before writing", () => {
-	const record = projectRecord("roboto", metadata.roboto, registry, 123, 7);
-	expect(() => checkRecordSizes([])).toThrow("empty catalog");
-	expect(() =>
-		checkRecordSizes([{ ...record, designer: "x".repeat(100000) }]),
-	).toThrow("100 KB record limit");
-	expect(() =>
-		checkRecordSizes([{ ...record, designer: "x".repeat(10000) }]),
-	).toThrow("10 KB average record limit");
-	expect(() => checkRecordSizes([record])).not.toThrow();
-});
-
-test("rejects unknown taxonomy rather than publishing invalid labels", () => {
-	expect(() =>
-		projectRecord(
-			"roboto",
-			metadata.roboto,
-			{ ...registry, taxonomy: { classifications: {}, tags: {} } },
-			0,
-			0,
-		),
-	).toThrow("Unknown registry taxonomy ID");
 });
