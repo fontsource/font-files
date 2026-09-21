@@ -1,8 +1,10 @@
 import { expect, test } from "bun:test";
 import metadata from "../metadata/fontsource.json";
-import { projectRecord } from "./algolia";
+import { languageIndexVersion, projectRecord } from "./algolia";
 
 const registry = {
+	languageIndexVersion:
+		"a014ea07a0e77dcf1e38f4ce8063f7ab9ac42b92fb517794e6b520073161f23f",
 	families: new Map([
 		[
 			"roboto",
@@ -41,6 +43,7 @@ test("adds registry facets and curated tags without changing legacy fields", () 
 		variable: Boolean(metadata.roboto.variable),
 		downloadMonth: 123,
 		randomIndex: 7,
+		languageIndexVersion: registry.languageIndexVersion,
 	});
 	expect(record.tags).toEqual(["purpose/easy-reading", "sans/geometric"]);
 	expect(record.tagLabels).toEqual(["Easy Reading", "Geometric"]);
@@ -60,4 +63,31 @@ test("retains legacy families missing from registry with empty facets", () => {
 	expect(record.classifications).toEqual([]);
 	expect(record.tags).toEqual([]);
 	expect(record.languageIds).toEqual([]);
+	expect(record.languageIndexVersion).toBe(registry.languageIndexVersion);
+});
+
+test("language index fingerprints ignore family and language ordering", () => {
+	const families = new Map([
+		["b", { languages: ["zh_Hant", "ja_Hira"] }],
+		["a", { languages: [] }],
+	]);
+	const reordered = new Map([
+		["a", { languages: [] }],
+		["b", { languages: ["ja_Hira", "zh_Hant"] }],
+	]);
+	expect(languageIndexVersion(families)).toBe(languageIndexVersion(reordered));
+	expect(languageIndexVersion(families)).toBe(
+		"4d3f366c8d932a100f360a06b5467984c449a115b5c967ced2adec85f9080ef5",
+	);
+	expect(families.get("b")?.languages).toEqual(["zh_Hant", "ja_Hira"]);
+});
+
+test("language index fingerprints change when any registry membership changes", () => {
+	const families = new Map([["a", { languages: ["ja_Hira"] }]]);
+	const version = languageIndexVersion(families);
+	families.set("a", { languages: ["zh_Hant"] });
+	expect(languageIndexVersion(families)).not.toBe(version);
+	families.set("a", { languages: ["ja_Hira"] });
+	families.set("unpackaged-family", { languages: [] });
+	expect(languageIndexVersion(families)).not.toBe(version);
 });

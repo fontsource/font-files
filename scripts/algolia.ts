@@ -1,3 +1,4 @@
+import { createHash } from "node:crypto";
 import { readdir, readFile } from "node:fs/promises";
 import { join } from "node:path";
 import { algoliasearch } from "algoliasearch";
@@ -18,8 +19,18 @@ interface Taxonomy {
 }
 interface Registry {
 	families: Map<string, Family>;
+	languageIndexVersion: string;
 	taxonomy: Taxonomy;
 	curatedTags: Record<string, string[]>;
+}
+
+export function languageIndexVersion(
+	families: ReadonlyMap<string, Pick<Family, "languages">>,
+) {
+	const membership = [...families]
+		.sort(([a], [b]) => (a < b ? -1 : a > b ? 1 : 0))
+		.map(([id, family]) => [id, [...family.languages].sort()]);
+	return createHash("sha256").update(JSON.stringify(membership)).digest("hex");
 }
 
 async function readRegistry(): Promise<Registry> {
@@ -41,6 +52,7 @@ async function readRegistry(): Promise<Registry> {
 	if (!families.size) throw new Error("Registry contains no families");
 	return {
 		families,
+		languageIndexVersion: languageIndexVersion(families),
 		taxonomy: JSON.parse(
 			await readFile(join(directory, "taxonomy.json"), "utf8"),
 		),
@@ -84,6 +96,7 @@ export function projectRecord(
 		classifications,
 		tags,
 		languageIds: family?.languages ?? [],
+		languageIndexVersion: registry.languageIndexVersion,
 		displayName: family?.displayName ?? family?.family ?? metadata.family,
 		designer: family?.designer ?? "",
 		classificationLabels: classifications.map(
