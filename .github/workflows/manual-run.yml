@@ -66,6 +66,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
+      - name: Checkout archived registry
+        uses: ./.github/actions/registry-checkout
+
       - name: Update Algolia Index
         run: bun run algolia
         env:

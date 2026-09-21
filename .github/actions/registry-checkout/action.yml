@@ -1,0 +1,22 @@
+name: Checkout archived registry
+description: Read registry metadata from the latest successfully archived main revision
+runs:
+  using: composite
+  steps:
+    - name: Resolve archived registry revision
+      id: registry
+      shell: bash
+      env:
+        GH_TOKEN: ${{ github.token }}
+      run: |
+        revision=$(gh run list --repo fontsource/fontsource --workflow registry-archive.yml --branch main --status success --limit 1 --json headSha --jq '.[0].headSha // empty')
+        test -n "$revision" || { echo "No successfully archived registry revision found" >&2; exit 1; }
+        echo "revision=$revision" >> "$GITHUB_OUTPUT"
+        echo "Using registry revision $revision"
+    - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+      with:
+        repository: fontsource/fontsource
+        ref: ${{ steps.registry.outputs.revision }}
+        path: .registry
+        sparse-checkout: registry/data
+        persist-credentials: false

@@ -17,6 +17,9 @@ jobs:
       - name: Install
         run: bun install --frozen-lockfile
 
+      - name: Checkout archived registry
+        uses: ./.github/actions/registry-checkout
+
       - name: Update Algolia Index
         run: bun run algolia
         env:
