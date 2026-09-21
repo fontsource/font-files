@@ -19,12 +19,12 @@ interface Taxonomy {
 }
 interface Registry {
 	families: Map<string, Family>;
-	languageMembershipVersion: string;
+	languageIndexVersion: string;
 	taxonomy: Taxonomy;
 	curatedTags: Record<string, string[]>;
 }
 
-export function languageMembershipVersion(
+export function languageIndexVersion(
 	families: ReadonlyMap<string, Pick<Family, "languages">>,
 ) {
 	const membership = [...families]
@@ -52,7 +52,7 @@ async function readRegistry(): Promise<Registry> {
 	if (!families.size) throw new Error("Registry contains no families");
 	return {
 		families,
-		languageMembershipVersion: languageMembershipVersion(families),
+		languageIndexVersion: languageIndexVersion(families),
 		taxonomy: JSON.parse(
 			await readFile(join(directory, "taxonomy.json"), "utf8"),
 		),
@@ -96,7 +96,7 @@ export function projectRecord(
 		classifications,
 		tags,
 		languageIds: family?.languages ?? [],
-		languageMembershipVersion: registry.languageMembershipVersion,
+		languageIndexVersion: registry.languageIndexVersion,
 		displayName: family?.displayName ?? family?.family ?? metadata.family,
 		designer: family?.designer ?? "",
 		classificationLabels: classifications.map(
