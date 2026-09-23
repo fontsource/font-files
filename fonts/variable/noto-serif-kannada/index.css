@@ -1,4 +1,3 @@
-/* noto-serif-kannada-kannada-wght-normal */
 @font-face {
   font-family: 'Noto Serif Kannada Variable';
   font-style: normal;
@@ -8,7 +7,6 @@
   unicode-range: U+0951-0952,U+0964-0965,U+0C80-0CF3,U+1CD0,U+1CD2-1CD3,U+1CDA,U+1CF2,U+1CF4,U+200C-200D,U+20B9,U+25CC,U+A830-A835;
 }
 
-/* noto-serif-kannada-latin-ext-wght-normal */
 @font-face {
   font-family: 'Noto Serif Kannada Variable';
   font-style: normal;
@@ -18,7 +16,6 @@
   unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;
 }
 
-/* noto-serif-kannada-latin-wght-normal */
 @font-face {
   font-family: 'Noto Serif Kannada Variable';
   font-style: normal;

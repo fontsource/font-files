@@ -1,8 +1,8 @@
-/* noto-sans-tirhuta-tirhuta-400-normal */
 @font-face {
   font-family: 'Noto Sans Tirhuta';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-tirhuta-tirhuta-400-normal.woff2) format('woff2'), url(./files/noto-sans-tirhuta-tirhuta-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-tirhuta-tirhuta-400-normal.woff2) format(woff2), url(./files/noto-sans-tirhuta-tirhuta-400-normal.woff) format(woff);
+  unicode-range: U+0951-0952,U+0964-0965,U+09F4-09F7,U+1CF2,U+200C-200D,U+25CC,U+A830-A839,U+11480-114DF;
 }

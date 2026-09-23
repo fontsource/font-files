@@ -1,8 +1,8 @@
-/* noto-serif-vithkuqi-vithkuqi-600-normal */
 @font-face {
   font-family: 'Noto Serif Vithkuqi';
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src: url(./files/noto-serif-vithkuqi-vithkuqi-600-normal.woff2) format('woff2'), url(./files/noto-serif-vithkuqi-vithkuqi-600-normal.woff) format('woff');
+  src: url(./files/noto-serif-vithkuqi-vithkuqi-600-normal.woff2) format(woff2), url(./files/noto-serif-vithkuqi-vithkuqi-600-normal.woff) format(woff);
+  unicode-range: U+10570-1057A,U+1057C-1058A,U+1058C-10592,U+10594-10595,U+10597-105A1,U+105A3-105B1,U+105B3-105B9,U+105BB-105BC;
 }

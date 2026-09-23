@@ -1,8 +1,8 @@
-/* noto-sans-meetei-mayek-meetei-mayek-900-normal */
 @font-face {
   font-family: 'Noto Sans Meetei Mayek';
   font-style: normal;
   font-display: swap;
   font-weight: 900;
-  src: url(./files/noto-sans-meetei-mayek-meetei-mayek-900-normal.woff2) format('woff2'), url(./files/noto-sans-meetei-mayek-meetei-mayek-900-normal.woff) format('woff');
+  src: url(./files/noto-sans-meetei-mayek-meetei-mayek-900-normal.woff2) format(woff2), url(./files/noto-sans-meetei-mayek-meetei-mayek-900-normal.woff) format(woff);
+  unicode-range: U+200C-200D,U+25CC,U+AAE0-AAF6,U+ABC0-ABFF;
 }

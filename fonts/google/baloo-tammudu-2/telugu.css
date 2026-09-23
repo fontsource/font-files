@@ -1,44 +1,44 @@
-/* baloo-tammudu-2-telugu-400-normal */
 @font-face {
   font-family: 'Baloo Tammudu 2';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/baloo-tammudu-2-telugu-400-normal.woff2) format('woff2'), url(./files/baloo-tammudu-2-telugu-400-normal.woff) format('woff');
+  src: url(./files/baloo-tammudu-2-telugu-400-normal.woff2) format(woff2), url(./files/baloo-tammudu-2-telugu-400-normal.woff) format(woff);
+  unicode-range: U+0951-0952,U+0964-0965,U+0C00-0C7F,U+1CDA,U+1CF2,U+200C-200D,U+25CC;
 }
 
-/* baloo-tammudu-2-telugu-500-normal */
 @font-face {
   font-family: 'Baloo Tammudu 2';
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url(./files/baloo-tammudu-2-telugu-500-normal.woff2) format('woff2'), url(./files/baloo-tammudu-2-telugu-500-normal.woff) format('woff');
+  src: url(./files/baloo-tammudu-2-telugu-500-normal.woff2) format(woff2), url(./files/baloo-tammudu-2-telugu-500-normal.woff) format(woff);
+  unicode-range: U+0951-0952,U+0964-0965,U+0C00-0C7F,U+1CDA,U+1CF2,U+200C-200D,U+25CC;
 }
 
-/* baloo-tammudu-2-telugu-600-normal */
 @font-face {
   font-family: 'Baloo Tammudu 2';
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src: url(./files/baloo-tammudu-2-telugu-600-normal.woff2) format('woff2'), url(./files/baloo-tammudu-2-telugu-600-normal.woff) format('woff');
+  src: url(./files/baloo-tammudu-2-telugu-600-normal.woff2) format(woff2), url(./files/baloo-tammudu-2-telugu-600-normal.woff) format(woff);
+  unicode-range: U+0951-0952,U+0964-0965,U+0C00-0C7F,U+1CDA,U+1CF2,U+200C-200D,U+25CC;
 }
 
-/* baloo-tammudu-2-telugu-700-normal */
 @font-face {
   font-family: 'Baloo Tammudu 2';
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src: url(./files/baloo-tammudu-2-telugu-700-normal.woff2) format('woff2'), url(./files/baloo-tammudu-2-telugu-700-normal.woff) format('woff');
+  src: url(./files/baloo-tammudu-2-telugu-700-normal.woff2) format(woff2), url(./files/baloo-tammudu-2-telugu-700-normal.woff) format(woff);
+  unicode-range: U+0951-0952,U+0964-0965,U+0C00-0C7F,U+1CDA,U+1CF2,U+200C-200D,U+25CC;
 }
 
-/* baloo-tammudu-2-telugu-800-normal */
 @font-face {
   font-family: 'Baloo Tammudu 2';
   font-style: normal;
   font-display: swap;
   font-weight: 800;
-  src: url(./files/baloo-tammudu-2-telugu-800-normal.woff2) format('woff2'), url(./files/baloo-tammudu-2-telugu-800-normal.woff) format('woff');
+  src: url(./files/baloo-tammudu-2-telugu-800-normal.woff2) format(woff2), url(./files/baloo-tammudu-2-telugu-800-normal.woff) format(woff);
+  unicode-range: U+0951-0952,U+0964-0965,U+0C00-0C7F,U+1CDA,U+1CF2,U+200C-200D,U+25CC;
 }

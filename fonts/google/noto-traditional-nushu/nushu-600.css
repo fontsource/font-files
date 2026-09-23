@@ -1,8 +1,8 @@
-/* noto-traditional-nushu-nushu-600-normal */
 @font-face {
   font-family: 'Noto Traditional Nushu';
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src: url(./files/noto-traditional-nushu-nushu-600-normal.woff2) format('woff2'), url(./files/noto-traditional-nushu-nushu-600-normal.woff) format('woff');
+  src: url(./files/noto-traditional-nushu-nushu-600-normal.woff2) format(woff2), url(./files/noto-traditional-nushu-nushu-600-normal.woff) format(woff);
+  unicode-range: U+2003,U+3000,U+3002,U+4E00,U+FE12,U+16FE1,U+1B170-1B2FB;
 }

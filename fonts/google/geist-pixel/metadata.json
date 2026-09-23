@@ -5,7 +5,9 @@
   "weights": [400],
   "styles": ["normal"],
   "defSubset": "latin",
-  "variable": false,
+  "variable": {
+    "ELSH": {"default": "0", "min": "0", "max": "100", "step": "0.1"}
+  },
   "lastModified": "2026-06-30",
   "version": "v1",
   "category": "display",

@@ -1,8 +1,8 @@
-/* google-sans-thai-600-normal */
 @font-face {
   font-family: 'Google Sans';
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src: url(./files/google-sans-thai-600-normal.woff2) format('woff2'), url(./files/google-sans-thai-600-normal.woff) format('woff');
+  src: url(./files/google-sans-thai-600-normal.woff2) format(woff2), url(./files/google-sans-thai-600-normal.woff) format(woff);
+  unicode-range: U+02D7,U+0303,U+0331,U+0E01-0E5B,U+200C-200D,U+25CC;
 }

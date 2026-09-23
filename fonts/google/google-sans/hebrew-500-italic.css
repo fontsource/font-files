@@ -1,8 +1,8 @@
-/* google-sans-hebrew-500-italic */
 @font-face {
   font-family: 'Google Sans';
   font-style: italic;
   font-display: swap;
   font-weight: 500;
-  src: url(./files/google-sans-hebrew-500-italic.woff2) format('woff2'), url(./files/google-sans-hebrew-500-italic.woff) format('woff');
+  src: url(./files/google-sans-hebrew-500-italic.woff2) format(woff2), url(./files/google-sans-hebrew-500-italic.woff) format(woff);
+  unicode-range: U+0307-0308,U+0590-05FF,U+200C-2010,U+20AA,U+25CC,U+FB1D-FB4F;
 }

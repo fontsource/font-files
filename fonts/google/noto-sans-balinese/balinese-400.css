@@ -1,8 +1,8 @@
-/* noto-sans-balinese-balinese-400-normal */
 @font-face {
   font-family: 'Noto Sans Balinese';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-balinese-balinese-400-normal.woff2) format('woff2'), url(./files/noto-sans-balinese-balinese-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-balinese-balinese-400-normal.woff2) format(woff2), url(./files/noto-sans-balinese-balinese-400-normal.woff) format(woff);
+  unicode-range: U+001D,U+1B00-1B7F,U+200C-200D,U+25CC;
 }

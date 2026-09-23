@@ -1,53 +1,53 @@
-/* akatab-tifinagh-400-normal */
 @font-face {
   font-family: 'Akatab';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/akatab-tifinagh-400-normal.woff2) format('woff2'), url(./files/akatab-tifinagh-400-normal.woff) format('woff');
+  src: url(./files/akatab-tifinagh-400-normal.woff2) format(woff2), url(./files/akatab-tifinagh-400-normal.woff) format(woff);
+  unicode-range: U+02C7,U+0301-0302,U+0304,U+0306-0307,U+0309,U+0323,U+0331,U+200C-200D,U+202E,U+25CC,U+2D30-2D7F;
 }
 
-/* akatab-tifinagh-500-normal */
 @font-face {
   font-family: 'Akatab';
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url(./files/akatab-tifinagh-500-normal.woff2) format('woff2'), url(./files/akatab-tifinagh-500-normal.woff) format('woff');
+  src: url(./files/akatab-tifinagh-500-normal.woff2) format(woff2), url(./files/akatab-tifinagh-500-normal.woff) format(woff);
+  unicode-range: U+02C7,U+0301-0302,U+0304,U+0306-0307,U+0309,U+0323,U+0331,U+200C-200D,U+202E,U+25CC,U+2D30-2D7F;
 }
 
-/* akatab-tifinagh-600-normal */
 @font-face {
   font-family: 'Akatab';
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src: url(./files/akatab-tifinagh-600-normal.woff2) format('woff2'), url(./files/akatab-tifinagh-600-normal.woff) format('woff');
+  src: url(./files/akatab-tifinagh-600-normal.woff2) format(woff2), url(./files/akatab-tifinagh-600-normal.woff) format(woff);
+  unicode-range: U+02C7,U+0301-0302,U+0304,U+0306-0307,U+0309,U+0323,U+0331,U+200C-200D,U+202E,U+25CC,U+2D30-2D7F;
 }
 
-/* akatab-tifinagh-700-normal */
 @font-face {
   font-family: 'Akatab';
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src: url(./files/akatab-tifinagh-700-normal.woff2) format('woff2'), url(./files/akatab-tifinagh-700-normal.woff) format('woff');
+  src: url(./files/akatab-tifinagh-700-normal.woff2) format(woff2), url(./files/akatab-tifinagh-700-normal.woff) format(woff);
+  unicode-range: U+02C7,U+0301-0302,U+0304,U+0306-0307,U+0309,U+0323,U+0331,U+200C-200D,U+202E,U+25CC,U+2D30-2D7F;
 }
 
-/* akatab-tifinagh-800-normal */
 @font-face {
   font-family: 'Akatab';
   font-style: normal;
   font-display: swap;
   font-weight: 800;
-  src: url(./files/akatab-tifinagh-800-normal.woff2) format('woff2'), url(./files/akatab-tifinagh-800-normal.woff) format('woff');
+  src: url(./files/akatab-tifinagh-800-normal.woff2) format(woff2), url(./files/akatab-tifinagh-800-normal.woff) format(woff);
+  unicode-range: U+02C7,U+0301-0302,U+0304,U+0306-0307,U+0309,U+0323,U+0331,U+200C-200D,U+202E,U+25CC,U+2D30-2D7F;
 }
 
-/* akatab-tifinagh-900-normal */
 @font-face {
   font-family: 'Akatab';
   font-style: normal;
   font-display: swap;
   font-weight: 900;
-  src: url(./files/akatab-tifinagh-900-normal.woff2) format('woff2'), url(./files/akatab-tifinagh-900-normal.woff) format('woff');
+  src: url(./files/akatab-tifinagh-900-normal.woff2) format(woff2), url(./files/akatab-tifinagh-900-normal.woff) format(woff);
+  unicode-range: U+02C7,U+0301-0302,U+0304,U+0306-0307,U+0309,U+0323,U+0331,U+200C-200D,U+202E,U+25CC,U+2D30-2D7F;
 }

@@ -1,8 +1,8 @@
-/* mitr-thai-400-normal */
 @font-face {
   font-family: 'Mitr';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/mitr-thai-400-normal.woff2) format('woff2'), url(./files/mitr-thai-400-normal.woff) format('woff');
+  src: url(./files/mitr-thai-400-normal.woff2) format(woff2), url(./files/mitr-thai-400-normal.woff) format(woff);
+  unicode-range: U+02D7,U+0303,U+0331,U+0E01-0E5B,U+200C-200D,U+25CC;
 }

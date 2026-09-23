@@ -1,8 +1,8 @@
-/* k2d-thai-500-normal */
 @font-face {
   font-family: 'K2D';
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url(./files/k2d-thai-500-normal.woff2) format('woff2'), url(./files/k2d-thai-500-normal.woff) format('woff');
+  src: url(./files/k2d-thai-500-normal.woff2) format(woff2), url(./files/k2d-thai-500-normal.woff) format(woff);
+  unicode-range: U+02D7,U+0303,U+0331,U+0E01-0E5B,U+200C-200D,U+25CC;
 }

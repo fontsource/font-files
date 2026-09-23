@@ -1,8 +1,8 @@
-/* noto-serif-georgian-georgian-500-normal */
 @font-face {
   font-family: 'Noto Serif Georgian';
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url(./files/noto-serif-georgian-georgian-500-normal.woff2) format('woff2'), url(./files/noto-serif-georgian-georgian-500-normal.woff) format('woff');
+  src: url(./files/noto-serif-georgian-georgian-500-normal.woff2) format(woff2), url(./files/noto-serif-georgian-georgian-500-normal.woff) format(woff);
+  unicode-range: U+0589,U+10A0-10FF,U+1C90-1CBA,U+1CBD-1CBF,U+205A,U+2D00-2D2F,U+2E31;
 }

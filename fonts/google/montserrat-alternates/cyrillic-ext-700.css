@@ -1,8 +1,8 @@
-/* montserrat-alternates-cyrillic-ext-700-normal */
 @font-face {
   font-family: 'Montserrat Alternates';
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src: url(./files/montserrat-alternates-cyrillic-ext-700-normal.woff2) format('woff2'), url(./files/montserrat-alternates-cyrillic-ext-700-normal.woff) format('woff');
+  src: url(./files/montserrat-alternates-cyrillic-ext-700-normal.woff2) format(woff2), url(./files/montserrat-alternates-cyrillic-ext-700-normal.woff) format(woff);
+  unicode-range: U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;
 }

@@ -1,8 +1,8 @@
-/* chiron-sung-hk-symbols2-200-normal */
 @font-face {
   font-family: 'Chiron Sung HK';
   font-style: normal;
   font-display: swap;
   font-weight: 200;
-  src: url(./files/chiron-sung-hk-symbols2-200-normal.woff2) format('woff2'), url(./files/chiron-sung-hk-symbols2-200-normal.woff) format('woff');
+  src: url(./files/chiron-sung-hk-symbols2-200-normal.woff2) format(woff2), url(./files/chiron-sung-hk-symbols2-200-normal.woff) format(woff);
+  unicode-range: U+2000-2001,U+2004-2008,U+200A,U+23B8-23BD,U+2500-259F;
 }

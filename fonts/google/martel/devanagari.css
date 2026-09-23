@@ -1,62 +1,62 @@
-/* martel-devanagari-200-normal */
 @font-face {
   font-family: 'Martel';
   font-style: normal;
   font-display: swap;
   font-weight: 200;
-  src: url(./files/martel-devanagari-200-normal.woff2) format('woff2'), url(./files/martel-devanagari-200-normal.woff) format('woff');
+  src: url(./files/martel-devanagari-200-normal.woff2) format(woff2), url(./files/martel-devanagari-200-normal.woff) format(woff);
+  unicode-range: U+0900-097F,U+1CD0-1CF9,U+200C-200D,U+20A8,U+20B9,U+20F0,U+25CC,U+A830-A839,U+A8E0-A8FF,U+11B00-11B09;
 }
 
-/* martel-devanagari-300-normal */
 @font-face {
   font-family: 'Martel';
   font-style: normal;
   font-display: swap;
   font-weight: 300;
-  src: url(./files/martel-devanagari-300-normal.woff2) format('woff2'), url(./files/martel-devanagari-300-normal.woff) format('woff');
+  src: url(./files/martel-devanagari-300-normal.woff2) format(woff2), url(./files/martel-devanagari-300-normal.woff) format(woff);
+  unicode-range: U+0900-097F,U+1CD0-1CF9,U+200C-200D,U+20A8,U+20B9,U+20F0,U+25CC,U+A830-A839,U+A8E0-A8FF,U+11B00-11B09;
 }
 
-/* martel-devanagari-400-normal */
 @font-face {
   font-family: 'Martel';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/martel-devanagari-400-normal.woff2) format('woff2'), url(./files/martel-devanagari-400-normal.woff) format('woff');
+  src: url(./files/martel-devanagari-400-normal.woff2) format(woff2), url(./files/martel-devanagari-400-normal.woff) format(woff);
+  unicode-range: U+0900-097F,U+1CD0-1CF9,U+200C-200D,U+20A8,U+20B9,U+20F0,U+25CC,U+A830-A839,U+A8E0-A8FF,U+11B00-11B09;
 }
 
-/* martel-devanagari-600-normal */
 @font-face {
   font-family: 'Martel';
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src: url(./files/martel-devanagari-600-normal.woff2) format('woff2'), url(./files/martel-devanagari-600-normal.woff) format('woff');
+  src: url(./files/martel-devanagari-600-normal.woff2) format(woff2), url(./files/martel-devanagari-600-normal.woff) format(woff);
+  unicode-range: U+0900-097F,U+1CD0-1CF9,U+200C-200D,U+20A8,U+20B9,U+20F0,U+25CC,U+A830-A839,U+A8E0-A8FF,U+11B00-11B09;
 }
 
-/* martel-devanagari-700-normal */
 @font-face {
   font-family: 'Martel';
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src: url(./files/martel-devanagari-700-normal.woff2) format('woff2'), url(./files/martel-devanagari-700-normal.woff) format('woff');
+  src: url(./files/martel-devanagari-700-normal.woff2) format(woff2), url(./files/martel-devanagari-700-normal.woff) format(woff);
+  unicode-range: U+0900-097F,U+1CD0-1CF9,U+200C-200D,U+20A8,U+20B9,U+20F0,U+25CC,U+A830-A839,U+A8E0-A8FF,U+11B00-11B09;
 }
 
-/* martel-devanagari-800-normal */
 @font-face {
   font-family: 'Martel';
   font-style: normal;
   font-display: swap;
   font-weight: 800;
-  src: url(./files/martel-devanagari-800-normal.woff2) format('woff2'), url(./files/martel-devanagari-800-normal.woff) format('woff');
+  src: url(./files/martel-devanagari-800-normal.woff2) format(woff2), url(./files/martel-devanagari-800-normal.woff) format(woff);
+  unicode-range: U+0900-097F,U+1CD0-1CF9,U+200C-200D,U+20A8,U+20B9,U+20F0,U+25CC,U+A830-A839,U+A8E0-A8FF,U+11B00-11B09;
 }
 
-/* martel-devanagari-900-normal */
 @font-face {
   font-family: 'Martel';
   font-style: normal;
   font-display: swap;
   font-weight: 900;
-  src: url(./files/martel-devanagari-900-normal.woff2) format('woff2'), url(./files/martel-devanagari-900-normal.woff) format('woff');
+  src: url(./files/martel-devanagari-900-normal.woff2) format(woff2), url(./files/martel-devanagari-900-normal.woff) format(woff);
+  unicode-range: U+0900-097F,U+1CD0-1CF9,U+200C-200D,U+20A8,U+20B9,U+20F0,U+25CC,U+A830-A839,U+A8E0-A8FF,U+11B00-11B09;
 }

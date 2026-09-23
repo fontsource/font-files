@@ -1,8 +1,8 @@
-/* noto-serif-khitan-small-script-khitan-small-script-400-normal */
 @font-face {
   font-family: 'Noto Serif Khitan Small Script';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-serif-khitan-small-script-khitan-small-script-400-normal.woff2) format('woff2'), url(./files/noto-serif-khitan-small-script-khitan-small-script-400-normal.woff) format('woff');
+  src: url(./files/noto-serif-khitan-small-script-khitan-small-script-400-normal.woff2) format(woff2), url(./files/noto-serif-khitan-small-script-khitan-small-script-400-normal.woff) format(woff);
+  unicode-range: U+16FE4,U+18B00-18CD5,U+18CFF;
 }

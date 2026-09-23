@@ -1,8 +1,8 @@
-/* noto-sans-myanmar-myanmar-200-normal */
 @font-face {
   font-family: 'Noto Sans Myanmar';
   font-style: normal;
   font-display: swap;
   font-weight: 200;
-  src: url(./files/noto-sans-myanmar-myanmar-200-normal.woff2) format('woff2'), url(./files/noto-sans-myanmar-myanmar-200-normal.woff) format('woff');
+  src: url(./files/noto-sans-myanmar-myanmar-200-normal.woff2) format(woff2), url(./files/noto-sans-myanmar-myanmar-200-normal.woff) format(woff);
+  unicode-range: U+1000-109F,U+200C-200D,U+25CC,U+A92E,U+A9E0-A9FE,U+AA60-AA7F,U+116D0-116E3;
 }

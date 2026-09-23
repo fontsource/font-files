@@ -1,8 +1,8 @@
-/* noto-sans-syriac-eastern-syriac-800-normal */
 @font-face {
   font-family: 'Noto Sans Syriac Eastern';
   font-style: normal;
   font-display: swap;
   font-weight: 800;
-  src: url(./files/noto-sans-syriac-eastern-syriac-800-normal.woff2) format('woff2'), url(./files/noto-sans-syriac-eastern-syriac-800-normal.woff) format('woff');
+  src: url(./files/noto-sans-syriac-eastern-syriac-800-normal.woff2) format(woff2), url(./files/noto-sans-syriac-eastern-syriac-800-normal.woff) format(woff);
+  unicode-range: U+0303-0304,U+0307-0308,U+030A,U+0320,U+0323-0325,U+032D-032E,U+0330-0331,U+060C,U+061B-061C,U+061F,U+0621,U+0640,U+064B-0655,U+0660-066C,U+0670,U+0700-074F,U+0860-086A,U+1DF8,U+1DFA,U+200C-200F,U+25CC,U+2670-2671;
 }

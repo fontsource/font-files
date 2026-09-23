@@ -1,35 +1,35 @@
-/* noto-sans-nko-unjoined-nko-400-normal */
 @font-face {
   font-family: 'Noto Sans NKo Unjoined';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-nko-unjoined-nko-400-normal.woff2) format('woff2'), url(./files/noto-sans-nko-unjoined-nko-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-nko-unjoined-nko-400-normal.woff2) format(woff2), url(./files/noto-sans-nko-unjoined-nko-400-normal.woff) format(woff);
+  unicode-range: U+060C,U+061B,U+061F,U+066A,U+07C0-07FF,U+200C-200F,U+25CC,U+2E1C-2E1D,U+FD3E-FD3F;
 }
 
-/* noto-sans-nko-unjoined-nko-500-normal */
 @font-face {
   font-family: 'Noto Sans NKo Unjoined';
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url(./files/noto-sans-nko-unjoined-nko-500-normal.woff2) format('woff2'), url(./files/noto-sans-nko-unjoined-nko-500-normal.woff) format('woff');
+  src: url(./files/noto-sans-nko-unjoined-nko-500-normal.woff2) format(woff2), url(./files/noto-sans-nko-unjoined-nko-500-normal.woff) format(woff);
+  unicode-range: U+060C,U+061B,U+061F,U+066A,U+07C0-07FF,U+200C-200F,U+25CC,U+2E1C-2E1D,U+FD3E-FD3F;
 }
 
-/* noto-sans-nko-unjoined-nko-600-normal */
 @font-face {
   font-family: 'Noto Sans NKo Unjoined';
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src: url(./files/noto-sans-nko-unjoined-nko-600-normal.woff2) format('woff2'), url(./files/noto-sans-nko-unjoined-nko-600-normal.woff) format('woff');
+  src: url(./files/noto-sans-nko-unjoined-nko-600-normal.woff2) format(woff2), url(./files/noto-sans-nko-unjoined-nko-600-normal.woff) format(woff);
+  unicode-range: U+060C,U+061B,U+061F,U+066A,U+07C0-07FF,U+200C-200F,U+25CC,U+2E1C-2E1D,U+FD3E-FD3F;
 }
 
-/* noto-sans-nko-unjoined-nko-700-normal */
 @font-face {
   font-family: 'Noto Sans NKo Unjoined';
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src: url(./files/noto-sans-nko-unjoined-nko-700-normal.woff2) format('woff2'), url(./files/noto-sans-nko-unjoined-nko-700-normal.woff) format('woff');
+  src: url(./files/noto-sans-nko-unjoined-nko-700-normal.woff2) format(woff2), url(./files/noto-sans-nko-unjoined-nko-700-normal.woff) format(woff);
+  unicode-range: U+060C,U+061B,U+061F,U+066A,U+07C0-07FF,U+200C-200F,U+25CC,U+2E1C-2E1D,U+FD3E-FD3F;
 }

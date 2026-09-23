@@ -1,8 +1,8 @@
-/* chiron-hei-hk-chinese-traditional-400-normal */
 @font-face {
   font-family: 'Chiron Hei HK';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/chiron-hei-hk-chinese-traditional-400-normal.woff2) format('woff2'), url(./files/chiron-hei-hk-chinese-traditional-400-normal.woff) format('woff');
+  src: url(./files/chiron-hei-hk-chinese-traditional-400-normal.woff2) format(woff2), url(./files/chiron-hei-hk-chinese-traditional-400-normal.woff) format(woff);
+  unicode-range: U+3000-303F,U+3105-312F,U+4E00-9FFF;
 }

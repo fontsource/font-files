@@ -1,8 +1,8 @@
-/* noto-sans-linear-b-linear-b-400-normal */
 @font-face {
   font-family: 'Noto Sans Linear B';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-linear-b-linear-b-400-normal.woff2) format('woff2'), url(./files/noto-sans-linear-b-linear-b-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-linear-b-linear-b-400-normal.woff2) format(woff2), url(./files/noto-sans-linear-b-linear-b-400-normal.woff) format(woff);
+  unicode-range: U+10000-100FF,U+10100-10102,U+10107-10133,U+10137-1013F;
 }

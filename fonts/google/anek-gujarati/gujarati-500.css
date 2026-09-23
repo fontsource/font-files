@@ -1,8 +1,8 @@
-/* anek-gujarati-gujarati-500-normal */
 @font-face {
   font-family: 'Anek Gujarati';
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url(./files/anek-gujarati-gujarati-500-normal.woff2) format('woff2'), url(./files/anek-gujarati-gujarati-500-normal.woff) format('woff');
+  src: url(./files/anek-gujarati-gujarati-500-normal.woff2) format(woff2), url(./files/anek-gujarati-gujarati-500-normal.woff) format(woff);
+  unicode-range: U+0951-0952,U+0964-0965,U+0A80-0AFF,U+200C-200D,U+20B9,U+25CC,U+A830-A839;
 }

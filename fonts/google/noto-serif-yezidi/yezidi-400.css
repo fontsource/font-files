@@ -1,8 +1,8 @@
-/* noto-serif-yezidi-yezidi-400-normal */
 @font-face {
   font-family: 'Noto Serif Yezidi';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-serif-yezidi-yezidi-400-normal.woff2) format('woff2'), url(./files/noto-serif-yezidi-yezidi-400-normal.woff) format('woff');
+  src: url(./files/noto-serif-yezidi-yezidi-400-normal.woff2) format(woff2), url(./files/noto-serif-yezidi-yezidi-400-normal.woff) format(woff);
+  unicode-range: U+060C,U+061B,U+061F,U+0660-0669,U+06D4,U+10E80-10EBF;
 }

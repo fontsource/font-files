@@ -1,8 +1,8 @@
-/* noto-sans-grantha-grantha-400-normal */
 @font-face {
   font-family: 'Noto Sans Grantha';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-grantha-grantha-400-normal.woff2) format('woff2'), url(./files/noto-sans-grantha-grantha-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-grantha-grantha-400-normal.woff2) format(woff2), url(./files/noto-sans-grantha-grantha-400-normal.woff) format(woff);
+  unicode-range: U+0951-0952,U+0964-0965,U+0BAA,U+0BB5,U+0BE6-0BF3,U+1CD0,U+1CD2-1CD3,U+1CF2-1CF4,U+1CF8-1CF9,U+200C-200D,U+20F0,U+25CC,U+11300-1137F,U+11FD0-11FD1,U+11FD3;
 }

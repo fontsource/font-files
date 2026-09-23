@@ -1,8 +1,8 @@
-/* noto-sans-lao-lao-600-normal */
 @font-face {
   font-family: 'Noto Sans Lao';
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src: url(./files/noto-sans-lao-lao-600-normal.woff2) format('woff2'), url(./files/noto-sans-lao-lao-600-normal.woff) format('woff');
+  src: url(./files/noto-sans-lao-lao-600-normal.woff2) format(woff2), url(./files/noto-sans-lao-lao-600-normal.woff) format(woff);
+  unicode-range: U+0E81-0EDF,U+200C-200D,U+25CC;
 }

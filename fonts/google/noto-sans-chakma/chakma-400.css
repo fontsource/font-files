@@ -1,8 +1,8 @@
-/* noto-sans-chakma-chakma-400-normal */
 @font-face {
   font-family: 'Noto Sans Chakma';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-chakma-chakma-400-normal.woff2) format('woff2'), url(./files/noto-sans-chakma-chakma-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-chakma-chakma-400-normal.woff2) format(woff2), url(./files/noto-sans-chakma-chakma-400-normal.woff) format(woff);
+  unicode-range: U+09E6-09EF,U+1040-1049,U+200C-200D,U+25CC,U+11100-1114F;
 }

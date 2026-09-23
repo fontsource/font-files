@@ -1,8 +1,8 @@
-/* meera-inimai-tamil-400-normal */
 @font-face {
   font-family: 'Meera Inimai';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/meera-inimai-tamil-400-normal.woff2) format('woff2'), url(./files/meera-inimai-tamil-400-normal.woff) format('woff');
+  src: url(./files/meera-inimai-tamil-400-normal.woff2) format(woff2), url(./files/meera-inimai-tamil-400-normal.woff) format(woff);
+  unicode-range: U+0964-0965,U+0B82-0BFA,U+200C-200D,U+20B9,U+25CC;
 }

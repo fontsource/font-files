@@ -1,8 +1,8 @@
-/* noto-music-music-400-normal */
 @font-face {
   font-family: 'Noto Music';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-music-music-400-normal.woff2) format('woff2'), url(./files/noto-music-music-400-normal.woff) format('woff');
+  src: url(./files/noto-music-music-400-normal.woff2) format(woff2), url(./files/noto-music-music-400-normal.woff) format(woff);
+  unicode-range: U+25CC,U+2669-266F,U+1D000-1D0F5,U+1D100-1D126,U+1D129-1D1EA,U+1D200-1D245;
 }

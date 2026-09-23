@@ -1,8 +1,8 @@
-/* noto-sans-kawi-kawi-500-normal */
 @font-face {
   font-family: 'Noto Sans Kawi';
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url(./files/noto-sans-kawi-kawi-500-normal.woff2) format('woff2'), url(./files/noto-sans-kawi-kawi-500-normal.woff) format('woff');
+  src: url(./files/noto-sans-kawi-kawi-500-normal.woff2) format(woff2), url(./files/noto-sans-kawi-kawi-500-normal.woff) format(woff);
+  unicode-range: U+11F00-11F10,U+11F12-11F3A,U+11F3E-11F5A;
 }

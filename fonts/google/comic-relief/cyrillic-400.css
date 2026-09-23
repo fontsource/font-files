@@ -1,8 +1,8 @@
-/* comic-relief-cyrillic-400-normal */
 @font-face {
   font-family: 'Comic Relief';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/comic-relief-cyrillic-400-normal.woff2) format('woff2'), url(./files/comic-relief-cyrillic-400-normal.woff) format('woff');
+  src: url(./files/comic-relief-cyrillic-400-normal.woff2) format(woff2), url(./files/comic-relief-cyrillic-400-normal.woff) format(woff);
+  unicode-range: U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;
 }

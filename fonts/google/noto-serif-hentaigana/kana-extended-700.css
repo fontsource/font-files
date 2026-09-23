@@ -1,8 +1,8 @@
-/* noto-serif-hentaigana-kana-extended-700-normal */
 @font-face {
   font-family: 'Noto Serif Hentaigana';
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src: url(./files/noto-serif-hentaigana-kana-extended-700-normal.woff2) format('woff2'), url(./files/noto-serif-hentaigana-kana-extended-700-normal.woff) format('woff');
+  src: url(./files/noto-serif-hentaigana-kana-extended-700-normal.woff2) format(woff2), url(./files/noto-serif-hentaigana-kana-extended-700-normal.woff) format(woff);
+  unicode-range: U+3099-309C,U+1AFF0-1AFF3,U+1AFF5-1AFFB,U+1AFFD-1AFFE,U+1B000-1B122;
 }

@@ -1,8 +1,8 @@
-/* noto-serif-dogra-dogra-400-normal */
 @font-face {
   font-family: 'Noto Serif Dogra';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-serif-dogra-dogra-400-normal.woff2) format('woff2'), url(./files/noto-serif-dogra-dogra-400-normal.woff) format('woff');
+  src: url(./files/noto-serif-dogra-dogra-400-normal.woff2) format(woff2), url(./files/noto-serif-dogra-dogra-400-normal.woff) format(woff);
+  unicode-range: U+093D,U+0964-096F,U+200C-200D,U+25CC,U+A830-A839,U+11800-1183B;
 }

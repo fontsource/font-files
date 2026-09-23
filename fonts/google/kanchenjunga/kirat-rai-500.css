@@ -1,8 +1,8 @@
-/* kanchenjunga-kirat-rai-500-normal */
 @font-face {
   font-family: 'Kanchenjunga';
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url(./files/kanchenjunga-kirat-rai-500-normal.woff2) format('woff2'), url(./files/kanchenjunga-kirat-rai-500-normal.woff) format('woff');
+  src: url(./files/kanchenjunga-kirat-rai-500-normal.woff2) format(woff2), url(./files/kanchenjunga-kirat-rai-500-normal.woff) format(woff);
+  unicode-range: U+16D40-16D79;
 }

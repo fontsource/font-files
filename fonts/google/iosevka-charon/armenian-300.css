@@ -1,8 +1,8 @@
-/* iosevka-charon-armenian-300-normal */
 @font-face {
   font-family: 'Iosevka Charon';
   font-style: normal;
   font-display: swap;
   font-weight: 300;
-  src: url(./files/iosevka-charon-armenian-300-normal.woff2) format('woff2'), url(./files/iosevka-charon-armenian-300-normal.woff) format('woff');
+  src: url(./files/iosevka-charon-armenian-300-normal.woff2) format(woff2), url(./files/iosevka-charon-armenian-300-normal.woff) format(woff);
+  unicode-range: U+0308,U+0530-058F,U+2010,U+2024,U+25CC,U+FB13-FB17;
 }

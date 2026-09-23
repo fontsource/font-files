@@ -1,8 +1,8 @@
-/* noto-sans-old-turkic-old-turkic-400-normal */
 @font-face {
   font-family: 'Noto Sans Old Turkic';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-old-turkic-old-turkic-400-normal.woff2) format('woff2'), url(./files/noto-sans-old-turkic-old-turkic-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-old-turkic-old-turkic-400-normal.woff2) format(woff2), url(./files/noto-sans-old-turkic-old-turkic-400-normal.woff) format(woff);
+  unicode-range: U+205A,U+2E30,U+10C00-10C48;
 }
