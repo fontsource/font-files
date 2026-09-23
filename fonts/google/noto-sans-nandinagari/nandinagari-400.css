@@ -1,8 +1,8 @@
-/* noto-sans-nandinagari-nandinagari-400-normal */
 @font-face {
   font-family: 'Noto Sans Nandinagari';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-nandinagari-nandinagari-400-normal.woff2) format('woff2'), url(./files/noto-sans-nandinagari-nandinagari-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-nandinagari-nandinagari-400-normal.woff2) format(woff2), url(./files/noto-sans-nandinagari-nandinagari-400-normal.woff) format(woff);
+  unicode-range: U+0964-0965,U+0CE6-0CEF,U+1CE9,U+1CF2,U+1CFA,U+A830-A835,U+119A0-119A7,U+119AA-119D7,U+119DA-119E4;
 }

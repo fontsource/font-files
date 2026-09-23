@@ -1,8 +1,8 @@
-/* noto-sans-osage-osage-400-normal */
 @font-face {
   font-family: 'Noto Sans Osage';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-osage-osage-400-normal.woff2) format('woff2'), url(./files/noto-sans-osage-osage-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-osage-osage-400-normal.woff2) format(woff2), url(./files/noto-sans-osage-osage-400-normal.woff) format(woff);
+  unicode-range: U+0301,U+0304,U+030B,U+0358,U+25CC,U+104B0-104FF;
 }

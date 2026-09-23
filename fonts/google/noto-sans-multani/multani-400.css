@@ -1,8 +1,8 @@
-/* noto-sans-multani-multani-400-normal */
 @font-face {
   font-family: 'Noto Sans Multani';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-multani-multani-400-normal.woff2) format('woff2'), url(./files/noto-sans-multani-multani-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-multani-multani-400-normal.woff2) format(woff2), url(./files/noto-sans-multani-multani-400-normal.woff) format(woff);
+  unicode-range: U+0964-0965,U+0A66-0A6F,U+11280-112AF;
 }

@@ -1,8 +1,8 @@
-/* inter-tight-greek-ext-200-normal */
 @font-face {
   font-family: 'Inter Tight';
   font-style: normal;
   font-display: swap;
   font-weight: 200;
-  src: url(./files/inter-tight-greek-ext-200-normal.woff2) format('woff2'), url(./files/inter-tight-greek-ext-200-normal.woff) format('woff');
+  src: url(./files/inter-tight-greek-ext-200-normal.woff2) format(woff2), url(./files/inter-tight-greek-ext-200-normal.woff) format(woff);
+  unicode-range: U+1F00-1FFF;
 }

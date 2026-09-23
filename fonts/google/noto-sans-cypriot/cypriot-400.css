@@ -1,8 +1,8 @@
-/* noto-sans-cypriot-cypriot-400-normal */
 @font-face {
   font-family: 'Noto Sans Cypriot';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-cypriot-cypriot-400-normal.woff2) format('woff2'), url(./files/noto-sans-cypriot-cypriot-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-cypriot-cypriot-400-normal.woff2) format(woff2), url(./files/noto-sans-cypriot-cypriot-400-normal.woff) format(woff);
+  unicode-range: U+10100-10102,U+10107-10133,U+10137-1013F,U+10800-1083F;
 }

@@ -1,8 +1,8 @@
-/* noto-sans-glagolitic-glagolitic-400-normal */
 @font-face {
   font-family: 'Noto Sans Glagolitic';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-glagolitic-glagolitic-400-normal.woff2) format('woff2'), url(./files/noto-sans-glagolitic-glagolitic-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-glagolitic-glagolitic-400-normal.woff2) format(woff2), url(./files/noto-sans-glagolitic-glagolitic-400-normal.woff) format(woff);
+  unicode-range: U+0303,U+0305,U+0484,U+0487,U+0589,U+10FB,U+205A,U+2C00-2C5F,U+2E43,U+A66F,U+1E000-1E006,U+1E008-1E018,U+1E01B-1E021,U+1E023-1E024,U+1E026-1E02A;
 }

@@ -1,8 +1,8 @@
-/* noto-sans-kharoshthi-kharoshthi-400-normal */
 @font-face {
   font-family: 'Noto Sans Kharoshthi';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-kharoshthi-kharoshthi-400-normal.woff2) format('woff2'), url(./files/noto-sans-kharoshthi-kharoshthi-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-kharoshthi-kharoshthi-400-normal.woff2) format(woff2), url(./files/noto-sans-kharoshthi-kharoshthi-400-normal.woff) format(woff);
+  unicode-range: U+200C-200D,U+2010,U+25CC,U+10A00-10A5F;
 }

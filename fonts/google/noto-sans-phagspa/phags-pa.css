@@ -1,8 +1,8 @@
-/* noto-sans-phagspa-phags-pa-400-normal */
 @font-face {
   font-family: 'Noto Sans PhagsPa';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-phagspa-phags-pa-400-normal.woff2) format('woff2'), url(./files/noto-sans-phagspa-phags-pa-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-phagspa-phags-pa-400-normal.woff2) format(woff2), url(./files/noto-sans-phagspa-phags-pa-400-normal.woff) format(woff);
+  unicode-range: U+1801-1803,U+1805,U+200C-200F,U+2025,U+202F,U+25CC,U+3000-3003,U+3005,U+3007-301B,U+A840-A877,U+FE00;
 }

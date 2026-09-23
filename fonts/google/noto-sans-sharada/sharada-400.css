@@ -1,8 +1,8 @@
-/* noto-sans-sharada-sharada-400-normal */
 @font-face {
   font-family: 'Noto Sans Sharada';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-sharada-sharada-400-normal.woff2) format('woff2'), url(./files/noto-sans-sharada-sharada-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-sharada-sharada-400-normal.woff2) format(woff2), url(./files/noto-sans-sharada-sharada-400-normal.woff) format(woff);
+  unicode-range: U+0951,U+1CD7,U+1CD9,U+1CDC-1CDD,U+1CE0,U+200C-200D,U+25CC,U+A830-A835,U+A838,U+11180-111DF;
 }

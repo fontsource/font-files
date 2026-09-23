@@ -1,17 +1,17 @@
-/* tuffy-greek-ext-400-italic */
 @font-face {
   font-family: 'Tuffy';
   font-style: italic;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/tuffy-greek-ext-400-italic.woff2) format('woff2'), url(./files/tuffy-greek-ext-400-italic.woff) format('woff');
+  src: url(./files/tuffy-greek-ext-400-italic.woff2) format(woff2), url(./files/tuffy-greek-ext-400-italic.woff) format(woff);
+  unicode-range: U+1F00-1FFF;
 }
 
-/* tuffy-greek-ext-700-italic */
 @font-face {
   font-family: 'Tuffy';
   font-style: italic;
   font-display: swap;
   font-weight: 700;
-  src: url(./files/tuffy-greek-ext-700-italic.woff2) format('woff2'), url(./files/tuffy-greek-ext-700-italic.woff) format('woff');
+  src: url(./files/tuffy-greek-ext-700-italic.woff2) format(woff2), url(./files/tuffy-greek-ext-700-italic.woff) format(woff);
+  unicode-range: U+1F00-1FFF;
 }

@@ -1,8 +1,8 @@
-/* noto-serif-dives-akuru-dives-akuru-400-normal */
 @font-face {
   font-family: 'Noto Serif Dives Akuru';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-serif-dives-akuru-dives-akuru-400-normal.woff2) format('woff2'), url(./files/noto-serif-dives-akuru-dives-akuru-400-normal.woff) format('woff');
+  src: url(./files/noto-serif-dives-akuru-dives-akuru-400-normal.woff2) format(woff2), url(./files/noto-serif-dives-akuru-dives-akuru-400-normal.woff) format(woff);
+  unicode-range: U+11900-11906,U+11909,U+1190C-11913,U+11915-11916,U+11918-11935,U+11937-11938,U+1193B-11946,U+11950-11959;
 }

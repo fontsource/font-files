@@ -1,8 +1,8 @@
-/* google-sans-oriya-700-italic */
 @font-face {
   font-family: 'Google Sans';
   font-style: italic;
   font-display: swap;
   font-weight: 700;
-  src: url(./files/google-sans-oriya-700-italic.woff2) format('woff2'), url(./files/google-sans-oriya-700-italic.woff) format('woff');
+  src: url(./files/google-sans-oriya-700-italic.woff2) format(woff2), url(./files/google-sans-oriya-700-italic.woff) format(woff);
+  unicode-range: U+0951-0952,U+0964-0965,U+0B01-0B77,U+1CDA,U+1CF2,U+200C-200D,U+20B9,U+25CC;
 }

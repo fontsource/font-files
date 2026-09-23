@@ -1,8 +1,8 @@
-/* google-sans-flex-nushu-800-normal */
 @font-face {
   font-family: 'Google Sans Flex';
   font-style: normal;
   font-display: swap;
   font-weight: 800;
-  src: url(./files/google-sans-flex-nushu-800-normal.woff2) format('woff2'), url(./files/google-sans-flex-nushu-800-normal.woff) format('woff');
+  src: url(./files/google-sans-flex-nushu-800-normal.woff2) format(woff2), url(./files/google-sans-flex-nushu-800-normal.woff) format(woff);
+  unicode-range: U+2003,U+3000,U+3002,U+4E00,U+FE12,U+16FE1,U+1B170-1B2FB;
 }

@@ -1,35 +1,35 @@
-/* google-sans-bengali-400-italic */
 @font-face {
   font-family: 'Google Sans';
   font-style: italic;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/google-sans-bengali-400-italic.woff2) format('woff2'), url(./files/google-sans-bengali-400-italic.woff) format('woff');
+  src: url(./files/google-sans-bengali-400-italic.woff2) format(woff2), url(./files/google-sans-bengali-400-italic.woff) format(woff);
+  unicode-range: U+0951-0952,U+0964-0965,U+0980-09FE,U+1CD0,U+1CD2,U+1CD5-1CD6,U+1CD8,U+1CE1,U+1CEA,U+1CED,U+1CF2,U+1CF5-1CF7,U+200C-200D,U+20B9,U+25CC,U+A8F1;
 }
 
-/* google-sans-bengali-500-italic */
 @font-face {
   font-family: 'Google Sans';
   font-style: italic;
   font-display: swap;
   font-weight: 500;
-  src: url(./files/google-sans-bengali-500-italic.woff2) format('woff2'), url(./files/google-sans-bengali-500-italic.woff) format('woff');
+  src: url(./files/google-sans-bengali-500-italic.woff2) format(woff2), url(./files/google-sans-bengali-500-italic.woff) format(woff);
+  unicode-range: U+0951-0952,U+0964-0965,U+0980-09FE,U+1CD0,U+1CD2,U+1CD5-1CD6,U+1CD8,U+1CE1,U+1CEA,U+1CED,U+1CF2,U+1CF5-1CF7,U+200C-200D,U+20B9,U+25CC,U+A8F1;
 }
 
-/* google-sans-bengali-600-italic */
 @font-face {
   font-family: 'Google Sans';
   font-style: italic;
   font-display: swap;
   font-weight: 600;
-  src: url(./files/google-sans-bengali-600-italic.woff2) format('woff2'), url(./files/google-sans-bengali-600-italic.woff) format('woff');
+  src: url(./files/google-sans-bengali-600-italic.woff2) format(woff2), url(./files/google-sans-bengali-600-italic.woff) format(woff);
+  unicode-range: U+0951-0952,U+0964-0965,U+0980-09FE,U+1CD0,U+1CD2,U+1CD5-1CD6,U+1CD8,U+1CE1,U+1CEA,U+1CED,U+1CF2,U+1CF5-1CF7,U+200C-200D,U+20B9,U+25CC,U+A8F1;
 }
 
-/* google-sans-bengali-700-italic */
 @font-face {
   font-family: 'Google Sans';
   font-style: italic;
   font-display: swap;
   font-weight: 700;
-  src: url(./files/google-sans-bengali-700-italic.woff2) format('woff2'), url(./files/google-sans-bengali-700-italic.woff) format('woff');
+  src: url(./files/google-sans-bengali-700-italic.woff2) format(woff2), url(./files/google-sans-bengali-700-italic.woff) format(woff);
+  unicode-range: U+0951-0952,U+0964-0965,U+0980-09FE,U+1CD0,U+1CD2,U+1CD5-1CD6,U+1CD8,U+1CE1,U+1CEA,U+1CED,U+1CF2,U+1CF5-1CF7,U+200C-200D,U+20B9,U+25CC,U+A8F1;
 }

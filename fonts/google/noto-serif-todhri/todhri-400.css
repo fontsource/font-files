@@ -1,8 +1,8 @@
-/* noto-serif-todhri-todhri-400-normal */
 @font-face {
   font-family: 'Noto Serif Todhri';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-serif-todhri-todhri-400-normal.woff2) format('woff2'), url(./files/noto-serif-todhri-todhri-400-normal.woff) format('woff');
+  src: url(./files/noto-serif-todhri-todhri-400-normal.woff2) format(woff2), url(./files/noto-serif-todhri-todhri-400-normal.woff) format(woff);
+  unicode-range: U+0301,U+0304,U+0307,U+0311,U+0313,U+035E,U+105C0-105F3;
 }

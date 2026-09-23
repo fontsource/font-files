@@ -20488,7 +20488,7 @@
     },
     "source": "https://github.com/google/fonts",
     "type": "google",
-    "npmVersion": "5.3.0",
+    "npmVersion": "5.3.1",
     "unicodeRange": {
       "adlam": "U+061F,U+0640,U+2015,U+201B,U+2020-2021,U+2030,U+204F,U+25CC,U+2E28-2E29,U+2E41,U+1E900-1E95F",
       "canadian-aboriginal": "U+02C7,U+02D8-02D9,U+02DB,U+0307,U+1400-167F,U+18B0-18F5,U+25CC,U+11AB0-11ABF",
@@ -33717,8 +33717,8 @@
     "styles": ["normal"],
     "defSubset": "latin",
     "variable": false,
-    "lastModified": "2026-09-17",
-    "version": "v100",
+    "lastModified": "2026-09-22",
+    "version": "v101",
     "category": "monospace",
     "license": {
       "type": "OFL-1.1",
@@ -33727,7 +33727,7 @@
     },
     "source": "https://github.com/google/fonts",
     "type": "google",
-    "npmVersion": "5.3.6",
+    "npmVersion": "5.3.7",
     "unicodeRange": {
       "latin": "U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD"
     }
@@ -33745,8 +33745,8 @@
       "GRAD": {"min": "-25", "max": "200", "default": "0", "step": "1"},
       "opsz": {"default": "48", "min": "30", "max": "48", "step": "0.1"}
     },
-    "lastModified": "2026-09-17",
-    "version": "v373",
+    "lastModified": "2026-09-22",
+    "version": "v374",
     "category": "icons",
     "license": {
       "type": "OFL-1.1",
@@ -33755,7 +33755,7 @@
     },
     "source": "https://github.com/google/fonts",
     "type": "google",
-    "npmVersion": "5.3.6",
+    "npmVersion": "5.3.7",
     "unicodeRange": {
       "latin": "U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD"
     }
@@ -33773,8 +33773,8 @@
       "GRAD": {"min": "-25", "max": "200", "default": "0", "step": "1"},
       "opsz": {"default": "48", "min": "30", "max": "48", "step": "0.1"}
     },
-    "lastModified": "2026-09-17",
-    "version": "v374",
+    "lastModified": "2026-09-22",
+    "version": "v375",
     "category": "icons",
     "license": {
       "type": "OFL-1.1",
@@ -33783,7 +33783,7 @@
     },
     "source": "https://github.com/google/fonts",
     "type": "google",
-    "npmVersion": "5.3.6",
+    "npmVersion": "5.3.7",
     "unicodeRange": {
       "latin": "U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD"
     }
@@ -33801,8 +33801,8 @@
       "GRAD": {"min": "-25", "max": "200", "default": "0", "step": "1"},
       "opsz": {"default": "48", "min": "30", "max": "48", "step": "0.1"}
     },
-    "lastModified": "2026-09-17",
-    "version": "v370",
+    "lastModified": "2026-09-22",
+    "version": "v371",
     "category": "icons",
     "license": {
       "type": "OFL-1.1",
@@ -33811,7 +33811,7 @@
     },
     "source": "https://github.com/google/fonts",
     "type": "google",
-    "npmVersion": "5.3.6",
+    "npmVersion": "5.3.7",
     "unicodeRange": {
       "latin": "U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD"
     }
@@ -38020,7 +38020,7 @@
     },
     "source": "https://github.com/google/fonts",
     "type": "google",
-    "npmVersion": "5.3.1",
+    "npmVersion": "5.3.2",
     "unicodeRange": {
       "[0]": "U+1f1e6-1f1ff",
       "[1]": "U+200d,U+2620,U+26a7,U+fe0f,U+1f308,U+1f38c,U+1f3c1,U+1f3f3-1f3f4,U+1f6a9,U+e0062-e0063,U+e0065,U+e0067,U+e006c,U+e006e,U+e0073-e0074,U+e0077,U+e007f",
@@ -38055,7 +38055,7 @@
     },
     "source": "https://github.com/google/fonts",
     "type": "google",
-    "npmVersion": "5.3.1",
+    "npmVersion": "5.3.2",
     "unicodeRange": {
       "[0]": "U+1f1e6-1f1ff",
       "[1]": "U+200d,U+2620,U+26a7,U+fe0f,U+1f308,U+1f38c,U+1f3c1,U+1f3f3-1f3f4,U+1f6a9,U+e0062-e0063,U+e0065,U+e0067,U+e006c,U+e006e,U+e0073-e0074,U+e0077,U+e007f",

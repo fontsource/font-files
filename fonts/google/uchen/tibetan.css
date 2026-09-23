@@ -1,8 +1,8 @@
-/* uchen-tibetan-400-normal */
 @font-face {
   font-family: 'Uchen';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/uchen-tibetan-400-normal.woff2) format('woff2'), url(./files/uchen-tibetan-400-normal.woff) format('woff');
+  src: url(./files/uchen-tibetan-400-normal.woff2) format(woff2), url(./files/uchen-tibetan-400-normal.woff) format(woff);
+  unicode-range: U+0F00-0FFF,U+200C-200D,U+25CC,U+3008-300B;
 }

@@ -1,80 +1,80 @@
-/* noto-serif-display-cyrillic-ext-100-italic */
 @font-face {
   font-family: 'Noto Serif Display';
   font-style: italic;
   font-display: swap;
   font-weight: 100;
-  src: url(./files/noto-serif-display-cyrillic-ext-100-italic.woff2) format('woff2'), url(./files/noto-serif-display-cyrillic-ext-100-italic.woff) format('woff');
+  src: url(./files/noto-serif-display-cyrillic-ext-100-italic.woff2) format(woff2), url(./files/noto-serif-display-cyrillic-ext-100-italic.woff) format(woff);
+  unicode-range: U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;
 }
 
-/* noto-serif-display-cyrillic-ext-200-italic */
 @font-face {
   font-family: 'Noto Serif Display';
   font-style: italic;
   font-display: swap;
   font-weight: 200;
-  src: url(./files/noto-serif-display-cyrillic-ext-200-italic.woff2) format('woff2'), url(./files/noto-serif-display-cyrillic-ext-200-italic.woff) format('woff');
+  src: url(./files/noto-serif-display-cyrillic-ext-200-italic.woff2) format(woff2), url(./files/noto-serif-display-cyrillic-ext-200-italic.woff) format(woff);
+  unicode-range: U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;
 }
 
-/* noto-serif-display-cyrillic-ext-300-italic */
 @font-face {
   font-family: 'Noto Serif Display';
   font-style: italic;
   font-display: swap;
   font-weight: 300;
-  src: url(./files/noto-serif-display-cyrillic-ext-300-italic.woff2) format('woff2'), url(./files/noto-serif-display-cyrillic-ext-300-italic.woff) format('woff');
+  src: url(./files/noto-serif-display-cyrillic-ext-300-italic.woff2) format(woff2), url(./files/noto-serif-display-cyrillic-ext-300-italic.woff) format(woff);
+  unicode-range: U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;
 }
 
-/* noto-serif-display-cyrillic-ext-400-italic */
 @font-face {
   font-family: 'Noto Serif Display';
   font-style: italic;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-serif-display-cyrillic-ext-400-italic.woff2) format('woff2'), url(./files/noto-serif-display-cyrillic-ext-400-italic.woff) format('woff');
+  src: url(./files/noto-serif-display-cyrillic-ext-400-italic.woff2) format(woff2), url(./files/noto-serif-display-cyrillic-ext-400-italic.woff) format(woff);
+  unicode-range: U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;
 }
 
-/* noto-serif-display-cyrillic-ext-500-italic */
 @font-face {
   font-family: 'Noto Serif Display';
   font-style: italic;
   font-display: swap;
   font-weight: 500;
-  src: url(./files/noto-serif-display-cyrillic-ext-500-italic.woff2) format('woff2'), url(./files/noto-serif-display-cyrillic-ext-500-italic.woff) format('woff');
+  src: url(./files/noto-serif-display-cyrillic-ext-500-italic.woff2) format(woff2), url(./files/noto-serif-display-cyrillic-ext-500-italic.woff) format(woff);
+  unicode-range: U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;
 }
 
-/* noto-serif-display-cyrillic-ext-600-italic */
 @font-face {
   font-family: 'Noto Serif Display';
   font-style: italic;
   font-display: swap;
   font-weight: 600;
-  src: url(./files/noto-serif-display-cyrillic-ext-600-italic.woff2) format('woff2'), url(./files/noto-serif-display-cyrillic-ext-600-italic.woff) format('woff');
+  src: url(./files/noto-serif-display-cyrillic-ext-600-italic.woff2) format(woff2), url(./files/noto-serif-display-cyrillic-ext-600-italic.woff) format(woff);
+  unicode-range: U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;
 }
 
-/* noto-serif-display-cyrillic-ext-700-italic */
 @font-face {
   font-family: 'Noto Serif Display';
   font-style: italic;
   font-display: swap;
   font-weight: 700;
-  src: url(./files/noto-serif-display-cyrillic-ext-700-italic.woff2) format('woff2'), url(./files/noto-serif-display-cyrillic-ext-700-italic.woff) format('woff');
+  src: url(./files/noto-serif-display-cyrillic-ext-700-italic.woff2) format(woff2), url(./files/noto-serif-display-cyrillic-ext-700-italic.woff) format(woff);
+  unicode-range: U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;
 }
 
-/* noto-serif-display-cyrillic-ext-800-italic */
 @font-face {
   font-family: 'Noto Serif Display';
   font-style: italic;
   font-display: swap;
   font-weight: 800;
-  src: url(./files/noto-serif-display-cyrillic-ext-800-italic.woff2) format('woff2'), url(./files/noto-serif-display-cyrillic-ext-800-italic.woff) format('woff');
+  src: url(./files/noto-serif-display-cyrillic-ext-800-italic.woff2) format(woff2), url(./files/noto-serif-display-cyrillic-ext-800-italic.woff) format(woff);
+  unicode-range: U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;
 }
 
-/* noto-serif-display-cyrillic-ext-900-italic */
 @font-face {
   font-family: 'Noto Serif Display';
   font-style: italic;
   font-display: swap;
   font-weight: 900;
-  src: url(./files/noto-serif-display-cyrillic-ext-900-italic.woff2) format('woff2'), url(./files/noto-serif-display-cyrillic-ext-900-italic.woff) format('woff');
+  src: url(./files/noto-serif-display-cyrillic-ext-900-italic.woff2) format(woff2), url(./files/noto-serif-display-cyrillic-ext-900-italic.woff) format(woff);
+  unicode-range: U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;
 }

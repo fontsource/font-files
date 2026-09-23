@@ -1,8 +1,8 @@
-/* noto-sans-kaithi-kaithi-400-normal */
 @font-face {
   font-family: 'Noto Sans Kaithi';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-kaithi-kaithi-400-normal.woff2) format('woff2'), url(./files/noto-sans-kaithi-kaithi-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-kaithi-kaithi-400-normal.woff2) format(woff2), url(./files/noto-sans-kaithi-kaithi-400-normal.woff) format(woff);
+  unicode-range: U+0966-096F,U+200C-200D,U+2010,U+25CC,U+2E31,U+A830-A839,U+11080-110CF;
 }

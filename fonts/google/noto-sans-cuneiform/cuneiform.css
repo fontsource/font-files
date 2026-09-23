@@ -1,8 +1,8 @@
-/* noto-sans-cuneiform-cuneiform-400-normal */
 @font-face {
   font-family: 'Noto Sans Cuneiform';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-cuneiform-cuneiform-400-normal.woff2) format('woff2'), url(./files/noto-sans-cuneiform-cuneiform-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-cuneiform-cuneiform-400-normal.woff2) format(woff2), url(./files/noto-sans-cuneiform-cuneiform-400-normal.woff) format(woff);
+  unicode-range: U+12000-123FF,U+12400-1246E,U+12470-12474,U+12480-12543;
 }

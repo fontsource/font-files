@@ -1,8 +1,8 @@
-/* noto-sans-sogdian-sogdian-400-normal */
 @font-face {
   font-family: 'Noto Sans Sogdian';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-sogdian-sogdian-400-normal.woff2) format('woff2'), url(./files/noto-sans-sogdian-sogdian-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-sogdian-sogdian-400-normal.woff2) format(woff2), url(./files/noto-sans-sogdian-sogdian-400-normal.woff) format(woff);
+  unicode-range: U+0640,U+200C-200D,U+25CC,U+10F30-10F59;
 }

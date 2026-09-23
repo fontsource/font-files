@@ -1,8 +1,8 @@
-/* noto-znamenny-musical-notation-znamenny-400-normal */
 @font-face {
   font-family: 'Noto Znamenny Musical Notation';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-znamenny-musical-notation-znamenny-400-normal.woff2) format('woff2'), url(./files/noto-znamenny-musical-notation-znamenny-400-normal.woff) format('woff');
+  src: url(./files/noto-znamenny-musical-notation-znamenny-400-normal.woff2) format(woff2), url(./files/noto-znamenny-musical-notation-znamenny-400-normal.woff) format(woff);
+  unicode-range: U+1CF00-1CF2D,U+1CF30-1CF46,U+1CF50-1CFC3;
 }

@@ -1,8 +1,8 @@
-/* noto-serif-tangut-tangut-400-normal */
 @font-face {
   font-family: 'Noto Serif Tangut';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-serif-tangut-tangut-400-normal.woff2) format('woff2'), url(./files/noto-serif-tangut-tangut-400-normal.woff) format('woff');
+  src: url(./files/noto-serif-tangut-tangut-400-normal.woff2) format(woff2), url(./files/noto-serif-tangut-tangut-400-normal.woff) format(woff);
+  unicode-range: U+2FF0-2FFF,U+31EF,U+16FE0,U+17000-187F7,U+18800-18AFF,U+18D00-18D08;
 }

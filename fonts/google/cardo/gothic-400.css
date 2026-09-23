@@ -1,8 +1,8 @@
-/* cardo-gothic-400-normal */
 @font-face {
   font-family: 'Cardo';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/cardo-gothic-400-normal.woff2) format('woff2'), url(./files/cardo-gothic-400-normal.woff) format('woff');
+  src: url(./files/cardo-gothic-400-normal.woff2) format(woff2), url(./files/cardo-gothic-400-normal.woff) format(woff);
+  unicode-range: U+0304-0305,U+0308,U+0331,U+10330-1034A;
 }

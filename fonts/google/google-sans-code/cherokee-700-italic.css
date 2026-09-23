@@ -1,8 +1,8 @@
-/* google-sans-code-cherokee-700-italic */
 @font-face {
   font-family: 'Google Sans Code';
   font-style: italic;
   font-display: swap;
   font-weight: 700;
-  src: url(./files/google-sans-code-cherokee-700-italic.woff2) format('woff2'), url(./files/google-sans-code-cherokee-700-italic.woff) format('woff');
+  src: url(./files/google-sans-code-cherokee-700-italic.woff2) format(woff2), url(./files/google-sans-code-cherokee-700-italic.woff) format(woff);
+  unicode-range: U+0300-0302,U+0304,U+030B-030C,U+0323-0324,U+0330-0331,U+13A0-13FF,U+AB70-ABBF;
 }

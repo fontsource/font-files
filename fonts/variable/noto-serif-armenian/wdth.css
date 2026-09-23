@@ -1,4 +1,3 @@
-/* noto-serif-armenian-armenian-wdth-normal */
 @font-face {
   font-family: 'Noto Serif Armenian Variable';
   font-style: normal;
@@ -9,7 +8,6 @@
   unicode-range: U+0308,U+0530-058F,U+2010,U+2024,U+25CC,U+FB13-FB17;
 }
 
-/* noto-serif-armenian-latin-ext-wdth-normal */
 @font-face {
   font-family: 'Noto Serif Armenian Variable';
   font-style: normal;
@@ -20,7 +18,6 @@
   unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;
 }
 
-/* noto-serif-armenian-latin-wdth-normal */
 @font-face {
   font-family: 'Noto Serif Armenian Variable';
   font-style: normal;

@@ -1,8 +1,8 @@
-/* commissioner-greek-400-normal */
 @font-face {
   font-family: 'Commissioner';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/commissioner-greek-400-normal.woff2) format('woff2'), url(./files/commissioner-greek-400-normal.woff) format('woff');
+  src: url(./files/commissioner-greek-400-normal.woff2) format(woff2), url(./files/commissioner-greek-400-normal.woff) format(woff);
+  unicode-range: U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;
 }

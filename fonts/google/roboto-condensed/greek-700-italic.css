@@ -1,8 +1,8 @@
-/* roboto-condensed-greek-700-italic */
 @font-face {
   font-family: 'Roboto Condensed';
   font-style: italic;
   font-display: swap;
   font-weight: 700;
-  src: url(./files/roboto-condensed-greek-700-italic.woff2) format('woff2'), url(./files/roboto-condensed-greek-700-italic.woff) format('woff');
+  src: url(./files/roboto-condensed-greek-700-italic.woff2) format(woff2), url(./files/roboto-condensed-greek-700-italic.woff) format(woff);
+  unicode-range: U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;
 }

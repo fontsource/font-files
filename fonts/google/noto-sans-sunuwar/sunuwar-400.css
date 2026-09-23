@@ -1,8 +1,8 @@
-/* noto-sans-sunuwar-sunuwar-400-normal */
 @font-face {
   font-family: 'Noto Sans Sunuwar';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-sunuwar-sunuwar-400-normal.woff2) format('woff2'), url(./files/noto-sans-sunuwar-sunuwar-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-sunuwar-sunuwar-400-normal.woff2) format(woff2), url(./files/noto-sans-sunuwar-sunuwar-400-normal.woff) format(woff);
+  unicode-range: U+0300-0301,U+0303,U+030D,U+0310,U+032D,U+0331,U+11BC0-11BE1,U+11BF0-11BF9;
 }

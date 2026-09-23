@@ -1,8 +1,8 @@
-/* noto-sans-thaana-thaana-500-normal */
 @font-face {
   font-family: 'Noto Sans Thaana';
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url(./files/noto-sans-thaana-thaana-500-normal.woff2) format('woff2'), url(./files/noto-sans-thaana-thaana-500-normal.woff) format('woff');
+  src: url(./files/noto-sans-thaana-thaana-500-normal.woff2) format(woff2), url(./files/noto-sans-thaana-thaana-500-normal.woff) format(woff);
+  unicode-range: U+060C,U+061B-061C,U+061F,U+0660-066C,U+0780-07B1,U+200C-200F,U+25CC,U+FDF2,U+FDFD;
 }

@@ -1,8 +1,8 @@
-/* hanuman-khmer-900-normal */
 @font-face {
   font-family: 'Hanuman';
   font-style: normal;
   font-display: swap;
   font-weight: 900;
-  src: url(./files/hanuman-khmer-900-normal.woff2) format('woff2'), url(./files/hanuman-khmer-900-normal.woff) format('woff');
+  src: url(./files/hanuman-khmer-900-normal.woff2) format(woff2), url(./files/hanuman-khmer-900-normal.woff) format(woff);
+  unicode-range: U+1780-17FF,U+19E0-19FF,U+200C-200D,U+25CC;
 }

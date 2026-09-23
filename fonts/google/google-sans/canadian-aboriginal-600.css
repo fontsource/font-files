@@ -1,8 +1,8 @@
-/* google-sans-canadian-aboriginal-600-normal */
 @font-face {
   font-family: 'Google Sans';
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src: url(./files/google-sans-canadian-aboriginal-600-normal.woff2) format('woff2'), url(./files/google-sans-canadian-aboriginal-600-normal.woff) format('woff');
+  src: url(./files/google-sans-canadian-aboriginal-600-normal.woff2) format(woff2), url(./files/google-sans-canadian-aboriginal-600-normal.woff) format(woff);
+  unicode-range: U+02C7,U+02D8-02D9,U+02DB,U+0307,U+1400-167F,U+18B0-18F5,U+25CC,U+11AB0-11ABF;
 }

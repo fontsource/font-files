@@ -1,8 +1,8 @@
-/* noto-sans-mongolian-mongolian-400-normal */
 @font-face {
   font-family: 'Noto Sans Mongolian';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(./files/noto-sans-mongolian-mongolian-400-normal.woff2) format('woff2'), url(./files/noto-sans-mongolian-mongolian-400-normal.woff) format('woff');
+  src: url(./files/noto-sans-mongolian-mongolian-400-normal.woff2) format(woff2), url(./files/noto-sans-mongolian-mongolian-400-normal.woff) format(woff);
+  unicode-range: U+1800-18AF,U+200C-200D,U+202F,U+2048-2049,U+2460-2473,U+25CC,U+3001-3002,U+3008-300F,U+FE3D-FE3E,U+FE41-FE44,U+11660-1166C;
 }

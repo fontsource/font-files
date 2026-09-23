@@ -1,8 +1,8 @@
-/* playpen-sans-greek-800-normal */
 @font-face {
   font-family: 'Playpen Sans';
   font-style: normal;
   font-display: swap;
   font-weight: 800;
-  src: url(./files/playpen-sans-greek-800-normal.woff2) format('woff2'), url(./files/playpen-sans-greek-800-normal.woff) format('woff');
+  src: url(./files/playpen-sans-greek-800-normal.woff2) format(woff2), url(./files/playpen-sans-greek-800-normal.woff) format(woff);
+  unicode-range: U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;
 }

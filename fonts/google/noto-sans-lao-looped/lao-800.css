@@ -1,8 +1,8 @@
-/* noto-sans-lao-looped-lao-800-normal */
 @font-face {
   font-family: 'Noto Sans Lao Looped';
   font-style: normal;
   font-display: swap;
   font-weight: 800;
-  src: url(./files/noto-sans-lao-looped-lao-800-normal.woff2) format('woff2'), url(./files/noto-sans-lao-looped-lao-800-normal.woff) format('woff');
+  src: url(./files/noto-sans-lao-looped-lao-800-normal.woff2) format(woff2), url(./files/noto-sans-lao-looped-lao-800-normal.woff) format(woff);
+  unicode-range: U+0E81-0EDF,U+200C-200D,U+25CC;
 }

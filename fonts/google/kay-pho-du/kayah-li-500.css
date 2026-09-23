@@ -1,8 +1,8 @@
-/* kay-pho-du-kayah-li-500-normal */
 @font-face {
   font-family: 'Kay Pho Du';
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url(./files/kay-pho-du-kayah-li-500-normal.woff2) format('woff2'), url(./files/kay-pho-du-kayah-li-500-normal.woff) format('woff');
+  src: url(./files/kay-pho-du-kayah-li-500-normal.woff2) format(woff2), url(./files/kay-pho-du-kayah-li-500-normal.woff) format(woff);
+  unicode-range: U+200C-200D,U+2010,U+25CC,U+A900-A92F;
 }

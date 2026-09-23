@@ -1,8 +1,8 @@
-/* noto-sans-sundanese-sundanese-500-normal */
 @font-face {
   font-family: 'Noto Sans Sundanese';
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url(./files/noto-sans-sundanese-sundanese-500-normal.woff2) format('woff2'), url(./files/noto-sans-sundanese-sundanese-500-normal.woff) format('woff');
+  src: url(./files/noto-sans-sundanese-sundanese-500-normal.woff2) format(woff2), url(./files/noto-sans-sundanese-sundanese-500-normal.woff) format(woff);
+  unicode-range: U+1B80-1BBF,U+1CC0-1CC7,U+200C-200D,U+2010,U+25CC;
 }

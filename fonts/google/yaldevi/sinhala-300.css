@@ -1,8 +1,8 @@
-/* yaldevi-sinhala-300-normal */
 @font-face {
   font-family: 'Yaldevi';
   font-style: normal;
   font-display: swap;
   font-weight: 300;
-  src: url(./files/yaldevi-sinhala-300-normal.woff2) format('woff2'), url(./files/yaldevi-sinhala-300-normal.woff) format('woff');
+  src: url(./files/yaldevi-sinhala-300-normal.woff2) format(woff2), url(./files/yaldevi-sinhala-300-normal.woff) format(woff);
+  unicode-range: U+0964-0965,U+0D81-0DF4,U+1CF2,U+200C-200D,U+25CC,U+111E1-111F4;
 }
