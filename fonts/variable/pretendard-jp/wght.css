@@ -1,0 +1,8 @@
+/* pretendard-jp-latin-wght-normal */
+@font-face {
+  font-family: 'Pretendard JP Variable';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 45 920;
+  src: url(./files/pretendard-jp-latin-wght-normal.woff2) format('woff2-variations');
+}
