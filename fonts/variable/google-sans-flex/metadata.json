@@ -24,8 +24,8 @@
     "GRAD": {"default": "0", "min": "0", "max": "100", "step": "1"},
     "ROND": {"default": "0", "min": "0", "max": "100", "step": "1"}
   },
-  "lastModified": "2026-07-30",
-  "version": "v22",
+  "lastModified": "2026-10-01",
+  "version": "v23",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

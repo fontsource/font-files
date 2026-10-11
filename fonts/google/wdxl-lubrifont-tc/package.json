@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/wdxl-lubrifont-tc",
-  "version": "5.3.0",
+  "version": "5.3.1",
   "description": "Self-host the WDXL Lubrifont TC font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/wdxl-lubrifont-tc"
   },
-  "publishHash": "473a3cbf36fd0112"
+  "publishHash": "a74378ed1ee6c891"
 }

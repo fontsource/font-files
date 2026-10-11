@@ -1,0 +1,22 @@
+{
+  "id": "libre-caslon-condensed",
+  "family": "Libre Caslon Condensed",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400, 500, 600, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": {
+    "ital": {"default": "0", "min": "0", "max": "1", "step": "1"},
+    "wght": {"default": "400", "min": "400", "max": "700", "step": "1"}
+  },
+  "lastModified": "2026-10-01",
+  "version": "v3",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2020 The Libre Caslon Condensed Project Authors (https://github.com/ertekinno/libre-caslon-condensed) LibreCaslonCondensed-Italic[wght].ttf: Copyright 2020 The Libre Caslon Condensed Project Authors (https://github.com/ertekinno/libre-caslon-condensed)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

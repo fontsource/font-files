@@ -1,0 +1,52 @@
+{
+  "name": "@fontsource-variable/clarity-city",
+  "version": "5.3.1",
+  "description": "Self-host the Clarity City font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "types": "index.d.css.ts",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "clarity-city",
+    "Clarity City",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "exports": {
+    ".": {
+      "types": "./index.d.css.ts",
+      "sass": "./index.css",
+      "default": "./index.css"
+    },
+    "./LICENSE": "./LICENSE",
+    "./*": {"sass": "./*.css", "default": "./*.css"},
+    "./*.css": {"sass": "./*.css", "default": "./*.css"},
+    "./files/*": {"sass": "./files/*", "default": "./files/*"},
+    "./files/*.woff": {"sass": "./files/*.woff", "default": "./files/*.woff"},
+    "./files/*.woff2": {
+      "sass": "./files/*.woff2",
+      "default": "./files/*.woff2"
+    },
+    "./package.json": "./package.json",
+    "./metadata.json": "./metadata.json",
+    "./unicode.json": "./unicode.json",
+    "./scss": {"sass": "./scss/metadata.scss"}
+  },
+  "author": "Google Inc.",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/clarity-city",
+  "funding": "https://github.com/sponsors/ayuhito",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fontsource/font-files.git",
+    "directory": "fonts/variable/clarity-city"
+  },
+  "publishHash": "9d76bf05ff883fa2"
+}

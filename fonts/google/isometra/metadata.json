@@ -1,0 +1,19 @@
+{
+  "id": "isometra",
+  "family": "Isometra",
+  "subsets": ["latin", "latin-ext"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2026-10-01",
+  "version": "v3",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://openfontlicense.org",
+    "attribution": "Copyright 2025 The Isometra Project Authors (https://github.com/field2/isometra)"
+  },
+  "source": "https://github.com/google/fonts",
+  "type": "google"
+}

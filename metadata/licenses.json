@@ -273,14 +273,14 @@
   "akshar": {
     "id": "akshar",
     "authors": {
-      "copyright": "Copyright 2020 The Akshar Type Project Authors",
+      "copyright": "Copyright 2026 The Akshar Type Project Authors",
       "website": "https://github.com/tallchai/akshar-type"
     },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "https://openfontlicense.org"
     },
-    "original": "Copyright 2020 The Akshar Type Project Authors (https://github.com/tallchai/akshar-type)"
+    "original": "Copyright 2026 The Akshar Type Project Authors (https://github.com/tallchai/akshar-type)"
   },
   "akt": {
     "id": "akt",
@@ -4108,6 +4108,18 @@
       "url": "https://openfontlicense.org"
     },
     "original": "Copyright  2012 Natanael Gama (info@ndiscovered.com), with Reserved Font Name 'Cinzel' CinzelDecorative-Bold.ttf: Copyright  2012 Natanael Gama (info@ndiscovered.com), with Reserved Font Name 'Cinzel' CinzelDecorative-Black.ttf: Copyright  2012 Natanael Gama (info@ndiscovered.com), with Reserved Font Name 'Cinzel'"
+  },
+  "clarity-city": {
+    "id": "clarity-city",
+    "authors": {
+      "copyright": "Copyright 2019 The Clarity City Project Authors ClarityCity-Italic[wght].ttf",
+      "website": "https://github.com/googlefonts/clarity-city, https://github.com/googlefonts/clarity-city"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2019 The Clarity City Project Authors (https://github.com/googlefonts/clarity-city) ClarityCity-Italic[wght].ttf: Copyright 2019 The Clarity City Project Authors (https://github.com/googlefonts/clarity-city)"
   },
   "clicker-script": {
     "id": "clicker-script",
@@ -8214,6 +8226,18 @@
     },
     "original": "Copyright 2013-2021 The Island Moments Project Authors (https://github.com/googlefonts/island-moments)"
   },
+  "isometra": {
+    "id": "isometra",
+    "authors": {
+      "copyright": "Copyright 2025 The Isometra Project Authors",
+      "website": "https://github.com/field2/isometra"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2025 The Isometra Project Authors (https://github.com/field2/isometra)"
+  },
   "istok-web": {
     "id": "istok-web",
     "authors": {
@@ -9332,6 +9356,18 @@
     },
     "original": "Copyright 2018 The Kreon Project Authors (https://github.com/googlefonts/kreon), with Reserved Font Name \"Kreon\""
   },
+  "kripa": {
+    "id": "kripa",
+    "authors": {
+      "copyright": "Copyright 2026 The Kripa Type Project Authors",
+      "website": "https://github.com/kedar9/kripa"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2026 The Kripa Type Project Authors (https://github.com/kedar9/kripa)"
+  },
   "kristi": {
     "id": "kristi",
     "authors": {
@@ -9940,6 +9976,18 @@
       "url": "https://openfontlicense.org"
     },
     "original": "Copyright 2012 The Libre Bodoni Project Authors (https://github.com/googlefonts/Libre-Bodoni/) LibreBodoni-Italic[wght].ttf: Copyright 2012 The Libre Bodoni Project Authors (https://github.com/googlefonts/Libre-Bodoni/)"
+  },
+  "libre-caslon-condensed": {
+    "id": "libre-caslon-condensed",
+    "authors": {
+      "copyright": "Copyright 2020 The Libre Caslon Condensed Project Authors LibreCaslonCondensed-Italic[wght].ttf",
+      "website": "https://github.com/ertekinno/libre-caslon-condensed, https://github.com/ertekinno/libre-caslon-condensed"
+    },
+    "license": {
+      "type": "SIL Open Font License, 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    "original": "Copyright 2020 The Libre Caslon Condensed Project Authors (https://github.com/ertekinno/libre-caslon-condensed) LibreCaslonCondensed-Italic[wght].ttf: Copyright 2020 The Libre Caslon Condensed Project Authors (https://github.com/ertekinno/libre-caslon-condensed)"
   },
   "libre-caslon-display": {
     "id": "libre-caslon-display",

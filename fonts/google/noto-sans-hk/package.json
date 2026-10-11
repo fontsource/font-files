@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/noto-sans-hk",
-  "version": "5.3.0",
+  "version": "5.3.1",
   "description": "Self-host the Noto Sans HK font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/google/noto-sans-hk"
   },
-  "publishHash": "40cbf46520ee89ac"
+  "publishHash": "c15d4c0e079a26d9"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/handjet",
-  "version": "5.3.0",
+  "version": "5.3.1",
   "description": "Self-host the Handjet font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/handjet"
   },
-  "publishHash": "25c0f457bc6078cd"
+  "publishHash": "4f6f1ae3652a70b2"
 }

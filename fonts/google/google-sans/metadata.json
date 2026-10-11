@@ -37,8 +37,8 @@
     "wght": {"default": "400", "min": "400", "max": "700", "step": "1"},
     "GRAD": {"default": "0", "min": "-50", "max": "200", "step": "1"}
   },
-  "lastModified": "2026-07-23",
-  "version": "v70",
+  "lastModified": "2026-10-01",
+  "version": "v71",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",

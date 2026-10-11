@@ -1,6 +1,6 @@
 {
   "name": "@fontsource-variable/wavefont",
-  "version": "5.3.0",
+  "version": "5.3.1",
   "description": "Self-host the Wavefont font in a neatly bundled NPM package.",
   "main": "index.css",
   "types": "index.d.css.ts",
@@ -48,5 +48,5 @@
     "url": "git+https://github.com/fontsource/font-files.git",
     "directory": "fonts/variable/wavefont"
   },
-  "publishHash": "270683a9eba7aed1"
+  "publishHash": "72cef3975ffe4db5"
 }

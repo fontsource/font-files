@@ -6,15 +6,16 @@
   "styles": ["normal"],
   "defSubset": "latin",
   "variable": {
-    "wght": {"default": "400", "min": "300", "max": "700", "step": "1"}
+    "wght": {"default": "400", "min": "300", "max": "700", "step": "1"},
+    "CTRS": {"default": "0", "min": "0", "max": "100", "step": "1"}
   },
-  "lastModified": "2025-09-08",
-  "version": "v17",
+  "lastModified": "2026-10-01",
+  "version": "v20",
   "category": "sans-serif",
   "license": {
     "type": "OFL-1.1",
     "url": "https://openfontlicense.org",
-    "attribution": "Copyright 2020 The Akshar Type Project Authors (https://github.com/tallchai/akshar-type)"
+    "attribution": "Copyright 2026 The Akshar Type Project Authors (https://github.com/tallchai/akshar-type)"
   },
   "source": "https://github.com/google/fonts",
   "type": "google"

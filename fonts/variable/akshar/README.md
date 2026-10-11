@@ -24,7 +24,7 @@ Supported variables:
 - Weights: `[300,400,500,600,700]`
 - Styles: `[normal]`
 - Subsets: `[devanagari,latin,latin-ext]`
-- Axes: `[wght]`
+- Axes: `[wght,CTRS]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what axes and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/akshar).
 
@@ -39,10 +39,10 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright 2020 The Akshar Type Project Authors (https://github.com/tallchai/akshar-type)
+Copyright 2026 The Akshar Type Project Authors (https://github.com/tallchai/akshar-type)
 [OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v17`.
+Font version (provided by source): `v20`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).
