@@ -23,6 +23,7 @@ interface PackageOutput {
 		faces: { subset: string; weight: number | string; style: string }[];
 	};
 	metadata: {
+		symbols?: { inputModes: string[] };
 		distribution: {
 			characters: { type: "all" } | { type: "subsets"; defaultSubset: string };
 		};
@@ -186,7 +187,9 @@ export async function projectPublishedRecord(
 					family: manifest.family,
 					subsets: manifest.faces.map((face) => face.subset),
 					weights,
-					styles: manifest.faces.map((face) => face.style),
+					styles: manifest.faces.map((face) =>
+						face.style === "normal" ? "normal" : "italic",
+					),
 					defSubset:
 						characters.type === "all" ? "full" : characters.defaultSubset,
 					lastModified: manifest.sourceModified,
@@ -204,7 +207,10 @@ export async function projectPublishedRecord(
 									"handwriting",
 									"monospace",
 								].includes(value),
-							) ?? "other",
+							) ??
+						(metadata.symbols?.inputModes.includes("name-ligature")
+							? "icons"
+							: "other"),
 				};
 			}),
 	);
