@@ -2,6 +2,10 @@ name: Build and Release [Force Rebuild No Deploy] [Manual]
 
 on: [workflow_dispatch]
 
+concurrency:
+  group: font-files-publication
+  cancel-in-progress: false
+
 permissions:
   id-token: write
   contents: write
@@ -51,6 +55,15 @@ jobs:
 
       - name: Save Fontsource metadata
         run: bun run metadata
+
+      - name: Generate publication candidate
+        run: bun run published --out "${{ runner.temp }}/published.json"
+
+      - name: Upload publication candidate
+        uses: actions/upload-artifact@v4
+        with:
+          name: published-packages
+          path: ${{ runner.temp }}/published.json
 
       - name: Stage, commit and push files
         uses: stefanzweifel/git-auto-commit-action@v5
