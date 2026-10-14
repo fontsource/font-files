@@ -1,0 +1,19 @@
+name: Reconcile published packages
+description: Verify published versions and commit only the publication index
+runs:
+  using: composite
+  steps:
+    - name: Reconcile published packages
+      id: published
+      if: ${{ !cancelled() }}
+      shell: bash
+      run: bun run published --out metadata/published.json
+    - name: Commit publication index
+      if: ${{ !cancelled() && steps.published.outcome == 'success' }}
+      shell: bash
+      run: |
+        git add metadata/published.json
+        if ! git diff --cached --quiet -- metadata/published.json; then
+          git commit --only metadata/published.json -m "chore: update published package index"
+          git push origin HEAD:main
+        fi

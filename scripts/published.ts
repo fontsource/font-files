@@ -15,7 +15,7 @@ export async function reconcilePublished(
 	names: string[],
 	previous: PublishedPackages,
 ) {
-	const published = structuredClone(previous);
+	const published = { ...previous };
 	const failures: string[] = [];
 	const pending = names.values();
 	// Bound upstream requests without adding a queue dependency.

@@ -72,18 +72,8 @@ jobs:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: Reconcile published packages
-        id: published
         if: ${{ !cancelled() && (steps.publish.outcome == 'success' || steps.publish.outcome == 'failure') }}
-        run: bun run published --out metadata/published.json
-
-      - name: Commit publication index
-        if: ${{ !cancelled() && steps.published.outcome == 'success' }}
-        run: |
-          git add metadata/published.json
-          if ! git diff --cached --quiet -- metadata/published.json; then
-            git commit --only metadata/published.json -m "chore: update published package index"
-            git push origin HEAD:main
-          fi
+        uses: ./.github/actions/reconcile-publication
 
       - name: Checkout archived registry
         uses: ./.github/actions/registry-checkout
