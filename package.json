@@ -10,7 +10,8 @@
 		"fontlist": "bun run scripts/fontlist.ts",
 		"gfm-metadata": "bun run scripts/gfm-metadata.ts",
 		"metadata": "bun run scripts/metadata.ts",
-		"test": "fontsource create-verify --all"
+		"test": "fontsource create-verify --all",
+		"published": "bun run scripts/published.ts"
 	},
 	"author": "Ayuhito <hello@ayuhito.com>",
 	"license": "MIT",

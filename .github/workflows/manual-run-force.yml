@@ -2,6 +2,10 @@ name: Build and Release [Force Rebuild No Deploy] [Manual]
 
 on: [workflow_dispatch]
 
+concurrency:
+  group: font-files-publication
+  cancel-in-progress: false
+
 permissions:
   id-token: write
   contents: write
