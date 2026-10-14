@@ -41,15 +41,9 @@ export async function reconcilePublished(
 					if (previous[id]?.[kind] === version) continue;
 					if (Number(version.split(".")[0]) >= 6) {
 						// The API owns validation of the versioned manifest and metadata contracts.
-						const output = await json(
+						await json(
 							`https://api.fontsource.org/v1/packages/${id}/${kind}/${version}`,
 						);
-						if (
-							output.id !== id ||
-							output.kind !== kind ||
-							output.version !== version
-						)
-							throw new Error("Invalid package output identity");
 					} else {
 						const output = await json(
 							`https://cdn.jsdelivr.net/npm/${name}@${version}/package.json`,
@@ -104,25 +98,17 @@ async function main() {
 			names.push(pkg.name);
 		}
 	}
-	let previous: PublishedPackages = {};
-	try {
-		previous = JSON.parse(await readFile("metadata/published.json", "utf8"));
-	} catch (error) {
-		if ((error as NodeJS.ErrnoException).code !== "ENOENT") throw error;
-	}
+	const previous: PublishedPackages = JSON.parse(
+		await readFile("metadata/published.json", "utf8"),
+	);
+	if (!Object.keys(previous).length)
+		throw new Error("Expected a nonempty publication baseline");
 	const { published, failures } = await reconcilePublished(
 		[...new Set(names)],
 		previous,
 	);
 	for (const failure of failures)
 		console.warn(`Retained previous publication: ${failure}`);
-	// Bootstrap must be complete; subsequent runs can safely retain verified entries.
-	if (failures.length && !Object.keys(previous).length)
-		throw new Error(
-			`Bootstrap incomplete: ${failures.length} package checks failed`,
-		);
-	if (!Object.keys(published).length)
-		throw new Error("Refusing to write an empty publication index");
 	const output = values.out ?? join(tmpdir(), "fontsource-published.json");
 	await writeFile(output, `${JSON.stringify(published, null, 2)}\n`);
 	console.log(
