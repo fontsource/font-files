@@ -107,54 +107,13 @@ exports[`projects published package outputs with frozen defaults and current reg
       900,
     ],
   },
-  "slab": {
+  "static": {
     "category": "serif",
     "classificationLabels": [
       "Slab Serif",
     ],
     "classifications": [
       "slab-serif",
-    ],
-    "defSubset": "full",
-    "designer": "Designer",
-    "displayName": "Roboto",
-    "downloadMonth": 12,
-    "family": "Roboto",
-    "languageIds": [
-      "ja_Jpan",
-      "ja_Hira",
-      "zh_Hant",
-    ],
-    "languageIndexVersion": "a014ea07a0e77dcf1e38f4ce8063f7ab9ac42b92fb517794e6b520073161f23f",
-    "lastModified": 1767225600,
-    "objectID": "roboto",
-    "randomIndex": 0,
-    "styles": [
-      "normal",
-    ],
-    "subsets": [
-      "full",
-    ],
-    "tagLabels": [
-      "Easy Reading",
-      "Geometric",
-    ],
-    "tags": [
-      "purpose/easy-reading",
-      "sans/geometric",
-    ],
-    "variable": false,
-    "weights": [
-      400,
-    ],
-  },
-  "static": {
-    "category": "sans-serif",
-    "classificationLabels": [
-      "Sans Serif",
-    ],
-    "classifications": [
-      "sans-serif",
     ],
     "defSubset": "full",
     "designer": "Designer",
