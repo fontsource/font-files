@@ -24,5 +24,5 @@ jobs:
       - name: Run Tests
         run: bun run test
 
-      - name: Verify publication index
-        run: bun test scripts/published.test.ts
+      - name: Verify publication and search outputs
+        run: bun test scripts/published.test.ts scripts/algolia.test.ts
