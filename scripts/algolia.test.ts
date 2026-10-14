@@ -1,6 +1,10 @@
-import { expect, test } from "bun:test";
+import { expect, spyOn, test } from "bun:test";
 import metadata from "../metadata/fontsource.json";
-import { languageIndexVersion, projectRecord } from "./algolia";
+import {
+	languageIndexVersion,
+	projectPublishedRecord,
+	projectRecord,
+} from "./algolia";
 
 const registry = {
 	languageIndexVersion:
@@ -90,4 +94,62 @@ test("language index fingerprints change when any registry membership changes", 
 	families.set("a", { languages: ["ja_Hira"] });
 	families.set("unpackaged-family", { languages: [] });
 	expect(languageIndexVersion(families)).not.toBe(version);
+});
+
+test("projects published package outputs with frozen defaults and current registry facets", async () => {
+	const fetchMock = spyOn(globalThis, "fetch").mockImplementation(
+		async (input) => {
+			const variable = String(input).includes("/variable/");
+			return Response.json({
+				manifest: {
+					family: "Build-time family",
+					sourceModified: "2026-01-01",
+					faces: variable
+						? [{ subset: "greek", weight: "300 700", style: "italic" }]
+						: [{ subset: "full", weight: 400, style: "normal" }],
+				},
+				metadata: {
+					distribution: {
+						characters: variable
+							? { type: "subsets", defaultSubset: "greek" }
+							: { type: "all" },
+					},
+				},
+			});
+		},
+	);
+	try {
+		expect({
+			static: await projectPublishedRecord(
+				"roboto",
+				{ static: "6.0.0" },
+				registry,
+				12,
+				0,
+			),
+			variable: await projectPublishedRecord(
+				"roboto",
+				{ variable: "6.0.1" },
+				registry,
+				12,
+				0,
+			),
+			both: await projectPublishedRecord(
+				"roboto",
+				{ static: "6.0.0", variable: "6.0.1" },
+				registry,
+				12,
+				0,
+			),
+			mixed: await projectPublishedRecord(
+				"roboto",
+				{ static: "5.2.0", variable: "6.0.1" },
+				registry,
+				12,
+				0,
+			),
+		}).toMatchSnapshot();
+	} finally {
+		fetchMock.mockRestore();
+	}
 });
