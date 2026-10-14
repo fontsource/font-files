@@ -123,27 +123,6 @@ test("projects published package outputs with frozen defaults and current regist
 			static: await projectPublishedRecord(
 				"roboto",
 				{ static: "6.0.0" },
-				registry,
-				12,
-				0,
-			),
-			variable: await projectPublishedRecord(
-				"roboto",
-				{ variable: "6.0.1" },
-				registry,
-				12,
-				0,
-			),
-			both: await projectPublishedRecord(
-				"roboto",
-				{ static: "6.0.0", variable: "6.0.1" },
-				registry,
-				12,
-				0,
-			),
-			slab: await projectPublishedRecord(
-				"roboto",
-				{ static: "6.0.0" },
 				{
 					...registry,
 					families: new Map([
@@ -160,6 +139,20 @@ test("projects published package outputs with frozen defaults and current regist
 						classifications: { "slab-serif": { label: "Slab Serif" } },
 					},
 				},
+				12,
+				0,
+			),
+			variable: await projectPublishedRecord(
+				"roboto",
+				{ variable: "6.0.1" },
+				registry,
+				12,
+				0,
+			),
+			both: await projectPublishedRecord(
+				"roboto",
+				{ static: "6.0.0", variable: "6.0.1" },
+				registry,
 				12,
 				0,
 			),
