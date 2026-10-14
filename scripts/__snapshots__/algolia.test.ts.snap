@@ -149,13 +149,9 @@ exports[`projects published package outputs with frozen defaults and current reg
     ],
   },
   "variable": {
-    "category": "sans-serif",
-    "classificationLabels": [
-      "Sans Serif",
-    ],
-    "classifications": [
-      "sans-serif",
-    ],
+    "category": "icons",
+    "classificationLabels": [],
+    "classifications": [],
     "defSubset": "greek",
     "designer": "Designer",
     "displayName": "Roboto",

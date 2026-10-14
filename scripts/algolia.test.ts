@@ -105,10 +105,11 @@ test("projects published package outputs with frozen defaults and current regist
 					family: "Build-time family",
 					sourceModified: "2026-01-01",
 					faces: variable
-						? [{ subset: "greek", weight: "300 700", style: "italic" }]
+						? [{ subset: "greek", weight: "300 700", style: "oblique -10deg" }]
 						: [{ subset: "full", weight: 400, style: "normal" }],
 				},
 				metadata: {
+					symbols: variable ? { inputModes: ["name-ligature"] } : undefined,
 					distribution: {
 						characters: variable
 							? { type: "subsets", defaultSubset: "greek" }
@@ -145,7 +146,15 @@ test("projects published package outputs with frozen defaults and current regist
 			variable: await projectPublishedRecord(
 				"roboto",
 				{ variable: "6.0.1" },
-				registry,
+				{
+					...registry,
+					families: new Map([
+						[
+							"roboto",
+							{ ...registry.families.get("roboto")!, classifications: [] },
+						],
+					]),
+				},
 				12,
 				0,
 			),
