@@ -193,7 +193,10 @@ export async function projectPublishedRecord(
 					category:
 						registry.families
 							.get(id)
-							?.classifications.find((value) =>
+							?.classifications.map((value) =>
+								value === "slab-serif" ? "serif" : value,
+							)
+							.find((value) =>
 								[
 									"serif",
 									"sans-serif",
