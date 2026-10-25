@@ -7016,12 +7016,15 @@
   },
   "google-sans-flex": {
     "id": "google-sans-flex",
-    "authors": {"copyright": "Copyright 2015 Google LLC. All Rights Reserved."},
+    "authors": {
+      "copyright": "Copyright 2025 The Google Sans Flex Project Authors",
+      "website": "https://github.com/googlefonts/googlesans-flex"
+    },
     "license": {
       "type": "SIL Open Font License, 1.1",
       "url": "https://openfontlicense.org"
     },
-    "original": "Copyright 2015 Google LLC. All Rights Reserved."
+    "original": "Copyright 2025 The Google Sans Flex Project Authors (https://github.com/googlefonts/googlesans-flex)"
   },
   "gorditas": {
     "id": "gorditas",

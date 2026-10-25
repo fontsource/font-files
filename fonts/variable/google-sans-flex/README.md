@@ -24,7 +24,7 @@ Supported variables:
 - Weights: `[100,200,300,400,500,600,700,800,900]`
 - Styles: `[normal]`
 - Subsets: `[canadian-aboriginal,cherokee,latin,latin-ext,math,nushu,symbols,syriac,tifinagh,vietnamese]`
-- Axes: `[opsz,slnt,wdth,wght,GRAD,ROND]`
+- Axes: `[opsz,slnt,wdth,wght,ROND]`
 
 > Note: `italic` may not be supported by all fonts. To learn more about what axes and styles are supported, please visit the [Fontsource website](https://fontsource.org/fonts/google-sans-flex).
 
@@ -39,10 +39,10 @@ body {
 ## Licensing
 Always make sure to read the license for each font you use. Most of the fonts in the collection use the SIL Open Font License, v1.1. Some fonts use the Apache 2 license. The Ubuntu fonts use the Ubuntu Font License v1.0.
 
-Copyright 2015 Google LLC. All Rights Reserved.
+Copyright 2025 The Google Sans Flex Project Authors (https://github.com/googlefonts/googlesans-flex)
 [OFL-1.1](https://openfontlicense.org)
 
 ## Other Notes
-Font version (provided by source): `v23`.
+Font version (provided by source): `v26`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).
