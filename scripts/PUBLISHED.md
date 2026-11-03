@@ -35,3 +35,14 @@ updates cannot overlap.
 3. Refresh search from the verified index before deploying the website consumers.
 
 This change does not upgrade the font builder or publish V6 fonts.
+
+## Search projection
+
+`bun run algolia --dry-run` prints the complete proposed search records without
+uploading them. Review membership and facets before the first live refresh.
+
+Search combines available static and variable outputs into one family record.
+V6 facets come from manifests; V5 facets retain the legacy metadata projection.
+These are search filters, not a list of valid style/weight/file combinations.
+The live command replaces the complete Algolia record set while preserving its
+settings, rules, and synonyms, so stale records do not remain searchable.
