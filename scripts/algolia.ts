@@ -138,6 +138,7 @@ export async function projectPublishedRecord(
 	downloadMonth: number,
 	randomIndex: number,
 ) {
+	// V5 has no manifest. Preserve its existing facets until that scope moves to V6.
 	const legacy = (metadataImport as Record<string, LegacyMetadata>)[id];
 	if (
 		Object.values(versions).every(
@@ -153,6 +154,7 @@ export async function projectPublishedRecord(
 			randomIndex,
 		);
 	}
+	// Static comes first so its default subset remains the default for mixed scopes.
 	const packages = await Promise.all(
 		(["static", "variable"] as const)
 			.filter((kind) => versions[kind])
@@ -215,6 +217,7 @@ export async function projectPublishedRecord(
 			}),
 	);
 	if (!packages.length) throw new Error(`No published package for ${id}`);
+	// Search facets summarize both scopes; they do not describe valid file combinations.
 	const metadata = {
 		...packages[0],
 		family: registry.families.get(id)?.family ?? packages[0].family,
