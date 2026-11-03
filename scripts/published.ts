@@ -3,6 +3,7 @@ import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { parseArgs } from "node:util";
 
+// Each scope advances only after its exact published version is readable.
 type PublishedPackages = Record<string, { static?: string; variable?: string }>;
 
 async function json(url: string) {
@@ -15,10 +16,11 @@ export async function reconcilePublished(
 	names: string[],
 	previous: PublishedPackages,
 ) {
+	// Failed checks leave the last verified version in place; this is not a rebuild.
 	const published = { ...previous };
 	const failures: string[] = [];
 	const pending = names.values();
-	// Bound upstream requests without adding a queue dependency.
+	// Workers share one iterator, limiting concurrent upstream checks to eight.
 	await Promise.all(
 		Array.from({ length: 8 }, async () => {
 			for (const name of pending) {
@@ -51,6 +53,7 @@ export async function reconcilePublished(
 						if (output.name !== name || output.version !== version)
 							throw new Error("Invalid CDN package identity");
 					}
+					// Updating one scope must preserve the other scope's independent version.
 					published[id] = { ...published[id], [kind]: version };
 				} catch (error) {
 					failures.push(
