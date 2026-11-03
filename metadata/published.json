@@ -1,0 +1,6883 @@
+{
+  "42dot-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "abeezee": {
+    "static": "5.3.0"
+  },
+  "abel": {
+    "static": "5.3.0"
+  },
+  "abhaya-libre": {
+    "static": "5.3.0"
+  },
+  "aboreto": {
+    "static": "5.3.0"
+  },
+  "abril-fatface": {
+    "static": "5.3.0"
+  },
+  "abyssinica-sil": {
+    "static": "5.3.0"
+  },
+  "aclonica": {
+    "static": "5.3.0"
+  },
+  "acme": {
+    "static": "5.3.0"
+  },
+  "actor": {
+    "static": "5.3.0"
+  },
+  "adamina": {
+    "static": "5.3.0"
+  },
+  "adlam-display": {
+    "static": "5.3.0"
+  },
+  "advent-pro": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "adwaita-mono": {
+    "static": "5.3.0"
+  },
+  "adwaita-sans": {
+    "static": "5.3.0"
+  },
+  "afacad": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "afacad-flux": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "agbalumo": {
+    "static": "5.3.0"
+  },
+  "agdasima": {
+    "static": "5.3.0"
+  },
+  "agu-display": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "aguafina-script": {
+    "static": "5.3.0"
+  },
+  "aileron": {
+    "static": "5.3.0"
+  },
+  "akatab": {
+    "static": "5.3.0"
+  },
+  "akaya-kanadaka": {
+    "static": "5.3.0"
+  },
+  "akaya-telivigala": {
+    "static": "5.3.0"
+  },
+  "akronim": {
+    "static": "5.3.0"
+  },
+  "akshar": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "akt": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "aladin": {
+    "static": "5.3.0"
+  },
+  "alan-sans": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "alata": {
+    "static": "5.3.0"
+  },
+  "alatsi": {
+    "static": "5.3.0"
+  },
+  "albert-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "aldrich": {
+    "static": "5.3.0"
+  },
+  "alef": {
+    "static": "5.3.0"
+  },
+  "alegreya": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "alegreya-sans": {
+    "static": "5.3.0"
+  },
+  "alegreya-sans-sc": {
+    "static": "5.3.0"
+  },
+  "alegreya-sc": {
+    "static": "5.3.0"
+  },
+  "aleo": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "alex-brush": {
+    "static": "5.3.0"
+  },
+  "alexandria": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "alfa-slab-one": {
+    "static": "5.3.0"
+  },
+  "alice": {
+    "static": "5.3.0"
+  },
+  "alien-block": {
+    "static": "5.3.0"
+  },
+  "alike": {
+    "static": "5.3.0"
+  },
+  "alike-angular": {
+    "static": "5.3.0"
+  },
+  "alkalami": {
+    "static": "5.3.0"
+  },
+  "alkatra": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "allan": {
+    "static": "5.3.0"
+  },
+  "allerta": {
+    "static": "5.3.0"
+  },
+  "allerta-stencil": {
+    "static": "5.3.0"
+  },
+  "allison": {
+    "static": "5.3.0"
+  },
+  "allkin": {
+    "static": "5.3.0"
+  },
+  "allura": {
+    "static": "5.3.0"
+  },
+  "almarai": {
+    "static": "5.3.0"
+  },
+  "almendra": {
+    "static": "5.3.0"
+  },
+  "almendra-display": {
+    "static": "5.3.0"
+  },
+  "almendra-sc": {
+    "static": "5.3.0"
+  },
+  "alumni-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "alumni-sans-collegiate-one": {
+    "static": "5.3.0"
+  },
+  "alumni-sans-inline-one": {
+    "static": "5.3.0"
+  },
+  "alumni-sans-pinstripe": {
+    "static": "5.3.0"
+  },
+  "alumni-sans-sc": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "alyamama": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "amarante": {
+    "static": "5.3.0"
+  },
+  "amaranth": {
+    "static": "5.3.0"
+  },
+  "amarna": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "amatic-sc": {
+    "static": "5.3.0"
+  },
+  "amethysta": {
+    "static": "5.3.0"
+  },
+  "amiko": {
+    "static": "5.3.0"
+  },
+  "amiri": {
+    "static": "5.3.0"
+  },
+  "amiri-quran": {
+    "static": "5.3.0"
+  },
+  "amita": {
+    "static": "5.3.0"
+  },
+  "anaheim": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "ancizar-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "ancizar-serif": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "andada-pro": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "andika": {
+    "static": "5.3.0"
+  },
+  "anek-bangla": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "anek-devanagari": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "anek-gujarati": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "anek-gurmukhi": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "anek-kannada": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "anek-latin": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "anek-malayalam": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "anek-odia": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "anek-tamil": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "anek-telugu": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "angkor": {
+    "static": "5.3.0"
+  },
+  "annapurna-sil": {
+    "static": "5.3.0"
+  },
+  "annie-use-your-telescope": {
+    "static": "5.3.0"
+  },
+  "anonymous-pro": {
+    "static": "5.3.0"
+  },
+  "anta": {
+    "static": "5.3.0"
+  },
+  "antic": {
+    "static": "5.3.0"
+  },
+  "antic-didone": {
+    "static": "5.3.0"
+  },
+  "antic-slab": {
+    "static": "5.3.0"
+  },
+  "anton": {
+    "static": "5.3.0"
+  },
+  "anton-sc": {
+    "static": "5.3.0"
+  },
+  "antonio": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "anuphan": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "anybody": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "aoboshi-one": {
+    "static": "5.3.0"
+  },
+  "apfel-grotezk": {
+    "static": "5.3.0"
+  },
+  "ar-one-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "arapey": {
+    "static": "5.3.0"
+  },
+  "arbutus": {
+    "static": "5.3.0"
+  },
+  "arbutus-slab": {
+    "static": "5.3.0"
+  },
+  "architects-daughter": {
+    "static": "5.3.0"
+  },
+  "archivo": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "archivo-black": {
+    "static": "5.3.0"
+  },
+  "archivo-narrow": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "are-you-serious": {
+    "static": "5.3.0"
+  },
+  "aref-ruqaa": {
+    "static": "5.3.0"
+  },
+  "aref-ruqaa-ink": {
+    "static": "5.3.0"
+  },
+  "argentum-sans": {
+    "static": "5.3.0"
+  },
+  "arima": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "arima-madurai": {
+    "static": "5.3.0"
+  },
+  "arimo": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "arizonia": {
+    "static": "5.3.0"
+  },
+  "armata": {
+    "static": "5.3.0"
+  },
+  "arsenal": {
+    "static": "5.3.0"
+  },
+  "arsenal-sc": {
+    "static": "5.3.0"
+  },
+  "artifika": {
+    "static": "5.3.0"
+  },
+  "arvo": {
+    "static": "5.3.0"
+  },
+  "arya": {
+    "static": "5.3.0"
+  },
+  "asap": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "asap-condensed": {
+    "static": "5.3.0"
+  },
+  "asap-sharp": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "asar": {
+    "static": "5.3.0"
+  },
+  "asimovian": {
+    "static": "5.3.0"
+  },
+  "asset": {
+    "static": "5.3.0"
+  },
+  "assistant": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "asta-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "astloch": {
+    "static": "5.3.0"
+  },
+  "asul": {
+    "static": "5.3.0"
+  },
+  "athiti": {
+    "static": "5.3.0"
+  },
+  "atkinson-hyperlegible": {
+    "static": "5.3.0"
+  },
+  "atkinson-hyperlegible-mono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "atkinson-hyperlegible-next": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "atma": {
+    "static": "5.3.0"
+  },
+  "atomic-age": {
+    "static": "5.3.0"
+  },
+  "aubrey": {
+    "static": "5.3.0"
+  },
+  "audiowide": {
+    "static": "5.3.0"
+  },
+  "autour-one": {
+    "static": "5.3.0"
+  },
+  "average": {
+    "static": "5.3.0"
+  },
+  "average-sans": {
+    "static": "5.3.0"
+  },
+  "averia-gruesa-libre": {
+    "static": "5.3.0"
+  },
+  "averia-libre": {
+    "static": "5.3.0"
+  },
+  "averia-sans-libre": {
+    "static": "5.3.0"
+  },
+  "averia-serif-libre": {
+    "static": "5.3.0"
+  },
+  "azeret-mono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "b612": {
+    "static": "5.3.0"
+  },
+  "b612-mono": {
+    "static": "5.3.0"
+  },
+  "babylonica": {
+    "static": "5.3.0"
+  },
+  "bacasime-antique": {
+    "static": "5.3.0"
+  },
+  "bad-script": {
+    "static": "5.3.0"
+  },
+  "badeen-display": {
+    "static": "5.3.0"
+  },
+  "bagel-fat-one": {
+    "static": "5.3.0"
+  },
+  "bagnard": {
+    "static": "5.3.0"
+  },
+  "bagnard-sans": {
+    "static": "5.3.0"
+  },
+  "bahiana": {
+    "static": "5.3.0"
+  },
+  "bahianita": {
+    "static": "5.3.0"
+  },
+  "bai-jamjuree": {
+    "static": "5.3.0"
+  },
+  "bakbak-one": {
+    "static": "5.3.0"
+  },
+  "ballet": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "baloo-2": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "baloo-bhai-2": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "baloo-bhaijaan-2": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "baloo-bhaina-2": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "baloo-chettan-2": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "baloo-da-2": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "baloo-paaji-2": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "baloo-tamma-2": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "baloo-tammudu-2": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "baloo-thambi-2": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "balsamiq-sans": {
+    "static": "5.3.0"
+  },
+  "balthazar": {
+    "static": "5.3.0"
+  },
+  "bangers": {
+    "static": "5.3.0"
+  },
+  "barlow": {
+    "static": "5.3.0"
+  },
+  "barlow-condensed": {
+    "static": "5.3.0"
+  },
+  "barlow-semi-condensed": {
+    "static": "5.3.0"
+  },
+  "barriecito": {
+    "static": "5.3.0"
+  },
+  "barrio": {
+    "static": "5.3.0"
+  },
+  "basic": {
+    "static": "5.3.0"
+  },
+  "baskervville": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "baskervville-sc": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "battambang": {
+    "static": "5.3.0"
+  },
+  "baumans": {
+    "static": "5.3.0"
+  },
+  "bayon": {
+    "static": "5.3.0"
+  },
+  "bbh-bartle": {
+    "static": "5.3.0"
+  },
+  "bbh-bogle": {
+    "static": "5.3.0"
+  },
+  "bbh-hegarty": {
+    "static": "5.3.0"
+  },
+  "bbh-sans-bartle": {
+    "static": "5.3.0"
+  },
+  "bbh-sans-bogle": {
+    "static": "5.3.0"
+  },
+  "bbh-sans-hegarty": {
+    "static": "5.3.0"
+  },
+  "be-vietnam-pro": {
+    "static": "5.3.0"
+  },
+  "beau-rivage": {
+    "static": "5.3.0"
+  },
+  "bebas-neue": {
+    "static": "5.3.0"
+  },
+  "beiruti": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "belanosima": {
+    "static": "5.3.0"
+  },
+  "belgrano": {
+    "static": "5.3.0"
+  },
+  "bellefair": {
+    "static": "5.3.0"
+  },
+  "belleza": {
+    "static": "5.3.0"
+  },
+  "bellota": {
+    "static": "5.3.0"
+  },
+  "bellota-text": {
+    "static": "5.3.0"
+  },
+  "benchnine": {
+    "static": "5.3.0"
+  },
+  "benne": {
+    "static": "5.3.0"
+  },
+  "bentham": {
+    "static": "5.3.0"
+  },
+  "berkshire-swash": {
+    "static": "5.3.0"
+  },
+  "besley": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "betania-patmos": {
+    "static": "5.3.0"
+  },
+  "betania-patmos-gdl": {
+    "static": "5.3.0"
+  },
+  "betania-patmos-in": {
+    "static": "5.3.0"
+  },
+  "betania-patmos-in-gdl": {
+    "static": "5.3.0"
+  },
+  "beth-ellen": {
+    "static": "5.3.0"
+  },
+  "bevan": {
+    "static": "5.3.0"
+  },
+  "bhutuka-expanded-one": {
+    "static": "5.3.0"
+  },
+  "big-shoulders": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "big-shoulders-display": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "big-shoulders-inline": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "big-shoulders-inline-display": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "big-shoulders-inline-text": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "big-shoulders-stencil": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "big-shoulders-stencil-display": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "big-shoulders-stencil-text": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "big-shoulders-text": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "bigelow-rules": {
+    "static": "5.3.0"
+  },
+  "bigshot-one": {
+    "static": "5.3.0"
+  },
+  "bilbo": {
+    "static": "5.3.0"
+  },
+  "bilbo-swash-caps": {
+    "static": "5.3.0"
+  },
+  "biorhyme": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "biorhyme-expanded": {
+    "static": "5.3.0"
+  },
+  "birthstone": {
+    "static": "5.3.0"
+  },
+  "birthstone-bounce": {
+    "static": "5.3.0"
+  },
+  "biryani": {
+    "static": "5.3.0"
+  },
+  "bitcount": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "bitcount-grid-double": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "bitcount-grid-double-ink": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "bitcount-grid-single": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "bitcount-grid-single-ink": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "bitcount-ink": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "bitcount-prop-double": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "bitcount-prop-double-ink": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "bitcount-prop-single": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "bitcount-prop-single-ink": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "bitcount-single": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "bitcount-single-ink": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "bitter": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "biz-udgothic": {
+    "static": "5.3.0"
+  },
+  "biz-udmincho": {
+    "static": "5.3.0"
+  },
+  "biz-udpgothic": {
+    "static": "5.3.0"
+  },
+  "biz-udpmincho": {
+    "static": "5.3.0"
+  },
+  "bj-cree": {
+    "static": "5.3.0"
+  },
+  "bjcree": {
+    "static": "5.3.0"
+  },
+  "black-and-white-picture": {
+    "static": "5.3.0"
+  },
+  "black-han-sans": {
+    "static": "5.3.0"
+  },
+  "black-ops-one": {
+    "static": "5.3.0"
+  },
+  "blackout-midnight": {
+    "static": "5.3.0"
+  },
+  "blackout-sunrise": {
+    "static": "5.3.0"
+  },
+  "blackout-two-am": {
+    "static": "5.3.0"
+  },
+  "blaka": {
+    "static": "5.3.0"
+  },
+  "blaka-hollow": {
+    "static": "5.3.0"
+  },
+  "blaka-ink": {
+    "static": "5.3.0"
+  },
+  "blinker": {
+    "static": "5.3.0"
+  },
+  "bluu-next": {
+    "static": "5.3.0"
+  },
+  "bodoni-moda": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "bodoni-moda-sc": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "bokor": {
+    "static": "5.3.0"
+  },
+  "boldonse": {
+    "static": "5.3.0"
+  },
+  "bona-nova": {
+    "static": "5.3.0"
+  },
+  "bona-nova-sc": {
+    "static": "5.3.0"
+  },
+  "bonbon": {
+    "static": "5.3.0"
+  },
+  "bonheur-royale": {
+    "static": "5.3.0"
+  },
+  "boogaloo": {
+    "static": "5.3.0"
+  },
+  "borel": {
+    "static": "5.3.0"
+  },
+  "bowlby-one": {
+    "static": "5.3.0"
+  },
+  "bowlby-one-sc": {
+    "static": "5.3.0"
+  },
+  "bpmf-huninn": {
+    "static": "5.3.1"
+  },
+  "bpmf-iansui": {
+    "static": "5.3.1"
+  },
+  "bpmf-zihi-kai-std": {
+    "static": "5.3.1"
+  },
+  "braah-one": {
+    "static": "5.3.0"
+  },
+  "bravura": {
+    "static": "5.3.0"
+  },
+  "bravura-text": {
+    "static": "5.3.0"
+  },
+  "brawler": {
+    "static": "5.3.0"
+  },
+  "bree-serif": {
+    "static": "5.3.0"
+  },
+  "bricolage-grotesque": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "briem-hand": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "bruno-ace": {
+    "static": "5.3.0"
+  },
+  "bruno-ace-sc": {
+    "static": "5.3.0"
+  },
+  "brygada-1918": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "bubblegum-sans": {
+    "static": "5.3.0"
+  },
+  "bubbler-one": {
+    "static": "5.3.0"
+  },
+  "buda": {
+    "static": "5.3.0"
+  },
+  "buenard": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "bungee": {
+    "static": "5.3.0"
+  },
+  "bungee-hairline": {
+    "static": "5.3.0"
+  },
+  "bungee-inline": {
+    "static": "5.3.0"
+  },
+  "bungee-outline": {
+    "static": "5.3.0"
+  },
+  "bungee-shade": {
+    "static": "5.3.0"
+  },
+  "bungee-spice": {
+    "static": "5.3.0"
+  },
+  "bungee-tint": {
+    "static": "5.3.0"
+  },
+  "butcherman": {
+    "static": "5.3.0"
+  },
+  "butterfly-kids": {
+    "static": "5.3.0"
+  },
+  "bytesized": {
+    "static": "5.3.0"
+  },
+  "caacupe-one": {
+    "static": "5.3.1"
+  },
+  "cabin": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "cabin-condensed": {
+    "static": "5.3.0"
+  },
+  "cabin-sketch": {
+    "static": "5.3.0"
+  },
+  "cactus-classical-serif": {
+    "static": "5.3.1"
+  },
+  "caesar-dressing": {
+    "static": "5.3.0"
+  },
+  "cagliostro": {
+    "static": "5.3.0"
+  },
+  "cairo": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "cairo-play": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "cal-sans": {
+    "static": "5.3.0"
+  },
+  "caladea": {
+    "static": "5.3.0"
+  },
+  "calistoga": {
+    "static": "5.3.0"
+  },
+  "calligraffitti": {
+    "static": "5.3.0"
+  },
+  "cambay": {
+    "static": "5.3.0"
+  },
+  "cambo": {
+    "static": "5.3.0"
+  },
+  "candal": {
+    "static": "5.3.0"
+  },
+  "cantarell": {
+    "static": "5.3.0"
+  },
+  "cantata-one": {
+    "static": "5.3.0"
+  },
+  "cantora-one": {
+    "static": "5.3.0"
+  },
+  "caprasimo": {
+    "static": "5.3.0"
+  },
+  "capriola": {
+    "static": "5.3.0"
+  },
+  "caramel": {
+    "static": "5.3.0"
+  },
+  "carattere": {
+    "static": "5.3.0"
+  },
+  "cardo": {
+    "static": "5.3.0"
+  },
+  "carlito": {
+    "static": "5.3.0"
+  },
+  "carme": {
+    "static": "5.3.0"
+  },
+  "carrois-gothic": {
+    "static": "5.3.0"
+  },
+  "carrois-gothic-sc": {
+    "static": "5.3.0"
+  },
+  "carter-one": {
+    "static": "5.3.0"
+  },
+  "cascadia-code": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "cascadia-mono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "castoro": {
+    "static": "5.3.0"
+  },
+  "castoro-titling": {
+    "static": "5.3.0"
+  },
+  "catamaran": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "caudex": {
+    "static": "5.3.0"
+  },
+  "cause": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "caveat": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "caveat-brush": {
+    "static": "5.3.0"
+  },
+  "cedarville-cursive": {
+    "static": "5.3.0"
+  },
+  "ceviche-one": {
+    "static": "5.3.0"
+  },
+  "chakra-petch": {
+    "static": "5.3.0"
+  },
+  "changa": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "changa-one": {
+    "static": "5.3.0"
+  },
+  "chango": {
+    "static": "5.3.0"
+  },
+  "charis-sil": {
+    "static": "5.3.0"
+  },
+  "charm": {
+    "static": "5.3.0"
+  },
+  "charmonman": {
+    "static": "5.3.0"
+  },
+  "chathura": {
+    "static": "5.3.0"
+  },
+  "chau-philomene-one": {
+    "static": "5.3.0"
+  },
+  "chela-one": {
+    "static": "5.3.0"
+  },
+  "chelsea-market": {
+    "static": "5.3.0"
+  },
+  "chenla": {
+    "static": "5.3.0"
+  },
+  "cherish": {
+    "static": "5.3.0"
+  },
+  "cherry-bomb-one": {
+    "static": "5.3.0"
+  },
+  "cherry-cream-soda": {
+    "static": "5.3.0"
+  },
+  "cherry-swash": {
+    "static": "5.3.0"
+  },
+  "chewy": {
+    "static": "5.3.0"
+  },
+  "chicle": {
+    "static": "5.3.0"
+  },
+  "chilanka": {
+    "static": "5.3.0"
+  },
+  "chiron-goround-tc": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "chiron-hei-hk": {
+    "static": "5.3.2",
+    "variable": "5.3.2"
+  },
+  "chiron-sung-hk": {
+    "variable": "5.3.1"
+  },
+  "chivo": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "chivo-mono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "chocolate-classical-sans": {
+    "static": "5.3.1"
+  },
+  "chokokutai": {
+    "static": "5.3.0"
+  },
+  "chonburi": {
+    "static": "5.3.0"
+  },
+  "chunk-five": {
+    "static": "5.3.0"
+  },
+  "cinzel": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "cinzel-decorative": {
+    "static": "5.3.0"
+  },
+  "clarity-city": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "clear-sans": {
+    "static": "5.3.0"
+  },
+  "clicker-script": {
+    "static": "5.3.0"
+  },
+  "climate-crisis": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "coda": {
+    "static": "5.3.0"
+  },
+  "coda-caption": {
+    "static": "5.3.0"
+  },
+  "codystar": {
+    "static": "5.3.0"
+  },
+  "coiny": {
+    "static": "5.3.0"
+  },
+  "combo": {
+    "static": "5.3.0"
+  },
+  "comfortaa": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "comforter": {
+    "static": "5.3.0"
+  },
+  "comforter-brush": {
+    "static": "5.3.0"
+  },
+  "comic-mono": {
+    "static": "5.3.0"
+  },
+  "comic-neue": {
+    "static": "5.3.0"
+  },
+  "comic-relief": {
+    "static": "5.3.0"
+  },
+  "coming-soon": {
+    "static": "5.3.0"
+  },
+  "comme": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "commissioner": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "commit-mono": {
+    "static": "5.3.0"
+  },
+  "concert-one": {
+    "static": "5.3.0"
+  },
+  "condiment": {
+    "static": "5.3.0"
+  },
+  "content": {
+    "static": "5.3.0"
+  },
+  "contrail-one": {
+    "static": "5.3.0"
+  },
+  "convergence": {
+    "static": "5.3.0"
+  },
+  "cookie": {
+    "static": "5.3.0"
+  },
+  "cooper-hewitt": {
+    "static": "5.3.0"
+  },
+  "copse": {
+    "static": "5.3.0"
+  },
+  "coral-pixels": {
+    "static": "5.3.0"
+  },
+  "corben": {
+    "static": "5.3.0"
+  },
+  "corinthia": {
+    "static": "5.3.0"
+  },
+  "cormorant": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "cormorant-garamond": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "cormorant-infant": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "cormorant-sc": {
+    "static": "5.3.0"
+  },
+  "cormorant-unicase": {
+    "static": "5.3.0"
+  },
+  "cormorant-upright": {
+    "static": "5.3.0"
+  },
+  "cossette-texte": {
+    "static": "5.3.0"
+  },
+  "cossette-titre": {
+    "static": "5.3.0"
+  },
+  "courgette": {
+    "static": "5.3.0"
+  },
+  "courier-prime": {
+    "static": "5.3.0"
+  },
+  "cousine": {
+    "static": "5.3.0"
+  },
+  "coustard": {
+    "static": "5.3.0"
+  },
+  "covered-by-your-grace": {
+    "static": "5.3.0"
+  },
+  "crafty-girls": {
+    "static": "5.3.0"
+  },
+  "creepster": {
+    "static": "5.3.0"
+  },
+  "crete-round": {
+    "static": "5.3.0"
+  },
+  "crimson-pro": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "crimson-text": {
+    "static": "5.3.0"
+  },
+  "croissant-one": {
+    "static": "5.3.0"
+  },
+  "crushed": {
+    "static": "5.3.0"
+  },
+  "cuprum": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "cute-font": {
+    "static": "5.3.0"
+  },
+  "cutive": {
+    "static": "5.3.0"
+  },
+  "cutive-mono": {
+    "static": "5.3.0"
+  },
+  "dai-banna-sil": {
+    "static": "5.3.0"
+  },
+  "damion": {
+    "static": "5.3.0"
+  },
+  "dancing-script": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "danfo": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "dangrek": {
+    "static": "5.3.0"
+  },
+  "darker-grotesque": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "darumadrop-one": {
+    "static": "5.3.0"
+  },
+  "datatype": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "david-libre": {
+    "static": "5.3.0"
+  },
+  "dawning-of-a-new-day": {
+    "static": "5.3.0"
+  },
+  "days-one": {
+    "static": "5.3.0"
+  },
+  "dejavu-math": {
+    "static": "5.3.0"
+  },
+  "dejavu-mono": {
+    "static": "5.3.0"
+  },
+  "dejavu-sans": {
+    "static": "5.3.0"
+  },
+  "dejavu-serif": {
+    "static": "5.3.0"
+  },
+  "dekko": {
+    "static": "5.3.0"
+  },
+  "dela-gothic-one": {
+    "static": "5.3.0"
+  },
+  "delicious-handrawn": {
+    "static": "5.3.0"
+  },
+  "delius": {
+    "static": "5.3.0"
+  },
+  "delius-swash-caps": {
+    "static": "5.3.0"
+  },
+  "delius-unicase": {
+    "static": "5.3.0"
+  },
+  "della-respira": {
+    "static": "5.3.0"
+  },
+  "denk-one": {
+    "static": "5.3.0"
+  },
+  "devonshire": {
+    "static": "5.3.0"
+  },
+  "dhurjati": {
+    "static": "5.3.0"
+  },
+  "didact-gothic": {
+    "static": "5.3.0"
+  },
+  "diphylleia": {
+    "static": "5.3.0"
+  },
+  "diplomata": {
+    "static": "5.3.0"
+  },
+  "diplomata-sc": {
+    "static": "5.3.0"
+  },
+  "dm-mono": {
+    "static": "5.3.0"
+  },
+  "dm-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "dm-serif-display": {
+    "static": "5.3.0"
+  },
+  "dm-serif-text": {
+    "static": "5.3.0"
+  },
+  "do-hyeon": {
+    "static": "5.3.0"
+  },
+  "dokdo": {
+    "static": "5.3.0"
+  },
+  "domine": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "donegal-one": {
+    "static": "5.3.0"
+  },
+  "dongle": {
+    "static": "5.3.0"
+  },
+  "doppio-one": {
+    "static": "5.3.0"
+  },
+  "dorsa": {
+    "static": "5.3.0"
+  },
+  "dosis": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "dotgothic16": {
+    "static": "5.3.1"
+  },
+  "doto": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "dr-sugiyama": {
+    "static": "5.3.0"
+  },
+  "dseg-weather": {
+    "static": "5.3.0"
+  },
+  "dseg14-classic": {
+    "static": "5.3.0"
+  },
+  "dseg14-classic-mini": {
+    "static": "5.3.0"
+  },
+  "dseg14-modern": {
+    "static": "5.3.0"
+  },
+  "dseg14-modern-mini": {
+    "static": "5.3.0"
+  },
+  "dseg7-classic": {
+    "static": "5.3.0"
+  },
+  "dseg7-classic-mini": {
+    "static": "5.3.0"
+  },
+  "dseg7-modern": {
+    "static": "5.3.0"
+  },
+  "dseg7-modern-mini": {
+    "static": "5.3.0"
+  },
+  "dseg7-segg-chan": {
+    "static": "5.3.0"
+  },
+  "dseg7-segg-chan-mini": {
+    "static": "5.3.0"
+  },
+  "duru-sans": {
+    "static": "5.3.0"
+  },
+  "dynalight": {
+    "static": "5.3.0"
+  },
+  "dynapuff": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "eagle-lake": {
+    "static": "5.3.0"
+  },
+  "east-sea-dokdo": {
+    "static": "5.3.0"
+  },
+  "eater": {
+    "static": "5.3.0"
+  },
+  "eb-garamond": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "economica": {
+    "static": "5.3.0"
+  },
+  "eczar": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "edu-au-vic-wa-nt-arrows": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "edu-au-vic-wa-nt-dots": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "edu-au-vic-wa-nt-guides": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "edu-au-vic-wa-nt-hand": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "edu-au-vic-wa-nt-pre": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "edu-nsw-act-cursive": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "edu-nsw-act-foundation": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "edu-nsw-act-hand-pre": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "edu-qld-beginner": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "edu-qld-hand": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "edu-sa-beginner": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "edu-sa-hand": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "edu-tas-beginner": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "edu-vic-wa-nt-beginner": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "edu-vic-wa-nt-hand": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "edu-vic-wa-nt-hand-pre": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "el-messiri": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "electrolize": {
+    "static": "5.3.0"
+  },
+  "elms-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "elsie": {
+    "static": "5.3.0"
+  },
+  "elsie-swash-caps": {
+    "static": "5.3.0"
+  },
+  "emblema-one": {
+    "static": "5.3.0"
+  },
+  "emilys-candy": {
+    "static": "5.3.0"
+  },
+  "encode-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "encode-sans-condensed": {
+    "static": "5.3.0"
+  },
+  "encode-sans-expanded": {
+    "static": "5.3.0"
+  },
+  "encode-sans-sc": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "encode-sans-semi-condensed": {
+    "static": "5.3.0"
+  },
+  "encode-sans-semi-expanded": {
+    "static": "5.3.0"
+  },
+  "engagement": {
+    "static": "5.3.0"
+  },
+  "englebert": {
+    "static": "5.3.0"
+  },
+  "enriqueta": {
+    "static": "5.3.0"
+  },
+  "ephesis": {
+    "static": "5.3.0"
+  },
+  "epilogue": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "epunda-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "epunda-slab": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "erica-one": {
+    "static": "5.3.0"
+  },
+  "esteban": {
+    "static": "5.3.0"
+  },
+  "estedad": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "estonia": {
+    "static": "5.3.0"
+  },
+  "euphoria-script": {
+    "static": "5.3.0"
+  },
+  "ewert": {
+    "static": "5.3.0"
+  },
+  "exile": {
+    "static": "5.3.0"
+  },
+  "exo": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "exo-2": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "expletus-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "explora": {
+    "static": "5.3.0"
+  },
+  "faculty-glyphic": {
+    "static": "5.3.0"
+  },
+  "fahkwang": {
+    "static": "5.3.0"
+  },
+  "familjen-grotesk": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "fanwood-text": {
+    "static": "5.3.0"
+  },
+  "farro": {
+    "static": "5.3.0"
+  },
+  "farsan": {
+    "static": "5.3.0"
+  },
+  "fascinate": {
+    "static": "5.3.0"
+  },
+  "fascinate-inline": {
+    "static": "5.3.0"
+  },
+  "faster-one": {
+    "static": "5.3.0"
+  },
+  "fasthand": {
+    "static": "5.3.0"
+  },
+  "fauna-one": {
+    "static": "5.3.0"
+  },
+  "faustina": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "federant": {
+    "static": "5.3.0"
+  },
+  "federo": {
+    "static": "5.3.0"
+  },
+  "felipa": {
+    "static": "5.3.0"
+  },
+  "fenix": {
+    "static": "5.3.0"
+  },
+  "festive": {
+    "static": "5.3.0"
+  },
+  "figtree": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "finger-paint": {
+    "static": "5.3.0"
+  },
+  "finlandica": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "finlandica-headline": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "finlandica-text": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "fira-code": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "fira-mono": {
+    "static": "5.3.0"
+  },
+  "fira-sans": {
+    "static": "5.3.0"
+  },
+  "fira-sans-condensed": {
+    "static": "5.3.0"
+  },
+  "fira-sans-extra-condensed": {
+    "static": "5.3.0"
+  },
+  "firago": {
+    "static": "5.3.0"
+  },
+  "fjalla-one": {
+    "static": "5.3.0"
+  },
+  "fjord-one": {
+    "static": "5.3.0"
+  },
+  "flamenco": {
+    "static": "5.3.0"
+  },
+  "flavors": {
+    "static": "5.3.0"
+  },
+  "fleur-de-leah": {
+    "static": "5.3.0"
+  },
+  "flow-block": {
+    "static": "5.3.0"
+  },
+  "flow-circular": {
+    "static": "5.3.0"
+  },
+  "flow-rounded": {
+    "static": "5.3.0"
+  },
+  "foldit": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "fondamento": {
+    "static": "5.3.0"
+  },
+  "fontdiner-swanky": {
+    "static": "5.3.0"
+  },
+  "forum": {
+    "static": "5.3.0"
+  },
+  "fragment-mono": {
+    "static": "5.3.0"
+  },
+  "francois-one": {
+    "static": "5.3.0"
+  },
+  "frank-ruhl-libre": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "fraunces": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "freckle-face": {
+    "static": "5.3.0"
+  },
+  "fredericka-the-great": {
+    "static": "5.3.0"
+  },
+  "fredoka": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "fredoka-one": {
+    "static": "5.3.0"
+  },
+  "freehand": {
+    "static": "5.3.0"
+  },
+  "freeman": {
+    "static": "5.3.0"
+  },
+  "fresca": {
+    "static": "5.3.0"
+  },
+  "frijole": {
+    "static": "5.3.0"
+  },
+  "fruktur": {
+    "static": "5.3.0"
+  },
+  "fugaz-one": {
+    "static": "5.3.0"
+  },
+  "fuggles": {
+    "static": "5.3.0"
+  },
+  "funnel-display": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "funnel-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "fusion-kai-g": {
+    "static": "5.3.0"
+  },
+  "fusion-kai-j": {
+    "static": "5.3.0"
+  },
+  "fusion-kai-t": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-10px-monospaced-jp": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-10px-monospaced-kr": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-10px-monospaced-sc": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-10px-monospaced-tc": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-10px-proportional-jp": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-10px-proportional-kr": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-10px-proportional-sc": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-10px-proportional-tc": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-12px-monospaced-jp": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-12px-monospaced-kr": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-12px-monospaced-sc": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-12px-monospaced-tc": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-12px-proportional-jp": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-12px-proportional-kr": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-12px-proportional-sc": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-12px-proportional-tc": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-8px-monospaced-jp": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-8px-monospaced-kr": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-8px-monospaced-sc": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-8px-monospaced-tc": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-8px-proportional-jp": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-8px-proportional-kr": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-8px-proportional-sc": {
+    "static": "5.3.0"
+  },
+  "fusion-pixel-8px-proportional-tc": {
+    "static": "5.3.0"
+  },
+  "fustat": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "fuzzy-bubbles": {
+    "static": "5.3.0"
+  },
+  "ga-maamli": {
+    "static": "5.3.0"
+  },
+  "gabarito": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "gabriela": {
+    "static": "5.3.0"
+  },
+  "gaegu": {
+    "static": "5.3.0"
+  },
+  "gafata": {
+    "static": "5.3.0"
+  },
+  "gajraj-one": {
+    "static": "5.3.0"
+  },
+  "galada": {
+    "static": "5.3.0"
+  },
+  "galdeano": {
+    "static": "5.3.0"
+  },
+  "galindo": {
+    "static": "5.3.0"
+  },
+  "gamja-flower": {
+    "static": "5.3.0"
+  },
+  "gantari": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "gasoek-one": {
+    "static": "5.3.0"
+  },
+  "gayathri": {
+    "static": "5.3.0"
+  },
+  "geist": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "geist-mono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "geist-pixel": {
+    "static": "5.3.0",
+    "variable": "5.3.1"
+  },
+  "geist-sans": {
+    "static": "5.3.0"
+  },
+  "gelasio": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "gemunu-libre": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "genjyuu-gothic": {
+    "static": "5.3.0"
+  },
+  "genos": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "gentium-book-basic": {
+    "static": "5.3.0"
+  },
+  "gentium-book-plus": {
+    "static": "5.3.0"
+  },
+  "gentium-plus": {
+    "static": "5.3.0"
+  },
+  "geo": {
+    "static": "5.3.0"
+  },
+  "geologica": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "geom": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "geomini": {
+    "static": "5.3.0",
+    "variable": "5.3.1"
+  },
+  "georama": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "geostar": {
+    "static": "5.3.0"
+  },
+  "geostar-fill": {
+    "static": "5.3.0"
+  },
+  "germania-one": {
+    "static": "5.3.0"
+  },
+  "gfs-didot": {
+    "static": "5.3.0"
+  },
+  "gfs-neohellenic": {
+    "static": "5.3.0"
+  },
+  "gideon-roman": {
+    "static": "5.3.0"
+  },
+  "gidole": {
+    "static": "5.3.0"
+  },
+  "gidugu": {
+    "static": "5.3.0"
+  },
+  "gilda-display": {
+    "static": "5.3.0"
+  },
+  "girassol": {
+    "static": "5.3.0"
+  },
+  "give-you-glory": {
+    "static": "5.3.0"
+  },
+  "glass-antiqua": {
+    "static": "5.3.0"
+  },
+  "glegoo": {
+    "static": "5.3.0"
+  },
+  "gloock": {
+    "static": "5.3.0"
+  },
+  "gloria-hallelujah": {
+    "static": "5.3.0"
+  },
+  "glory": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "gluten": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "goblin-one": {
+    "static": "5.3.0"
+  },
+  "gochi-hand": {
+    "static": "5.3.0"
+  },
+  "goldman": {
+    "static": "5.3.0"
+  },
+  "golos-text": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "google-sans": {
+    "static": "5.3.2",
+    "variable": "5.3.2"
+  },
+  "google-sans-code": {
+    "static": "5.3.2",
+    "variable": "5.3.2"
+  },
+  "google-sans-flex": {
+    "static": "5.3.2",
+    "variable": "5.3.2"
+  },
+  "gorditas": {
+    "static": "5.3.0"
+  },
+  "gothic-a1": {
+    "static": "5.3.0"
+  },
+  "gotu": {
+    "static": "5.3.0"
+  },
+  "goudy-bookletter-1911": {
+    "static": "5.3.0"
+  },
+  "gowun-batang": {
+    "static": "5.3.0"
+  },
+  "gowun-dodum": {
+    "static": "5.3.0"
+  },
+  "graduate": {
+    "static": "5.3.0"
+  },
+  "grand-hotel": {
+    "static": "5.3.0"
+  },
+  "grandiflora-one": {
+    "static": "5.3.0"
+  },
+  "grandstander": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "grape-nuts": {
+    "static": "5.3.0"
+  },
+  "gravitas-one": {
+    "static": "5.3.0"
+  },
+  "great-vibes": {
+    "static": "5.3.0"
+  },
+  "grechen-fuemen": {
+    "static": "5.3.0"
+  },
+  "grenze": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "grenze-gotisch": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "grey-qo": {
+    "static": "5.3.0"
+  },
+  "griffy": {
+    "static": "5.3.0"
+  },
+  "gruppo": {
+    "static": "5.3.0"
+  },
+  "gudea": {
+    "static": "5.3.0"
+  },
+  "gugi": {
+    "static": "5.3.0"
+  },
+  "gulzar": {
+    "static": "5.3.0"
+  },
+  "gupter": {
+    "static": "5.3.0"
+  },
+  "gurajada": {
+    "static": "5.3.0"
+  },
+  "gveret-levin": {
+    "static": "5.3.0"
+  },
+  "gwendolyn": {
+    "static": "5.3.0"
+  },
+  "habibi": {
+    "static": "5.3.0"
+  },
+  "hachi-maru-pop": {
+    "static": "5.3.0"
+  },
+  "hahmlet": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "halant": {
+    "static": "5.3.0"
+  },
+  "hammersmith-one": {
+    "static": "5.3.0"
+  },
+  "hanalei": {
+    "static": "5.3.0"
+  },
+  "hanalei-fill": {
+    "static": "5.3.0"
+  },
+  "handjet": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "handlee": {
+    "static": "5.3.0"
+  },
+  "hanken-grotesk": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "hanuman": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "happy-monkey": {
+    "static": "5.3.0"
+  },
+  "harmattan": {
+    "static": "5.3.0"
+  },
+  "hauora-sans": {
+    "static": "5.3.0"
+  },
+  "headland-one": {
+    "static": "5.3.0"
+  },
+  "hedvig-letters-sans": {
+    "static": "5.3.1"
+  },
+  "hedvig-letters-serif": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "heebo": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "henny-penny": {
+    "static": "5.3.0"
+  },
+  "hepta-slab": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "herr-von-muellerhoff": {
+    "static": "5.3.0"
+  },
+  "hi-melody": {
+    "static": "5.3.0"
+  },
+  "hibur-mono": {
+    "static": "5.3.1"
+  },
+  "hina-mincho": {
+    "static": "5.3.0"
+  },
+  "hind": {
+    "static": "5.3.0"
+  },
+  "hind-guntur": {
+    "static": "5.3.0"
+  },
+  "hind-madurai": {
+    "static": "5.3.0"
+  },
+  "hind-mysuru": {
+    "static": "5.3.0"
+  },
+  "hind-siliguri": {
+    "static": "5.3.0"
+  },
+  "hind-vadodara": {
+    "static": "5.3.0"
+  },
+  "holtwood-one-sc": {
+    "static": "5.3.0"
+  },
+  "homemade-apple": {
+    "static": "5.3.0"
+  },
+  "homenaje": {
+    "static": "5.3.0"
+  },
+  "honk": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "host-grotesk": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "hubballi": {
+    "static": "5.3.0"
+  },
+  "hubot-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "huninn": {
+    "static": "5.3.1"
+  },
+  "hurricane": {
+    "static": "5.3.0"
+  },
+  "ia-writer-duo": {
+    "static": "5.3.0"
+  },
+  "ia-writer-mono": {
+    "static": "5.3.0"
+  },
+  "ia-writer-quattro": {
+    "static": "5.3.0"
+  },
+  "iansui": {
+    "static": "5.3.1"
+  },
+  "ibarra-real-nova": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "ibm-plex-mono": {
+    "static": "5.3.0"
+  },
+  "ibm-plex-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "ibm-plex-sans-arabic": {
+    "static": "5.3.0"
+  },
+  "ibm-plex-sans-condensed": {
+    "static": "5.3.0"
+  },
+  "ibm-plex-sans-devanagari": {
+    "static": "5.3.0"
+  },
+  "ibm-plex-sans-hebrew": {
+    "static": "5.3.0"
+  },
+  "ibm-plex-sans-jp": {
+    "static": "5.3.1"
+  },
+  "ibm-plex-sans-kr": {
+    "static": "5.3.0"
+  },
+  "ibm-plex-sans-thai": {
+    "static": "5.3.0"
+  },
+  "ibm-plex-sans-thai-looped": {
+    "static": "5.3.0"
+  },
+  "ibm-plex-serif": {
+    "static": "5.3.0"
+  },
+  "iceberg": {
+    "static": "5.3.0"
+  },
+  "iceland": {
+    "static": "5.3.0"
+  },
+  "idiqlat": {
+    "static": "5.3.0"
+  },
+  "im-fell-double-pica": {
+    "static": "5.3.0"
+  },
+  "im-fell-double-pica-sc": {
+    "static": "5.3.0"
+  },
+  "im-fell-dw-pica": {
+    "static": "5.3.0"
+  },
+  "im-fell-dw-pica-sc": {
+    "static": "5.3.0"
+  },
+  "im-fell-english": {
+    "static": "5.3.0"
+  },
+  "im-fell-english-sc": {
+    "static": "5.3.0"
+  },
+  "im-fell-french-canon": {
+    "static": "5.3.0"
+  },
+  "im-fell-french-canon-sc": {
+    "static": "5.3.0"
+  },
+  "im-fell-great-primer": {
+    "static": "5.3.0"
+  },
+  "im-fell-great-primer-sc": {
+    "static": "5.3.0"
+  },
+  "imbue": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "imperial-script": {
+    "static": "5.3.0"
+  },
+  "imprima": {
+    "static": "5.3.0"
+  },
+  "inclusive-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "inconsolata": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "inder": {
+    "static": "5.3.0"
+  },
+  "indie-flower": {
+    "static": "5.3.0"
+  },
+  "ingrid-darling": {
+    "static": "5.3.0"
+  },
+  "inika": {
+    "static": "5.3.0"
+  },
+  "inknut-antiqua": {
+    "static": "5.3.0"
+  },
+  "inria-sans": {
+    "static": "5.3.0"
+  },
+  "inria-serif": {
+    "static": "5.3.0"
+  },
+  "inspiration": {
+    "static": "5.3.0"
+  },
+  "instrument-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "instrument-serif": {
+    "static": "5.3.0"
+  },
+  "intel-one-mono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "inter": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "inter-tight": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "iosevka": {
+    "static": "5.3.0"
+  },
+  "iosevka-aile": {
+    "static": "5.3.0"
+  },
+  "iosevka-charon": {
+    "static": "5.3.0"
+  },
+  "iosevka-charon-mono": {
+    "static": "5.3.0"
+  },
+  "iosevka-curly": {
+    "static": "5.3.0"
+  },
+  "iosevka-curly-slab": {
+    "static": "5.3.0"
+  },
+  "iosevka-etoile": {
+    "static": "5.3.0"
+  },
+  "irish-grover": {
+    "static": "5.3.0"
+  },
+  "island-moments": {
+    "static": "5.3.0"
+  },
+  "isometra": {
+    "static": "5.3.1"
+  },
+  "istok-web": {
+    "static": "5.3.0"
+  },
+  "italiana": {
+    "static": "5.3.0"
+  },
+  "italianno": {
+    "static": "5.3.0"
+  },
+  "itim": {
+    "static": "5.3.0"
+  },
+  "jacquard-12": {
+    "static": "5.3.0"
+  },
+  "jacquard-12-charted": {
+    "static": "5.3.0"
+  },
+  "jacquard-24": {
+    "static": "5.3.0"
+  },
+  "jacquard-24-charted": {
+    "static": "5.3.0"
+  },
+  "jacquarda-bastarda-9": {
+    "static": "5.3.0"
+  },
+  "jacquarda-bastarda-9-charted": {
+    "static": "5.3.0"
+  },
+  "jacques-francois": {
+    "static": "5.3.0"
+  },
+  "jacques-francois-shadow": {
+    "static": "5.3.0"
+  },
+  "jaini": {
+    "static": "5.3.0"
+  },
+  "jaini-purva": {
+    "static": "5.3.0"
+  },
+  "jaldi": {
+    "static": "5.3.0"
+  },
+  "jaro": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "jersey-10": {
+    "static": "5.3.0"
+  },
+  "jersey-10-charted": {
+    "static": "5.3.0"
+  },
+  "jersey-15": {
+    "static": "5.3.0"
+  },
+  "jersey-15-charted": {
+    "static": "5.3.0"
+  },
+  "jersey-20": {
+    "static": "5.3.0"
+  },
+  "jersey-20-charted": {
+    "static": "5.3.0"
+  },
+  "jersey-25": {
+    "static": "5.3.0"
+  },
+  "jersey-25-charted": {
+    "static": "5.3.0"
+  },
+  "jetbrains-mono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "jim-nightshade": {
+    "static": "5.3.0"
+  },
+  "joan": {
+    "static": "5.3.0"
+  },
+  "jockey-one": {
+    "static": "5.3.0"
+  },
+  "jolly-lodger": {
+    "static": "5.3.0"
+  },
+  "jomhuria": {
+    "static": "5.3.0"
+  },
+  "jomolhari": {
+    "static": "5.3.0"
+  },
+  "josefin-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "josefin-slab": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "jost": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "joti-one": {
+    "static": "5.3.0"
+  },
+  "jua": {
+    "static": "5.3.0"
+  },
+  "judson": {
+    "static": "5.3.0"
+  },
+  "julee": {
+    "static": "5.3.0"
+  },
+  "julius-sans-one": {
+    "static": "5.3.0"
+  },
+  "junction": {
+    "static": "5.3.0"
+  },
+  "junge": {
+    "static": "5.3.0"
+  },
+  "jura": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "just-another-hand": {
+    "static": "5.3.0"
+  },
+  "just-me-again-down-here": {
+    "static": "5.3.0"
+  },
+  "k2d": {
+    "static": "5.3.0"
+  },
+  "kablammo": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "kadwa": {
+    "static": "5.3.0"
+  },
+  "kaisei-decol": {
+    "static": "5.3.1"
+  },
+  "kaisei-harunoumi": {
+    "static": "5.3.1"
+  },
+  "kaisei-opti": {
+    "static": "5.3.1"
+  },
+  "kaisei-tokumin": {
+    "static": "5.3.1"
+  },
+  "kalam": {
+    "static": "5.3.0"
+  },
+  "kalnia": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "kalnia-glaze": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "kameron": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "kanchenjunga": {
+    "static": "5.3.0"
+  },
+  "kanit": {
+    "static": "5.3.0"
+  },
+  "kantumruy": {
+    "static": "5.3.0"
+  },
+  "kantumruy-pro": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "kapakana": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "karantina": {
+    "static": "5.3.0"
+  },
+  "karla": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "karla-tamil-inclined": {
+    "static": "5.3.1"
+  },
+  "karla-tamil-upright": {
+    "static": "5.3.1"
+  },
+  "karma": {
+    "static": "5.3.0"
+  },
+  "karmilla": {
+    "static": "5.3.0"
+  },
+  "katibeh": {
+    "static": "5.3.0"
+  },
+  "kaushan-script": {
+    "static": "5.3.0"
+  },
+  "kavivanar": {
+    "static": "5.3.0"
+  },
+  "kavoon": {
+    "static": "5.3.0"
+  },
+  "kay-pho-du": {
+    "static": "5.3.0"
+  },
+  "kdam-thmor-pro": {
+    "static": "5.3.0"
+  },
+  "keania-one": {
+    "static": "5.3.0"
+  },
+  "kedebideri": {
+    "static": "5.3.0"
+  },
+  "kelly-slab": {
+    "static": "5.3.0"
+  },
+  "kenia": {
+    "static": "5.3.0"
+  },
+  "khand": {
+    "static": "5.3.0"
+  },
+  "khmer": {
+    "static": "5.3.0"
+  },
+  "khula": {
+    "static": "5.3.0"
+  },
+  "kings": {
+    "static": "5.3.0"
+  },
+  "kirang-haerang": {
+    "static": "5.3.0"
+  },
+  "kite-one": {
+    "static": "5.3.0"
+  },
+  "kiwi-maru": {
+    "static": "5.3.1"
+  },
+  "klee-one": {
+    "static": "5.3.1"
+  },
+  "knewave": {
+    "static": "5.3.0"
+  },
+  "kodchasan": {
+    "static": "5.3.0"
+  },
+  "kode-mono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "koh-santepheap": {
+    "static": "5.3.0"
+  },
+  "koho": {
+    "static": "5.3.0"
+  },
+  "kolker-brush": {
+    "static": "5.3.0"
+  },
+  "konkhmer-sleokchher": {
+    "static": "5.3.0"
+  },
+  "kosugi": {
+    "static": "5.3.0"
+  },
+  "kosugi-maru": {
+    "static": "5.3.0"
+  },
+  "kotta-one": {
+    "static": "5.3.0"
+  },
+  "koulen": {
+    "static": "5.3.0"
+  },
+  "kranky": {
+    "static": "5.3.0"
+  },
+  "kreon": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "kripa": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "kristi": {
+    "static": "5.3.0"
+  },
+  "krona-one": {
+    "static": "5.3.0"
+  },
+  "krub": {
+    "static": "5.3.0"
+  },
+  "kufam": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "kulim-park": {
+    "static": "5.3.0"
+  },
+  "kumar-one": {
+    "static": "5.3.0"
+  },
+  "kumar-one-outline": {
+    "static": "5.3.0"
+  },
+  "kumbh-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "kurale": {
+    "static": "5.3.0"
+  },
+  "la-belle-aurore": {
+    "static": "5.3.0"
+  },
+  "labrada": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "lacquer": {
+    "static": "5.3.0"
+  },
+  "laila": {
+    "static": "5.3.0"
+  },
+  "lakki-reddy": {
+    "static": "5.3.0"
+  },
+  "lalezar": {
+    "static": "5.3.0"
+  },
+  "lancelot": {
+    "static": "5.3.0"
+  },
+  "langar": {
+    "static": "5.3.0"
+  },
+  "lateef": {
+    "static": "5.3.0"
+  },
+  "lato": {
+    "static": "5.3.0"
+  },
+  "lavishly-yours": {
+    "static": "5.3.0"
+  },
+  "league-gothic": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "league-mono": {
+    "static": "5.3.0"
+  },
+  "league-script": {
+    "static": "5.3.0"
+  },
+  "league-spartan": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "leckerli-one": {
+    "static": "5.3.0"
+  },
+  "ledger": {
+    "static": "5.3.0"
+  },
+  "lekton": {
+    "static": "5.3.0"
+  },
+  "lemon": {
+    "static": "5.3.0"
+  },
+  "lemonada": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "lexend": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "lexend-deca": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "lexend-exa": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "lexend-giga": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "lexend-mega": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "lexend-peta": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "lexend-tera": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "lexend-zetta": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "lextrall": {
+    "static": "5.3.0"
+  },
+  "libertinus-keyboard": {
+    "static": "5.3.0"
+  },
+  "libertinus-math": {
+    "static": "5.3.0"
+  },
+  "libertinus-mono": {
+    "static": "5.3.0"
+  },
+  "libertinus-sans": {
+    "static": "5.3.0"
+  },
+  "libertinus-serif": {
+    "static": "5.3.0"
+  },
+  "libertinus-serif-display": {
+    "static": "5.3.0"
+  },
+  "libre-barcode-128": {
+    "static": "5.3.0"
+  },
+  "libre-barcode-128-text": {
+    "static": "5.3.0"
+  },
+  "libre-barcode-39": {
+    "static": "5.3.0"
+  },
+  "libre-barcode-39-extended": {
+    "static": "5.3.0"
+  },
+  "libre-barcode-39-extended-text": {
+    "static": "5.3.0"
+  },
+  "libre-barcode-39-text": {
+    "static": "5.3.0"
+  },
+  "libre-barcode-ean13-text": {
+    "static": "5.3.0"
+  },
+  "libre-baskerville": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "libre-bodoni": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "libre-caslon-condensed": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "libre-caslon-display": {
+    "static": "5.3.0"
+  },
+  "libre-caslon-text": {
+    "static": "5.3.0"
+  },
+  "libre-franklin": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "licorice": {
+    "static": "5.3.0"
+  },
+  "life-savers": {
+    "static": "5.3.0"
+  },
+  "lilex": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "lilita-one": {
+    "static": "5.3.0"
+  },
+  "lily-script-one": {
+    "static": "5.3.0"
+  },
+  "limelight": {
+    "static": "5.3.0"
+  },
+  "linden-hill": {
+    "static": "5.3.0"
+  },
+  "line-seed-jp": {
+    "static": "5.3.2"
+  },
+  "linefont": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "lisu-bosa": {
+    "static": "5.3.0"
+  },
+  "liter": {
+    "static": "5.3.0"
+  },
+  "literata": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "liu-jian-mao-cao": {
+    "static": "5.3.0"
+  },
+  "livvic": {
+    "static": "5.3.0"
+  },
+  "lobster": {
+    "static": "5.3.0"
+  },
+  "lobster-two": {
+    "static": "5.3.0"
+  },
+  "londrina-outline": {
+    "static": "5.3.0"
+  },
+  "londrina-shadow": {
+    "static": "5.3.0"
+  },
+  "londrina-sketch": {
+    "static": "5.3.0"
+  },
+  "londrina-solid": {
+    "static": "5.3.0"
+  },
+  "long-cang": {
+    "static": "5.3.0"
+  },
+  "lora": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "love-light": {
+    "static": "5.3.0"
+  },
+  "love-ya-like-a-sister": {
+    "static": "5.3.0"
+  },
+  "loved-by-the-king": {
+    "static": "5.3.0"
+  },
+  "lovers-quarrel": {
+    "static": "5.3.0"
+  },
+  "luckiest-guy": {
+    "static": "5.3.0"
+  },
+  "lugrasimo": {
+    "static": "5.3.0"
+  },
+  "lumanosimo": {
+    "static": "5.3.0"
+  },
+  "lunasima": {
+    "static": "5.3.0"
+  },
+  "lusitana": {
+    "static": "5.3.0"
+  },
+  "lustria": {
+    "static": "5.3.0"
+  },
+  "luxurious-roman": {
+    "static": "5.3.0"
+  },
+  "luxurious-script": {
+    "static": "5.3.0"
+  },
+  "lxgw-marker-gothic": {
+    "static": "5.3.1"
+  },
+  "lxgw-wenkai": {
+    "static": "5.3.0"
+  },
+  "lxgw-wenkai-mono-tc": {
+    "static": "5.3.1"
+  },
+  "lxgw-wenkai-tc": {
+    "static": "5.3.1"
+  },
+  "m-plus-1": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "m-plus-1-code": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "m-plus-1p": {
+    "static": "5.3.0"
+  },
+  "m-plus-2": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "m-plus-code-latin": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "m-plus-rounded-1c": {
+    "static": "5.3.0"
+  },
+  "m-plus-u": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "ma-shan-zheng": {
+    "static": "5.3.1"
+  },
+  "macondo": {
+    "static": "5.3.0"
+  },
+  "macondo-swash-caps": {
+    "static": "5.3.0"
+  },
+  "mada": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "madimi-one": {
+    "static": "5.3.0"
+  },
+  "magra": {
+    "static": "5.3.0"
+  },
+  "maiden-orange": {
+    "static": "5.3.0"
+  },
+  "maitree": {
+    "static": "5.3.0"
+  },
+  "major-mono-display": {
+    "static": "5.3.0"
+  },
+  "mako": {
+    "static": "5.3.0"
+  },
+  "mali": {
+    "static": "5.3.0"
+  },
+  "mallanna": {
+    "static": "5.3.0"
+  },
+  "maname": {
+    "static": "5.3.0"
+  },
+  "mandali": {
+    "static": "5.3.0"
+  },
+  "manjari": {
+    "static": "5.3.0"
+  },
+  "manrope": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "mansalva": {
+    "static": "5.3.0"
+  },
+  "manuale": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "manufacturing-consent": {
+    "static": "5.3.0"
+  },
+  "maple-mono": {
+    "static": "5.3.0"
+  },
+  "marcellus": {
+    "static": "5.3.0"
+  },
+  "marcellus-sc": {
+    "static": "5.3.0"
+  },
+  "marck-script": {
+    "static": "5.3.0"
+  },
+  "margarine": {
+    "static": "5.3.0"
+  },
+  "marhey": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "markazi-text": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "marko-one": {
+    "static": "5.3.0"
+  },
+  "marmelad": {
+    "static": "5.3.0"
+  },
+  "martel": {
+    "static": "5.3.0"
+  },
+  "martel-sans": {
+    "static": "5.3.0"
+  },
+  "martian-mono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "marvel": {
+    "static": "5.3.0"
+  },
+  "matangi": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "mate": {
+    "static": "5.3.0"
+  },
+  "mate-sc": {
+    "static": "5.3.0"
+  },
+  "matemasie": {
+    "static": "5.3.0"
+  },
+  "material-icons": {
+    "static": "5.3.0"
+  },
+  "material-icons-outlined": {
+    "static": "5.3.0"
+  },
+  "material-icons-round": {
+    "static": "5.3.0"
+  },
+  "material-icons-sharp": {
+    "static": "5.3.0"
+  },
+  "material-icons-two-tone": {
+    "static": "5.3.0"
+  },
+  "material-symbols": {
+    "static": "5.3.9"
+  },
+  "material-symbols-outlined": {
+    "static": "5.3.9",
+    "variable": "5.3.9"
+  },
+  "material-symbols-rounded": {
+    "static": "5.3.9",
+    "variable": "5.3.9"
+  },
+  "material-symbols-sharp": {
+    "static": "5.3.9",
+    "variable": "5.3.9"
+  },
+  "maven-pro": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "mclaren": {
+    "static": "5.3.0"
+  },
+  "mea-culpa": {
+    "static": "5.3.0"
+  },
+  "meddon": {
+    "static": "5.3.0"
+  },
+  "medievalsharp": {
+    "static": "5.3.0"
+  },
+  "medula-one": {
+    "static": "5.3.0"
+  },
+  "meera-inimai": {
+    "static": "5.3.0"
+  },
+  "megrim": {
+    "static": "5.3.0"
+  },
+  "meie-script": {
+    "static": "5.3.0"
+  },
+  "menbere": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "meow-script": {
+    "static": "5.3.0"
+  },
+  "merienda": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "merienda-one": {
+    "static": "5.3.0"
+  },
+  "merriweather": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "merriweather-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "metal": {
+    "static": "5.3.0"
+  },
+  "metal-mania": {
+    "static": "5.3.0"
+  },
+  "metamorphous": {
+    "static": "5.3.0"
+  },
+  "metrophobic": {
+    "static": "5.3.0"
+  },
+  "metropolis": {
+    "static": "5.3.0"
+  },
+  "michroma": {
+    "static": "5.3.0"
+  },
+  "micro-5": {
+    "static": "5.3.0"
+  },
+  "micro-5-charted": {
+    "static": "5.3.0"
+  },
+  "milonga": {
+    "static": "5.3.0"
+  },
+  "miltonian": {
+    "static": "5.3.0"
+  },
+  "miltonian-tattoo": {
+    "static": "5.3.0"
+  },
+  "mina": {
+    "static": "5.3.0"
+  },
+  "mingzat": {
+    "static": "5.3.0"
+  },
+  "miniver": {
+    "static": "5.3.0"
+  },
+  "miranda-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "miriam-libre": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "mirza": {
+    "static": "5.3.0"
+  },
+  "miss-fajardose": {
+    "static": "5.3.0"
+  },
+  "mitr": {
+    "static": "5.3.0"
+  },
+  "mochiy-pop-one": {
+    "static": "5.3.0"
+  },
+  "mochiy-pop-p-one": {
+    "static": "5.3.0"
+  },
+  "modak": {
+    "static": "5.3.0"
+  },
+  "modern-antiqua": {
+    "static": "5.3.0"
+  },
+  "moderustic": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "mogra": {
+    "static": "5.3.0"
+  },
+  "mohave": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "moirai-one": {
+    "static": "5.3.0"
+  },
+  "molengo": {
+    "static": "5.3.0"
+  },
+  "molle": {
+    "static": "5.3.0"
+  },
+  "momo-signature": {
+    "static": "5.3.0"
+  },
+  "momo-trust-display": {
+    "static": "5.3.0"
+  },
+  "momo-trust-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "mona-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "monaspace-argon": {
+    "static": "5.3.0"
+  },
+  "monaspace-krypton": {
+    "static": "5.3.0"
+  },
+  "monaspace-neon": {
+    "static": "5.3.0"
+  },
+  "monaspace-radon": {
+    "static": "5.3.0"
+  },
+  "monaspace-xenon": {
+    "static": "5.3.0"
+  },
+  "monda": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "monofett": {
+    "static": "5.3.0"
+  },
+  "monomakh": {
+    "static": "5.3.0"
+  },
+  "monomaniac-one": {
+    "static": "5.3.0"
+  },
+  "mononoki": {
+    "static": "5.3.0"
+  },
+  "monoton": {
+    "static": "5.3.0"
+  },
+  "monsieur-la-doulaise": {
+    "static": "5.3.0"
+  },
+  "montaga": {
+    "static": "5.3.0"
+  },
+  "montagu-slab": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "montecarlo": {
+    "static": "5.3.0"
+  },
+  "montenegrin-gothic-one": {
+    "static": "5.3.0"
+  },
+  "montez": {
+    "static": "5.3.0"
+  },
+  "montserrat": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "montserrat-alternates": {
+    "static": "5.3.0"
+  },
+  "montserrat-subrayada": {
+    "static": "5.3.0"
+  },
+  "montserrat-underline": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "moo-lah-lah": {
+    "static": "5.3.0"
+  },
+  "mooli": {
+    "static": "5.3.0"
+  },
+  "moon-dance": {
+    "static": "5.3.0"
+  },
+  "moul": {
+    "static": "5.3.0"
+  },
+  "moulpali": {
+    "static": "5.3.0"
+  },
+  "mountains-of-christmas": {
+    "static": "5.3.0"
+  },
+  "mouse-memoirs": {
+    "static": "5.3.0"
+  },
+  "mozilla-headline": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "mozilla-text": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "mr-bedfort": {
+    "static": "5.3.0"
+  },
+  "mr-dafoe": {
+    "static": "5.3.0"
+  },
+  "mr-de-haviland": {
+    "static": "5.3.0"
+  },
+  "mrs-saint-delafield": {
+    "static": "5.3.0"
+  },
+  "mrs-sheppards": {
+    "static": "5.3.0"
+  },
+  "ms-madi": {
+    "static": "5.3.0"
+  },
+  "mukta": {
+    "static": "5.3.0"
+  },
+  "mukta-mahee": {
+    "static": "5.3.0"
+  },
+  "mukta-malar": {
+    "static": "5.3.0"
+  },
+  "mukta-vaani": {
+    "static": "5.3.0"
+  },
+  "mulish": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "murecho": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "museomoderno": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "my-soul": {
+    "static": "5.3.0"
+  },
+  "mynerve": {
+    "static": "5.3.0"
+  },
+  "mystery-quest": {
+    "static": "5.3.0"
+  },
+  "nabla": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "namdhinggo": {
+    "static": "5.3.0"
+  },
+  "nanum-brush-script": {
+    "static": "5.3.0"
+  },
+  "nanum-gothic": {
+    "static": "5.3.0"
+  },
+  "nanum-gothic-coding": {
+    "static": "5.3.0"
+  },
+  "nanum-myeongjo": {
+    "static": "5.3.0"
+  },
+  "nanum-pen-script": {
+    "static": "5.3.0"
+  },
+  "narnoor": {
+    "static": "5.3.0"
+  },
+  "nata-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "national-park": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "nebula-sans": {
+    "static": "5.3.0"
+  },
+  "neonderthaw": {
+    "static": "5.3.0"
+  },
+  "nerko-one": {
+    "static": "5.3.0"
+  },
+  "neucha": {
+    "static": "5.3.0"
+  },
+  "neuton": {
+    "static": "5.3.0"
+  },
+  "new-amsterdam": {
+    "static": "5.3.0"
+  },
+  "new-rocker": {
+    "static": "5.3.0"
+  },
+  "new-tegomin": {
+    "static": "5.3.0"
+  },
+  "news-cycle": {
+    "static": "5.3.0"
+  },
+  "newsreader": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "niconne": {
+    "static": "5.3.0"
+  },
+  "niramit": {
+    "static": "5.3.0"
+  },
+  "nixie-one": {
+    "static": "5.3.0"
+  },
+  "nobile": {
+    "static": "5.3.0"
+  },
+  "nokora": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "norican": {
+    "static": "5.3.0"
+  },
+  "norwester": {
+    "static": "5.3.0"
+  },
+  "nosifer": {
+    "static": "5.3.0"
+  },
+  "notable": {
+    "static": "5.3.0"
+  },
+  "nothing-you-could-do": {
+    "static": "5.3.0"
+  },
+  "noticia-text": {
+    "static": "5.3.0"
+  },
+  "noto-color-emoji": {
+    "static": "5.3.2"
+  },
+  "noto-emoji": {
+    "static": "5.3.2",
+    "variable": "5.3.2"
+  },
+  "noto-kufi-arabic": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-mono": {
+    "static": "5.3.0"
+  },
+  "noto-music": {
+    "static": "5.3.0"
+  },
+  "noto-naskh-arabic": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-nastaliq-urdu": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-rashi-hebrew": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-adlam": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-adlam-unjoined": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-anatolian-hieroglyphs": {
+    "static": "5.3.0"
+  },
+  "noto-sans-arabic": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-armenian": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-avestan": {
+    "static": "5.3.0"
+  },
+  "noto-sans-balinese": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-bamum": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-bassa-vah": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-batak": {
+    "static": "5.3.1"
+  },
+  "noto-sans-bengali": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-bhaiksuki": {
+    "static": "5.3.0"
+  },
+  "noto-sans-brahmi": {
+    "static": "5.3.0"
+  },
+  "noto-sans-buginese": {
+    "static": "5.3.0"
+  },
+  "noto-sans-buhid": {
+    "static": "5.3.0"
+  },
+  "noto-sans-canadian-aboriginal": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-carian": {
+    "static": "5.3.0"
+  },
+  "noto-sans-caucasian-albanian": {
+    "static": "5.3.0"
+  },
+  "noto-sans-chakma": {
+    "static": "5.3.0"
+  },
+  "noto-sans-cham": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-cherokee": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-chorasmian": {
+    "static": "5.3.0"
+  },
+  "noto-sans-coptic": {
+    "static": "5.3.0"
+  },
+  "noto-sans-cuneiform": {
+    "static": "5.3.0"
+  },
+  "noto-sans-cypriot": {
+    "static": "5.3.0"
+  },
+  "noto-sans-cypro-minoan": {
+    "static": "5.3.0"
+  },
+  "noto-sans-deseret": {
+    "static": "5.3.0"
+  },
+  "noto-sans-devanagari": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-display": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-duployan": {
+    "static": "5.3.0"
+  },
+  "noto-sans-egyptian-hieroglyphs": {
+    "static": "5.3.0"
+  },
+  "noto-sans-elbasan": {
+    "static": "5.3.0"
+  },
+  "noto-sans-elymaic": {
+    "static": "5.3.0"
+  },
+  "noto-sans-ethiopic": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-georgian": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-glagolitic": {
+    "static": "5.3.0"
+  },
+  "noto-sans-gothic": {
+    "static": "5.3.0"
+  },
+  "noto-sans-grantha": {
+    "static": "5.3.0"
+  },
+  "noto-sans-gujarati": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-gunjala-gondi": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-gurmukhi": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-hanifi-rohingya": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-hanunoo": {
+    "static": "5.3.0"
+  },
+  "noto-sans-hatran": {
+    "static": "5.3.0"
+  },
+  "noto-sans-hebrew": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-hk": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "noto-sans-imperial-aramaic": {
+    "static": "5.3.0"
+  },
+  "noto-sans-indic-siyaq-numbers": {
+    "static": "5.3.0"
+  },
+  "noto-sans-inscriptional-pahlavi": {
+    "static": "5.3.0"
+  },
+  "noto-sans-inscriptional-parthian": {
+    "static": "5.3.0"
+  },
+  "noto-sans-javanese": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-jp": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "noto-sans-kaithi": {
+    "static": "5.3.0"
+  },
+  "noto-sans-kannada": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-kawi": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-kayah-li": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-kharoshthi": {
+    "static": "5.3.0"
+  },
+  "noto-sans-khmer": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-khojki": {
+    "static": "5.3.0"
+  },
+  "noto-sans-khudawadi": {
+    "static": "5.3.0"
+  },
+  "noto-sans-kr": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "noto-sans-lao": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-lao-looped": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-lepcha": {
+    "static": "5.3.0"
+  },
+  "noto-sans-limbu": {
+    "static": "5.3.0"
+  },
+  "noto-sans-linear-a": {
+    "static": "5.3.0"
+  },
+  "noto-sans-linear-b": {
+    "static": "5.3.0"
+  },
+  "noto-sans-lisu": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-lycian": {
+    "static": "5.3.0"
+  },
+  "noto-sans-lydian": {
+    "static": "5.3.0"
+  },
+  "noto-sans-mahajani": {
+    "static": "5.3.0"
+  },
+  "noto-sans-malayalam": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-mandaic": {
+    "static": "5.3.0"
+  },
+  "noto-sans-manichaean": {
+    "static": "5.3.0"
+  },
+  "noto-sans-marchen": {
+    "static": "5.3.0"
+  },
+  "noto-sans-masaram-gondi": {
+    "static": "5.3.0"
+  },
+  "noto-sans-math": {
+    "static": "5.3.0"
+  },
+  "noto-sans-mayan-numerals": {
+    "static": "5.3.0"
+  },
+  "noto-sans-medefaidrin": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-meetei-mayek": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-mende-kikakui": {
+    "static": "5.3.0"
+  },
+  "noto-sans-meroitic": {
+    "static": "5.3.0"
+  },
+  "noto-sans-miao": {
+    "static": "5.3.1"
+  },
+  "noto-sans-modi": {
+    "static": "5.3.0"
+  },
+  "noto-sans-mongolian": {
+    "static": "5.3.0"
+  },
+  "noto-sans-mono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-mro": {
+    "static": "5.3.0"
+  },
+  "noto-sans-multani": {
+    "static": "5.3.0"
+  },
+  "noto-sans-myanmar": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-nabataean": {
+    "static": "5.3.0"
+  },
+  "noto-sans-nag-mundari": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-nandinagari": {
+    "static": "5.3.0"
+  },
+  "noto-sans-new-tai-lue": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-newa": {
+    "static": "5.3.0"
+  },
+  "noto-sans-nko": {
+    "static": "5.3.0"
+  },
+  "noto-sans-nko-unjoined": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-nushu": {
+    "static": "5.3.0"
+  },
+  "noto-sans-ogham": {
+    "static": "5.3.0"
+  },
+  "noto-sans-ol-chiki": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-old-hungarian": {
+    "static": "5.3.0"
+  },
+  "noto-sans-old-italic": {
+    "static": "5.3.0"
+  },
+  "noto-sans-old-north-arabian": {
+    "static": "5.3.0"
+  },
+  "noto-sans-old-permic": {
+    "static": "5.3.0"
+  },
+  "noto-sans-old-persian": {
+    "static": "5.3.0"
+  },
+  "noto-sans-old-sogdian": {
+    "static": "5.3.0"
+  },
+  "noto-sans-old-south-arabian": {
+    "static": "5.3.0"
+  },
+  "noto-sans-old-turkic": {
+    "static": "5.3.0"
+  },
+  "noto-sans-oriya": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-osage": {
+    "static": "5.3.0"
+  },
+  "noto-sans-osmanya": {
+    "static": "5.3.0"
+  },
+  "noto-sans-pahawh-hmong": {
+    "static": "5.3.0"
+  },
+  "noto-sans-palmyrene": {
+    "static": "5.3.0"
+  },
+  "noto-sans-pau-cin-hau": {
+    "static": "5.3.0"
+  },
+  "noto-sans-phags-pa": {
+    "static": "5.3.0"
+  },
+  "noto-sans-phagspa": {
+    "static": "5.3.0"
+  },
+  "noto-sans-phoenician": {
+    "static": "5.3.0"
+  },
+  "noto-sans-psalter-pahlavi": {
+    "static": "5.3.0"
+  },
+  "noto-sans-rejang": {
+    "static": "5.3.0"
+  },
+  "noto-sans-runic": {
+    "static": "5.3.0"
+  },
+  "noto-sans-samaritan": {
+    "static": "5.3.0"
+  },
+  "noto-sans-saurashtra": {
+    "static": "5.3.0"
+  },
+  "noto-sans-sc": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "noto-sans-sharada": {
+    "static": "5.3.0"
+  },
+  "noto-sans-shavian": {
+    "static": "5.3.0"
+  },
+  "noto-sans-siddham": {
+    "static": "5.3.0"
+  },
+  "noto-sans-signwriting": {
+    "static": "5.3.0"
+  },
+  "noto-sans-sinhala": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-sogdian": {
+    "static": "5.3.0"
+  },
+  "noto-sans-sora-sompeng": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-soyombo": {
+    "static": "5.3.0"
+  },
+  "noto-sans-sundanese": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-sunuwar": {
+    "static": "5.3.0"
+  },
+  "noto-sans-syloti-nagri": {
+    "static": "5.3.0"
+  },
+  "noto-sans-symbols": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-symbols-2": {
+    "static": "5.3.0"
+  },
+  "noto-sans-syriac": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-syriac-eastern": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-syriac-western": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-tagalog": {
+    "static": "5.3.0"
+  },
+  "noto-sans-tagbanwa": {
+    "static": "5.3.0"
+  },
+  "noto-sans-tai-le": {
+    "static": "5.3.0"
+  },
+  "noto-sans-tai-tham": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-tai-viet": {
+    "static": "5.3.0"
+  },
+  "noto-sans-takri": {
+    "static": "5.3.0"
+  },
+  "noto-sans-tamil": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-tamil-supplement": {
+    "static": "5.3.0"
+  },
+  "noto-sans-tangsa": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-tc": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "noto-sans-telugu": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-thaana": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-thai": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-thai-looped": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-tifinagh": {
+    "static": "5.3.0"
+  },
+  "noto-sans-tirhuta": {
+    "static": "5.3.0"
+  },
+  "noto-sans-ugaritic": {
+    "static": "5.3.0"
+  },
+  "noto-sans-vai": {
+    "static": "5.3.0"
+  },
+  "noto-sans-vithkuqi": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-sans-wancho": {
+    "static": "5.3.0"
+  },
+  "noto-sans-warang-citi": {
+    "static": "5.3.0"
+  },
+  "noto-sans-yi": {
+    "static": "5.3.0"
+  },
+  "noto-sans-zanabazar-square": {
+    "static": "5.3.0"
+  },
+  "noto-serif": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-ahom": {
+    "static": "5.3.0"
+  },
+  "noto-serif-armenian": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-balinese": {
+    "static": "5.3.0"
+  },
+  "noto-serif-bengali": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-devanagari": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-display": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-dives-akuru": {
+    "static": "5.3.0"
+  },
+  "noto-serif-dogra": {
+    "static": "5.3.0"
+  },
+  "noto-serif-ethiopic": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-georgian": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-grantha": {
+    "static": "5.3.0"
+  },
+  "noto-serif-gujarati": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-gurmukhi": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-hebrew": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-hentaigana": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-hk": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "noto-serif-jp": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "noto-serif-kannada": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-khitan-small-script": {
+    "static": "5.3.0"
+  },
+  "noto-serif-khmer": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-khojki": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-kr": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "noto-serif-lao": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-makasar": {
+    "static": "5.3.0"
+  },
+  "noto-serif-malayalam": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-myanmar": {
+    "static": "5.3.0"
+  },
+  "noto-serif-np-hmong": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-old-uyghur": {
+    "static": "5.3.0"
+  },
+  "noto-serif-oriya": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-ottoman-siyaq": {
+    "static": "5.3.0"
+  },
+  "noto-serif-sc": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "noto-serif-sinhala": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-tamil": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-tangut": {
+    "static": "5.3.0"
+  },
+  "noto-serif-tc": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "noto-serif-telugu": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-thai": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-tibetan": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-todhri": {
+    "static": "5.3.0"
+  },
+  "noto-serif-toto": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "noto-serif-vithkuqi": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-serif-yezidi": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-traditional-nushu": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "noto-znamenny-musical-notation": {
+    "static": "5.3.0"
+  },
+  "nova-cut": {
+    "static": "5.3.0"
+  },
+  "nova-flat": {
+    "static": "5.3.0"
+  },
+  "nova-mono": {
+    "static": "5.3.0"
+  },
+  "nova-oval": {
+    "static": "5.3.0"
+  },
+  "nova-round": {
+    "static": "5.3.0"
+  },
+  "nova-script": {
+    "static": "5.3.0"
+  },
+  "nova-slim": {
+    "static": "5.3.0"
+  },
+  "nova-square": {
+    "static": "5.3.0"
+  },
+  "ntr": {
+    "static": "5.3.0"
+  },
+  "numans": {
+    "static": "5.3.0"
+  },
+  "nunito": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "nunito-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "nuosu-sil": {
+    "static": "5.3.0"
+  },
+  "odibee-sans": {
+    "static": "5.3.0"
+  },
+  "odor-mean-chey": {
+    "static": "5.3.0"
+  },
+  "offside": {
+    "static": "5.3.0"
+  },
+  "oi": {
+    "static": "5.3.0"
+  },
+  "ojuju": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "old-standard-tt": {
+    "static": "5.3.0"
+  },
+  "oldenburg": {
+    "static": "5.3.0"
+  },
+  "ole": {
+    "static": "5.3.0"
+  },
+  "oleo-script": {
+    "static": "5.3.0"
+  },
+  "oleo-script-swash-caps": {
+    "static": "5.3.0"
+  },
+  "onest": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "oooh-baby": {
+    "static": "5.3.0"
+  },
+  "open-runde": {
+    "static": "5.3.0"
+  },
+  "open-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "open-sauce-one": {
+    "static": "5.3.0"
+  },
+  "open-sauce-sans": {
+    "static": "5.3.0"
+  },
+  "open-sauce-two": {
+    "static": "5.3.0"
+  },
+  "opendyslexic": {
+    "static": "5.3.0"
+  },
+  "oranienbaum": {
+    "static": "5.3.0"
+  },
+  "orbit": {
+    "static": "5.3.0"
+  },
+  "orbitron": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "oregano": {
+    "static": "5.3.0"
+  },
+  "orelega-one": {
+    "static": "5.3.0"
+  },
+  "orienta": {
+    "static": "5.3.0"
+  },
+  "original-surfer": {
+    "static": "5.3.0"
+  },
+  "ostrich-sans": {
+    "static": "5.3.0"
+  },
+  "oswald": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "outfit": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "over-the-rainbow": {
+    "static": "5.3.0"
+  },
+  "overlock": {
+    "static": "5.3.0"
+  },
+  "overlock-sc": {
+    "static": "5.3.0"
+  },
+  "overpass": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "overpass-mono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "ovo": {
+    "static": "5.3.0"
+  },
+  "oxanium": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "oxygen": {
+    "static": "5.3.0"
+  },
+  "oxygen-mono": {
+    "static": "5.3.0"
+  },
+  "pacifico": {
+    "static": "5.3.0"
+  },
+  "padauk": {
+    "static": "5.3.0"
+  },
+  "padyakke-expanded-one": {
+    "static": "5.3.0"
+  },
+  "palanquin": {
+    "static": "5.3.0"
+  },
+  "palanquin-dark": {
+    "static": "5.3.0"
+  },
+  "palette-mosaic": {
+    "static": "5.3.0"
+  },
+  "pangolin": {
+    "static": "5.3.0"
+  },
+  "paprika": {
+    "static": "5.3.0"
+  },
+  "parastoo": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "parisienne": {
+    "static": "5.3.0"
+  },
+  "parkinsans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "passero-one": {
+    "static": "5.3.0"
+  },
+  "passion-one": {
+    "static": "5.3.0"
+  },
+  "passions-conflict": {
+    "static": "5.3.0"
+  },
+  "pathway-extreme": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "pathway-gothic-one": {
+    "static": "5.3.0"
+  },
+  "patrick-hand": {
+    "static": "5.3.0"
+  },
+  "patrick-hand-sc": {
+    "static": "5.3.0"
+  },
+  "pattaya": {
+    "static": "5.3.0"
+  },
+  "patua-one": {
+    "static": "5.3.0"
+  },
+  "pavanam": {
+    "static": "5.3.0"
+  },
+  "paytone-one": {
+    "static": "5.3.0"
+  },
+  "peace-sans": {
+    "static": "5.3.0"
+  },
+  "peddana": {
+    "static": "5.3.0"
+  },
+  "peralta": {
+    "static": "5.3.0"
+  },
+  "permanent-marker": {
+    "static": "5.3.0"
+  },
+  "petemoss": {
+    "static": "5.3.0"
+  },
+  "petit-formal-script": {
+    "static": "5.3.0"
+  },
+  "petrona": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "phetsarath": {
+    "static": "5.3.0"
+  },
+  "philosopher": {
+    "static": "5.3.0"
+  },
+  "phudu": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "piazzolla": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "piedra": {
+    "static": "5.3.0"
+  },
+  "pinyon-script": {
+    "static": "5.3.0"
+  },
+  "pirata-one": {
+    "static": "5.3.0"
+  },
+  "pitagon-sans": {
+    "static": "5.3.0"
+  },
+  "pitagon-sans-mono": {
+    "static": "5.3.0"
+  },
+  "pitagon-sans-text": {
+    "static": "5.3.0"
+  },
+  "pitagon-serif": {
+    "static": "5.3.0"
+  },
+  "pixelify-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "plaster": {
+    "static": "5.3.0"
+  },
+  "platypi": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "play": {
+    "static": "5.3.0"
+  },
+  "playball": {
+    "static": "5.3.0"
+  },
+  "playfair": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playfair-display": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playfair-display-sc": {
+    "static": "5.3.0"
+  },
+  "playpen-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playpen-sans-arabic": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playpen-sans-deva": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playpen-sans-hebrew": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playpen-sans-thai": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-ar": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-ar-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-at": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-at-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-au-nsw": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-au-nsw-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-au-qld": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-au-qld-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-au-sa": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-au-sa-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-au-tas": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-au-tas-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-au-vic": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-au-vic-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-be-vlg": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-be-vlg-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-be-wal": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-be-wal-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-br": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-br-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-ca": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-ca-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-cl": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-cl-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-co": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-co-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-cu": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-cu-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-cz": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-cz-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-de-grund": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-de-grund-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-de-la": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-de-la-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-de-sas": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-de-sas-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-de-va": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-de-va-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-dk-loopet": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-dk-loopet-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-dk-uloopet": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-dk-uloopet-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-es": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-es-deco": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-es-deco-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-es-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-fr-moderne": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-fr-moderne-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-fr-trad": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-fr-trad-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-gb-j": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-gb-j-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-gb-s": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-gb-s-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-hr": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-hr-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-hr-lijeva": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-hr-lijeva-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-hu": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-hu-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-id": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-id-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-ie": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-ie-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-in": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-in-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-is": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-is-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-it-moderna": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-it-moderna-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-it-trad": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-it-trad-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-mx": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-mx-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-ng-modern": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-ng-modern-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-nl": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-nl-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-no": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-no-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-nz": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-nz-basic": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-nz-basic-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-nz-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-pe": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-pe-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-pl": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-pl-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-pt": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-pt-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-ro": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-ro-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-sk": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-sk-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-tz": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-tz-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-us-modern": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-us-modern-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-us-trad": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-us-trad-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-vn": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-vn-guides": {
+    "static": "5.3.0"
+  },
+  "playwrite-za": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "playwrite-za-guides": {
+    "static": "5.3.0"
+  },
+  "pliant": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "plus-jakarta-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "pochaevsk": {
+    "static": "5.3.0"
+  },
+  "podkova": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "poetsen-one": {
+    "static": "5.3.0"
+  },
+  "poiret-one": {
+    "static": "5.3.0"
+  },
+  "poller-one": {
+    "static": "5.3.0"
+  },
+  "poltawski-nowy": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "poly": {
+    "static": "5.3.0"
+  },
+  "pompiere": {
+    "static": "5.3.0"
+  },
+  "ponnala": {
+    "static": "5.3.0"
+  },
+  "ponomar": {
+    "static": "5.3.0"
+  },
+  "pontano-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "poor-story": {
+    "static": "5.3.0"
+  },
+  "poppins": {
+    "static": "5.3.0"
+  },
+  "port-lligat-sans": {
+    "static": "5.3.0"
+  },
+  "port-lligat-slab": {
+    "static": "5.3.0"
+  },
+  "potta-one": {
+    "static": "5.3.0"
+  },
+  "pragati-narrow": {
+    "static": "5.3.0"
+  },
+  "praise": {
+    "static": "5.3.0"
+  },
+  "prata": {
+    "static": "5.3.0"
+  },
+  "preahvihear": {
+    "static": "5.3.0"
+  },
+  "press-start-2p": {
+    "static": "5.3.0"
+  },
+  "pretendard": {
+    "static": "5.3.0"
+  },
+  "pridi": {
+    "static": "5.3.0"
+  },
+  "princess-sofia": {
+    "static": "5.3.0"
+  },
+  "prociono": {
+    "static": "5.3.0"
+  },
+  "prompt": {
+    "static": "5.3.0"
+  },
+  "prosto-one": {
+    "static": "5.3.0"
+  },
+  "protest-guerrilla": {
+    "static": "5.3.0"
+  },
+  "protest-revolution": {
+    "static": "5.3.0"
+  },
+  "protest-riot": {
+    "static": "5.3.0"
+  },
+  "protest-strike": {
+    "static": "5.3.0"
+  },
+  "proza-libre": {
+    "static": "5.3.0"
+  },
+  "pt-mono": {
+    "static": "5.3.0"
+  },
+  "pt-sans": {
+    "static": "5.3.0"
+  },
+  "pt-sans-caption": {
+    "static": "5.3.0"
+  },
+  "pt-sans-narrow": {
+    "static": "5.3.0"
+  },
+  "pt-serif": {
+    "static": "5.3.0"
+  },
+  "pt-serif-caption": {
+    "static": "5.3.0"
+  },
+  "public-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "puppies-play": {
+    "static": "5.3.0"
+  },
+  "puritan": {
+    "static": "5.3.0"
+  },
+  "purple-purse": {
+    "static": "5.3.0"
+  },
+  "pushster": {
+    "static": "5.3.0"
+  },
+  "qahiri": {
+    "static": "5.3.1"
+  },
+  "quando": {
+    "static": "5.3.0"
+  },
+  "quantico": {
+    "static": "5.3.0"
+  },
+  "quattrocento": {
+    "static": "5.3.0"
+  },
+  "quattrocento-sans": {
+    "static": "5.3.0"
+  },
+  "questrial": {
+    "static": "5.3.0"
+  },
+  "quicksand": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "quintessential": {
+    "static": "5.3.0"
+  },
+  "qwigley": {
+    "static": "5.3.0"
+  },
+  "qwitcher-grypen": {
+    "static": "5.3.0"
+  },
+  "racing-sans-one": {
+    "static": "5.3.0"
+  },
+  "radio-canada": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "radio-canada-big": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "radley": {
+    "static": "5.3.0"
+  },
+  "rajdhani": {
+    "static": "5.3.0"
+  },
+  "rakkas": {
+    "static": "5.3.0"
+  },
+  "raleway": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "raleway-dots": {
+    "static": "5.3.0"
+  },
+  "ramabhadra": {
+    "static": "5.3.0"
+  },
+  "ramaraja": {
+    "static": "5.3.0"
+  },
+  "rambla": {
+    "static": "5.3.0"
+  },
+  "rammetto-one": {
+    "static": "5.3.0"
+  },
+  "rampart-one": {
+    "static": "5.3.1"
+  },
+  "ramsina": {
+    "static": "5.3.0"
+  },
+  "ranchers": {
+    "static": "5.3.0"
+  },
+  "rancho": {
+    "static": "5.3.0"
+  },
+  "ranga": {
+    "static": "5.3.0"
+  },
+  "rasa": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "rationale": {
+    "static": "5.3.0"
+  },
+  "ravi-prakash": {
+    "static": "5.3.0"
+  },
+  "readex-pro": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "recursive": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "red-hat-display": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "red-hat-mono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "red-hat-text": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "red-rose": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "redacted": {
+    "static": "5.3.0"
+  },
+  "redacted-script": {
+    "static": "5.3.0"
+  },
+  "redaction": {
+    "static": "5.3.0"
+  },
+  "redaction-10": {
+    "static": "5.3.0"
+  },
+  "redaction-100": {
+    "static": "5.3.0"
+  },
+  "redaction-20": {
+    "static": "5.3.0"
+  },
+  "redaction-35": {
+    "static": "5.3.0"
+  },
+  "redaction-50": {
+    "static": "5.3.0"
+  },
+  "redaction-70": {
+    "static": "5.3.0"
+  },
+  "reddit-mono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "reddit-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "reddit-sans-condensed": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "redressed": {
+    "static": "5.3.0"
+  },
+  "reem-kufi": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "reem-kufi-fun": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "reem-kufi-ink": {
+    "static": "5.3.0"
+  },
+  "reenie-beanie": {
+    "static": "5.3.0"
+  },
+  "reggae-one": {
+    "static": "5.3.1"
+  },
+  "rem": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "rethink-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "revalia": {
+    "static": "5.3.0"
+  },
+  "rhodium-libre": {
+    "static": "5.3.0"
+  },
+  "ribeye": {
+    "static": "5.3.0"
+  },
+  "ribeye-marrow": {
+    "static": "5.3.0"
+  },
+  "righteous": {
+    "static": "5.3.0"
+  },
+  "risque": {
+    "static": "5.3.0"
+  },
+  "road-rage": {
+    "static": "5.3.0"
+  },
+  "roboto": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "roboto-condensed": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "roboto-flex": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "roboto-mono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "roboto-serif": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "roboto-slab": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "rochester": {
+    "static": "5.3.0"
+  },
+  "rock-3d": {
+    "static": "5.3.0"
+  },
+  "rock-salt": {
+    "static": "5.3.0"
+  },
+  "rocknroll-one": {
+    "static": "5.3.1"
+  },
+  "rokkitt": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "romanesco": {
+    "static": "5.3.0"
+  },
+  "ropa-sans": {
+    "static": "5.3.0"
+  },
+  "rosario": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "rosarivo": {
+    "static": "5.3.0"
+  },
+  "rouge-script": {
+    "static": "5.3.0"
+  },
+  "rowdies": {
+    "static": "5.3.0"
+  },
+  "rozha-one": {
+    "static": "5.3.0"
+  },
+  "rubik": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "rubik-80s-fade": {
+    "static": "5.3.0"
+  },
+  "rubik-beastly": {
+    "static": "5.3.0"
+  },
+  "rubik-broken-fax": {
+    "static": "5.3.0"
+  },
+  "rubik-bubbles": {
+    "static": "5.3.0"
+  },
+  "rubik-burned": {
+    "static": "5.3.0"
+  },
+  "rubik-dirt": {
+    "static": "5.3.0"
+  },
+  "rubik-distressed": {
+    "static": "5.3.0"
+  },
+  "rubik-doodle-shadow": {
+    "static": "5.3.0"
+  },
+  "rubik-doodle-triangles": {
+    "static": "5.3.0"
+  },
+  "rubik-gemstones": {
+    "static": "5.3.0"
+  },
+  "rubik-glitch": {
+    "static": "5.3.0"
+  },
+  "rubik-glitch-pop": {
+    "static": "5.3.0"
+  },
+  "rubik-iso": {
+    "static": "5.3.0"
+  },
+  "rubik-lines": {
+    "static": "5.3.0"
+  },
+  "rubik-maps": {
+    "static": "5.3.0"
+  },
+  "rubik-marker-hatch": {
+    "static": "5.3.0"
+  },
+  "rubik-maze": {
+    "static": "5.3.0"
+  },
+  "rubik-microbe": {
+    "static": "5.3.0"
+  },
+  "rubik-mono-one": {
+    "static": "5.3.0"
+  },
+  "rubik-moonrocks": {
+    "static": "5.3.0"
+  },
+  "rubik-one": {
+    "static": "5.3.0"
+  },
+  "rubik-pixels": {
+    "static": "5.3.0"
+  },
+  "rubik-puddles": {
+    "static": "5.3.0"
+  },
+  "rubik-scribble": {
+    "static": "5.3.0"
+  },
+  "rubik-spray-paint": {
+    "static": "5.3.0"
+  },
+  "rubik-storm": {
+    "static": "5.3.0"
+  },
+  "rubik-vinyl": {
+    "static": "5.3.0"
+  },
+  "rubik-wet-paint": {
+    "static": "5.3.0"
+  },
+  "ruda": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "rufina": {
+    "static": "5.3.0"
+  },
+  "ruge-boogie": {
+    "static": "5.3.0"
+  },
+  "ruluko": {
+    "static": "5.3.0"
+  },
+  "rum-raisin": {
+    "static": "5.3.0"
+  },
+  "ruslan-display": {
+    "static": "5.3.0"
+  },
+  "russo-one": {
+    "static": "5.3.0"
+  },
+  "ruthie": {
+    "static": "5.3.0"
+  },
+  "ruwudu": {
+    "static": "5.3.0"
+  },
+  "rye": {
+    "static": "5.3.0"
+  },
+  "sacramento": {
+    "static": "5.3.0"
+  },
+  "sahitya": {
+    "static": "5.3.0"
+  },
+  "sail": {
+    "static": "5.3.0"
+  },
+  "saira": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "saira-condensed": {
+    "static": "5.3.0"
+  },
+  "saira-extra-condensed": {
+    "static": "5.3.0"
+  },
+  "saira-semi-condensed": {
+    "static": "5.3.0"
+  },
+  "saira-stencil": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "saira-stencil-one": {
+    "static": "5.3.0"
+  },
+  "salsa": {
+    "static": "5.3.0"
+  },
+  "sanchez": {
+    "static": "5.3.0"
+  },
+  "sancreek": {
+    "static": "5.3.0"
+  },
+  "sankofa-display": {
+    "static": "5.3.0"
+  },
+  "sansation": {
+    "static": "5.3.0"
+  },
+  "sansita": {
+    "static": "5.3.0"
+  },
+  "sansita-swashed": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "sarabun": {
+    "static": "5.3.0"
+  },
+  "sarala": {
+    "static": "5.3.0"
+  },
+  "sarina": {
+    "static": "5.3.0"
+  },
+  "sarpanch": {
+    "static": "5.3.0"
+  },
+  "sassy-frass": {
+    "static": "5.3.0"
+  },
+  "satisfy": {
+    "static": "5.3.0"
+  },
+  "savate": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "sawarabi-gothic": {
+    "static": "5.3.1"
+  },
+  "sawarabi-mincho": {
+    "static": "5.3.0"
+  },
+  "scada": {
+    "static": "5.3.0"
+  },
+  "scheherazade-new": {
+    "static": "5.3.0"
+  },
+  "schibsted-grotesk": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "schoolbell": {
+    "static": "5.3.0"
+  },
+  "science-gothic": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "scope-one": {
+    "static": "5.3.0"
+  },
+  "scoutie-sans": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "seaweed-script": {
+    "static": "5.3.0"
+  },
+  "secular-one": {
+    "static": "5.3.0"
+  },
+  "sedan": {
+    "static": "5.3.0"
+  },
+  "sedan-sc": {
+    "static": "5.3.0"
+  },
+  "sedgwick-ave": {
+    "static": "5.3.0"
+  },
+  "sedgwick-ave-display": {
+    "static": "5.3.0"
+  },
+  "sekuya": {
+    "static": "5.3.0"
+  },
+  "sen": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "send-flowers": {
+    "static": "5.3.0"
+  },
+  "sevillana": {
+    "static": "5.3.0"
+  },
+  "seymour-one": {
+    "static": "5.3.0"
+  },
+  "shadows-into-light": {
+    "static": "5.3.0"
+  },
+  "shadows-into-light-two": {
+    "static": "5.3.0"
+  },
+  "shafarik": {
+    "static": "5.3.0"
+  },
+  "shalimar": {
+    "static": "5.3.0"
+  },
+  "shantell-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "shanti": {
+    "static": "5.3.0"
+  },
+  "share": {
+    "static": "5.3.0"
+  },
+  "share-tech": {
+    "static": "5.3.0"
+  },
+  "share-tech-mono": {
+    "static": "5.3.0"
+  },
+  "shippori-antique": {
+    "static": "5.3.0"
+  },
+  "shippori-antique-b1": {
+    "static": "5.3.0"
+  },
+  "shippori-mincho": {
+    "static": "5.3.0"
+  },
+  "shippori-mincho-b1": {
+    "static": "5.3.0"
+  },
+  "shizuru": {
+    "static": "5.3.0"
+  },
+  "shojumaru": {
+    "static": "5.3.0"
+  },
+  "short-stack": {
+    "static": "5.3.0"
+  },
+  "shrikhand": {
+    "static": "5.3.0"
+  },
+  "siemreap": {
+    "static": "5.3.0"
+  },
+  "sigmar": {
+    "static": "5.3.0"
+  },
+  "sigmar-one": {
+    "static": "5.3.0"
+  },
+  "signika": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "signika-negative": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "silkscreen": {
+    "static": "5.3.0"
+  },
+  "simonetta": {
+    "static": "5.3.0"
+  },
+  "single-day": {
+    "static": "5.3.1"
+  },
+  "sintony": {
+    "static": "5.3.0"
+  },
+  "sirin-stencil": {
+    "static": "5.3.0"
+  },
+  "sirivennela": {
+    "static": "5.3.0"
+  },
+  "six-caps": {
+    "static": "5.3.0"
+  },
+  "sixtyfour": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "sixtyfour-convergence": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "skranji": {
+    "static": "5.3.0"
+  },
+  "slabo-13px": {
+    "static": "5.3.0"
+  },
+  "slabo-27px": {
+    "static": "5.3.0"
+  },
+  "slackey": {
+    "static": "5.3.0"
+  },
+  "slackside-one": {
+    "static": "5.3.0"
+  },
+  "smokum": {
+    "static": "5.3.0"
+  },
+  "smooch": {
+    "static": "5.3.0"
+  },
+  "smooch-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "smythe": {
+    "static": "5.3.0"
+  },
+  "sn-pro": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "sniglet": {
+    "static": "5.3.0"
+  },
+  "snippet": {
+    "static": "5.3.0"
+  },
+  "snowburst-one": {
+    "static": "5.3.0"
+  },
+  "sofadi-one": {
+    "static": "5.3.0"
+  },
+  "sofia": {
+    "static": "5.3.0"
+  },
+  "sofia-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "sofia-sans-condensed": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "sofia-sans-extra-condensed": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "sofia-sans-semi-condensed": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "solitreo": {
+    "static": "5.3.0"
+  },
+  "solway": {
+    "static": "5.3.0"
+  },
+  "sometype-mono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "song-myung": {
+    "static": "5.3.1"
+  },
+  "sono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "sonsie-one": {
+    "static": "5.3.0"
+  },
+  "sora": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "sorts-mill-goudy": {
+    "static": "5.3.0"
+  },
+  "sour-gummy": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "source-code-pro": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "source-sans-3": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "source-sans-pro": {
+    "static": "5.3.0"
+  },
+  "source-serif-4": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "source-serif-pro": {
+    "static": "5.3.0"
+  },
+  "space-grotesk": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "space-mono": {
+    "static": "5.3.0"
+  },
+  "special-elite": {
+    "static": "5.3.0"
+  },
+  "special-gothic": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "special-gothic-condensed-one": {
+    "static": "5.3.0"
+  },
+  "special-gothic-expanded-one": {
+    "static": "5.3.0"
+  },
+  "spectral": {
+    "static": "5.3.0"
+  },
+  "spectral-sc": {
+    "static": "5.3.0"
+  },
+  "spicy-rice": {
+    "static": "5.3.0"
+  },
+  "spinnaker": {
+    "static": "5.3.0"
+  },
+  "spirax": {
+    "static": "5.3.0"
+  },
+  "splash": {
+    "static": "5.3.0"
+  },
+  "spline-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "spline-sans-mono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "squada-one": {
+    "static": "5.3.0"
+  },
+  "square-peg": {
+    "static": "5.3.0"
+  },
+  "sree-krushnadevaraya": {
+    "static": "5.3.0"
+  },
+  "sriracha": {
+    "static": "5.3.0"
+  },
+  "srisakdi": {
+    "static": "5.3.0"
+  },
+  "staatliches": {
+    "static": "5.3.0"
+  },
+  "stack-sans-headline": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "stack-sans-notch": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "stack-sans-text": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "stalemate": {
+    "static": "5.3.0"
+  },
+  "stalinist-one": {
+    "static": "5.3.0"
+  },
+  "stardos-stencil": {
+    "static": "5.3.0"
+  },
+  "stick": {
+    "static": "5.3.1"
+  },
+  "stick-no-bills": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "stint-ultra-condensed": {
+    "static": "5.3.0"
+  },
+  "stint-ultra-expanded": {
+    "static": "5.3.0"
+  },
+  "stix-two-math": {
+    "static": "5.3.0"
+  },
+  "stix-two-text": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "stoke": {
+    "static": "5.3.0"
+  },
+  "story-script": {
+    "static": "5.3.0"
+  },
+  "strait": {
+    "static": "5.3.0"
+  },
+  "strichpunkt-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "style-script": {
+    "static": "5.3.0"
+  },
+  "stylish": {
+    "static": "5.3.1"
+  },
+  "sue-ellen-francisco": {
+    "static": "5.3.0"
+  },
+  "suez-one": {
+    "static": "5.3.0"
+  },
+  "sulphur-point": {
+    "static": "5.3.0"
+  },
+  "sumana": {
+    "static": "5.3.0"
+  },
+  "sunflower": {
+    "static": "5.3.1"
+  },
+  "sunshiney": {
+    "static": "5.3.0"
+  },
+  "supermercado-one": {
+    "static": "5.3.0"
+  },
+  "sura": {
+    "static": "5.3.0"
+  },
+  "suranna": {
+    "static": "5.3.0"
+  },
+  "suravaram": {
+    "static": "5.3.0"
+  },
+  "suse": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "suse-mono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "suwannaphum": {
+    "static": "5.3.0"
+  },
+  "swanky-and-moo-moo": {
+    "static": "5.3.0"
+  },
+  "syncopate": {
+    "static": "5.3.0"
+  },
+  "syne": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "syne-italic": {
+    "static": "5.3.0"
+  },
+  "syne-mono": {
+    "static": "5.3.0"
+  },
+  "syne-tactile": {
+    "static": "5.3.0"
+  },
+  "tac-one": {
+    "static": "5.3.0"
+  },
+  "tagesschrift": {
+    "static": "5.3.0"
+  },
+  "tai-heritage-pro": {
+    "static": "5.3.0"
+  },
+  "tajawal": {
+    "static": "5.3.0"
+  },
+  "tangerine": {
+    "static": "5.3.0"
+  },
+  "tapestry": {
+    "static": "5.3.0"
+  },
+  "taprom": {
+    "static": "5.3.0"
+  },
+  "tasa-explorer": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "tasa-orbiter": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "tauri": {
+    "static": "5.3.0"
+  },
+  "taviraj": {
+    "static": "5.3.0"
+  },
+  "teachers": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "teko": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "tektur": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "telex": {
+    "static": "5.3.0"
+  },
+  "tenali-ramakrishna": {
+    "static": "5.3.0"
+  },
+  "tenor-sans": {
+    "static": "5.3.0"
+  },
+  "text-me-one": {
+    "static": "5.3.0"
+  },
+  "texturina": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "thasadith": {
+    "static": "5.3.0"
+  },
+  "the-girl-next-door": {
+    "static": "5.3.0"
+  },
+  "the-nautigal": {
+    "static": "5.3.0"
+  },
+  "tienne": {
+    "static": "5.3.0"
+  },
+  "tiktok-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "tillana": {
+    "static": "5.3.0"
+  },
+  "tilt-neon": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "tilt-prism": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "tilt-warp": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "timmana": {
+    "static": "5.3.0"
+  },
+  "tinos": {
+    "static": "5.3.0"
+  },
+  "tiny5": {
+    "static": "5.3.0"
+  },
+  "tiro-bangla": {
+    "static": "5.3.0"
+  },
+  "tiro-devanagari-hindi": {
+    "static": "5.3.0"
+  },
+  "tiro-devanagari-marathi": {
+    "static": "5.3.0"
+  },
+  "tiro-devanagari-sanskrit": {
+    "static": "5.3.0"
+  },
+  "tiro-gurmukhi": {
+    "static": "5.3.0"
+  },
+  "tiro-kannada": {
+    "static": "5.3.0"
+  },
+  "tiro-tamil": {
+    "static": "5.3.0"
+  },
+  "tiro-telugu": {
+    "static": "5.3.0"
+  },
+  "tirra": {
+    "static": "5.3.0"
+  },
+  "titan-one": {
+    "static": "5.3.0"
+  },
+  "titillium-web": {
+    "static": "5.3.0"
+  },
+  "tomorrow": {
+    "static": "5.3.0"
+  },
+  "tourney": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "trade-winds": {
+    "static": "5.3.0"
+  },
+  "train-one": {
+    "static": "5.3.1"
+  },
+  "triodion": {
+    "static": "5.3.0"
+  },
+  "trirong": {
+    "static": "5.3.0"
+  },
+  "trispace": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "trocchi": {
+    "static": "5.3.0"
+  },
+  "trochut": {
+    "static": "5.3.0"
+  },
+  "truculenta": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "trykker": {
+    "static": "5.3.0"
+  },
+  "tsukimi-rounded": {
+    "static": "5.3.0"
+  },
+  "tuffy": {
+    "static": "5.3.0"
+  },
+  "tulpen-one": {
+    "static": "5.3.0"
+  },
+  "turret-road": {
+    "static": "5.3.0"
+  },
+  "twinkle-star": {
+    "static": "5.3.0"
+  },
+  "ubuntu": {
+    "static": "5.3.0"
+  },
+  "ubuntu-condensed": {
+    "static": "5.3.0"
+  },
+  "ubuntu-mono": {
+    "static": "5.3.0"
+  },
+  "ubuntu-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "ubuntu-sans-mono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "uchen": {
+    "static": "5.3.0"
+  },
+  "ultra": {
+    "static": "5.3.0"
+  },
+  "unbounded": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "uncial-antiqua": {
+    "static": "5.3.0"
+  },
+  "uncut-sans": {
+    "static": "5.3.0"
+  },
+  "underdog": {
+    "static": "5.3.0"
+  },
+  "unica-one": {
+    "static": "5.3.0"
+  },
+  "unifont": {
+    "static": "5.3.0"
+  },
+  "unifontex": {
+    "static": "5.3.0"
+  },
+  "unifrakturcook": {
+    "static": "5.3.0"
+  },
+  "unifrakturmaguntia": {
+    "static": "5.3.0"
+  },
+  "unkempt": {
+    "static": "5.3.0"
+  },
+  "unlock": {
+    "static": "5.3.0"
+  },
+  "unna": {
+    "static": "5.3.0"
+  },
+  "uoqmunthenkhung": {
+    "static": "5.3.1"
+  },
+  "updock": {
+    "static": "5.3.0"
+  },
+  "urbanist": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "valley-sans": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "vampiro-one": {
+    "static": "5.3.0"
+  },
+  "varela": {
+    "static": "5.3.0"
+  },
+  "varela-round": {
+    "static": "5.3.0"
+  },
+  "varta": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "vast-shadow": {
+    "static": "5.3.0"
+  },
+  "vazirmatn": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "vend-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "vesper-libre": {
+    "static": "5.3.0"
+  },
+  "viaoda-libre": {
+    "static": "5.3.0"
+  },
+  "vibes": {
+    "static": "5.3.0"
+  },
+  "vibur": {
+    "static": "5.3.0"
+  },
+  "victor-mono": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "vidaloka": {
+    "static": "5.3.0"
+  },
+  "viga": {
+    "static": "5.3.0"
+  },
+  "vina-sans": {
+    "static": "5.3.0"
+  },
+  "voces": {
+    "static": "5.3.0"
+  },
+  "volkhov": {
+    "static": "5.3.0"
+  },
+  "vollkorn": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "vollkorn-sc": {
+    "static": "5.3.0"
+  },
+  "voltaire": {
+    "static": "5.3.0"
+  },
+  "vt323": {
+    "static": "5.3.0"
+  },
+  "vujahday-script": {
+    "static": "5.3.0"
+  },
+  "waiting-for-the-sunrise": {
+    "static": "5.3.0"
+  },
+  "wallpoet": {
+    "static": "5.3.0"
+  },
+  "walter-turncoat": {
+    "static": "5.3.0"
+  },
+  "warnes": {
+    "static": "5.3.0"
+  },
+  "water-brush": {
+    "static": "5.3.0"
+  },
+  "waterfall": {
+    "static": "5.3.0"
+  },
+  "wavefont": {
+    "static": "5.3.1",
+    "variable": "5.3.1"
+  },
+  "wdxl-lubrifont-jp-n": {
+    "static": "5.3.1"
+  },
+  "wdxl-lubrifont-sc": {
+    "static": "5.3.1"
+  },
+  "wdxl-lubrifont-tc": {
+    "static": "5.3.1"
+  },
+  "wellfleet": {
+    "static": "5.3.0"
+  },
+  "wendy-one": {
+    "static": "5.3.0"
+  },
+  "whisper": {
+    "static": "5.3.0"
+  },
+  "win95fa": {
+    "static": "5.3.0"
+  },
+  "windsong": {
+    "static": "5.3.0"
+  },
+  "winky-rough": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "winky-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "wire-one": {
+    "static": "5.3.0"
+  },
+  "wittgenstein": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "wix-madefor-display": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "wix-madefor-text": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "work-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "workbench": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "xanh-mono": {
+    "static": "5.3.0"
+  },
+  "yakuhanjp": {
+    "static": "5.3.0"
+  },
+  "yakuhanjps": {
+    "static": "5.3.0"
+  },
+  "yakuhanmp": {
+    "static": "5.3.0"
+  },
+  "yakuhanmps": {
+    "static": "5.3.0"
+  },
+  "yakuhanrp": {
+    "static": "5.3.0"
+  },
+  "yakuhanrps": {
+    "static": "5.3.0"
+  },
+  "yaldevi": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "yanone-kaffeesatz": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "yantramanav": {
+    "static": "5.3.0"
+  },
+  "yarndings-12": {
+    "static": "5.3.0"
+  },
+  "yarndings-12-charted": {
+    "static": "5.3.0"
+  },
+  "yarndings-20": {
+    "static": "5.3.0"
+  },
+  "yarndings-20-charted": {
+    "static": "5.3.0"
+  },
+  "yatra-one": {
+    "static": "5.3.0"
+  },
+  "yellowtail": {
+    "static": "5.3.0"
+  },
+  "yeon-sung": {
+    "static": "5.3.0"
+  },
+  "yeseva-one": {
+    "static": "5.3.0"
+  },
+  "yesteryear": {
+    "static": "5.3.0"
+  },
+  "yomogi": {
+    "static": "5.3.0"
+  },
+  "young-serif": {
+    "static": "5.3.0"
+  },
+  "yrsa": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "ysabeau": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "ysabeau-infant": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "ysabeau-office": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "ysabeau-sc": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "yuji-boku": {
+    "static": "5.3.1"
+  },
+  "yuji-hentaigana-akari": {
+    "static": "5.3.1"
+  },
+  "yuji-hentaigana-akebono": {
+    "static": "5.3.1"
+  },
+  "yuji-mai": {
+    "static": "5.3.1"
+  },
+  "yuji-syuku": {
+    "static": "5.3.1"
+  },
+  "yusei-magic": {
+    "static": "5.3.0"
+  },
+  "yuyu": {
+    "static": "5.3.1"
+  },
+  "yuyu-short": {
+    "static": "5.3.1"
+  },
+  "zain": {
+    "static": "5.3.0"
+  },
+  "zalando-sans": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "zalando-sans-expanded": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "zalando-sans-semiexpanded": {
+    "static": "5.3.0",
+    "variable": "5.3.0"
+  },
+  "zcool-kuaile": {
+    "static": "5.3.0"
+  },
+  "zcool-qingke-huangyou": {
+    "static": "5.3.0"
+  },
+  "zcool-xiaowei": {
+    "static": "5.3.0"
+  },
+  "zen-antique": {
+    "static": "5.3.1"
+  },
+  "zen-antique-soft": {
+    "static": "5.3.1"
+  },
+  "zen-dots": {
+    "static": "5.3.0"
+  },
+  "zen-kaku-gothic-antique": {
+    "static": "5.3.1"
+  },
+  "zen-kaku-gothic-new": {
+    "static": "5.3.1"
+  },
+  "zen-kurenaido": {
+    "static": "5.3.1"
+  },
+  "zen-loop": {
+    "static": "5.3.0"
+  },
+  "zen-maru-gothic": {
+    "static": "5.3.1"
+  },
+  "zen-old-mincho": {
+    "static": "5.3.1"
+  },
+  "zen-tokyo-zoo": {
+    "static": "5.3.0"
+  },
+  "zeyada": {
+    "static": "5.3.0"
+  },
+  "zhi-mang-xing": {
+    "static": "5.3.0"
+  },
+  "zilla-slab": {
+    "static": "5.3.0"
+  },
+  "zilla-slab-highlight": {
+    "static": "5.3.0"
+  }
+}

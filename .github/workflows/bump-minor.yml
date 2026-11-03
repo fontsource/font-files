@@ -2,6 +2,10 @@ name: Build and Release [Bump Minor] [Manual]
 
 on: [workflow_dispatch]
 
+concurrency:
+  group: font-files-publication
+  cancel-in-progress: false
+
 permissions:
   id-token: write
   contents: write
@@ -50,10 +54,15 @@ jobs:
           git config --global user.name "fontsource-bot"
 
       - name: Publish to NPM
+        id: publish
         run: npx @fontsource-utils/publish publish minor --force --yes --provenance
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      - name: Reconcile published packages
+        if: ${{ !cancelled() && (steps.publish.outcome == 'success' || steps.publish.outcome == 'failure') }}
+        uses: ./.github/actions/reconcile-publication
 
       - name: Checkout archived registry
         uses: ./.github/actions/registry-checkout
