@@ -1,0 +1,19 @@
+{
+  "id": "sixrow",
+  "family": "Sixrow",
+  "subsets": ["latin"],
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2026-11-06",
+  "version": "v1.000",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/excellent-so/sixrow/blob/v1.000/OFL.txt",
+    "attribution": "Matt Waite, Excellent (https://www.excellent.so/type)"
+  },
+  "source": "https://github.com/excellent-so/sixrow",
+  "type": "other"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "@fontsource/sixrow",
+  "version": "5.3.0",
+  "description": "Self-host the Sixrow font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "types": "index.d.css.ts",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "sixrow",
+    "Sixrow",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "exports": {
+    ".": {
+      "types": "./index.d.css.ts",
+      "sass": "./index.css",
+      "default": "./index.css"
+    },
+    "./LICENSE": "./LICENSE",
+    "./*": {"sass": "./*.css", "default": "./*.css"},
+    "./*.css": {"sass": "./*.css", "default": "./*.css"},
+    "./files/*": {"sass": "./files/*", "default": "./files/*"},
+    "./files/*.woff": {"sass": "./files/*.woff", "default": "./files/*.woff"},
+    "./files/*.woff2": {
+      "sass": "./files/*.woff2",
+      "default": "./files/*.woff2"
+    },
+    "./package.json": "./package.json",
+    "./metadata.json": "./metadata.json",
+    "./unicode.json": "./unicode.json",
+    "./scss": {"sass": "./scss/metadata.scss"}
+  },
+  "author": "Matt Waite, Excellent (https://www.excellent.so/type)",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/sixrow",
+  "funding": "https://github.com/sponsors/ayuhito",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fontsource/font-files.git",
+    "directory": "fonts/other/sixrow"
+  }
+}
