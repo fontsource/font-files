@@ -1,0 +1,48 @@
+{
+	"id": "monostain",
+	"family": "Monostain",
+	"classifications": [
+		"monospace"
+	],
+	"primaryScript": "Latn",
+	"designer": "Planet Renox",
+	"license": {
+		"id": "CC0-1.0",
+		"url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt",
+		"attribution": "Planet Renox"
+	},
+	"project": {
+		"repository": "https://github.com/PlanetRenox/MonostainFont",
+		"revision": "8d346adc29c2aeb19d07cb1620a4f3c777759489"
+	},
+	"sourceFiles": [
+		{
+			"path": "files/Monostain-Bold.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "normal"
+			}
+		},
+		{
+			"path": "files/Monostain-BoldItalic.ttf",
+			"variant": {
+				"weight": 700,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Monostain-Italic.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "italic"
+			}
+		},
+		{
+			"path": "files/Monostain-Regular.ttf",
+			"variant": {
+				"weight": 400,
+				"style": "normal"
+			}
+		}
+	]
+}
