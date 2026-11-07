@@ -1,0 +1,19 @@
+{
+  "id": "monostain",
+  "family": "Monostain",
+  "subsets": ["latin"],
+  "weights": [400, 700],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2026-11-07",
+  "version": "v1.000",
+  "category": "monospace",
+  "license": {
+    "type": "CC0-1.0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Planet Renox"
+  },
+  "source": "https://github.com/PlanetRenox/MonostainFont",
+  "type": "other"
+}
