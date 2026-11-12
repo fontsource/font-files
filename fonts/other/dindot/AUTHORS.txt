@@ -1,0 +1,8 @@
+DINish upstream: https://github.com/playbeing/dinish
+Copyright 2021-2024 The DINish Project Authors.
+DINish derives from Altinn-DIN and D-DIN. Original D-DIN design: Charles Nix / Monotype, commissioned by Datto.
+
+DINDOT modifications: Copyright 2026 GetDot.
+Rounded outlines, original arrow and symbol drawings, extended Unicode repertoire, renamed family, web/desktop exports, build tools, data alternates, fixed-pitch and small-size optical companions, Greek and scientific drawings, TrueType hinting configuration, terminal symbols, data presets, and specimen.
+
+Font software license: SIL Open Font License, Version 1.1 (OFL.txt).
