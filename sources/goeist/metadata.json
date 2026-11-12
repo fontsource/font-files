@@ -8,11 +8,11 @@
 	"designer": "Aniket-508",
 	"license": {
 		"id": "OFL-1.1",
-		"url": "https://raw.githubusercontent.com/shadcn-labs/goeist/781dcba908725d11314e77008683dd55c73e10f6/OFL.txt",
+		"url": "https://raw.githubusercontent.com/shadcn-labs/goeist-font/781dcba908725d11314e77008683dd55c73e10f6/OFL.txt",
 		"attribution": "Copyright 2026 Aniket-508 (Goeist and Goeist Mono modifications and rounded outlines); Copyright 2024, 2026 The Geist Project Authors (https://github.com/vercel/geist-font)"
 	},
 	"project": {
-		"repository": "https://github.com/shadcn-labs/goeist",
+		"repository": "https://github.com/shadcn-labs/goeist-font",
 		"revision": "781dcba908725d11314e77008683dd55c73e10f6"
 	},
 	"sourceFiles": [
