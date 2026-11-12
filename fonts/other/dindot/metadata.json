@@ -1,0 +1,19 @@
+{
+  "id": "dindot",
+  "family": "DINDOT",
+  "subsets": ["latin"],
+  "weights": [400, 500, 600, 700],
+  "styles": ["normal", "italic"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2026-11-12",
+  "version": "0.22.0",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://github.com/Snowboard-Software/dindot/blob/main/OFL.txt",
+    "attribution": "GetDot; The DINish Project Authors; original D-DIN by Charles Nix / Monotype for Datto"
+  },
+  "source": "https://github.com/Snowboard-Software/dindot",
+  "type": "other"
+}
