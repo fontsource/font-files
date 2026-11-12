@@ -1,4 +1,4 @@
-Copyright 2026 Aniket-508 (Goeist and Goeist Mono modifications and rounded outlines)
+Copyright 2026 Aniket Pawar (Goeist and Goeist Mono modifications and rounded outlines)
 
 Upstream Geist Sans and Geist Mono copyright notices:
 Copyright (c) 2023 Vercel, in collaboration with basement.studio

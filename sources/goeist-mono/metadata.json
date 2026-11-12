@@ -5,15 +5,15 @@
 		"monospace"
 	],
 	"primaryScript": "Latn",
-	"designer": "Aniket-508",
+	"designer": "Aniket Pawar",
 	"license": {
 		"id": "OFL-1.1",
-		"url": "https://raw.githubusercontent.com/shadcn-labs/goeist-font/781dcba908725d11314e77008683dd55c73e10f6/OFL.txt",
-		"attribution": "Copyright 2026 Aniket-508 (Goeist and Goeist Mono modifications and rounded outlines); Copyright 2024, 2026 The Geist Project Authors (https://github.com/vercel/geist-font)"
+		"url": "https://raw.githubusercontent.com/shadcn-labs/goeist-font/818d1546fef6c87f3cb75a48ccfe2004132c3241/OFL.txt",
+		"attribution": "Copyright 2026 Aniket Pawar (Goeist and Goeist Mono modifications and rounded outlines); Copyright (c) 2023 Vercel, in collaboration with basement.studio; Copyright 2024, 2026 The Geist Project Authors (https://github.com/vercel/geist-font)"
 	},
 	"project": {
 		"repository": "https://github.com/shadcn-labs/goeist-font",
-		"revision": "781dcba908725d11314e77008683dd55c73e10f6"
+		"revision": "818d1546fef6c87f3cb75a48ccfe2004132c3241"
 	},
 	"sourceFiles": [
 		{
