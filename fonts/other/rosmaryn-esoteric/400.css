@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Rosmaryn Esoteric';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/rosmaryn-esoteric-latin-400-normal.woff2) format(woff2), url(./files/rosmaryn-esoteric-latin-400-normal.woff) format(woff);
+}
